@@ -1,0 +1,1 @@
+FM 21-76 is the US Army Survival Manual, reprinted as permitted by the U.S. Department of the Army, and is page 1 of 233.
