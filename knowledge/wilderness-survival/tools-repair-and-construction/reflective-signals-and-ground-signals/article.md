@@ -1,0 +1,1 @@
+Reflective signals are mandatory during hunting season. A 'X' with legs at least 15 feet long and a body at least a foot wide is the most common ground signal. A mirror can be used as a signal but requires practice to be effective. The cover of this booklet can also serve as a signal, and it is recommended to use it in conjunction with other signals for better visibility.

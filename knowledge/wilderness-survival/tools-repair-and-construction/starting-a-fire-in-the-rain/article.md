@@ -1,0 +1,3 @@
+Starting a Fire in the Rain
+
+It may seem impossible to start a fire during a downpour, but it is possible. To do so, find an area with some shelter from the rain and build your shelter first. Then, build your fire just at the edge of the entrance. Carry wax-soaked cardboard squares or woodstove fire-starters to help start the fire. Practice with these tools to ensure you are comfortable with the process. Always use proper safety measures, such as keeping a fire extinguisher nearby and avoiding flammable materials.
