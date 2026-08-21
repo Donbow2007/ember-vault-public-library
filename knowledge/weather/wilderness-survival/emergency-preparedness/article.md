@@ -1,0 +1,1 @@
+Emergency Preparedness guidelines include building a shelter and fire on high ground during darkness, with specific instructions for fire placement and safety. Signal methods include three signal fires laid 30 m apart and using Morse Code, with a signal mirror as an effective alternative. Flashlight use should be clarified during daylight.

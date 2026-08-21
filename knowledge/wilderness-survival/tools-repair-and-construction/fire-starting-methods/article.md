@@ -1,0 +1,1 @@
+The four most important factors when starting a fire are spark, tinder, fuel, and oxygen. The most common ways to create a spark include: 1. Strike-anywhere matches, 2. Cigarette lighters, 3. Flint and steel, 4. Electric sparks. These methods are reliable and widely used in practical fire-starting scenarios.

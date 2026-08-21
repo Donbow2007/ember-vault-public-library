@@ -1,0 +1,5 @@
+First Aid and Health
+
+Blisters are the painful, and common, result of ill-fitting footwear. At the first sign of discomfort, remove boots and socks and place a piece of adhesive tape over the affected area. If it is absolutely necessary, open a blister by first washing the area thoroughly then inserting a sterilized needle into the side of the blister. Apply disinfectant and a bandage.
+
+Headaches are often experienced in the mountains due to inadequate eye protection, tension in the neck, constipation or 'water intoxication', a swelling of the brain tissue which happens when the hiker has sweated excessively over a period of days and consumed large quantities of water without taking salt tablets. Aspirin may be used to alleviate the pain but one should find the source of headache to prevent further discomfort.

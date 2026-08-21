@@ -1,0 +1,1 @@
+The article does not discuss the effectiveness of setting snares, traps, nets, and set lines in aiding survival. It focuses on the use of animal tracks to locate water-holes and feeding grounds.

@@ -1,0 +1,1 @@
+The pole star is located at the tip of the Big Dipper's handle, not off the top of the constellation. Navigation by dead reckoning involves plotting and recording a series of courses measured by distance and direction from a starting point. Difficulties in navigation may occur due to factors such as poor landmarks, lack of visibility, or environmental conditions.
