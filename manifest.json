@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-21T17:51:11Z",
+  "categories": [
+    {
+      "id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
+      "slug": "emergency-preparedness",
+      "name": "Emergency Preparedness",
+      "packages": []
+    },
+    {
+      "id": "4d7ef7fb-c4fe-4fc9-9fb0-00bd80eb7906",
+      "slug": "first-aid-and-medical",
+      "name": "First Aid and Medical",
+      "packages": []
+    },
+    {
+      "id": "55c4865f-1ec8-4af0-91bd-28f81619aa03",
+      "slug": "herbal-medicine-plants-and-medicinal-plants",
+      "name": "Herbal Medicine, Plants, and Medicinal Plants",
+      "packages": []
+    },
+    {
+      "id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
+      "slug": "water-and-sanitation",
+      "name": "Water and Sanitation",
+      "packages": []
+    },
+    {
+      "id": "06571c52-76f3-4ce7-b9f2-188766181fcc",
+      "slug": "food-and-food-preservation",
+      "name": "Food and Food Preservation",
+      "packages": []
+    },
+    {
+      "id": "30a15ae9-2209-4fae-aa39-ae2eec68e13d",
+      "slug": "weather",
+      "name": "Weather",
+      "packages": []
+    },
+    {
+      "id": "84f1363e-6423-491c-9118-f4fd37548341",
+      "slug": "livestock-and-animal-care",
+      "name": "Livestock and Animal Care",
+      "packages": []
+    },
+    {
+      "id": "865beb6a-b7b3-48b9-a243-53671e490533",
+      "slug": "navigation",
+      "name": "Navigation",
+      "packages": []
+    },
+    {
+      "id": "ee41b0ef-d99b-437e-b4b1-69b292cc2180",
+      "slug": "communication",
+      "name": "Communication",
+      "packages": []
+    },
+    {
+      "id": "b0ef3220-3835-4e58-bbc1-1c5b59e78124",
+      "slug": "gardening-and-agriculture",
+      "name": "Gardening and Agriculture",
+      "packages": []
+    },
+    {
+      "id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
+      "slug": "wilderness-survival",
+      "name": "Wilderness Survival",
+      "packages": [
+        {
+          "id": "879642fd-f381-40a7-8acc-c7f55e8e5f21",
+          "name": "First Aid And Health",
+          "slug": "first-aid-and-health",
+          "description": null,
+          "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
+          "category": "wilderness-survival",
+          "version": 1,
+          "content_hash": "34d845c8865027da4ecbc2b57039f93f1852072347ef49a009a9d9c6be1428c0",
+          "updated_at": "2026-08-21T17:51:11Z",
+          "download_url": "packs/wilderness-survival/first-aid-and-health.zip",
+          "download_size": 958,
+          "dependencies": []
+        }
+      ]
+    },
+    {
+      "id": "154eac3e-f7dc-489f-9d73-2722d9b7ee56",
+      "slug": "tools-repair-and-construction",
+      "name": "Tools, Repair, and Construction",
+      "packages": []
+    }
+  ]
+}
