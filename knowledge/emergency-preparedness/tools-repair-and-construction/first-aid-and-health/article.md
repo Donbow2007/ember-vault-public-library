@@ -1,5 +1,3 @@
 First Aid and Health
 
-Blisters are the painful, and common, result of ill-fitting footwear. At the first sign of discomfort, remove boots and socks and place a piece of adhesive tape over the affected area. If it is absolutely necessary, open a blister by first washing the area thoroughly then inserting a sterilized needle into the side of the blister. Apply disinfectant and a bandage.
-
-Headaches are often experienced in the mountains due to inadequate eye protection, tension in the neck, constipation or 'water intoxication', a swelling of the brain tissue which happens when the hiker has sweated excessively over a period of days and consumed large quantities of water without taking salt tablets. Aspirin may be used to alleviate the pain but one should find the source of headache to prevent further discomfort.
+Blisters should be treated with a sterile bandage and antiseptic, not with adhesive tape or needle insertion. Tick removal should be done carefully with tweezers, parallel to the skin, and without twisting. Headaches should be managed with over-the-counter medications, and tick bites should be monitored for signs of infection. First aid kits should include dressings and antiseptics. Cuts and wounds should be treated with direct pressure and sterile dressings.

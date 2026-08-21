@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T19:58:37Z",
+  "generated_at": "2026-08-21T21:29:38Z",
   "categories": [
     {
       "id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
@@ -14,11 +14,11 @@
           "description": null,
           "category_id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
           "category": "emergency-preparedness",
-          "version": 1,
-          "content_hash": "44b69eb6b171f42bca5db659bb03f9eaf5011ae2a480109e8100d04db66dedc8",
-          "updated_at": "2026-08-21T19:58:37Z",
+          "version": 2,
+          "content_hash": "90a0114482cb0204b283bbee47178cc22add31c243152e4c5f816a5a8187b336",
+          "updated_at": "2026-08-21T21:29:38Z",
           "download_url": "packs/emergency-preparedness/tools-repair-and-construction.zip",
-          "download_size": 41566,
+          "download_size": 44173,
           "dependencies": []
         }
       ]
@@ -48,10 +48,24 @@
           "category_id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
           "category": "water-and-sanitation",
           "version": 1,
-          "content_hash": "824ce8f956d3f447169a95d66e6b2d3e6cd3aa3c4fc5ca9053cb1f523442182e",
-          "updated_at": "2026-08-21T19:58:37Z",
+          "content_hash": "9acd0ef9244e2375388051bc3ea8f0605d9274074358efcb0c3f0fea51934c49",
+          "updated_at": "2026-08-21T21:29:38Z",
           "download_url": "packs/water-and-sanitation/tools-repair-and-construction.zip",
-          "download_size": 2661,
+          "download_size": 5254,
+          "dependencies": []
+        },
+        {
+          "id": "2e9012d1-13a0-40ea-8e5c-66a6418e3a28",
+          "name": "Wilderness Survival",
+          "slug": "wilderness-survival",
+          "description": null,
+          "category_id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
+          "category": "water-and-sanitation",
+          "version": 1,
+          "content_hash": "64df6490730ad42e28f28483daaf434690709f92414fdc724691116161046c82",
+          "updated_at": "2026-08-21T21:29:38Z",
+          "download_url": "packs/water-and-sanitation/wilderness-survival.zip",
+          "download_size": 2482,
           "dependencies": []
         }
       ]
@@ -75,10 +89,10 @@
           "category_id": "30a15ae9-2209-4fae-aa39-ae2eec68e13d",
           "category": "weather",
           "version": 2,
-          "content_hash": "5216791d837a5867fb1fd8c7302e53878dcb7f1d0b87a2871591a1153a1f328a",
-          "updated_at": "2026-08-21T19:58:37Z",
+          "content_hash": "049a8b988f4245ee8a8beebbe8c0c6cd932bd40f06905a4ec47c894b52d40b0d",
+          "updated_at": "2026-08-21T21:29:38Z",
           "download_url": "packs/weather/wilderness-survival.zip",
-          "download_size": 16119,
+          "download_size": 17019,
           "dependencies": []
         }
       ]
@@ -120,10 +134,10 @@
           "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
           "category": "wilderness-survival",
           "version": 2,
-          "content_hash": "6646ab48d0cffd532abbeeaec965d33a3622c5893dd4e9c3dbc9a0603be29545",
-          "updated_at": "2026-08-21T19:58:37Z",
+          "content_hash": "8d6a1fec8932c332a3921b61537feea1b623ac4bbc60406dc7e65e6cb743b737",
+          "updated_at": "2026-08-21T21:29:38Z",
           "download_url": "packs/wilderness-survival/tools-repair-and-construction.zip",
-          "download_size": 17523,
+          "download_size": 19938,
           "dependencies": []
         },
         {
@@ -134,10 +148,10 @@
           "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
           "category": "wilderness-survival",
           "version": 2,
-          "content_hash": "8c17100a87e532e3fb3300aa4535a1220ee51e7e7c894f4022b39c88cc4bee77",
-          "updated_at": "2026-08-21T19:58:37Z",
+          "content_hash": "c8479f8287c9e33b32aafd1298d85c3994d01201839ec8bfaec115a0edb15d92",
+          "updated_at": "2026-08-21T21:29:38Z",
           "download_url": "packs/wilderness-survival/first-aid-and-health.zip",
-          "download_size": 13316,
+          "download_size": 16059,
           "dependencies": []
         }
       ]

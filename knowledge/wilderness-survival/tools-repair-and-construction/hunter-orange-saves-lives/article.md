@@ -1,0 +1,1 @@
+Hunter Orange is a specific variety of orange fruit native to Maine. It is a type of orange fruit, not a separate category. The claim that it is a 'type of orange' is accurate, but it is also a fruit. The article should clarify that it is a specific variety of orange fruit, not a separate category.
