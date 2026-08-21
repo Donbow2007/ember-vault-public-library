@@ -4,9 +4,9 @@
   "title": "Navigation",
   "category": "weather",
   "subcategory": "wilderness-survival",
-  "version": 1,
-  "updated_at": "2026-08-21T17:59:13Z",
-  "content_hash": "521f6eb43e794e1ce0dd80b9fa796a02f5fb7d3cc359b09b6f349ff3c32a9be2",
+  "version": 2,
+  "updated_at": "2026-08-21T19:34:54Z",
+  "content_hash": "f45f905c2922a77e72c0bc23b6b994805095abe22a2f469fa884604e074540ec",
   "images": [],
   "status": "published"
 }

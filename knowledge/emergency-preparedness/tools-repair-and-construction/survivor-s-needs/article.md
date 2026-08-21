@@ -1,0 +1,1 @@
+The revised article will clarify the distinction between natural resting places and shelter in different climates, and emphasize that fire serves multiple purposes in survival scenarios, including providing heat and protection.

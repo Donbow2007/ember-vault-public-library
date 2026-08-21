@@ -14,3 +14,7 @@ Repeat these steps approximately 12 to 15 times per minute. If treating a child,
 ### Bleeding
 
 To control bleeding, elevate the wounded area above the heart and apply pressure using either gauze, clean cloth, dried seaweed, or sphagnum moss. Use pressure at the pulse point between the injured area and the heart if bleeding fails to stop.
+
+### General Preparedness
+
+The new source section discusses the risks of venturing into woods and waters and the importance of planning, training, and equipment. It emphasizes that while risks exist, preparation can reduce danger. It also mentions that two-week survival situations are rare and that being ready for unplanned days is important.

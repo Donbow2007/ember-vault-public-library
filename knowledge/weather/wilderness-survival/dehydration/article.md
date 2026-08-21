@@ -1,0 +1,1 @@
+Cold significantly reduces the body's ability to function, and cold numbs the body by lowering blood flow to the extremities. Dehydration decreases the body's ability to function, and prevention of thirst is possible by drinking plenty of water when available. Dehydration can be reversible by drinking water, and heat stress emphasizes dehydration.

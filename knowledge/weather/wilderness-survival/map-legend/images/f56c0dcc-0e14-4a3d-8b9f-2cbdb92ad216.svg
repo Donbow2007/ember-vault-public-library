@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1522" viewBox="0 0 1536 1522" role="img" aria-labelledby="title description">
+<title id="title">Map Legend</title>
+<desc id="description">Reviewed instructional sequence based on the approved Ember Vault article.</desc>
+<rect width="100%" height="100%" fill="#080909"/>
+<path d="M0 0H1536V10H0Z" fill="#d57838"/>
+<text x="96" y="76" fill="#d57838" font-family="monospace" font-size="18" letter-spacing="4">EMBER VAULT // FIELD DIAGRAM</text>
+<text x="96" y="148" fill="#edede8" font-family="Arial, sans-serif" font-size="52" font-weight="700">Map Legend</text>
+<text x="96" y="202" fill="#9a9c98" font-family="Arial, sans-serif" font-size="23"><tspan x="96" dy="0">Reviewed instructional sequence based on the approved Ember Vault article.</tspan></text>
+<rect x="96" y="290" width="1344" height="150" rx="8" fill="#111313" stroke="#edede8" stroke-width="2"/>
+<circle cx="160" cy="365" r="34" fill="#202322" stroke="#edede8" stroke-width="2"/>
+<text x="160" y="375" fill="#edede8" text-anchor="middle" font-family="monospace" font-size="27" font-weight="700">1</text>
+<text x="224" y="339" fill="#edede8" font-family="Arial, sans-serif" font-size="29" font-weight="700">Identify Scale</text>
+<text x="224" y="381" fill="#a9aaa6" font-family="Arial, sans-serif" font-size="20"><tspan x="224" dy="0">Scale is defined as the distance across the map in kilometers, miles, and feet, with</tspan><tspan x="224" dy="29">examples like 1:24,000.</tspan></text>
+<path d="M768 448V472" stroke="#555754" stroke-width="4"/> 
+<path d="M754 460L768 474L782 460" fill="none" stroke="#d57838" stroke-width="4"/> 
+<rect x="96" y="482" width="1344" height="150" rx="8" fill="#111313" stroke="#edede8" stroke-width="2"/>
+<circle cx="160" cy="557" r="34" fill="#202322" stroke="#edede8" stroke-width="2"/>
+<text x="160" y="567" fill="#edede8" text-anchor="middle" font-family="monospace" font-size="27" font-weight="700">2</text>
+<text x="224" y="531" fill="#edede8" font-family="Arial, sans-serif" font-size="29" font-weight="700">Determine Contour Interval</text>
+<text x="224" y="573" fill="#a9aaa6" font-family="Arial, sans-serif" font-size="20"><tspan x="224" dy="0">Contour interval refers to the difference in elevation between contour lines.</tspan></text>
+<path d="M768 640V664" stroke="#555754" stroke-width="4"/> 
+<path d="M754 652L768 666L782 652" fill="none" stroke="#d57838" stroke-width="4"/> 
+<rect x="96" y="674" width="1344" height="150" rx="8" fill="#111313" stroke="#d57838" stroke-width="2"/>
+<circle cx="160" cy="749" r="34" fill="#d57838" stroke="#d57838" stroke-width="2"/>
+<text x="160" y="759" fill="#080909" text-anchor="middle" font-family="monospace" font-size="27" font-weight="700">3</text>
+<text x="224" y="723" fill="#edede8" font-family="Arial, sans-serif" font-size="29" font-weight="700">Note Magnetic Declination</text>
+<text x="224" y="765" fill="#a9aaa6" font-family="Arial, sans-serif" font-size="20"><tspan x="224" dy="0">Magnetic declination is the difference between true north and magnetic north.</tspan></text>
+<text x="1380" y="710" fill="#d57838" text-anchor="end" font-family="monospace" font-size="15" letter-spacing="2">WARNING</text>
+<path d="M768 832V856" stroke="#555754" stroke-width="4"/> 
+<path d="M754 844L768 858L782 844" fill="none" stroke="#d57838" stroke-width="4"/> 
+<rect x="96" y="866" width="1344" height="150" rx="8" fill="#111313" stroke="#edede8" stroke-width="2"/>
+<circle cx="160" cy="941" r="34" fill="#202322" stroke="#edede8" stroke-width="2"/>
+<text x="160" y="951" fill="#edede8" text-anchor="middle" font-family="monospace" font-size="27" font-weight="700">4</text>
+<text x="224" y="915" fill="#edede8" font-family="Arial, sans-serif" font-size="29" font-weight="700">Include Date Drawn</text>
+<text x="224" y="957" fill="#a9aaa6" font-family="Arial, sans-serif" font-size="20"><tspan x="224" dy="0">Date drawn is the date the map was compiled, and it is important for topographic maps as</tspan><tspan x="224" dy="29">they may have updated features after this date.</tspan></text>
+<path d="M768 1024V1048" stroke="#555754" stroke-width="4"/> 
+<path d="M754 1036L768 1050L782 1036" fill="none" stroke="#d57838" stroke-width="4"/> 
+<rect x="96" y="1058" width="1344" height="150" rx="8" fill="#111313" stroke="#edede8" stroke-width="2"/>
+<circle cx="160" cy="1133" r="34" fill="#202322" stroke="#edede8" stroke-width="2"/>
+<text x="160" y="1143" fill="#edede8" text-anchor="middle" font-family="monospace" font-size="27" font-weight="700">5</text>
+<text x="224" y="1107" fill="#edede8" font-family="Arial, sans-serif" font-size="29" font-weight="700">Specify Location</text>
+<text x="224" y="1149" fill="#a9aaa6" font-family="Arial, sans-serif" font-size="20"><tspan x="224" dy="0">Location includes latitude and longitude, map name, and surrounding maps.</tspan></text>
+<path d="M768 1216V1240" stroke="#555754" stroke-width="4"/> 
+<path d="M754 1228L768 1242L782 1228" fill="none" stroke="#d57838" stroke-width="4"/> 
+<rect x="96" y="1250" width="1344" height="150" rx="8" fill="#111313" stroke="#edede8" stroke-width="2"/>
+<circle cx="160" cy="1325" r="34" fill="#202322" stroke="#edede8" stroke-width="2"/>
+<text x="160" y="1335" fill="#edede8" text-anchor="middle" font-family="monospace" font-size="27" font-weight="700">6</text>
+<text x="224" y="1299" fill="#edede8" font-family="Arial, sans-serif" font-size="29" font-weight="700">Indicate Contour Line Spacing</text>
+<text x="224" y="1341" fill="#a9aaa6" font-family="Arial, sans-serif" font-size="20"><tspan x="224" dy="0">Contour lines show the shape and elevation of land features, with spacing depending on slope</tspan><tspan x="224" dy="29">steepness.</tspan></text>
+<text x="96" y="1480" fill="#666865" font-family="monospace" font-size="15" letter-spacing="2">LOCAL VECTOR • VERIFY AGAINST THE APPROVED ARTICLE BEFORE USE</text>
+</svg>

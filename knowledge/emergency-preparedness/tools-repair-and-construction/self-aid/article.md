@@ -1,0 +1,1 @@
+Self-aid is the survivor's sole recourse, but visual signaling is one of the techniques used for attracting attention and pinpointing locations. The article should clarify that visual signaling is a primary method but not the sole one.

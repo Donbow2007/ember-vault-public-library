@@ -1,0 +1,4 @@
+Fire Starters
+There are several helpful fire starters out there, many of which are made for wood stoves, but nothing is better than good, dry, flammable tinder and waterproof matches with a 'metal match' flint & steel and/or a disposable light eraser as a backup.
+
+Wooden, scratch-anywhere, kitchen matches should be the only ones carried. Paper matches should be left at home as they build false security. Water-proof matches can be made by dipping wooden matches in melted paraffin wax used for home canning, twice, covering the entire match. Fire Starters should be used only in extreme emergencies.
