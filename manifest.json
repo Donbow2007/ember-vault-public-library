@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T17:57:25Z",
+  "generated_at": "2026-08-21T17:59:13Z",
   "categories": [
     {
       "id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
@@ -15,10 +15,10 @@
           "category_id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
           "category": "emergency-preparedness",
           "version": 1,
-          "content_hash": "4b64283d8b0d69510f11da7b588ffb03d17fadb9d3c7c1a17308a60bc7b97ad7",
-          "updated_at": "2026-08-21T17:57:25Z",
+          "content_hash": "6bbeaaab32335dc4caa93c9665de654371bae2127eeb0fca7774d320ec8c55d4",
+          "updated_at": "2026-08-21T17:59:13Z",
           "download_url": "packs/emergency-preparedness/tools-repair-and-construction.zip",
-          "download_size": 4142,
+          "download_size": 5034,
           "dependencies": []
         }
       ]
@@ -48,8 +48,8 @@
           "category_id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
           "category": "water-and-sanitation",
           "version": 1,
-          "content_hash": "2dc18a5a3b2bc1e08e4e1a6ea9e4dc74d4e673dfcae919da9a224de46a46695b",
-          "updated_at": "2026-08-21T17:57:25Z",
+          "content_hash": "f11c221eee503b63011c37f1a00d7e672f21940892285d14b77f293697d86eaa",
+          "updated_at": "2026-08-21T17:59:13Z",
           "download_url": "packs/water-and-sanitation/tools-repair-and-construction.zip",
           "download_size": 1914,
           "dependencies": []
@@ -75,10 +75,10 @@
           "category_id": "30a15ae9-2209-4fae-aa39-ae2eec68e13d",
           "category": "weather",
           "version": 1,
-          "content_hash": "23d1fef5b1073d3c041f17cee11fc4b20fc0469af828f4f4beb7d1941763122a",
-          "updated_at": "2026-08-21T17:57:25Z",
+          "content_hash": "53c2dbb01cc1eb798838de159d3a826950588cda4da5ab058ff666f7b18ffcfd",
+          "updated_at": "2026-08-21T17:59:13Z",
           "download_url": "packs/weather/wilderness-survival.zip",
-          "download_size": 2847,
+          "download_size": 2848,
           "dependencies": []
         }
       ]
@@ -120,10 +120,10 @@
           "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
           "category": "wilderness-survival",
           "version": 1,
-          "content_hash": "232327b2f1e6bd686b7e517131219169c64939c6d30cbeb99958b7a7260591fd",
-          "updated_at": "2026-08-21T17:57:25Z",
+          "content_hash": "b8f1d09da02fda2ce1a342768bb7326d0cbae5d0ceca64eb31177e694569b862",
+          "updated_at": "2026-08-21T17:59:13Z",
           "download_url": "packs/wilderness-survival/tools-repair-and-construction.zip",
-          "download_size": 9047,
+          "download_size": 9045,
           "dependencies": []
         },
         {
@@ -134,10 +134,10 @@
           "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
           "category": "wilderness-survival",
           "version": 1,
-          "content_hash": "6d8e7f9ca880d89d030624bf72415c5e348646c018a75499452db89404df1e22",
-          "updated_at": "2026-08-21T17:57:25Z",
+          "content_hash": "cff3060967f84f9165210ea6cbb2afe352b7f3cfa8debf6e2b30a72db89748ab",
+          "updated_at": "2026-08-21T17:59:13Z",
           "download_url": "packs/wilderness-survival/first-aid-and-health.zip",
-          "download_size": 4631,
+          "download_size": 4632,
           "dependencies": []
         }
       ]
