@@ -1,3 +1,0 @@
-Smoke Signals
-
-To create effective smoke signals, feed damp materials into a fire to generate smoke. A signal fire does not need to be large, but it should be burning hot. When a plane is overhead, lay some green boughs on your fire to create a plume of smoke. Green boughs are ideal, but be careful not to smother your fire. Water sprinkled on the edges of a fire can also work well. Always ensure the fire is safe and does not pose a risk to nearby areas. Practice signal fires in a safe environment before using them in real situations.

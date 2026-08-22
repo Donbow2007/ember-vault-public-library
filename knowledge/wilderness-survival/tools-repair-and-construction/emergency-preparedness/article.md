@@ -1,1 +1,0 @@
-The article should be revised to include scientific references or empirical data to support the claims about survival limits. The quote about the importance of hope in survival should be flagged as a general observation rather than a factual claim.

@@ -1,3 +1,0 @@
-Map and Compass
-
-Map and compass are simple to use and can be mastered with practice. Paper maps are recommended over electronic maps for survival use, as they do not require batteries and are more durable. Topographic maps use symbols, lines, and colors to provide detailed information. USGS maps can be downloaded and printed for use in the wilderness. It is essential to carry a printed copy of a map as a backup to electronic maps. Additionally, it is recommended to include a detailed explanation of why paper maps are better than electronic maps, such as their lack of dependency on batteries, durability, and ease of use in situations where electronic devices may fail.

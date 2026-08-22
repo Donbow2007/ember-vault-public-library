@@ -1,3 +1,0 @@
-First Aid and Health
-
-Blisters should be treated with a sterile bandage and antiseptic, not with adhesive tape or needle insertion. Tick removal should be done carefully with tweezers, parallel to the skin, and without twisting. Headaches should be managed with over-the-counter medications, and tick bites should be monitored for signs of infection. First aid kits should include dressings and antiseptics. Cuts and wounds should be treated with direct pressure and sterile dressings.

@@ -1,3 +1,0 @@
-The Power of Mental Attitude in Survival Situations
-
-A positive mental attitude is crucial in survival scenarios, as it enables effective decision-making and handling of crises. While preparation and training are essential, the article also acknowledges that personal actions may contribute to the situation. Pilots are encouraged to focus on current actions and avoid dwelling on past mistakes. The article highlights the importance of the CAA web site for safety information and acknowledges the contributions of Grant Gillespie in producing the booklet.

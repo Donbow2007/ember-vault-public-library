@@ -1,1 +1,0 @@
-A survival kit for outdoor activities in Maine should include a spare knife, a small folding handsaw, a map, compass, and a waterproof container with lighter, matches, and a personal medicine for two days. Emergency food items like energy bars, hard candy, and chewing gum are also recommended. The kit should be kept on person and only used in emergencies.

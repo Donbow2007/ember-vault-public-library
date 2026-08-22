@@ -1,1 +1,0 @@
-To create a shelter, use natural materials to make a blind and increase visibility by placing a brightly colored item outside. Make the shelter as small as possible, and build it in a safe location away from game trails and up a hill. Lean-to shelters can be made by placing poles against a ledge or bluff and using evergreen boughs as a roof.

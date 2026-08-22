@@ -1,1 +1,0 @@
-While there are no animals in the Maine woods that will harm you, certain plants can cause illness. Water is more important than food in a survival situation. Non-toxic items can still cause vomiting and diarrhea. Survivalists should prioritize shelter and signals over eating.

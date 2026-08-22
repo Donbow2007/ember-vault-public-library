@@ -1,1 +1,0 @@
-Heat exhaustion occurs when the body is dehydrated and salt-depleted, leading to symptoms like nausea, faintness, and cold, clammy skin. Treatment involves rest, adequate hydration, and salt intake. Sunstroke, caused by excessive sun exposure, results in overheating and is treated by resting in a cool area and consuming cold liquid. Prevention includes wearing proper headgear.

@@ -1,1 +1,0 @@
-The Warden Service is responsible for finding you in case you become lost in the woods. The State Police should call 911 to notify the Warden Service, ensuring coordination and timely assistance.

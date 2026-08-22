@@ -1,1 +1,0 @@
-In General Aviation, safety protocols are not less rigid than in commercial aviation. Efforts are made to ensure the information in this booklet is accurate and up-to-date, but GA operations may differ in terms of procedures and regulations. The search area and time to locate a victim may be different due to the nature of GA operations.

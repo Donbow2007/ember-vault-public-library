@@ -1,1 +1,0 @@
-The article presents a non-canonical method of making a warm sleeping bag using trash bags and plant material, which is not supported by current scientific consensus. The advice about eating sweets and generating body heat through muscle flexing is not standard health or safety advice and should be removed or rephrased to align with established guidelines.

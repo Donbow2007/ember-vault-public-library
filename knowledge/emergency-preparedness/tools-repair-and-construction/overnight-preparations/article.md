@@ -1,3 +1,0 @@
-Overnight Preparations
-
-If you are lost, admit it and keep your head as your only enemy is panic. Use the acronym 'STOP' to guide your actions: Stop, Think, Observe, Plan. If it is within an hour or so of sunset, it is best to prepare for the night, as not many can safely wander through the Maine woods after dark. However, if you are certain you are not lost, you can attempt to find your way out. Always assess the situation and make decisions based on your knowledge and resources.

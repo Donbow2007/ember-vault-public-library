@@ -1,1 +1,0 @@
-Hiking requires keeping the group together for safety. A rule of thumb is for each person to keep in contact with the person behind them. If the group starts to get spread out, it is easier for the faster people to slow down than for the slower people to try to speed up. The entire group should stop and gather at all decision points to ensure safety and maintain communication.
