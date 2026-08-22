@@ -1,0 +1,25 @@
+{
+  "id": "d4fdbfa2-9cde-4621-acc3-05641c1da69b",
+  "slug": "section-1999-who-can-and-cannot-take-zolpidem-nhs",
+  "title": "Who can and cannot take zolpidem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "aae876d105522e466d22d155fdc5037273fde02f2f416cfb01781e24639456e2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1999,
+    "content_hash": "2b7f267ef8def4452113929881467da000fe0f8e2810f3e601f2c3d00e7043ad",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

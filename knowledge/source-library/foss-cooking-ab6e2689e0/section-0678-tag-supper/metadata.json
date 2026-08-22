@@ -1,0 +1,25 @@
+{
+  "id": "4b2c8a69-e733-4f5c-996d-46ce8899aad4",
+  "slug": "section-0678-tag-supper",
+  "title": "Tag: supper",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "27b04c47b1cc0094e40511d63cd6c7d368e68c0a07f4c27bae04d4962283b8c2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 678,
+    "content_hash": "6ff79b950f95eceb431a792633e9dc40f052fd0db38781a202fb284f4b84ea31",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

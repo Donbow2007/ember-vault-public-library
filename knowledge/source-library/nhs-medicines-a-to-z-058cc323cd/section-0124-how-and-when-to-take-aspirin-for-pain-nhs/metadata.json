@@ -1,0 +1,25 @@
+{
+  "id": "b0f3db85-ca8a-4552-a129-b713f3f05b64",
+  "slug": "section-0124-how-and-when-to-take-aspirin-for-pain-nhs",
+  "title": "How and when to take aspirin for pain - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "6efa9a8cf7a745bde009ff7287f36e652ff0e83388810c408fa4dbd816ff43f5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 124,
+    "content_hash": "9ef79cd18950b62eabee7c54b85e37595ca0d5ab123f6d8c49b98d33bc1ef99e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

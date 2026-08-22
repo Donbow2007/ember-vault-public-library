@@ -1,0 +1,25 @@
+{
+  "id": "669fa6a8-72f2-4754-945e-a742244a77bf",
+  "slug": "section-0339-keto-coconut-bread",
+  "title": "Keto Coconut Bread",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "b9a66a5b7fc21a30641a525c3658e71f9a8ea6852bd5015c823353d00c561a34",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 339,
+    "content_hash": "64e27708d07241f15006a448e3cb16bf967740dabc7885da5ab25ffa67f3a26c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

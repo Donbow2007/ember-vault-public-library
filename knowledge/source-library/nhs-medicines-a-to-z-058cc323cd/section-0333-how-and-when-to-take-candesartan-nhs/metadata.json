@@ -1,0 +1,25 @@
+{
+  "id": "6625ad7e-4db9-48f0-a2fe-17354b37e231",
+  "slug": "section-0333-how-and-when-to-take-candesartan-nhs",
+  "title": "How and when to take candesartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "e4de2bb17aff9a335d91adcfa281b3ec6cd6578fed737094b8f1d9fadad6911e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 333,
+    "content_hash": "3382b6ecc3c2a32986913f07b399a48aa621012f1d45c0ab648dad48682ef553",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

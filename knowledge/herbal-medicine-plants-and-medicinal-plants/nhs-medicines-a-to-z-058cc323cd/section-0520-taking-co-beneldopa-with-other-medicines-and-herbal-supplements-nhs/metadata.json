@@ -1,0 +1,25 @@
+{
+  "id": "99920193-5962-41ff-9f30-5a4bb479ac8b",
+  "slug": "section-0520-taking-co-beneldopa-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking co-beneldopa with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "b1697700a9fa23590940deeb0bab17704fb1c4d291acdcf59d40e30931df16bc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 520,
+    "content_hash": "7bc186adfe5d9ec587ff52b9aacb3addb75da288b29fe4ef41a15ad21b836820",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

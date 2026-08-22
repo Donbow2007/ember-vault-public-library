@@ -1,0 +1,25 @@
+{
+  "id": "6e1faffe-4d1f-4e8b-a798-8d7bab87b318",
+  "slug": "section-0962-benefits-and-risks-of-hormone-replacement-therapy-hrt-nhs",
+  "title": "Benefits and risks of hormone replacement therapy (HRT) - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "fe10792dc0435536b093e0021c718c790207789b74950e66fae87c282fd52449",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 962,
+    "content_hash": "1a57f1dccd42b03772192d8380890675f04104ba7e1ad8c5cf43200a0464f04d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

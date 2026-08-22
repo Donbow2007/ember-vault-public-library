@@ -1,0 +1,25 @@
+{
+  "id": "ce0f26bb-e89d-4d6e-ab1e-1a176413361c",
+  "slug": "section-1901-topiramate-a-medicine-to-treat-epilepsy-and-migraine-nhs",
+  "title": "Topiramate: a medicine to treat epilepsy and migraine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "290355dc8a0aa3da7ed9f3ba2bebc652610004df7846847c72170895c3fa48a7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1901,
+    "content_hash": "2713d02f1d045a625fec6740a461373ab8443992dde10484f42461254a16dc48",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# About acrivastine - NHS
+
+About acrivastine - Brand name: Benadryl Allergy Relief Acrivastine is an antihistamine medicine that helps the symptoms of allergies. It helps to treat: symptoms from hay fever conjunctivitis (red, itchy eyes) eczema hives (urticaria) reactions to insect bites and stings some food allergies Acrivastine is a non-drowsy antihistamine. It's less likely to make you feel sleepy than some other antihistamines. Acrivastine comes as capsules and is available on prescription. You can also buy smaller packs from pharmacies and supermarkets. Sometimes it's combined with a decongestant called pseudoephedrine to unblock your nose and sinuses. Key facts You can usually take acrivastine as you need it, up to 3 times a day. Acrivastine is classed as a non-drowsy antihistamine, but some people still find it makes them feel quite sleepy. Common side effects include a dry mouth and dizziness. Do not drive, cycle or operate tools or machinery if you're feeling dizzy or sleepy. Do not drink grapefruit juice while you're taking acrivastine, as it might make you more likely to get side effects. It's best not to drink alcohol while you're taking acrivastine as it can make you feel sleepy. When acrivastine is mixed with pseudoephedrine, it's called Benadryl Allergy Relief Plus Decongestant.
+Page last reviewed: 2 April 2025
+
+Next review due: 2 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

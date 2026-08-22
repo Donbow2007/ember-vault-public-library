@@ -1,0 +1,25 @@
+{
+  "id": "c29bb5c7-c21a-4273-be03-bf4762c9aeaa",
+  "slug": "section-0585-cyanocobalamin-vitamin-b12-used-for-vitamin-b12-deficiency-anaemia-nhs",
+  "title": "Cyanocobalamin – vitamin B12 used for vitamin B12 deficiency anaemia - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "cd4c092f7369f5f2088391b37b8a0e0b537b9cd02d980a4513181dbb02e5a4a5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 585,
+    "content_hash": "c06d883dab3bae3c2ad49550f8a5e67a19b29a3e91359b91b156f3b4a5029879",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

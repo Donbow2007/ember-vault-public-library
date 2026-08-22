@@ -1,0 +1,25 @@
+{
+  "id": "aa2c1722-c978-473f-8c15-bcdb41e57338",
+  "slug": "section-0593-tag-feta",
+  "title": "Tag: feta",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "526e6d57901b26b283557ca251dfa23b0596259fb79477e387a1d6fb2453f6ac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 593,
+    "content_hash": "29c3f9313da2be6f1952c5a4ac0d4137d6e7fde70f146d2cd6a561f88adfadf9",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

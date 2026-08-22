@@ -1,0 +1,25 @@
+{
+  "id": "f3c559e3-def6-4aac-bf2a-e09433778099",
+  "slug": "section-0485-irp-fas-org-doddir-milmed-sanitation-pdf-part-35",
+  "title": "irp.fas.org/doddir/milmed/sanitation.pdf — Part 35",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "be5fa85a622753847a8ad6cab618597e934e889dbb6974ec98bd2007319494f4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 485,
+    "content_hash": "5b3c170b0d803839d3944f44aeb793f5d7f3c78aa0c74d6f83f72feb010ddbe6",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

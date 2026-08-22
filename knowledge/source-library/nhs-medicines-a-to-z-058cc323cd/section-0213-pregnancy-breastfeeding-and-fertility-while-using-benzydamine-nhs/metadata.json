@@ -1,0 +1,25 @@
+{
+  "id": "04191da3-6ae1-4e08-9f6c-e48a08b9cac3",
+  "slug": "section-0213-pregnancy-breastfeeding-and-fertility-while-using-benzydamine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using benzydamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "f6abaf84642b2d308eacfd14f80abd25474577c95ada613462730f4779a9ab56",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 213,
+    "content_hash": "afb183a2b0c02926483faa38cc20f72484425f318bc42ee585b3502c2a1217f3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

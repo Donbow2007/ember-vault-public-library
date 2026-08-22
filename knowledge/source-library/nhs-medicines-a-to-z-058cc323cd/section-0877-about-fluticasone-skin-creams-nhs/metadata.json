@@ -1,0 +1,25 @@
+{
+  "id": "ae8e3653-05a3-4026-9298-50340180954d",
+  "slug": "section-0877-about-fluticasone-skin-creams-nhs",
+  "title": "About fluticasone skin creams - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "9040568d06f384bade744e7377f51c640268f688649931c9d1031de19247251b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 877,
+    "content_hash": "12072069a4400c5a44e3cea0dd280b5d8c27dd4a822d3d034382557c85d6df4e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

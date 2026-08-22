@@ -1,0 +1,25 @@
+{
+  "id": "ba066430-bed0-45fe-956a-a5aaaaa52656",
+  "slug": "section-1644-pregnancy-breastfeeding-and-fertility-while-taking-pre-exposure-prophy",
+  "title": "Pregnancy, breastfeeding and fertility while taking Pre-Exposure Prophylaxis (PrEP) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "bb6e483496c69d39bc1c7827c2faaaff6af78a7cd32abb66112b3db85b47df7d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1644,
+    "content_hash": "60fa501591fbab0b49efea3ed53a0dd57d064c03e259732c1e828ee48a69f3c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

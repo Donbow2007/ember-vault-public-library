@@ -1,0 +1,25 @@
+{
+  "id": "b42822d4-8208-468e-aca0-753c833504a8",
+  "slug": "section-1398-methylphenidate-a-medicine-used-to-treat-attention-deficit-hyperactivi",
+  "title": "Methylphenidate: a medicine used to treat attention deficit hyperactivity disorder (ADHD) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "316f63e10423b95337d6a7f0f4198e22bf5b75ed2776f12a1e00f0acf2f4030e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1398,
+    "content_hash": "ed7d51c8c72a47bbb8b14ef106b90b4e755b342e50a60f02674e0e18bde16405",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

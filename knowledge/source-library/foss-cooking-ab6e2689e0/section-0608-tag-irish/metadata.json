@@ -1,0 +1,25 @@
+{
+  "id": "a17dde71-6850-44bd-a8c2-15d381a66b1e",
+  "slug": "section-0608-tag-irish",
+  "title": "Tag: irish",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "68deaf511687e4f4fdb9c23209a85cb697f012b6b397e9973b7255fd43f32212",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 608,
+    "content_hash": "8c9fd178d18ba9b174903e18f75523241b9b8b8bc2bba9520f086e1e78f89017",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

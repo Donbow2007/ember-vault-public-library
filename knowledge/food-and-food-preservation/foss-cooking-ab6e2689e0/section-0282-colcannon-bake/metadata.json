@@ -1,0 +1,25 @@
+{
+  "id": "dc405505-ca6f-4000-89d1-4ca49ca6fe67",
+  "slug": "section-0282-colcannon-bake",
+  "title": "Colcannon Bake",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "f8a47a5259883f259aea6d68996045606fb2def4a181dfab6864912a2a3f8cb2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 282,
+    "content_hash": "033522db9e26601ff06c3a335f8bc878ca3f1b163e59101b4215142a2f0c276a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

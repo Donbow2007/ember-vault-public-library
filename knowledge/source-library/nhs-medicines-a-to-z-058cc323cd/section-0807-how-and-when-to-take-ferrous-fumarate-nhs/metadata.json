@@ -1,0 +1,25 @@
+{
+  "id": "96cf9f72-ed56-4888-bb70-618a8518e03c",
+  "slug": "section-0807-how-and-when-to-take-ferrous-fumarate-nhs",
+  "title": "How and when to take ferrous fumarate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "872889ce9bd135e85b3f0717a8275f21deab8b6e115e4de4c886133178d5556e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 807,
+    "content_hash": "8ab5698cc8808574d243c61d598db3255f5b633207ac9b857642c801ee93937d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

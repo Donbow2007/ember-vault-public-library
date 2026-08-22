@@ -1,0 +1,25 @@
+{
+  "id": "453a4f93-ea10-45d5-b363-40bad896851a",
+  "slug": "section-1496-how-and-when-to-take-naproxen-nhs",
+  "title": "How and when to take naproxen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "eca671b22476188be2adc4485b38d234aa17915d90567b252a3440978bbfc3c7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1496,
+    "content_hash": "e6765d9650650610b223e4551eb2e2a18fc463a39eea6c47f881f9851f461f88",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

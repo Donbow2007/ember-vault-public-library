@@ -1,0 +1,25 @@
+{
+  "id": "e30099a0-4ecc-4db8-93a9-2e1367be5dcb",
+  "slug": "section-0357-how-and-when-to-take-carbocisteine-nhs",
+  "title": "How and when to take carbocisteine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "85f67b60c925b2d4680762ccbe0e1096aff051061b278df3d854f7ea1cbc8d87",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 357,
+    "content_hash": "a50938013827e979702c9518f532b8ff9c1c8bd5e6162a7d93e12905a1ab284a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

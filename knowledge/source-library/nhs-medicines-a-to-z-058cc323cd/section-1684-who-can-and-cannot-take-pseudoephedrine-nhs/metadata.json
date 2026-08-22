@@ -1,0 +1,25 @@
+{
+  "id": "dd870a57-64b0-4e0a-8bb6-a33be0dd4a5d",
+  "slug": "section-1684-who-can-and-cannot-take-pseudoephedrine-nhs",
+  "title": "Who can and cannot take pseudoephedrine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "b392fb9e5892f502d14ad8f96b701be1dffa4d2ed672b2de95ba53ab8f8b0f18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1684,
+    "content_hash": "60698abb28971d2696053213b150a7371c54d1ff54b266d8873c388954f40800",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

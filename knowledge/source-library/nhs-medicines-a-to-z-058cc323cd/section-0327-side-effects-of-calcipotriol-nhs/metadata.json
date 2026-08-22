@@ -1,0 +1,25 @@
+{
+  "id": "b751d79b-ee75-4877-9187-6f80564e6b11",
+  "slug": "section-0327-side-effects-of-calcipotriol-nhs",
+  "title": "Side effects of calcipotriol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "344d29bca2bc3c9bfe9755d53a119a33634d5add49810b15a37430eba5d715c1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 327,
+    "content_hash": "cbc98748fc517662318fee066795d1cc620c5116bd955187a2d0ccac9f4e7e9b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

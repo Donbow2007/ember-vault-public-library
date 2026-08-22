@@ -1,0 +1,25 @@
+{
+  "id": "221f2455-22e4-453a-b623-0e4ad8762b0c",
+  "slug": "section-1428-who-can-and-cannot-take-metoprolol-nhs",
+  "title": "Who can and cannot take metoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "d1248f7f20a7107d8dcd424f0c8a68174b68c7415e41e43a80abf48bb884b286",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1428,
+    "content_hash": "b47759c1aae4b783dc9a7e095a7cf4cd5482a11e4fc2b04b0a76e7501e5a73c8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

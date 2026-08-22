@@ -1,0 +1,25 @@
+{
+  "id": "a38ab6a8-4cf9-454c-9a31-4dc62ffb0132",
+  "slug": "section-0018-bernhard-egger",
+  "title": "Bernhard Egger",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "c6f2e5f6ea283a809c8299f95e6d9c2e0b687d96e524a3ed234ff459198eb67a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 18,
+    "content_hash": "f93d247f7b971d9855c8554d20b8a5f6826cfa56d1331771c95aa79c4719d746",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

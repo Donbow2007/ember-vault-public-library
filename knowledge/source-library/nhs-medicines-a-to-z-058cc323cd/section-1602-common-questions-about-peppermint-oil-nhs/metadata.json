@@ -1,0 +1,25 @@
+{
+  "id": "c8f94fb8-bdd9-44e0-a628-4ac654c188f1",
+  "slug": "section-1602-common-questions-about-peppermint-oil-nhs",
+  "title": "Common questions about peppermint oil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "eec130a06db64ca3af728ff10e69bef5b9197a3c743c46fdbecb36a9fae42d85",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1602,
+    "content_hash": "7e4f305f2c517c3b859ee11c2f4ce3355993846371f9be93c7ae37e7d757dff2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

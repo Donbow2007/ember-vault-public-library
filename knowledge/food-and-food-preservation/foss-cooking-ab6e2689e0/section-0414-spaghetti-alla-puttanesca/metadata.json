@@ -1,0 +1,25 @@
+{
+  "id": "5d4f05f1-e316-4166-a977-f7df4015fc66",
+  "slug": "section-0414-spaghetti-alla-puttanesca",
+  "title": "Spaghetti alla puttanesca",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "33e472c569a3cbdad863df758f001deca70860ba5d5a8b78ec8c1d957a342168",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 414,
+    "content_hash": "a8f6504ae9cc26129b9614348dbe9d917524f2cca6f93412add357532a00c8e3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

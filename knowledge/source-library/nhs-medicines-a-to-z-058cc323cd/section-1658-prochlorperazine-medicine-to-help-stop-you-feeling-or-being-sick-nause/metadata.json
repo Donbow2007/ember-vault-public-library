@@ -1,0 +1,25 @@
+{
+  "id": "713b6340-01bf-4db7-aaf8-0bcccf8a7498",
+  "slug": "section-1658-prochlorperazine-medicine-to-help-stop-you-feeling-or-being-sick-nause",
+  "title": "Prochlorperazine: medicine to help stop you feeling or being sick (nausea or vomiting) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "bab579f7a3056d8610a1b317b7b7a52046d51f2fcdfce12901da1343bf0e7dd7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1658,
+    "content_hash": "5dc413910bebab151a274eadc2bd99c9d21f7665b0ed3b354d2ab49e8271559b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4a822c30-4d0b-4ace-a2cc-bafa1694e7e9",
+  "slug": "section-1761-about-simeticone-nhs",
+  "title": "About simeticone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "f59db74947c991315b7474c97d4e4151d4b4c04d1896052d463c052c7fa3400d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1761,
+    "content_hash": "5b5b114b4ef072240b5b895fc5372e25deb8470051aeddc3e015b9289ab314b3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

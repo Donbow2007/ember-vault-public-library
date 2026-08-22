@@ -1,0 +1,25 @@
+{
+  "id": "768a4884-f779-45b5-9df6-eee57aece3fc",
+  "slug": "section-0138-about-atorvastatin-nhs",
+  "title": "About atorvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "08435878996f1cb3a6fa3b2a8f2220ebbbd479a8dd215eefde8a29ab197bf9c4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 138,
+    "content_hash": "b7342f9a34d3d26e95a270b9c528fd0fdc40974555b632cd881ffe6c26334cdd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

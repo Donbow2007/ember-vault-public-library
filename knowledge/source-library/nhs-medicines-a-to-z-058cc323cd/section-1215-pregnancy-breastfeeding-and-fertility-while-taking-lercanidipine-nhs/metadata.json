@@ -1,0 +1,25 @@
+{
+  "id": "abbeeef4-04ff-4534-ad57-a6f209ef0d1b",
+  "slug": "section-1215-pregnancy-breastfeeding-and-fertility-while-taking-lercanidipine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking lercanidipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "7d805b7882cd746d7ad439755d6535280d153b9a059494df89e65bad59e835b5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1215,
+    "content_hash": "279c45dbac90cdd4a2344ddce31c02681ebec1842199d0ff11afb80148a9c476",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

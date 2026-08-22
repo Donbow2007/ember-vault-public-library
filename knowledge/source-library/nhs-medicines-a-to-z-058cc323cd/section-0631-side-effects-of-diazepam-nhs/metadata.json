@@ -1,0 +1,25 @@
+{
+  "id": "7aabce43-fdb6-48f7-95ee-72949541a006",
+  "slug": "section-0631-side-effects-of-diazepam-nhs",
+  "title": "Side effects of diazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "a5692bba5be0ec72ba583373e9958064a49f823d7fe46c3cd3adc1c13249bc6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 631,
+    "content_hash": "1aed1bae1b5993fe1370aba4e4c0992c189a7e641b9e8e06ff6dfaa573c7a080",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

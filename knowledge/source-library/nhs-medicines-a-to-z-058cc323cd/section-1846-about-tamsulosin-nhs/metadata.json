@@ -1,0 +1,25 @@
+{
+  "id": "6e9b8190-f27d-450a-9172-2367cd2a15ea",
+  "slug": "section-1846-about-tamsulosin-nhs",
+  "title": "About tamsulosin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "1f3bb208f6472dcfe7e967f7fd80f33fd84856cf8abf97d4b3089bb9f169db03",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1846,
+    "content_hash": "37847a800c995b37da136bdb5213b80a323299c55bc1ced71ccc28b22515ae11",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6b5d4b4e-661c-4859-a5c7-e1fe61c5179e",
+  "slug": "section-0041-taking-allopurinol-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking allopurinol with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "2999b1bebe3ef25ed61bf15d4213bb23f946af0203d0423247d1eb2699d68af9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 41,
+    "content_hash": "de12c9909c17d55987c3502b80fdc768b876e59131feb4104182ca4a23358354",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

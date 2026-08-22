@@ -1,0 +1,25 @@
+{
+  "id": "d06b1278-d41d-4105-a512-351c7b3fcf98",
+  "slug": "section-0084-about-anastrozole-nhs",
+  "title": "About anastrozole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "2f1ef1da44173550dc6924506540011af3babf9dd7e3be6cf0ee869a2e05f49f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 84,
+    "content_hash": "ea7a2f2bd07bb4779f14264c01ffb9b98fafa18c1a885b8f64b3ee0092ebbcae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

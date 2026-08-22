@@ -1,0 +1,25 @@
+{
+  "id": "d71f4dc0-7b15-4cfa-b870-b1f5c764ae93",
+  "slug": "section-0078-luke-goule",
+  "title": "Luke Goule",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "a3ce45c34d1f8f363a9941c082f5530cb1cd569518a3292b234cf95225347b63",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 78,
+    "content_hash": "a0204f5d10b62a1033cdb6adb8db27c710a7b578a26c0f80be5226f33d486a41",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

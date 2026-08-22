@@ -1,0 +1,7 @@
+# About paracetamol for adults - NHS
+
+About paracetamol for adults - Brand names: Disprol, Hedex, Medinol, Panadol Paracetamol is a common painkiller used to treat aches and pain. It can also be used to reduce a high temperature. It's available to buy from a pharmacy or shop, but you may be able to get 1g tablets on prescription if you have long-term pain. It comes as tablets, capsules, syrup, powder that you mix with water, or suppositories. The 1g tablets are only available if prescribed by a doctor. Paracetamol is also available combined with other painkillers and anti-sickness medicines. It is used in a wide range of cold and flu remedies. For under-16s, find out more about paracetamol for children . Key facts Paracetamol can take up to an hour to work. The usual dose of paracetamol is one or two 500mg tablets at a time, up to 4 times in 24 hours. The maximum dose is eight 500mg tablets in 24 hours. Do not take paracetamol with other medicines containing paracetamol because there is a risk of overdose. Paracetamol is safe to take during pregnancy and while breastfeeding, at recommended doses. It may not be safe for you to drink alcohol with paracetamol if you have certain health conditions, such as liver problems. Check the leaflet that comes with your medicine.
+Page last reviewed: 20 October 2022
+
+Next review due: 20 October 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

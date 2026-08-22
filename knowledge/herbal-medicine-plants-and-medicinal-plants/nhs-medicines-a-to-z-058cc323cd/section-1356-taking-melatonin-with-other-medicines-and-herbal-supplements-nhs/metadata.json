@@ -1,0 +1,25 @@
+{
+  "id": "3bedd510-abb5-4ae9-8b07-729e256b63f6",
+  "slug": "section-1356-taking-melatonin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking melatonin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "40a41e0e155396215a65fe4f1424a48c712c467f85206e45107cd899127a71c9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1356,
+    "content_hash": "e7d24770da7491e9df1868ae504126e13b3a5c9d699f531e2ed386fec04148e5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

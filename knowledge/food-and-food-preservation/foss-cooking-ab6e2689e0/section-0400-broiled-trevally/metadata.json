@@ -1,0 +1,25 @@
+{
+  "id": "73365d52-0479-4287-ba53-3c8e1b8176b9",
+  "slug": "section-0400-broiled-trevally",
+  "title": "Broiled Trevally",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "f2389b29682858bb252d37252d99501222ad050b67d324d0e81a5cd46d44d0be",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 400,
+    "content_hash": "3538feb5b92a27250f8dc93c0160fa29f9e088a584559ea26fb25be26cd84232",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

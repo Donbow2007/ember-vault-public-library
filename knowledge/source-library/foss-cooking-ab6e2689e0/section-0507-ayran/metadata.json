@@ -1,0 +1,25 @@
+{
+  "id": "52f20a2c-d4cb-4d6a-a2ff-9f869c244533",
+  "slug": "section-0507-ayran",
+  "title": "Ayran",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "01d5d8d49482f25b704bca165977801e14e98d013e3b5523e68b8073bec0ed29",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 507,
+    "content_hash": "098e1c535e74a96e50fd81333174a1a93ece723883a7eba22f070d39c736fc21",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

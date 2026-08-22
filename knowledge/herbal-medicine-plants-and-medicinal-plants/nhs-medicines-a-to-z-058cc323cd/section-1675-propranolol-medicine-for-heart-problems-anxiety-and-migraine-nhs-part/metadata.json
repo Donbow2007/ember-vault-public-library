@@ -1,0 +1,25 @@
+{
+  "id": "cfbcd1b0-ba14-4d41-81f7-32afe09c8ba3",
+  "slug": "section-1675-propranolol-medicine-for-heart-problems-anxiety-and-migraine-nhs-part",
+  "title": "Propranolol: medicine for heart problems, anxiety and migraine - NHS — Part 2",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "49c2383e91448f0bec62da61461695134265702ce92306fbc966218e549e4ab4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1675,
+    "content_hash": "97df1559dbbb7a881fc9410244272540ba2a18667140ff0af9c049ca95fdd7d1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3a630737-e3b4-4014-9e20-3dd052c0cd55",
+  "slug": "section-0033-taking-alendronic-acid-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking alendronic acid with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "87d983784730de3268539ab0bf5438efde4828849ac1576c1fc37089cc3d1849",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 33,
+    "content_hash": "e4a14ddd5a06e3b44a11007e43de6f026285d1dbfdb27972c8a696bb4fdae98d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

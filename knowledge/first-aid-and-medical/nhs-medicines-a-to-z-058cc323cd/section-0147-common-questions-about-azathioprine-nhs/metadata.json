@@ -1,0 +1,25 @@
+{
+  "id": "5319cf40-da62-484f-98cf-5af01a9073e6",
+  "slug": "section-0147-common-questions-about-azathioprine-nhs",
+  "title": "Common questions about azathioprine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "d4c450a1531e6bceed7645fa1a31ff6a0f1dfc3226d96af1c539627bbad73941",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 147,
+    "content_hash": "76bb0eb44de4d20e6577ab787c02e0fbed753d9a247960ea5d5e1cc37f21f5fa",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

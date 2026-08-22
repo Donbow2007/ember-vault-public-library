@@ -1,0 +1,25 @@
+{
+  "id": "c1c0abfb-2ba9-4dd3-bb8c-a9654db72a09",
+  "slug": "section-1247-common-questions-about-linagliptin-nhs",
+  "title": "Common questions about linagliptin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "76d3dd774287f2c0cb89d614439e469507d5be7f043d7191a9cb7a43487b0d3e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1247,
+    "content_hash": "4ead58688f826f40e27f6c12d6b3978cd0def6b7299f38f5947f28acbbd542bc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1e959168-b729-4738-8a7f-a5a7ec50495a",
+  "slug": "section-0264-japanese-noodle-soup",
+  "title": "Japanese Noodle Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "adfac8a920acaab54c4ecbb4dbc7aa3583263ff8d10ef492459e7d970efcdbb0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 264,
+    "content_hash": "3674ebe80b666c5a22f95325bfbc13fb33861b591969d481d5e97137870a4bc9",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

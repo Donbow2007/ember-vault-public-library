@@ -1,0 +1,25 @@
+{
+  "id": "0152d98b-3617-4e83-aaff-4b5cf0ec321a",
+  "slug": "section-1159-isosorbide-mononitrate-and-isosorbide-dinitrate-medicines-for-angina-a",
+  "title": "Isosorbide mononitrate and isosorbide dinitrate: medicines for angina and heart failure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "eb5b2b6f4b634f1424205f5fb953d41fb9ebd35adf8c782d5a436dd0f621d1db",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1159,
+    "content_hash": "90d112039d9e0ea5aa0d580d9814fd21905c12e34762e83009eb831024742ae1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

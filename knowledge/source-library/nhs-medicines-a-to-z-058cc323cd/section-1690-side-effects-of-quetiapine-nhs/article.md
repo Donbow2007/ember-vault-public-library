@@ -1,0 +1,27 @@
+# Side effects of quetiapine - NHS
+
+Side effects of quetiapine - Brand names: Atrolak, Biquelle, Seroquel, Sondate, Zaluron Like all medicines, quetiapine can cause side effects, although not everyone gets them. Common side effects These common side effects of quetiapine may happen in more than 1 in 10 people. There are things you can do to help cope with them:
+Feeling sleepy during the day
+Do not drive, cycle or use tools or machinery. Try to avoid drinking alcohol as this will make you feel more tired. As your body gets used to quetiapine this side effect should wear off. If it still makes you feel sleepy after a few weeks, speak to your doctor.
+Problems with your movement
+Speak to your doctor if you have any problems with your movement. This can include difficulty moving or stiff muscles that make your movements jerky. Sometimes you may feel like you "freeze up" and then restart moving. You may have other symptoms like a slow shuffling walk, tremors and drooling.
+Headache
+Make sure you rest and drink plenty of fluids. Do not drink too much alcohol. Ask your pharmacist to recommend a painkiller. Talk to your doctor if headaches last longer than a week or are severe.
+Feeling dizzy
+Stop what you're doing and sit or lie down until you feel better. Do not drive, cycle or use tools or machinery. Try to avoid drinking alcohol as this will make you feel worse. If you feel dizzy when you stand up, try standing up slowly and hold onto something to steady your balance until the dizziness has passed. It should only last a few moments. As your body gets used to quetiapine, this side effect should wear off. If you still feel dizzy after a few weeks, speak to your doctor.
+Putting on weight or changes to your appetite
+If quetiapine makes you feel more hungry than usual, try to eat a healthy, balanced diet without increasing your portion sizes. Do not snack on foods that contain a lot of calories, such as crisps, cakes, biscuits and sweets. If you feel hungry between meals, eat fruit and vegetables and low-calorie foods. Regular exercise will also help to keep your weight stable.
+Constipation
+Get more fibre into your diet , such as fresh fruit, vegetables and cereals, and drink plenty of water. Try to exercise more regularly, for example, by going for a daily walk or run. If this does not help, talk to your pharmacist or doctor.
+Swollen breasts, pain in your breasts or leaking breast milk
+Speak to your doctor if you get this side effect.
+Irregular periods or stopped periods
+Speak to your doctor if you get changes to your periods.
+Fast heartbeat
+Speak to your doctor if you get this side effect. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects Serious side effects are uncommon and may happen in up to 1 in 100 people. Speak to your doctor or call 111 now if you get: twitching or jerking movements that you cannot control in your face, tongue, or other parts of your body infections, such as cold or flu symptoms, high temperature, or ear, eye, bladder or chest infections swelling, pain or redness in your leg – this may be a sign of blood clots Immediate action required: Call 999 if:
+you have weakness on one side of your face or body, trouble speaking or thinking, loss of balance or blurred eyesight – these can be signs of a stroke Immediate action required: Call 999 or go to A&E if:
+you have a painful erection that lasts more than 2 hours (priapism) – this may happen even when you are not having sex you have chest pain or difficulty breathing – these may be signs of a blood clot in your lungs you have a high temperature, muscle stiffness, sweating, anxiety or excess saliva – these may be signs of a disorder called neuroleptic malignant syndrome Find your nearest A&E Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to quetiapine. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of quetiapine. For a full list see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 6 July 2022
+
+Next review due: 6 July 2025

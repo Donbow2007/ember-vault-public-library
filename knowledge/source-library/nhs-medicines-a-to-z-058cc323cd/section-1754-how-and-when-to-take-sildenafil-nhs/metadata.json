@@ -1,0 +1,25 @@
+{
+  "id": "61b335fe-51aa-4ed2-867d-c89c808eae51",
+  "slug": "section-1754-how-and-when-to-take-sildenafil-nhs",
+  "title": "How and when to take sildenafil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "777907fbdf920f9fbcb9b796b93e9163a24e69d02ca3963458094987a10a85d1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1754,
+    "content_hash": "068e52628416a52e440acbe13c3b133e0395bea2cce35c8f7ec9a14d76011fa3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

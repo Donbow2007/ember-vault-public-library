@@ -1,0 +1,25 @@
+{
+  "id": "7ec383cf-9411-4eb1-850b-b95ae088521e",
+  "slug": "section-0771-esomeprazole-medicine-to-lower-stomach-acid-nhs",
+  "title": "Esomeprazole: medicine to lower stomach acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "fe0b96a463711c0db6b95a1879c97ee40a0a363557c479144b18a0238805b393",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 771,
+    "content_hash": "630f8e4401989ff498e1b74a6a33fbad5c26521afdf44d1760e1d8889cb1ae0e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

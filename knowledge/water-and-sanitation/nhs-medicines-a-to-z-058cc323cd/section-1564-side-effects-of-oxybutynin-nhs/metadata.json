@@ -1,0 +1,25 @@
+{
+  "id": "881f1d98-9403-4f33-b006-cc679f499998",
+  "slug": "section-1564-side-effects-of-oxybutynin-nhs",
+  "title": "Side effects of oxybutynin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "57d59a2abfc4354bab515c80ee865f0e50cae6d0ee37a371305239904d000bd3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1564,
+    "content_hash": "59b75c0950713f453ff16839ae188cc19c649e2aee08fb72190fa1a4eef2101b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

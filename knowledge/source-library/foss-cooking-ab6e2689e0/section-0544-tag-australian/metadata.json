@@ -1,0 +1,25 @@
+{
+  "id": "42d46f98-8226-457d-a58b-03559b78866b",
+  "slug": "section-0544-tag-australian",
+  "title": "Tag: australian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "1fa8959f1e0cf54b6e95d609f9cde23c0f1a79ebb6a0c10b2b9fee131e55314b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 544,
+    "content_hash": "aa02fe0998171fc45278954c841748adfe95ca14a66c980c8b6641ba0c91d0d2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

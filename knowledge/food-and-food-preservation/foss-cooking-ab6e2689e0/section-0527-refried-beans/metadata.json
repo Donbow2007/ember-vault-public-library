@@ -1,0 +1,25 @@
+{
+  "id": "22b1cddd-db58-4152-a3b7-f3b0be02b4fa",
+  "slug": "section-0527-refried-beans",
+  "title": "Refried Beans",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "d2448e9e6aa1cb017064fc390b789431d65b5fd276a081c288048284055b8fc4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 527,
+    "content_hash": "e81993f9d4efe3a0ab3f8bb696ef8dc34950ef0f746a05fad175b6f4e6fdef01",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

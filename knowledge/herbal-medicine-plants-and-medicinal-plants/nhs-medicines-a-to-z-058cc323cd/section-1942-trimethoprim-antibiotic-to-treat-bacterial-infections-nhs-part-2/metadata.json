@@ -1,0 +1,25 @@
+{
+  "id": "5d0290cc-5c7a-4a52-8a21-3d389aadd1a4",
+  "slug": "section-1942-trimethoprim-antibiotic-to-treat-bacterial-infections-nhs-part-2",
+  "title": "Trimethoprim: antibiotic to treat bacterial infections - NHS — Part 2",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "e666e40a7ca7732cce5eaaaccb0223dde0a5cf44cb3523d1c9d1cb307672a267",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1942,
+    "content_hash": "93a50dad183078932978d0fde3b683423fe3b96633a17f600e3209780fecdb5f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

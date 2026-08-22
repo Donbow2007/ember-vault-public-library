@@ -1,0 +1,25 @@
+{
+  "id": "1605dc87-9664-44b2-bd76-21147a5e6a66",
+  "slug": "section-0397-how-and-when-to-use-chloramphenicol-nhs",
+  "title": "How and when to use chloramphenicol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "9356f985fc7c153f33bc67b311531e10e5894310f673b9c6273b09da41159edf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 397,
+    "content_hash": "bfa15b38a36af81226857a7d8dc838a74057d914b640253f5b309e5fc4ced4cb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

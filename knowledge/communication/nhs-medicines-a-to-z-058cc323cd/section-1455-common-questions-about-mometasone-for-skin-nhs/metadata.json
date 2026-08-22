@@ -1,0 +1,25 @@
+{
+  "id": "525630e8-fb6f-4d02-9f52-940cd70bced7",
+  "slug": "section-1455-common-questions-about-mometasone-for-skin-nhs",
+  "title": "Common questions about mometasone for skin - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "3002876a9d2d21856264d50bfe52160253e8d3518e07168b384cc65f1d395af6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1455,
+    "content_hash": "30067ce4dd57213886e55415fb2f9ff884c4bd627b0a639b31088bc7259a9bcf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e270b0a2-c300-4eca-bbe4-85913cf348a2",
+  "slug": "section-0214-side-effects-of-benzydamine-nhs",
+  "title": "Side effects of benzydamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "4b0057e950b0083e8c318d7b754c01ff208f0a221cfa05e2436b4cc57691e5e5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 214,
+    "content_hash": "b23223c9806bbd4f0fd3c8672359e1f11e62d64673c23fe13a53a2bef426ed32",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

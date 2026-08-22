@@ -1,0 +1,25 @@
+{
+  "id": "bba039d8-0f7d-4e5a-b689-384a39250534",
+  "slug": "section-1325-mebendazole-a-medicine-to-treat-worms-nhs",
+  "title": "Mebendazole: a medicine to treat worms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "3c22bc4e88baf208c5e752280e24aadaf60c6f0fd80742e447dbf91c9db152c9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1325,
+    "content_hash": "9d376b85a6bdfc7232ca1dd6be640d973aa193d4c4adb61106ddc4042705f6dc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

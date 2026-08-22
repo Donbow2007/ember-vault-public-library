@@ -1,0 +1,8 @@
+# Taking or using ciprofloxacin with other medicines and herbal supplements - NHS
+
+Taking or using ciprofloxacin with other medicines and herbal supplements - Brand names: Ciproxin, Ciloxan, Cetraxal Cautions with other medicines Some medicines can affect the way ciprofloxacin works. They can also make you more likely to get side effects. It's important to tell your doctor if you take any of the following medicines before taking ciprofloxacin: antacids for heartburn or indigestion – take ciprofloxacin at least 2 hours before antacids or at least 4 hours after methotrexate , a medicine used to treat conditions such as rheumatoid arthritis phenytoin, a medicine for epilepsy steroids, such as prednisolone theophylline or aminophylline for asthma tizanidine, a medicine used for muscle stiffness warfarin , a medicine to help prevent blood clots Mixing ciprofloxacin with herbal remedies and supplements Iron tablets (such as ferrous sulfate or ferrous fumarate ), calcium and zinc supplements can affect ciprofloxacin. Leave 2 hours in between taking supplements and your dose of ciprofloxacin tablets or liquid. There's not enough information to say whether other complementary medicines, herbal remedies and supplements are safe to take with ciprofloxacin. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 13 December 2022
+
+Next review due: 13 December 2025

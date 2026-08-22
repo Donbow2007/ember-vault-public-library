@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while using hydrocortisone buccal tablets - NHS
+
+Pregnancy, breastfeeding and fertility while using hydrocortisone buccal tablets - Brand name: Corlan Hydrocortisone buccal tablets and pregnancy Hydrocortisone buccal tablets can be used in pregnancy. They contain a very low dose of hydrocortisone. Only very small amounts will get into your blood and this will not harm your baby. Hydrocortisone buccal tablets and breastfeeding You can use hydrocortisone buccal tablets if you're breastfeeding, but only use them for a few days, until the ulcer has healed. It's not known how much passes into breast milk, but it's likely to be a tiny amount, and your baby will not be able to absorb a lot of it into their body. It's unlikely to cause any side effects in your baby. If you notice that your baby is not feeding as well as usual, is not putting on weight as you would expect, or if you have any other concerns about your baby, talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Hydrocortisone buccal tablets and fertility There's no evidence to suggest that using hydrocortisone buccal tablets will affect fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Information: Find out more about how steroids such as hydrocortisone buccal tablets can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 19 January 2024
+
+Next review due: 19 January 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

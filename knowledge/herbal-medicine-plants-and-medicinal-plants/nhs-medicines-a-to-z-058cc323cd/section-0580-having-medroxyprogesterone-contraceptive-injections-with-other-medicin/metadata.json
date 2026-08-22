@@ -1,0 +1,25 @@
+{
+  "id": "e7d53ea3-1d84-4f12-bd0c-9f72eb817256",
+  "slug": "section-0580-having-medroxyprogesterone-contraceptive-injections-with-other-medicin",
+  "title": "Having medroxyprogesterone contraceptive injections with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "f16299f67358db94d9ff5274b730b19f943fd444cb4b00e781f0df480df03d9e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 580,
+    "content_hash": "bf424bd795308b2e6949dd52d5cd86fc6719f9222136654bdaa18759d18477df",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

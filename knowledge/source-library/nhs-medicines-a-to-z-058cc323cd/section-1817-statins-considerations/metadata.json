@@ -1,0 +1,25 @@
+{
+  "id": "6b422eec-dd85-4ec1-a338-877522ad903a",
+  "slug": "section-1817-statins-considerations",
+  "title": "Statins - Considerations",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "e1f81d694e491169e61f298b3aac9fb270cd9107092b8423ebac689d75dbe555",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1817,
+    "content_hash": "abb03ef4e3524ea896fa725259f5bdf32c0235503a8c5934cd01d93fd9f12875",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

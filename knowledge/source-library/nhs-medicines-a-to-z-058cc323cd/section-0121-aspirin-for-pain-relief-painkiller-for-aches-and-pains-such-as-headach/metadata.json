@@ -1,0 +1,25 @@
+{
+  "id": "e3fccedd-dfbb-41c8-9cf5-b81882ec3d9a",
+  "slug": "section-0121-aspirin-for-pain-relief-painkiller-for-aches-and-pains-such-as-headach",
+  "title": "Aspirin for pain relief: painkiller for aches and pains such as headache, toothache and period pain - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "64926b5a69101e51afa6769262340110ab81843913122d3cb32dcdacb3254710",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 121,
+    "content_hash": "e3eab5e1bb771ed22360985d338faa833ade46dc78115690be5bdccda12b28d2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

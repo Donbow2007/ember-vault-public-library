@@ -1,0 +1,25 @@
+{
+  "id": "9cca77b8-116e-4d35-96ba-084ad75a432b",
+  "slug": "section-0497-who-can-and-cannot-use-clotrimazole-for-thrush-nhs",
+  "title": "Who can and cannot use clotrimazole for thrush - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "2c5467ac374054e0706d5fe384c49728024580f09017d75ca7e718c3884a25e7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 497,
+    "content_hash": "7d74c95985e374e926c84cdb1011e1052713195bc1d691909178353f6930ecc7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

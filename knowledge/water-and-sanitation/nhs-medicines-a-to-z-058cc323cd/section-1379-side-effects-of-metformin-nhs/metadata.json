@@ -1,0 +1,25 @@
+{
+  "id": "bc028bc7-3c09-4964-8e25-6c6742ef570e",
+  "slug": "section-1379-side-effects-of-metformin-nhs",
+  "title": "Side effects of metformin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "298d64c8a012729b090416ee1b1e4d44f2a1904b610ac490186225e9437a5fba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1379,
+    "content_hash": "cccd9c27061330961a53d87153fe4e76c2f36153d9a99cb67efe2f650811cc95",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

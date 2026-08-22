@@ -1,0 +1,25 @@
+{
+  "id": "a9343d7a-8db4-4d33-85f4-c49f81c5aa70",
+  "slug": "section-0745-taking-enalapril-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking enalapril with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "ce63ef8541f74e7a489796c81c72d13ca69b25efe7a2887cbe83905ff72c867c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 745,
+    "content_hash": "bf41a1ddfbcd5987bfb1f50e5f391ac08fd69e9b51e65274699b46daff1eb467",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

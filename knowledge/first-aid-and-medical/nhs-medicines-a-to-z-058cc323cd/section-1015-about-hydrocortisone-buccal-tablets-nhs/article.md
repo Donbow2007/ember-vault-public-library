@@ -1,0 +1,9 @@
+# About hydrocortisone buccal tablets - NHS
+
+About hydrocortisone buccal tablets - Brand name: Corlan Hydrocortisone is a type of medicine known as a steroid (also called a corticosteroid). Corticosteroids are not the same as anabolic steroids. Hydrocortisone buccal tablets relieve the soreness of mouth ulcers and speed up healing. The tablets stick gently to the inside of your mouth and release hydrocortisone as they dissolve. Hydrocortisone buccal tablets are usually prescribed by your doctor or are available from pharmacies. Important:
+Tablet shortage
+Due to a supply issue, hydrocortisone buccal tablets are not currently available on prescription or to buy at pharmacies. If you've been prescribed these tablets, speak to your doctor about suitable alternatives. Other types of hydrocortisone There are different types of hydrocortisone, including tablets you swallow, skin treatments and injections. Find out more about other ways you can use hydrocortisone to treat different health problems . Key facts Mouth ulcers will usually feel less sore within a few days of starting treatment and should heal within 5 days. You put hydrocortisone buccal tablets directly on top of your mouth ulcer. You'll usually use 4 hydrocortisone buccal tablets a day for up to 5 days. Leave the tablet to dissolve slowly against the ulcer. If you swallow or suck buccal tablets they will not work. If you have more than 1 ulcer, move the tablet around your mouth so the medicine can dissolve on each ulcer. Do not use more than 1 tablet at a time and do not use more than 4 in a day. Do not use buccal tablets for mouth ulcers which are caused by dentures (false teeth), an injury or an infection – they could make these ulcers worse.
+Page last reviewed: 19 January 2024
+
+Next review due: 19 January 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

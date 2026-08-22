@@ -1,0 +1,25 @@
+{
+  "id": "ef15edfa-a854-419e-85d7-40a0ff0a64aa",
+  "slug": "section-0423-side-effects-of-cinnarizine-nhs",
+  "title": "Side effects of cinnarizine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "e1c31e16c843a8ecabbeaa698a95884cfd042779e41ef2fa26ca3308272cf89e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 423,
+    "content_hash": "2dc76a3ea47338e171e2a854138ab0c6f894e8c68a3f6c731cb8430a8c8daf71",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

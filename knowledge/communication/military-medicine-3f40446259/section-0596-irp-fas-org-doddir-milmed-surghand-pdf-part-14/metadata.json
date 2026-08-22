@@ -1,0 +1,25 @@
+{
+  "id": "5b6c66b0-00d6-43d0-a9ae-e92e7b6dfc89",
+  "slug": "section-0596-irp-fas-org-doddir-milmed-surghand-pdf-part-14",
+  "title": "irp.fas.org/doddir/milmed/surghand.pdf — Part 14",
+  "category": "communication",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "34282e3637b974de2fd7a76f498646705e22ba9f53f44c1fc43ace3213b91900",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 596,
+    "content_hash": "81d6d1637e534e3f7cf0b06242d8fdf4e159768f08f3135c79f2c7b4ec603f45",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

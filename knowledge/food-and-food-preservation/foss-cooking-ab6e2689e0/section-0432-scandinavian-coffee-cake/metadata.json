@@ -1,0 +1,25 @@
+{
+  "id": "cddd2843-b672-48c8-bb49-4fdd2acaacbb",
+  "slug": "section-0432-scandinavian-coffee-cake",
+  "title": "Scandinavian Coffee Cake",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "a42b349ca554844de8378a170c382c8a5e5b3c0ec1f30ba670eaf27075709031",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 432,
+    "content_hash": "2bbe53780516dcccf59cffcf204a40c8e3b970b90204b6e75905d6390b47eac9",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

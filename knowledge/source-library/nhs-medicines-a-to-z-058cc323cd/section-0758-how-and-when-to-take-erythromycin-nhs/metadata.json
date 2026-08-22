@@ -1,0 +1,25 @@
+{
+  "id": "429aa4b6-981c-4223-867d-76d95804ebf8",
+  "slug": "section-0758-how-and-when-to-take-erythromycin-nhs",
+  "title": "How and when to take erythromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "361935024224a34a8cddc7d2107985af7aa70bdab459b0136ef82efb4391d06f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 758,
+    "content_hash": "30b297af25fa9b7a69d226f8f5577c244d8f2c0f5d32515b2c7d085dcad3bf17",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

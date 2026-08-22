@@ -1,0 +1,25 @@
+{
+  "id": "cc04ad14-b1f3-49b9-af6a-3924c857d7a9",
+  "slug": "section-0165-slow-cooked-lamb-with-lemon",
+  "title": "Slow-cooked Lamb with Lemon",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "d897ce5ea381d6e260caf7cd56e46010de4205a600b84a6a8e8ca9c5da1720e1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 165,
+    "content_hash": "64cd30d45346f8ae71bd1c3218a80ce9249eff03daa75460551459eed328cca2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

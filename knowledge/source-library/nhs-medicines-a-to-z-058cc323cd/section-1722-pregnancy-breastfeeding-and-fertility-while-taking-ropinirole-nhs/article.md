@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking ropinirole - NHS
+
+Pregnancy, breastfeeding and fertility while taking ropinirole - Brand names: Requip, Ipinnia, Repinex Ropinirole and pregnancy Ropinirole is not often used in pregnancy. This is because there's little information about how the medicine may affect your baby. However, your doctor may advise you to take it if they think the benefits of taking the medicine outweigh any risks. If you become pregnant while taking ropinirole, speak to your doctor as soon as possible. Ropinirole and breastfeeding Ropinirole is not often used when breastfeeding. It's not known how much ropinirole passes into breast milk. If your baby is healthy, you may be able to take ropinirole while breastfeeding, but this is usually after specialist advice. Ropinirole may reduce the amount of milk your body makes, although this is less likely if you've been breastfeeding for a while. This might make breastfeeding more difficult. It's important to keep monitoring your baby if you're taking any medicine while breastfeeding. If your baby has any symptoms, or if you're worried about them, you can call 111 or contact any healthcare professional. Keep breastfeeding as usual until you've got advice about your baby's symptoms. Ropinirole and fertility There's no evidence that ropinirole affects fertility in either men or women. However, speak to a pharmacist or your doctor before taking it if you're trying to get pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 1 April 2025
+
+Next review due: 1 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

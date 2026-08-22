@@ -1,0 +1,25 @@
+{
+  "id": "986e9b57-7be2-4e4d-b01a-34e6235eaa96",
+  "slug": "section-0504-using-clotrimazole-cream-spray-and-solution-with-other-medicines-and-h",
+  "title": "Using clotrimazole cream, spray and solution with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "d616e04fdcba7a8de1776f547ec12f187d2e84f59ae5a329a33014d1489e3321",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 504,
+    "content_hash": "453585b8e46816b12acbb3442f19c526a6ac5e437e73a2881dc5dfccafeda2c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

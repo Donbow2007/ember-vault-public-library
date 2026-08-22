@@ -1,0 +1,25 @@
+{
+  "id": "9e077569-e4c6-4fbf-8d7b-4469aa27c3bd",
+  "slug": "section-1392-common-questions-about-methotrexate-nhs",
+  "title": "Common questions about methotrexate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "544c913841b7a6374597db145526e0077a861b5b048b80d5677911422c6e260d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1392,
+    "content_hash": "d031cff74fa27cc97b00e78d7d040a29098d9ffa29f7a69bab6dc08875e054d6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e1b4d7cc-a8ab-4d61-834b-58403b654509",
+  "slug": "section-1058-about-hydroxychloroquine-nhs",
+  "title": "About hydroxychloroquine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "8ab0ebbb0ca38d1dbef4497bd79745e98099449b75bb1ce67daf28fc7ba4fdee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1058,
+    "content_hash": "7662d02593ae84cdf1476e8ee22b344fb45de49f1ccc3d83d89ca8cfb78f4929",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

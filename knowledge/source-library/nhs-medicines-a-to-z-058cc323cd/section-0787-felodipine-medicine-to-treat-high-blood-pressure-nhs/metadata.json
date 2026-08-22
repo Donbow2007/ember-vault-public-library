@@ -1,0 +1,25 @@
+{
+  "id": "a21ed053-7725-4246-a998-dedfdf8e5ae3",
+  "slug": "section-0787-felodipine-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Felodipine: medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "fa7cbc1dad0d86c7252de32792a9da7da309b2484726f4850dd6f32070030994",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 787,
+    "content_hash": "946e98f348d3ce07372ebb5da3eb3fb898ae17038e6d28c34b5e7eeaea22d37f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

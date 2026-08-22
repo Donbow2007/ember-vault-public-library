@@ -1,0 +1,25 @@
+{
+  "id": "370df103-34dd-4705-ac90-96e1c74e6eb3",
+  "slug": "section-1959-varenicline-a-medicine-to-help-you-stop-smoking-nhs",
+  "title": "Varenicline – a medicine to help you stop smoking - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "216cd98f1be4157ef6887f342fb9547354077b3f4b61534d1ee61e5da383eac6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1959,
+    "content_hash": "c66a96886cf90d2d0d1b2f868789620287f9a25db0769ad135a5fdb6ea7f8998",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

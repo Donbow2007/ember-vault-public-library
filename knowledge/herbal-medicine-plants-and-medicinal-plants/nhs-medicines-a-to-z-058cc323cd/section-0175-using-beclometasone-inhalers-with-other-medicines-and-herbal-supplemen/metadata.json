@@ -1,0 +1,25 @@
+{
+  "id": "eee748ef-7034-4292-9646-c0ccc698c7ad",
+  "slug": "section-0175-using-beclometasone-inhalers-with-other-medicines-and-herbal-supplemen",
+  "title": "Using beclometasone inhalers with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "46a8584664405dcb7cc18dd8962d4fb9836a4fadfb5e30a877c7c2e39143ae92",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 175,
+    "content_hash": "07fa39a76ead8428ba06cec71ead8a871f7f38369d8f639afc8c3fc736c0d8a6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

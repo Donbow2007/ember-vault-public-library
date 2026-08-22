@@ -1,0 +1,25 @@
+{
+  "id": "fb9ffd64-0b41-4542-83c6-0af10ed8a449",
+  "slug": "section-1394-pregnancy-breastfeeding-and-fertility-while-taking-methotrexate-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking methotrexate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "64c222bc80083d54a74362e1d658cd6607c0de980c9af614e3076ae1890a9c9d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1394,
+    "content_hash": "4bc2c282d0621c96e04ad93b952aa162ddac3d57dc22e8a1c4666f15ee639003",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

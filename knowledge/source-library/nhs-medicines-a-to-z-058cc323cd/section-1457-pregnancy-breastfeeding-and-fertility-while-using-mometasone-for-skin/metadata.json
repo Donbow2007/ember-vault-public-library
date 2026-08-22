@@ -1,0 +1,25 @@
+{
+  "id": "2018ae75-2215-49c0-9aad-03b266c4d17d",
+  "slug": "section-1457-pregnancy-breastfeeding-and-fertility-while-using-mometasone-for-skin",
+  "title": "Pregnancy, breastfeeding and fertility while using mometasone for skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "c9e4a9000ec39803429e5c88c450dd8824c62f521fb8773eb93993aef9bc28c3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1457,
+    "content_hash": "095cc09a50b922d98a945a49b81a50db56fb919e226639757f4a29f767561a38",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

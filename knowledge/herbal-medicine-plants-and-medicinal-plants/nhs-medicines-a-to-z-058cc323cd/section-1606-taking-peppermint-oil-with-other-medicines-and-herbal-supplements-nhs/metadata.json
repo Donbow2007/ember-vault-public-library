@@ -1,0 +1,25 @@
+{
+  "id": "6e13596f-26ac-425f-9d75-6733dcf5ebd1",
+  "slug": "section-1606-taking-peppermint-oil-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking peppermint oil with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "a0fb26c882e6b74c83dde527e6b10c76c10693793753971043257eede6cb372c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1606,
+    "content_hash": "cc24b13ca79f4350190777dab762424b6c0dc45ec583b3e8e78dcb6b952abccf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

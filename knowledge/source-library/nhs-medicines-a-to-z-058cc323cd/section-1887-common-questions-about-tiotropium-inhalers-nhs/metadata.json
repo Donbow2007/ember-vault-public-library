@@ -1,0 +1,25 @@
+{
+  "id": "18c46ebc-56bb-49e3-a605-df9504ec1ae3",
+  "slug": "section-1887-common-questions-about-tiotropium-inhalers-nhs",
+  "title": "Common questions about tiotropium inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "b861eaafec13fa831d0ca3954c51b427b5d31a20a462e4ad53aef8dea30788b6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1887,
+    "content_hash": "9cc718888b466fc2274ec8df174779c275688d36add2c6b68da125d0361a5516",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

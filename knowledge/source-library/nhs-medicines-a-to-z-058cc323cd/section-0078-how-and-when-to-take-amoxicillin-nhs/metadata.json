@@ -1,0 +1,25 @@
+{
+  "id": "bf15a1ce-5770-48d4-9b08-40dd9bace1e5",
+  "slug": "section-0078-how-and-when-to-take-amoxicillin-nhs",
+  "title": "How and when to take amoxicillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "2d22ebed5e8ab757014152b83125667b86761b2dd4b18ee1b8c6fb86a490746f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 78,
+    "content_hash": "83e00dedfbd16afc5d32202c20ccf51ef85610bcff10f56b68eb749bee853df9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

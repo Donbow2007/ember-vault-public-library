@@ -1,0 +1,25 @@
+{
+  "id": "7c7e36b2-5489-4f8e-83ba-92ae4b039286",
+  "slug": "section-0508-common-questions-about-co-amoxiclav-nhs",
+  "title": "Common questions about co-amoxiclav - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "7421b6c39cf244cf23b0eacfe429e563e3d04e8aa8d2a8b7dbabef6ec9c241b7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 508,
+    "content_hash": "369302d8473be8a43ee66d84f9f650e23ecce0f0cb47e80f1347a3eb4d267f88",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

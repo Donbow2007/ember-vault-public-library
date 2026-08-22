@@ -1,0 +1,25 @@
+{
+  "id": "cedcd0f5-33cd-4abc-a4c3-0db8874f2935",
+  "slug": "section-0541-how-and-when-to-give-co-codamol-for-children-nhs",
+  "title": "How and when to give co-codamol for children - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "66d718019647241331242a35b75b0a2922a454e4f80788adf0cf4c8d29cbee67",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 541,
+    "content_hash": "0057671b1b0c1a97a03356e3164f6440fc064c16e1c1300074ef32bf3401798e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

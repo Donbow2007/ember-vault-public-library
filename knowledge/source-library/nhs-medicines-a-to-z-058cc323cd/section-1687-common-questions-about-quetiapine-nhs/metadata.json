@@ -1,0 +1,25 @@
+{
+  "id": "ac64b0aa-5037-4fd6-87aa-4d82510b2666",
+  "slug": "section-1687-common-questions-about-quetiapine-nhs",
+  "title": "Common questions about quetiapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "eb4c2105dfa728bd6b98b00f1d9dcf3afe236348db8766e0bc3001c92c32c3c0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1687,
+    "content_hash": "35b77f64b51611049edffe9b97257db742e33d4aaf9238159b1a838cb7c0f511",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

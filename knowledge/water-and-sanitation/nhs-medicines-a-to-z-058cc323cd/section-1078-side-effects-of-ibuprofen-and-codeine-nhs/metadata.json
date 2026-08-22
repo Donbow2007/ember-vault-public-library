@@ -1,0 +1,25 @@
+{
+  "id": "b122568e-3823-4b3d-943a-bb6475440a8b",
+  "slug": "section-1078-side-effects-of-ibuprofen-and-codeine-nhs",
+  "title": "Side effects of ibuprofen and codeine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "33e21485458dcd67a7bb988a9d2bcba67a5d1ddf26fe081fa8ccc976a2b154da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1078,
+    "content_hash": "53c005491ddfddc9d72686a77558716dbaaa6b12d75631a3a161097f279a85d1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

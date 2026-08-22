@@ -1,0 +1,25 @@
+{
+  "id": "e1dd0be6-bd4e-47f6-9edd-b1a2e41e4414",
+  "slug": "section-2005-side-effects-of-zopiclone-nhs",
+  "title": "Side effects of zopiclone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "2ea3071d3eea7eb7ee18b24206b31a43fa17c19d120f247c4c7077d8a7e64351",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2005,
+    "content_hash": "50f32e40a2c06a5e1936a19fe59e6ea7336f24d455bdf86a2775fe0053d6d187",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

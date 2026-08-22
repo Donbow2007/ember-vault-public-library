@@ -1,0 +1,25 @@
+{
+  "id": "b2022265-d7ba-4929-bd64-90591e322c53",
+  "slug": "section-1622-taking-perindopril-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking perindopril with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "70d0a777997b10cea279528e75d67fdb33bfa365e116152f576a963e15dafe99",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1622,
+    "content_hash": "25eb681660dda01ddae93bcd92aa30a62787f52ee67199d5d0573677db4bc236",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

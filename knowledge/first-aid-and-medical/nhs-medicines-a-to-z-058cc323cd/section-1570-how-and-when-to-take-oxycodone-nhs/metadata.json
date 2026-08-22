@@ -1,0 +1,25 @@
+{
+  "id": "7bbd218e-8542-4ddc-b042-348b01eedbb6",
+  "slug": "section-1570-how-and-when-to-take-oxycodone-nhs",
+  "title": "How and when to take oxycodone - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "fe16486138327293dff136a0e1a61040b0934c7e7c6f4978aef36332c8f7560a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1570,
+    "content_hash": "cd28d49325ec1ead748491dd69e57772b79be143ed14b604dc1d30f94f63174d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c0fde299-4077-4a7b-ba86-8b0000b8017e",
+  "slug": "section-0120-svent",
+  "title": "SvenT",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "d20d1a5e5bb3741719f8eaa3e9d7fbe248885ac2911546d68dda664cce55946f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 120,
+    "content_hash": "067eee61efed17896be44a0c0529eff4a6390a28cee751965a7a005ea7796b26",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5eb97638-2aef-44e1-8897-f9a6523a2e47",
+  "slug": "section-0855-how-and-when-to-take-fluoxetine-nhs",
+  "title": "How and when to take fluoxetine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "5c825ac339bd5bf5ececa82a0ca82930836415a60dd13d9fc902d0d2605025b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 855,
+    "content_hash": "4b480a35ca4cc8fde9aa1fb1a7850cf10321e90f0bf87d27d8d1e3b22cedf0cd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

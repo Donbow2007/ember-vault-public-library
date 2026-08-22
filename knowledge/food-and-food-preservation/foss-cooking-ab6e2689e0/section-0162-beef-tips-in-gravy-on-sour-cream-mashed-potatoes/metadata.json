@@ -1,0 +1,25 @@
+{
+  "id": "d050cd7f-c5db-4b6d-b686-c6d5256acde9",
+  "slug": "section-0162-beef-tips-in-gravy-on-sour-cream-mashed-potatoes",
+  "title": "Beef Tips in Gravy on Sour Cream Mashed Potatoes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "c2d6fd4a53a5e983080d667e182809668c7e8e15da571ff6a5bc379ff937fe16",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 162,
+    "content_hash": "3455e31ab80f7f78cb1d4b7edf61755115b88eb11f3360cbb47943353666e991",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

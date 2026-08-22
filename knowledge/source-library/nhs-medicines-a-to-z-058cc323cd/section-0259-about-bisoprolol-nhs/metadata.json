@@ -1,0 +1,25 @@
+{
+  "id": "97d482b0-9853-4abe-aef0-e8aab3b6430a",
+  "slug": "section-0259-about-bisoprolol-nhs",
+  "title": "About bisoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "4d2231305251f33f228299895a4680e112a1d01c42c78af3895eb74b32434ac8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 259,
+    "content_hash": "e7b775299fdd3b3a53a15097a2f4b39b383c65634336f8b68fcbd219003c60c6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

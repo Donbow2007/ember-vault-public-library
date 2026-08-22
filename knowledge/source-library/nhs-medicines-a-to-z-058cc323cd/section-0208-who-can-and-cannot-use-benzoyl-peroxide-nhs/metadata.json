@@ -1,0 +1,25 @@
+{
+  "id": "260c2353-adab-4381-8595-aadd7bd4e257",
+  "slug": "section-0208-who-can-and-cannot-use-benzoyl-peroxide-nhs",
+  "title": "Who can and cannot use benzoyl peroxide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "a50ff143105517d6265ad893f393d9ba726b1626eea703cffd78d490291bc08e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 208,
+    "content_hash": "124d4bfdf0b9c8c6d4c75083657c2eed38adb0b829d333c56a9d7ca2754a0e32",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

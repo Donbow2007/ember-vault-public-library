@@ -1,0 +1,25 @@
+{
+  "id": "a3862035-f656-4f66-9479-fbcac25b6297",
+  "slug": "section-1243-using-lidocaine-skin-cream-with-other-medicines-and-herbal-supplements",
+  "title": "Using lidocaine skin cream with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "0ff2108aeba562a03673984c9a9329b49a7684afc45f21c77dca2dd49a74de95",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1243,
+    "content_hash": "49aa2f1e826ec600704a0db30ba4cc70d3300291b69f7e524316eac6e0ad7bae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

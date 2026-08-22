@@ -1,0 +1,25 @@
+{
+  "id": "1626ca80-8d5f-4402-b8d2-deb0df2d3173",
+  "slug": "section-0212-how-and-when-to-use-benzydamine-nhs",
+  "title": "How and when to use benzydamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "4c8462ce7c9720829f80c40d5872aa25d75cf51c5d3e67aa8510e24ca722c6c6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 212,
+    "content_hash": "d935a03b27390871b9ef21c89af19ad7501e1c738f2316c6bf5b8d7f241f7126",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "86af1178-310d-4d93-9c2c-12114f2c06cf",
+  "slug": "section-1934-about-trazodone-nhs",
+  "title": "About trazodone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "dd322732924745996747ea37b26f69529f760f07f45883e07bad2dd0745ef00d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1934,
+    "content_hash": "8d4f608ffad218bd752dc6c284242d20e74e87142b0a8f0d1b811115a385d21f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

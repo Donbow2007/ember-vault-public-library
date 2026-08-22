@@ -1,0 +1,25 @@
+{
+  "id": "101ee8c3-df6b-49f0-84b8-d81e70be38c0",
+  "slug": "section-2002-common-questions-about-zopiclone-nhs",
+  "title": "Common questions about zopiclone - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "8b32eb9bb13e7e073e642208ceb952236d661cf32b969ed6a0debe381fe8c92e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2002,
+    "content_hash": "6bfa469ff9b3818f441cccd971c4b65d08fbd35445c53466433e82a51d75f8af",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

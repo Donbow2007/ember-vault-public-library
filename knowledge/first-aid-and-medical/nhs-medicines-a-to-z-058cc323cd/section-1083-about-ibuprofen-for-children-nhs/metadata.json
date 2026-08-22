@@ -1,0 +1,25 @@
+{
+  "id": "f901a8a5-0a17-401c-b8f4-7b19d6d80829",
+  "slug": "section-1083-about-ibuprofen-for-children-nhs",
+  "title": "About ibuprofen for children - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "6048e32d3d7cd979d9cffb7d3031f8c63ca1c4f6b3d2b403952229fbf3c7af62",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1083,
+    "content_hash": "bca3ad8d8966753c20266495de44aedcdfb9a8f99e65678f96fd16fb7e49f5ca",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

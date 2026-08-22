@@ -1,0 +1,14 @@
+# Side effects of thiamine - NHS
+
+Side effects of thiamine - Brand names: Benerva, Tyvera, Athiam, ThiaDose, ThiamEss Like all medicines, thiamine can cause side effects in some people. But most people have no side effects or only minor ones. Common side effects There are things you can do to help cope with these common side effects of thiamine:
+Feeling sick (nausea)
+Take thiamine with, or just after, a meal or snack. It may also help if you avoid rich or spicy food.
+Diarrhoea
+Drink lots of fluids, such as water or squash, to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. If you take the combined contraceptive pill or progestogen-only pill and you have severe diarrhoea for more than 24 hours, your contraception may not protect you from pregnancy. Check the pill packet for advice.
+Stomach ache
+Take your thiamine with, or just after a meal or snack. Some gentle movement or exercise may help any pain. Putting a heat pad or covered hot water bottle on your stomach may also help. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious allergic reaction In rare cases, thiamine can cause a serious allergic reaction ( anaphylaxis ). Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not the full side effects of thiamine. For a full list, see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 9 February 2023
+
+Next review due: 9 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

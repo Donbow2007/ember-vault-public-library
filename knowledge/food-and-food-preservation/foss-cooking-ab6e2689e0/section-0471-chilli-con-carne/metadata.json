@@ -1,0 +1,25 @@
+{
+  "id": "1788b5a0-9c4c-498a-9c3f-df3fa813d3b3",
+  "slug": "section-0471-chilli-con-carne",
+  "title": "Chilli con Carne",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "130e96471a731f6ca2e6e65d469bbf8e4d44a419ecbbe7519a26e29667aeebcc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 471,
+    "content_hash": "a328a0c5d938eea047e2b76237d5aab9904664ae6a6442eebdbbb8940fcd5a93",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

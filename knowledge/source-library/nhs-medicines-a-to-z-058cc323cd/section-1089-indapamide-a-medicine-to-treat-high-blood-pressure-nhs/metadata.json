@@ -1,0 +1,25 @@
+{
+  "id": "5c1ae284-5074-419d-94e4-c81c11b56451",
+  "slug": "section-1089-indapamide-a-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Indapamide: a medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "a19e25b6db7a32f08e995362107ab508e9c881a6656c7ca9e5ca1b05905f247f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1089,
+    "content_hash": "e6b446a9bbe2112c5074b8628cd63f29dac128bb2f2af0e6ccd6965270e443d7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

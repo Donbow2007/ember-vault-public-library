@@ -1,0 +1,25 @@
+{
+  "id": "1da03f99-fb61-4c5e-bf74-a1bf1bb78493",
+  "slug": "section-0509-how-and-when-to-take-co-amoxiclav-nhs",
+  "title": "How and when to take co-amoxiclav - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "a1f0c80bd25e50bc3c77dbb2d5df6cfdb973b9e226326bc9e1ab9b20c209d588",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 509,
+    "content_hash": "0eb495a02815c30c15d737098a85a9c172ee2e5a3ee70ed8c62a99ecff217723",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

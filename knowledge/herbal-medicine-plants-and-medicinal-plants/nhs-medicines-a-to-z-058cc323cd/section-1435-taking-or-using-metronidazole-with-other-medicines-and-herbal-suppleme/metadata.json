@@ -1,0 +1,25 @@
+{
+  "id": "31bf7c81-5a3c-4296-a782-da0814a28741",
+  "slug": "section-1435-taking-or-using-metronidazole-with-other-medicines-and-herbal-suppleme",
+  "title": "Taking or using metronidazole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "ad0f5a85dab570c55437ac7edef11ce36ed12a7f92222a44ca5f608e0678f2f4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1435,
+    "content_hash": "6122e05f2e345f6d5467a7b04f44c2f3c98cfaaa42ea70ab41d4704586ca3957",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

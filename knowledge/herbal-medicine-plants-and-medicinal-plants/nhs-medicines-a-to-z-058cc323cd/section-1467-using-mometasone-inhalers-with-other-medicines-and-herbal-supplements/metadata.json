@@ -1,0 +1,25 @@
+{
+  "id": "5b23704f-2516-435c-a684-2217436a19fd",
+  "slug": "section-1467-using-mometasone-inhalers-with-other-medicines-and-herbal-supplements",
+  "title": "Using mometasone inhalers with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "4d4f11481ed00770df86482eefaa699727bb79e6604fb3b572fd5646396dd428",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1467,
+    "content_hash": "ee02820ab041c9ce41d6a9447e4c315c2784ef43f97f9960fd11229caf04f593",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

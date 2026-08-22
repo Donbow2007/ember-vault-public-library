@@ -1,0 +1,25 @@
+{
+  "id": "719b40fd-9193-451d-81e7-a5e1b61bc448",
+  "slug": "section-1815-who-can-and-cannot-take-spironolactone-nhs",
+  "title": "Who can and cannot take spironolactone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "082529e457aa44f27a941c03ce59951fe1a241239fdaa505947ffa99ca683bf8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1815,
+    "content_hash": "1b9349e4bd04fcc3a8fd48eafe13eb58ba7b4578aa8e5bb3c776a0458efd8420",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

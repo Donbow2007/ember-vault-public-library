@@ -1,0 +1,25 @@
+{
+  "id": "136758d2-9609-47ab-8378-8a26814e6756",
+  "slug": "section-0329-teriyaki-beef-wok",
+  "title": "Teriyaki Beef Wok",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "a10c377d79686f3e8b3e0b9fdb9e42c81f03f10958a9c8b22007ddeaee3bf5a8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 329,
+    "content_hash": "460341ae67bd23c555f21f1083f1964f767438adbeb1037492fb30b7a14009f1",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

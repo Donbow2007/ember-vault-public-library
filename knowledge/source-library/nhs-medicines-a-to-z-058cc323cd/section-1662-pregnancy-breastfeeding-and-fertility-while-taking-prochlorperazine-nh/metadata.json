@@ -1,0 +1,25 @@
+{
+  "id": "620fe82d-4a7c-4c1c-ac86-3823a5bc1ef2",
+  "slug": "section-1662-pregnancy-breastfeeding-and-fertility-while-taking-prochlorperazine-nh",
+  "title": "Pregnancy, breastfeeding and fertility while taking prochlorperazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "82c5c4f28bb70e0be5b1119e73c9a87874666623c8215859d2d720ffd5b2832b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1662,
+    "content_hash": "13dfe4ada8af8a2c4426a8c13b73118a511503f340079b70d43ee4bad9eabce9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

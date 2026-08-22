@@ -1,0 +1,25 @@
+{
+  "id": "6d116078-e1be-43bf-87be-9b3aa245d082",
+  "slug": "section-0230-bloody-mary-mix",
+  "title": "Bloody Mary Mix",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "a2fb192508b7c5497b9786fd3e6a8dd7f224c4dd77e057aaf5c6d35f32446987",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 230,
+    "content_hash": "73e03987a5bb4cdc5baecbcb3bd45b2be04d07a501a28a2174c88d4070960901",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "44571219-edc9-4601-a168-a6d255700620",
+  "slug": "section-1983-warfarin-medicine-to-help-prevent-blood-clots-nhs",
+  "title": "Warfarin: medicine to help prevent blood clots - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "6773ec1a9df045708ad9fcbeb446a9caedf7eddc96c9345350a13ed5ab137344",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1983,
+    "content_hash": "762541b94ce4489553c34272fff380157870e3c9805e92f615201c9f3b8f8786",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# About clonidine - NHS
+
+About clonidine - Brand name: Catapres Clonidine is a type of medicine called a vasodilator. Clonidine has many uses. It's mainly used to: prevent migraine or other similar types of headache treat hot flushes or sweats that may happen during the menopause It's also sometimes used to treat high blood pressure (hypertension) . It helps to relax and widen blood vessels in the heart so blood can pass through them more easily. Clonidine is only available on prescription. It comes as tablets or as a liquid that you swallow. It's also available as an injection, but this is only given in hospital for emergency treatment of high blood pressure. Key facts Clonidine may take 2 to 4 weeks to work fully and for you to start to feel better. You'll take it 1 to 3 times a day for as long as you need it. It's safe to take clonidine for a long time. Common side effects of clonidine include feeling sleepy, low blood pressure when you stand up, and constipation. If clonidine makes you feel sleepy or dizzy, do not drive, cycle or use machinery or tools until you feel better. Stopping clonidine suddenly can cause a dangerous increase in your blood pressure and withdrawal side effects. Do not stop taking it without talking to a doctor.
+Page last reviewed: 10 February 2023
+
+Next review due: 10 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

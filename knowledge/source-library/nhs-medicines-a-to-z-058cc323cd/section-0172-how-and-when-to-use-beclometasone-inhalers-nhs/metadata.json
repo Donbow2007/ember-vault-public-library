@@ -1,0 +1,25 @@
+{
+  "id": "0b526c75-8eb4-4e95-ac46-54d3b4860ffe",
+  "slug": "section-0172-how-and-when-to-use-beclometasone-inhalers-nhs",
+  "title": "How and when to use beclometasone inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "b8d1a38a64b105b07647b35bcd3cd8d7460f7976965c85e8571a641daabe27b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 172,
+    "content_hash": "ab1f0b1438e04fd577fe55ee80110d22181caa1679b56e493496704b4ca577b4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "860280dc-44f0-4ee2-b53f-4dfc0975aceb",
+  "slug": "section-1309-lymecycline-antibiotic-to-treat-acne-and-bacterial-infections-nhs",
+  "title": "Lymecycline: antibiotic to treat acne and bacterial infections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "4170a955bd4deb93dc1afb223aabab52f343bbce5b50c9090af8017ea412b895",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1309,
+    "content_hash": "cef73901cd256d74aaea70b3dfb23fd279e03a08b9e115bcf8d4f494b70f14f7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

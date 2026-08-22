@@ -1,0 +1,25 @@
+{
+  "id": "77bef14e-db78-473c-93f1-06af8d306f7d",
+  "slug": "section-0158-side-effects-of-azithromycin-nhs",
+  "title": "Side effects of azithromycin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "804314dd361e36d42dfa4b529aff13256ff89c531fe4398525070647abb746ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 158,
+    "content_hash": "2629842d0c0b82144da6cc5b6020026f310c8d3fb09a454aa8177e7ece6f221f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

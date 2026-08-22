@@ -1,0 +1,25 @@
+{
+  "id": "73704630-7b85-419a-a40f-bbfa426062a6",
+  "slug": "section-1201-latanoprost-a-medicine-to-treat-high-pressure-inside-the-eye-nhs",
+  "title": "Latanoprost: a medicine to treat high pressure inside the eye - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "ca0d753e041bd491be711552826bbafa7bc205e0973ae47d3a9215a4401c35e2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1201,
+    "content_hash": "d0d233da9182829e3da07540a9398e1249f25652008510349d82a3a5a21d8de3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

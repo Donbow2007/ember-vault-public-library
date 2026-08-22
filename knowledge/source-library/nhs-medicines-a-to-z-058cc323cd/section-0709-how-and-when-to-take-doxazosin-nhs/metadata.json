@@ -1,0 +1,25 @@
+{
+  "id": "3fa59c94-1bb3-4159-be3c-7ef31e38c9da",
+  "slug": "section-0709-how-and-when-to-take-doxazosin-nhs",
+  "title": "How and when to take doxazosin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "157d437c6e43bc6fa1cc04f5dd9282e8c1c090995f55d6e521eed6e5fc391ad7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 709,
+    "content_hash": "02982792df0d03b6ec1e5042dbe8c0f77254bd996cf54049fa577baf94116d96",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

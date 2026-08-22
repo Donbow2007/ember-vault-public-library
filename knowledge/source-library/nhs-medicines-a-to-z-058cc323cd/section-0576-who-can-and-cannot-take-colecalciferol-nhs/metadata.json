@@ -1,0 +1,25 @@
+{
+  "id": "b0cd087b-d4e9-4cff-872b-e870ea096cca",
+  "slug": "section-0576-who-can-and-cannot-take-colecalciferol-nhs",
+  "title": "Who can and cannot take colecalciferol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "78ee69df6797cb33ef5ca93af6131b1d88c104465437ed95bcf8e50677a9048c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 576,
+    "content_hash": "2a0f1e5d4fcedfc94dd7b303eb5d44c8916ac60f2ed5e6d77ac253a78a9727d2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

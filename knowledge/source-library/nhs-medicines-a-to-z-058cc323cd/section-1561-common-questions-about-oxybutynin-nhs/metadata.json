@@ -1,0 +1,25 @@
+{
+  "id": "eb5418ce-e5da-4fc2-ba51-af4d1b6741de",
+  "slug": "section-1561-common-questions-about-oxybutynin-nhs",
+  "title": "Common questions about oxybutynin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "f24e9db64cff54f28f8446b2fd2f656748491a1957208787f2e80de9652e814b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1561,
+    "content_hash": "20245490105a249188ff1f1eff82f27a85fe70dc91f4c9907538ec21667420a4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

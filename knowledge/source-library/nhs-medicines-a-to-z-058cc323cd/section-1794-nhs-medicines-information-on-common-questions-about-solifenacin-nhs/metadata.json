@@ -1,0 +1,25 @@
+{
+  "id": "4c4cab47-d629-431e-9d8d-d120dd25857d",
+  "slug": "section-1794-nhs-medicines-information-on-common-questions-about-solifenacin-nhs",
+  "title": "NHS medicines information on common questions about solifenacin. - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "06702b675d384b5e721c8c7bed6bc73f48f651629b504d9264e17d3c395ab480",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1794,
+    "content_hash": "ba3269f9117a38da3e212bb2e463b0ad291cecb1703518d55ca9c773b9e73608",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

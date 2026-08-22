@@ -1,0 +1,25 @@
+{
+  "id": "b0caffca-6cd5-4bf7-97c1-fa16919d0f20",
+  "slug": "section-1187-pregnancy-breastfeeding-and-fertility-while-taking-lactulose-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking lactulose - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "2ea0b834955df8cabdf16eb9211f404abbf69bf690fee5ea6710c83f30f0f37b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1187,
+    "content_hash": "9feb2f7935873928fb362bb481dd9e82ff7a481bb70e53ad4d5798ea5c4b56ef",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

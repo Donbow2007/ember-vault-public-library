@@ -1,0 +1,25 @@
+{
+  "id": "ddbf83d2-19f2-414f-b978-48e6674c84e9",
+  "slug": "section-0422-pregnancy-breastfeeding-and-fertility-while-taking-cinnarizine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking cinnarizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "72b0f1bd443669226d2c3f99da2336e1b11a55f7077286dde1d76bff14cb90c5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 422,
+    "content_hash": "ed51d8f03609aff2c31f3e48a25cd289a7a0f76bbcbb189505c82041de0ae84f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

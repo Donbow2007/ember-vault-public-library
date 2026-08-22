@@ -1,0 +1,25 @@
+{
+  "id": "f4a7546d-4b2c-4c00-98d9-8f4cf6332c2c",
+  "slug": "section-0451-about-clobetasol-nhs",
+  "title": "About clobetasol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "9407508d6f2029a83adcb05a255a7b47af32e02d22d74f690491dfb17dad6993",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 451,
+    "content_hash": "faf451f6377521670267e73382e3a42d94f132765d7147a54ec7d8c7057e2b23",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

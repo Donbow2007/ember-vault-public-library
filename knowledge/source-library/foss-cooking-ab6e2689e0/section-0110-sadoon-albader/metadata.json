@@ -1,0 +1,25 @@
+{
+  "id": "f5a69c7d-684a-4e15-867e-90429410254f",
+  "slug": "section-0110-sadoon-albader",
+  "title": "Sadoon AlBader",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "2603e03e1f413ef0e3c047803c593b3a94cc54b2862032e8e8fc04b4d71dc4a5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 110,
+    "content_hash": "e4c973309f49e3e9fdc7bc638778cb0751644dd71a21f9bd963bbdbd5e7ea9cb",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

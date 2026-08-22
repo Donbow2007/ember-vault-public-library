@@ -1,0 +1,25 @@
+{
+  "id": "7dd472e2-e4f4-4a1e-a87c-7070f31d7f1f",
+  "slug": "section-0678-pregnancy-breastfeeding-and-fertility-while-taking-dipyridamole-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking dipyridamole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "f6b646c0bab543e0cea6a53c1c2cca164aef0abbc5471f9b57d2973a91b4bcee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 678,
+    "content_hash": "2756102da59185a78d08ee75dbb2fd060e499a9bde0c40e78bd860a43c902ed9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

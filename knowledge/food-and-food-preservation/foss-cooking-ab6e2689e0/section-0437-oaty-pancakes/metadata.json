@@ -1,0 +1,25 @@
+{
+  "id": "e4b4a63b-78d3-427e-a372-5fa0370db022",
+  "slug": "section-0437-oaty-pancakes",
+  "title": "Oaty Pancakes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "fcb8d373ea3179cdada877022e837481636bef397861b00ecd6de203a619d6d2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 437,
+    "content_hash": "98b2c35239ccd0361d268b4c102e223a9afab5d0189a427b53198b74dff6a027",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

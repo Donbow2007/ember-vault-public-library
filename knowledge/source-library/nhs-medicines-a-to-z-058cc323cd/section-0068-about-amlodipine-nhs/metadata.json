@@ -1,0 +1,25 @@
+{
+  "id": "18c5b139-313d-4f08-8768-9487b4dc56de",
+  "slug": "section-0068-about-amlodipine-nhs",
+  "title": "About amlodipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "81d9770d5d2e45b7bbafe71f1d3fcecde3fd293a4ebe664d4a70499c45f82ab7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 68,
+    "content_hash": "d0adc0316a89a6665bacbf2f09d2d502aaa25505bb15474c97494df39acd64fb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

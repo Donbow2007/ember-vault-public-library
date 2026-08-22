@@ -1,0 +1,25 @@
+{
+  "id": "daefe489-9273-4702-a475-3a42f768d379",
+  "slug": "section-1569-common-questions-about-oxycodone-nhs",
+  "title": "Common questions about oxycodone - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "764cf994e1a9c49358bdc0f88b8bb21b91a75b4c2030557d7c58c280a2b4797f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1569,
+    "content_hash": "3a6222c542f149675f3d711e36cedca60f531a493e42db4aa71b6a1543ebefe3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

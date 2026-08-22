@@ -1,0 +1,6 @@
+# Who can and cannot take hyoscine hydrobromide - NHS
+
+Who can and cannot take hyoscine hydrobromide - Brand names: Kwells, Joy-Rides, Kwells Kids, Travel Calm, Scopoderm Who can take hyoscine hydrobromide Hyoscine hydrobromide travel sickness tablets can be taken by most adults and children from the age of 3 years. Patches for travel sickness can be used by most adults and children from the age of 10 years. Who may not be able to take hyoscine hydrobromide Hyoscine hydrobromide is not suitable for some people. To make sure it's safe for you, tell a pharmacist or doctor before taking it if you: have ever had an allergic reaction to hyoscine hydrobromide or any other medicine have an eye problem called primary angle closure glaucoma have difficulty peeing or a bowel blockage have myasthenia gravis , a condition that causes muscle weakness have heart problems, including a very fast heart rate have thyroid, kidney or liver problems have epilepsy (seizures) have digestive problems, such as acid reflux or severe constipation have ulcerative colitis have a high temperature are pregnant or trying to get pregnant, as hyoscine hydrobromide is not recommended in pregnancy
+Page last reviewed: 5 October 2022
+
+Next review due: 5 October 2025

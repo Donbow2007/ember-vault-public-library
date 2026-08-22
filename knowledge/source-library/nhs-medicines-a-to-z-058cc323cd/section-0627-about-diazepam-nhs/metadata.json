@@ -1,0 +1,25 @@
+{
+  "id": "40f914e1-a8d6-4a72-90ee-d0c4383b7303",
+  "slug": "section-0627-about-diazepam-nhs",
+  "title": "About diazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "f98f0ab46a97f76ec51c3ba82e33fb07c2dd3810f7769c89c1c5be2f0d300cfa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 627,
+    "content_hash": "bb1ae1ff6e02048f19fec59bda3ce16d929c6b4230086899210d10f0fb1dbed7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

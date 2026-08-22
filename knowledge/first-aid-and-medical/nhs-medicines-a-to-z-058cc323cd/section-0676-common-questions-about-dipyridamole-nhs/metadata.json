@@ -1,0 +1,25 @@
+{
+  "id": "ba536c61-740a-4684-8183-4e85ed0165e4",
+  "slug": "section-0676-common-questions-about-dipyridamole-nhs",
+  "title": "Common questions about dipyridamole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "9621f1f027808fc2db7f4d265ab44068d6cec5a2bda5abaf6b61027ba17fb43f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 676,
+    "content_hash": "ff434f7044e234682894aa05f757b129e524ecf93bbe4d5367f98a08f1cf7a58",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

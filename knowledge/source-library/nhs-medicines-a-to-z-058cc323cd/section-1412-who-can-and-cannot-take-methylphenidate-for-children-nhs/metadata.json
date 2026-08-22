@@ -1,0 +1,25 @@
+{
+  "id": "e738eaff-9a39-4d83-8ed5-a477859040cc",
+  "slug": "section-1412-who-can-and-cannot-take-methylphenidate-for-children-nhs",
+  "title": "Who can and cannot take methylphenidate for children - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "a72302c49dd7958c8a4473006819fd44af0e5c81a8adea8284cfc393582e1330",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1412,
+    "content_hash": "938081c58023e59624f8b1b0059d9217329c35b150641e21c0b3db021c7a0e22",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

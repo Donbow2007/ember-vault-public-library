@@ -1,0 +1,25 @@
+{
+  "id": "7dbc2c1c-3982-437a-b4c4-174a656b6479",
+  "slug": "section-0852-fluoxetine-prozac-an-antidepressant-medicine-to-treat-depression-nhs",
+  "title": "Fluoxetine (Prozac): an antidepressant medicine to treat depression - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "c127adb91143da8c07e92fc6776189017ef91e25bae4fec8369f583090131d43",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 852,
+    "content_hash": "c638335516d07bfd2c9e69ccdfd7ff9c78d981c72e10b407deb0b64d7a9d64e5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

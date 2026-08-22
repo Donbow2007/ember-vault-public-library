@@ -1,0 +1,25 @@
+{
+  "id": "bbd8b127-63aa-4313-bfce-1f43c9547b17",
+  "slug": "section-0774-how-and-when-to-take-esomeprazole-nhs",
+  "title": "How and when to take esomeprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "9fed972377009d44fa7d634fe9280a61a5b260ba349c23339f5c9485dae8a937",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 774,
+    "content_hash": "3421bc4e593538fad3f5bececebf99703ad73cc638354b1f138660fdc9218ac7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

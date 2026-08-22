@@ -1,0 +1,25 @@
+{
+  "id": "9fd7e3ae-d046-47f8-a04a-e1a189b2644b",
+  "slug": "section-0184-potato-leek-soup",
+  "title": "Potato Leek Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "55852e747155ebfccd6129034f0e6398e8ffec4a40553c2c1e3af0644f4ed512",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 184,
+    "content_hash": "f348f53f1dd9460e69112954f681bf2dbab1014f33eedbf17c3c457fe437480f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

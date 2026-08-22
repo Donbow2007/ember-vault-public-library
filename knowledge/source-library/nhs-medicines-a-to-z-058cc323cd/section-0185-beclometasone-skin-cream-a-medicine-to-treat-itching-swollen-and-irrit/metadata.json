@@ -1,0 +1,25 @@
+{
+  "id": "851fdc95-87a9-42db-a327-6393a9177db7",
+  "slug": "section-0185-beclometasone-skin-cream-a-medicine-to-treat-itching-swollen-and-irrit",
+  "title": "Beclometasone skin cream: a medicine to treat itching, swollen and irritated skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "0e3214a8cc2f70758c1d656e6b7eb435ff1aa3091570692936636c2c37563195",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 185,
+    "content_hash": "c982f92e71fcd6780a28eed7a6b72a308d02c6d40229cdd9115c059f6380f8dd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

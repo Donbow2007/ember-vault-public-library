@@ -1,0 +1,25 @@
+{
+  "id": "f8862dcc-a778-4619-a751-200c6ac36b19",
+  "slug": "section-0017-taking-acrivastine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking acrivastine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "228a209b56501b601f43ccd39deaa8bc93ac9a55086c318b56938bc6999b9d12",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 17,
+    "content_hash": "9c8060bc0024d1e21aecb9ae1b2306dad0c78d4b879b8ae715e81f1c2e95cb83",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5037f00c-4e4b-459d-a83c-125380f49ace",
+  "slug": "section-0619-tag-lithuanian",
+  "title": "Tag: lithuanian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "9e5382550133b457084f4e2dbe1ae0f72891231dfa78fe16eb3ef573505dce8d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 619,
+    "content_hash": "91239550ae9e87f07f16da821ff61cb41f4a6fc8c2af05a1a4fdd2eff0a4ae50",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

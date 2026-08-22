@@ -1,0 +1,25 @@
+{
+  "id": "7cd099c6-64cd-409e-962f-c10105956f79",
+  "slug": "section-0036-dunkelheit-citizen",
+  "title": "Dunkelheit Citizen",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "8bf89fbdecc144f077bfc843d03a018f90da906792febf77d70dedecbe9ddb78",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 36,
+    "content_hash": "732e7084cc3a5cc19086398b502de70ad4c239ab3bf7b6491a84a676c48058e3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

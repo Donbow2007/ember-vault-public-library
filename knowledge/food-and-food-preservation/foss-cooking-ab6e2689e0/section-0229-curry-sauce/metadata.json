@@ -1,0 +1,25 @@
+{
+  "id": "88eb24e4-e3fd-4a10-989e-85037b3ac66b",
+  "slug": "section-0229-curry-sauce",
+  "title": "Curry sauce",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "33960f441ab245e8388597d4c7a39bc9449110fc5295e45ac44fedfb38abf0c9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 229,
+    "content_hash": "c6953467606cbc43a7f8775719592e468da9a1d4e536a27b4d6497c7a7e46f14",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

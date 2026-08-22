@@ -1,0 +1,25 @@
+{
+  "id": "efc42c2c-b408-4057-bc8a-0cdfa8070003",
+  "slug": "section-1957-taking-valsartan-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking valsartan with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "bcedc827a9bf0ac42da56c9f90f0584dbd494ee2b9805fa5f16a2f0d0c9c3f43",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1957,
+    "content_hash": "ebd6c455d084468f1a92e279fc44ba2fdfa8c10332c1becb4993f4d613e841b5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

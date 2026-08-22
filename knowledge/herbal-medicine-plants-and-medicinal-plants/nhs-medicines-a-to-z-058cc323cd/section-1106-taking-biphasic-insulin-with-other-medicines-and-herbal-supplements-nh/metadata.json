@@ -1,0 +1,25 @@
+{
+  "id": "71dcce16-c863-40bc-8639-3b5d903e8090",
+  "slug": "section-1106-taking-biphasic-insulin-with-other-medicines-and-herbal-supplements-nh",
+  "title": "Taking biphasic insulin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "1099f595b24e7a3293e9ef8d777c77fd840682e7e2cf7c69f7ffeb17c66ea55d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1106,
+    "content_hash": "20bd9fa9abb8c38173f42fd6e22191a90b1f676fe81f37d8c65fb93c1093deb5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

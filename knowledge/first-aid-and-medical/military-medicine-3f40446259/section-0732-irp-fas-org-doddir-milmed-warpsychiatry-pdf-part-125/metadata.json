@@ -1,0 +1,25 @@
+{
+  "id": "5427a9be-7358-454c-bfa9-81937f02c0c2",
+  "slug": "section-0732-irp-fas-org-doddir-milmed-warpsychiatry-pdf-part-125",
+  "title": "irp.fas.org/doddir/milmed/warpsychiatry.pdf — Part 125",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:47Z",
+  "content_hash": "710cc72afb8ba925d9fc46b31ca7a1410aefe5a2b789877a118fb8ebd210ad20",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 732,
+    "content_hash": "a529d341a070cbe23936e1890aae5a53b424e2244abd7a71ecc4aa4824ad0b0c",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

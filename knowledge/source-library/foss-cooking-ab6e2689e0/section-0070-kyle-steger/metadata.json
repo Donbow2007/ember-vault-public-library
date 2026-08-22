@@ -1,0 +1,25 @@
+{
+  "id": "0e707e1a-33c0-4164-bd50-2df048d2657d",
+  "slug": "section-0070-kyle-steger",
+  "title": "Kyle Steger",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "3d0ce482e5870f41a996e090dbf5b7d22d804cca08596a624aad3e343c11e75c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 70,
+    "content_hash": "2a20cc4100273cbfaff45662502a89453bdf803a0cf0262eaa26028227031aa3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

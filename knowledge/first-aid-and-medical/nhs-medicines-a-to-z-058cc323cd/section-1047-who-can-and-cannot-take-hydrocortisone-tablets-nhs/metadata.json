@@ -1,0 +1,25 @@
+{
+  "id": "f509005c-666b-4cdb-8622-747c7532bcb8",
+  "slug": "section-1047-who-can-and-cannot-take-hydrocortisone-tablets-nhs",
+  "title": "Who can and cannot take hydrocortisone tablets - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "4ea866cc6bc1dfd28c62e565aeabb09789ad4541e5aead532d879cb2e58fa117",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1047,
+    "content_hash": "b572929bd1007cee9db536e85465998babddc63538c7443a634f7602124f400b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

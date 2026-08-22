@@ -1,0 +1,25 @@
+{
+  "id": "012ca11d-f1a3-4d63-89de-73f0ed82d73f",
+  "slug": "section-0672-tag-spinach",
+  "title": "Tag: spinach",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "7b5a268a44af4c0d09f2bbb4fdc4f47b48f5b2047ea9670b80dfc1a692d537f9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 672,
+    "content_hash": "39d19fee35f688ffb0483240fece51ea93289c6b6b4a340f5ef75e17437f137c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

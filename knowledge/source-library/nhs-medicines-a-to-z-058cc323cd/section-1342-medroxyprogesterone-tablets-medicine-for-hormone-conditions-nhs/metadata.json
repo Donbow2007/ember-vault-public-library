@@ -1,0 +1,25 @@
+{
+  "id": "cfe2e7cc-c181-46a1-834a-f7d9eb2743e9",
+  "slug": "section-1342-medroxyprogesterone-tablets-medicine-for-hormone-conditions-nhs",
+  "title": "Medroxyprogesterone tablets: medicine for hormone conditions - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "edaf8f8ed1e58a85c85c9ab3b4ea911e13b5af9f903e5fdb23758faaf20b075f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1342,
+    "content_hash": "0c82c3fc3f7f9df5871a78ce918ee09d23eb4cbb816decbd28bf993081452104",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

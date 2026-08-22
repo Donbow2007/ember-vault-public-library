@@ -1,0 +1,25 @@
+{
+  "id": "39b6adb3-d122-4cb7-8f20-a0f28a632ebe",
+  "slug": "section-0003-aayla-semyonova",
+  "title": "Aayla Semyonova",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "76035356ea79c18b6ad91b5ceb5122c5070ee09d84ecc351d78b104dcaad1d1b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 3,
+    "content_hash": "48e85ba7b62498e580b804a7b1a8da70459ba07661c8282ec3cbd6a904fdaecc",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

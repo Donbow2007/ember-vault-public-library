@@ -1,0 +1,25 @@
+{
+  "id": "82a67f91-d535-4b84-8739-f6fe8b367e0b",
+  "slug": "section-0042-who-can-and-cannot-take-allopurinol-nhs",
+  "title": "Who can and cannot take allopurinol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "1609b8ff6bd055f58df1c930cef6a5579553049a5317329524795a0aaa53ffbb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 42,
+    "content_hash": "e692ad114d6aaae63cead6bbcdbd410372feedb24849766f91eedc54f617febc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

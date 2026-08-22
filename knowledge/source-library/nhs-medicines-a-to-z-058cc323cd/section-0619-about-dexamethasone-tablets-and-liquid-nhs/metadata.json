@@ -1,0 +1,25 @@
+{
+  "id": "579cc8fb-33dd-4d49-be0f-2fd48d70c8e8",
+  "slug": "section-0619-about-dexamethasone-tablets-and-liquid-nhs",
+  "title": "About dexamethasone tablets and liquid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "2ec9a2119f2a02d0ef44f099e779519d51bb021bdcda3dedd594cb07818faf43",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 619,
+    "content_hash": "9a1d130c840ffa16b763960c3ea4436896428a7883cbb5a91cd42ed4fc712408",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

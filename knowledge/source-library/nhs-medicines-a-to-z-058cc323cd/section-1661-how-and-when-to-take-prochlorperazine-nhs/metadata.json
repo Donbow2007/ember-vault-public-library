@@ -1,0 +1,25 @@
+{
+  "id": "f1ada835-ec9a-4e21-bccf-e4c1ad87a2d9",
+  "slug": "section-1661-how-and-when-to-take-prochlorperazine-nhs",
+  "title": "How and when to take prochlorperazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "84031ca0ab362762c8b48b53aca471c5b3be3e85c624f860d2337c413be31dad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1661,
+    "content_hash": "f12f502f84827efeb0911f14a4161e79db37fc960bb53c34be9d6f60e18bdd3a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

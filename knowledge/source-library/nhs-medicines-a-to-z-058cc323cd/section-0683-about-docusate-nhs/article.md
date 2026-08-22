@@ -1,0 +1,7 @@
+# About docusate - NHS
+
+About docusate - Brand names: Dulcoease, Dioctyl, Docusol, Norgalax Docusate is a type of medicine called a laxative. It helps to soften your poo and makes it easier for you to go to the toilet if you have problems pooing ( constipation ). Docusate may help you if: your poos are dry and it makes it difficult for you to poo you have piles (haemorrhoids) you have a tear in the lining of your intestine, near your anus ( anal fissure ) you're going to have a stomach x-ray as it can help you empty your bowels beforehand Docusate comes as capsules and as a liquid that you swallow. It also comes as an enema. This is a tube of liquid medicine that you squeeze into your anus (bottom). Docusate is available on prescription and to buy from pharmacies. Key facts Docusate capsules and liquid take 1 to 3 days to work. Side effects can include feeling sick (nausea), stomach cramps and diarrhoea. Docusate enemas usually work within 20 minutes, so it's best to stay close to a toilet. Do not use a docusate enema if you have piles (haemorrhoids) or a tear near your anus (anal fissure). Only give docusate to a child under 12 years old if a doctor prescribes it or a pharmacist recommends it. Do not take docusate for more than 5 days, unless it's prescribed by a doctor. Talk to a doctor if you still have constipation after 5 days.
+Page last reviewed: 10 May 2024
+
+Next review due: 10 May 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

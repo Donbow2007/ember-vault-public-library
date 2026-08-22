@@ -1,0 +1,25 @@
+{
+  "id": "8b77c95f-a468-4e5b-a3f3-7e4f6aac05ce",
+  "slug": "section-0489-who-can-and-cannot-take-clopidogrel-nhs",
+  "title": "Who can and cannot take clopidogrel - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "158f4a5566e422d1760de0627ee50469fa7bf83f171129ebf72af7331b78b4ce",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 489,
+    "content_hash": "562dad8d067d8e8716b7921a90291b7664d09cb7e497bc20966b0fb4cc9e6898",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

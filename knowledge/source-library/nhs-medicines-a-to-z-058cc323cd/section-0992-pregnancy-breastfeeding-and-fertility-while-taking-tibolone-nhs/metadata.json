@@ -1,0 +1,25 @@
+{
+  "id": "c2e31984-c78d-4be1-9687-8a12fe97af59",
+  "slug": "section-0992-pregnancy-breastfeeding-and-fertility-while-taking-tibolone-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking tibolone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "60d5387ec4c61296cdc601ce6d424c5f5f9ea89fc9bbb7d9fe2065d395a4bbb9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 992,
+    "content_hash": "3b92ee74de9c2ded4a83285205c90bf663dadf21bb011625ca2fbf017119cb85",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

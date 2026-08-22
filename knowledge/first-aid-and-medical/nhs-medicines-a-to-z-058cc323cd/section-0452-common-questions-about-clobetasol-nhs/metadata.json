@@ -1,0 +1,25 @@
+{
+  "id": "85599d69-cfc1-490b-953c-2829c403c5e2",
+  "slug": "section-0452-common-questions-about-clobetasol-nhs",
+  "title": "Common questions about clobetasol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "b94a0fcb1accf79089ca218d16f9daee9c3396138f976d6b7270b5dca855eadb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 452,
+    "content_hash": "ab38eb35b5cfac50e6cdc0bb3b72cc69727d368d8c348da7430ea150999ff776",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

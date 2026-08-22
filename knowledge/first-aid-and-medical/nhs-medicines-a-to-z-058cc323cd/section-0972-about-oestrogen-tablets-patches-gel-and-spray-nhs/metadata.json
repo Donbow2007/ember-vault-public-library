@@ -1,0 +1,25 @@
+{
+  "id": "04e7b232-2683-4b0b-9e64-b611cb881df2",
+  "slug": "section-0972-about-oestrogen-tablets-patches-gel-and-spray-nhs",
+  "title": "About oestrogen tablets, patches, gel and spray - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "2475ee46639c48bfa03c67b3d817d706c84b33f1ab63f4fcbb17d3b16dc817df",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 972,
+    "content_hash": "465267d45eacbe79ebd61e57e1d12e12cc19aab024194f9678883e6c45bb8a6b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

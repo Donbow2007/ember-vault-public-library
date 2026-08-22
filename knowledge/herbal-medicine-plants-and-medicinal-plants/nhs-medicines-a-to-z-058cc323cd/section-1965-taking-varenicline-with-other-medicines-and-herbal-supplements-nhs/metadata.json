@@ -1,0 +1,25 @@
+{
+  "id": "ef648b64-71b2-41d3-949f-05096418213c",
+  "slug": "section-1965-taking-varenicline-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking varenicline with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "407fa13e362479e5c982e6ffeacc4c6ed622cdd23af388f4ca5cf55d4b53669f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1965,
+    "content_hash": "9a3feb400fbdd7ffb66cf773b4331a33dbd92d939b721fa0f67ba59119bbb486",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

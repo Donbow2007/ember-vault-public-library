@@ -1,0 +1,25 @@
+{
+  "id": "fbd6d26f-716a-4d81-88d5-754616d658e0",
+  "slug": "section-0140-french-mustard-sauce-porkchops-cotes-de-porc-charcutieres",
+  "title": "French mustard sauce porkchops (Côtes de porc charcutières)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "6813a8320d8e82e83d7487066225a9514bbfaab07dca3565fdc8754473096dbb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 140,
+    "content_hash": "0d88bec64fbae45e3244d16c8fe776f030aff75ed00aba8066178a9f2b378425",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

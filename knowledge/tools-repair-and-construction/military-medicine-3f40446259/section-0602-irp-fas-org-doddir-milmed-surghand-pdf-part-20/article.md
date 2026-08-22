@@ -1,0 +1,656 @@
+# irp.fas.org/doddir/milmed/surghand.pdf — Part 20
+
+distributed each Monday to
+supported units. See Appendix 5 for a sample format.
+H. Patient Summary Report. The PSR provides the status of patients seen by division medical
+companies and includes their subordinate elements (dental, optometry, mental health, or attached units).
+B-17
+
+FM 4-02.21
+
+The PSR is a weekly report compiled as of 2400 each Sunday. It is prepared by all Echelons I and II MTFs
+operating in the division AO. It is submitted each Monday to the DSS. See Appendix 6 for a sample
+format.
+I.
+Blood Report. The Blood Report is a required report for requesting blood support. Echelon II
+MTFs will request only Group O Positive and Group O Negative liquid red blood cells. See Appendix 7 for
+sample formats (Sample Format A for written blood report and Sample Format B for voice message
+format).
+J. Team Movement Report. The Team Movement Report is used to track the status and location
+of teams (PVNTMED, combat stress, veterinary, ambulance, and treatment teams). See Appendix 8 for a
+sample format.
+
+B-18
+
+FM 4-02.21
+
+APPENDIX 1
+SAMPLE FORMAT (DAILY DISPOSITION LOG)
+TO ANNEX T, MEDICAL REPORTS
+_______ INF DIV TSOP
+
+B-19
+
+FM 4-02.21
+
+APPENDIX 2
+SAMPLE FORMAT (MEDICAL SITUATION REPORT, BATTALION AID STATION)
+TO ANNEX T, MEDICAL REPORTS
+_______ INF DIV TSOP
+FM: BAS
+TO: BSS//
+INFO: FSB/FSMC // DSS (AS APPROPRIATE) //
+CLASSIFICATION: (AS APPROPRIATE)
+SUBJECT: MEDICAL SITUATION REPORT (BAS)
+LINE ONE
+
+AS OF DTG IN ZULU TIME
+
+LINE TWO
+
+LOCATION (SIX DIGIT GRID COORDINATES)
+
+LINE THREE
+
+NUMBER OF PATIENTS SEEN (INCLUDING TYPE OF PATIENTS
+[W=WIA, D=DNBI])
+
+LINE FOUR
+
+NUMBER OF PATIENTS RETURNED TO DUTY
+
+LINE FIVE
+
+NUMBER OF PATIENTS EVACUATED FROM BATTLE AREA
+
+LINE SIX
+
+NUMBER OF PATIENTS AWAITING EVACUATION
+
+LINE SEVEN
+
+NUMBER OF OPERATIONAL AMBULANCES BY TYPE OF
+VEHICLE (M996, M113)
+
+LINE EIGHT
+
+LOGISTIC STATUS (GREEN, AMBER, OR RED)/USE REPORT
+CODES IN APPENDIX 9
+
+B-20
+
+FM 4-02.21
+
+APPENDIX 3
+SAMPLE FORMAT (MEDICAL SITUATION REPORT, MEDICAL COMPANY)
+TO ANNEX T, MEDICAL REPORTS
+_______ INF DIV TSOP
+FM: FSMC COMMANDER
+TO: BRIGADE SURGEON'S SECTION
+INFO: FSB COMMANDER
+CLASSIFICATION: (AS APPROPRIATE)
+SUBJECT: MEDICAL SITUATION REPORT
+LINE ONE:
+LINE TWO:
+
+LINE THREE:
+
+LINE FOUR
+
+LINE FIVE
+
+LINE SIX
+LINE SEVEN
+USE
+
+AS OF: DTG IN ZULU TIME
+PATIENT STATUS (WIA, DNBI) UNIT DESIGNATION//** TOTAL NEW PATIENTS SEEN/CONSOLIDATED BY EACH FSMC (AS TOTAL [W=,D=])
+FSB (W=,D=)/PNT RTD (BAS TOTAL=+FSB=#//TOTAL # PATIENTS EVACUATED TO BDE REAR(DSA=#, TO CORPS)//# OF NEW PATIENT HOLDING//
+END OF DAY HOLDING CENSUS
+UNIT STATUS
+**6 DIGIT COORDINATES//# OF COTS AVAILABLE FOR HOLDING//# OF
+COTS OCCUPIED//# OF COTS UPLOADED ON VEHICLE, TIME NEEDED TO
+GET HOLDING AREA OPERATIONAL
+**INDICATES THAT OPERATIONAL COTS ARE ASSEMBLED AND READY
+FOR PATIENTS
+ANTICIPATED UNIT MOVE IN NEXT 24 HOURS; IF NONE, REPORT "0"
+UNIT//ANTICIPATED NEW LOCATION//ANTICIPATED TIME BECOMING
+OPERATIONAL (DTG)//*PROJECTED NUMBER OF PATIENTS REQUIRING
+EVACUATION TO REAR
+HEALTH SERVICE LOGISTICS
+**GREEN, AMBER, OR RED
+**DENOTES MEDICAL PERSONNEL MAKING DETERMINATION OF COLOR
+STATUS BY UNIT STOCKAGE LEVEL AND PROJECTED OPERATIONS.
+CLARIFY ALL AMBER AND RED STATUS IN REMARKS. GREEN=80-100%;
+AMBER=65-80%; RED=LESS THAN 65% OF INITIAL STOCKAGE LEVEL
+EVACUATION ASSETS
+NUMBER OF AMBULANCES OPERATIONAL IN BSA/DSA
+INCLUDE # OF NBC PATIENTS//# OF EPW PATIENTS// PERSONNEL SHORTAGES//MAJOR END ITEM SHORTAGES (BASIS FOR LINE FIVE STATUS)
+REPORT CODES IN APPENDIX 9
+
+B-21
+
+FM 4-02.21
+
+APPENDIX 4
+SAMPLE FORMAT (MEDICAL SITUATION REPORT, MEDICAL OPERATIONS)
+TO ANNEX T, MEDICAL REPORTS
+_______ INF DIV TSOP
+FM: 1ST BDE SURGEON'S SECTION
+TO: DIVISION SURGEON'S SECTION
+INFORMATION: NONE
+CLASSIFICATION: AS APPROPRIATE
+SUBJECT: COMBAT HEALTH SUPPORT SITUATION REPORT
+LINE ONE:
+
+AS OF: DTG IN ZULU TIME
+
+LINE TWO:
+
+PATIENT STATUS
+TOTAL NEW PATIENTS W-#, D=#//NUMBER OF RTD//# OF PATIENTS
+EVACUATED TO CORPS//# OF NEW PATIENTS IN HOLDING STATUS//END
+OF DAY HOLDING STATUS CENSUS
+
+LINE THREE:
+
+UNIT STATUS
+*UNIT DESIGNATION//6 DIGIT GRID COORDINATES//# OF OPERATIONAL
+COTS//# OF UNOCCUPIED COTS//# OF COTS UPLOADED ON VEHICLES,
+TIME NEEDED TO BE OPERATIONAL
+*ONE PARAGRAPH FOR EACH FSMC ASSIGNED OR ATTACHED TO THE
+DIVISION AND ONE FOR THE SUPPORT MED COMPANY. TO BE REPORTED AS ALPHA, BRAVO, CHARLIE, ETC
+
+LINE FOUR:
+
+ANTICIPATED OPERATIONS IN NEXT 24 HOURS; IF ONE, STATE UNIT
+DESIGNATION//ANTICIPATED DTG CLOSING TIME (NONOPERATIONAL)//
+ANTICIPATED NEW LOCATION//ANTICIPATED OPERATIONAL TIME//
+
+LINE FIVE:
+
+COMBAT HEALTH LOGISTICS
+UNIT ID WITH AMBER OR RED//UNIT ID WITH AMBER OR RED, STATUS
+LEVEL (AMBER OR RED)
+
+B-22
+
+FM 4-02.21
+
+APPENDIX 5
+SAMPLE FORMAT (PATIENT EVACUATION AND MORTALITY REPORT)
+TO ANNEX T, MEDICAL REPORTS
+________ INF DIV TSOP
+
+B-23
+
+FM 4-02.21
+
+APPENDIX 6
+SAMPLE FORMAT (PATIENT SUMMARY REPORT)
+TO ANNEX T, MEDICAL REPORTS
+_______ INF DIV TSOP
+
+B-24
+
+FM 4-02.21
+
+APPENDIX 7
+SAMPLE FORMAT (BLOOD REPORT)
+TO ANNEX T, MEDICAL REPORTS
+SAMPLE FORMAT A, BLOOD REPORT
+________ INF DIV TSOP
+Sample Format A
+Message Blood Report
+FM: CDR CHARLIE MED 34FSB
+TO: BLOOD SUPPORT DETACHMENT OFFICE
+INFO: DIVISION SURGEON
+CLAS UNCLAS
+OPER/VALIANT EAGLE
+MSGID/BLDREP/CMED34FSB/1012221//
+REF/A/CDRUSACOM/090300ZJAN92/-/TOTAL//
+ASOFDTG/100001ZJAN92//
+(Line 1)
+REPUNIT/CMED34FSB/G/BZ44327432//
+(Line 2)
+BLDINVT-/-/20JS//
+(Line 3)
+BLDREQ/30JSW//
+(Line 4)
+BLDEXP/2JS//
+(Line 5)
+BLDEST/30JS//
+(Line 6)
+RMKS/RECEIVED 30JS/TRANSFUSED 30JS/SHIPPED O/ (Line 7)
+REFRIGERATOR NEEDS REPAIR//
+DECLAS
+(Line 8)
+*Report Explanation:
+(1)
+Line 1, ASOFDTG: Day-time zone of the BLDREP.
+(2)
+Line 2, REPUNIT: Name, designator code, and activity brevity code of reporting unit.
+(3)
+Line 3, BLDINVT: Used to report the total number of each blood product on hand at the end of the
+reporting period. Total the blood products at the end of the reporting period.
+(4)
+Line 4, BLDREQ: Used to report the total number of each blood product requested and time frame
+needed.
+(5)
+Line 5, BLDEXP: Used to report the estimate of the number of each blood product which will
+expire within the next seven days.
+(6)
+Line 6, BLDEST: Used to report the estimate of the total number of each blood product required
+for resupply within the next 7 days.
+(7)
+Line 7, CLOSTEXT OR RMKS: Used to provide additional amplifying information if required.
+(8)
+Line 8, DECL: Mandatory if the message is classified.
+
+B-25
+
+FM 4-02.21
+
+APPENDIX 7 (CONTINUED)
+SAMPLE FORMAT (BLOOD REPORT)
+TO ANNEX T, MEDICAL REPORTS
+SAMPLE FORMAT B, BLOOD REPORT
+________ INF DIV TSOP
+Sample Format B
+Voice Transmitted Blood Report
+LINE 1
+LINE 2
+LINE 3
+LINE 4
+LINE 5
+LINE 6
+LINE 7
+LINE 8
+
+151215Z
+CHARLIE MIKE 34 HOTEL
+20 JS
+32 JSW
+2 JS
+140 JS
+RECEIVED 30 JS/ TRANS 20 JS NO UNITS SHIPPED,
+REFRIGERATOR NEEDS REPAIR
+(AUTHENTICATION IN ACCORDANCE WITH SOI)
+
+*Report Explanation
+(1)
+Line 1, ASOFDTG: Day-time zone of the BLDREP.
+(2)
+Line 2, REPUNIT: Name, designator code, and activity brevity code of reporting unit.
+(3)
+Line 3, BLDINVT: Used to report the total number of each blood product on hand at the end of the
+reporting period. Total the blood products at the end of the reporting period.
+(4)
+Line 4, BLDREQ: Used to report the total number of each blood product requested and time frame
+needed.
+(5)
+Line 5, BLDEXP: Used to report the estimate of the number of each blood product which will
+expire within the next seven days.
+(6)
+Line 6, BLDEST: Used to report the estimate of the total number of each blood product required
+for resupply within the next 7 days.
+(7)
+Line 7, CLOSTEXT OR RMKS: Used to provide additional amplifying information if required.
+(8)
+Line 8, AUTHENTICATE: Authentication, if required.
+
+B-26
+
+FM 4-02.21
+
+APPENDIX 8
+SAMPLE FORMAT (TEAM MOVEMENT REPORT)
+TO ANNEX T, MEDICAL REPORTS
+________ INF DIV TSOP
+FM: FSMC
+TO: SUPPORT OPERATIONS FSB//BRIGADE SURGEONS SEC//DIVISION SURGEONS SECTION
+INFORMATION: NONE
+CLASSIFICATION: AS APPROPRIATE
+SUBJECT: TEAM MOVEMENT REPORT
+LINE ONE:
+
+UNIT WILL BE REPORTED AS ALPHA, BRAVO, CHARLIE, ETC
+
+LINE TWO:
+
+CURRENT LOCATION, SIX DIGIT GRID COORDINATES
+
+LINE THREE:
+
+DEPARTURE AS OF: (DTG IN ZULU TIME)
+
+LINE FOUR:
+
+DESTINATION AND ROUTE
+
+LINE FIVE:
+
+ARRIVAL AS OF: (DTG IN ZULU TIME)
+LINES TWO THROUGH FOUR ARE REPORTED PRIOR TO DEPARTURE FROM
+ANY SITE; LINE FIVE IS REPORTED UPON ARRIVAL
+
+B-27
+
+FM 4-02.21
+
+APPENDIX 9
+SAMPLE FORMAT (REPORTS CODES)
+TO ANNEX T, MEDICAL REPORTS
+________ INF DIV TSOP
+1.
+PURPOSE: To list medical codes used to assist medical units in filling out medical reports and
+Class VIII resupply requests.
+2.
+
+FREQUENCY: NA.
+
+3.
+
+RESPONSIBILITY: Division surgeon.
+
+4.
+
+ADDRESSEES: All medical units.
+
+5.
+
+TRANSMISSION: NA.
+
+6.
+
+REPORTS FORMAT: NA.
+
+7.
+
+REMARKS:
+
+A. Each major command (MACOM) establishes reporting codes which meet operational requirements for their units.
+B.
+
+B-28
+
+The following tables (TABs) will assist in compiling the report as required.
+(1)
+
+TAB A: Table of Minimum Essential Supply Items
+
+(2)
+
+TAB B: Disease Codes
+
+(3)
+
+TAB C: Authorized Abbreviations
+
+(4)
+
+TAB D: Cause of Casualty
+
+FM 4-02.21
+
+TAB A (TABLE OF MINIMUM ESSENTIAL SUPPLY ITEMS) TO
+APPENDIX 9 (REPORT CODES) TO ANNEX T, MEDICAL REPORTS
+_______INF DIV TSOP
+SURGICAL DRESSING MATERIEL
+090
+091
+092
+093
+094
+095
+
+BANDAGE, GAUZE ROLLER
+FIRST AID DRESSING
+BURN DRESSING
+GAUZE, ABSORBENT
+BANDAGE, COTTON PLASTER OF PARIS, IMPREGNATED
+COTTON WOOL, ABSORBENT
+GASTROINTESTINAL
+
+100
+101
+102
+103
+
+ANTIHELMINTIC
+ANTIDIARRHEAL
+ANTIDYSENTERIC
+ANTACIDS
+MISCELLANEOUS
+
+110
+111
+112
+113
+114
+115
+
+DISINFECTANTS
+ANTISEPTICS
+DETERGENTS, SURGICAL
+HYPODERMIC SYRINGES AND NEEDLES
+SURGICAL SUTURE/LIGATURE MATERIEL
+SPLINTING MATERIEL
+
+B-29
+
+FM 4-02.21
+
+TAB B (DISEASE CODES) TO APPENDIX 9 (REPORT CODES)
+TO ANNEX T, MEDICAL REPORTS
+_______INF DIV TSOP
+
+B-30
+
+DISEASE
+
+CODE
+
+Cholera
+Typhoid Fever
+Paratyphoid Fever
+Other Salmonella Infections
+Bacillary Dysentery
+Amoebiasis
+Other Enteric Infection
+Pulmonary Tuberculosis
+Plague
+Tularemia
+Anthrax
+Brucellosis
+Dyptheria
+Scarlet Fever
+Erysipelas
+Meningococcal Infection
+Tetanus
+Acute Poliomyelitis
+Smallpox
+Chicken Pox
+Measles
+Rubeola
+Yellow Fever
+Viral Encephalitis (unspecified)
+Infectious Hepatitis
+Epidemic Parotitis
+Mononucleosis
+Epidemic Louse-Borne Typhus
+Q-Fever
+Malaria
+Relapsing Fever
+Syphilis
+Blennorrhea
+Venereal Ulcers
+Leptospirosis
+Influenza
+Other
+
+000
+001
+002
+003
+004
+006
+008
+010
+020
+021
+022
+023
+032
+034
+035
+036
+037
+043
+050
+052
+055
+056
+060
+065
+070
+072
+075
+080
+083
+084
+088
+090
+098
+099
+100
+470
+989 (If this code is used, provide details.)
+
+FM 4-02.21
+
+TAB C (AUTHORIZED ABBREVIATIONS) TO APPENDIX 9 (REPORT CODES)
+TO ANNEX T, MEDICAL REPORTS
+_______INF DIV TSOP
+AUTHORIZED ABBREVIATIONS
+ARMS AND SERVICES:
+AVN
+ABN
+AD
+AMINF
+AMPB
+ARMD
+ARTY
+AT
+ATAGM
+
+AVIATION
+AIRBORNE
+AIR DEFENSE
+ARMED INFANTRY
+AMPHIBIOUS
+ARMORED
+ARTILLERY
+ANTITANK
+ANTITANK GUIDED MISSILE
+
+EMPLOYED MEANS:
+MORTARS
+POISON
+ROCKETS
+SABOTAGE
+TUBEARTY
+MISSILES
+
+COMMAND LEVEL:
+AG
+ARMY
+BDE
+BN
+CO
+CORPS
+DIV
+GP
+HQ
+PLT
+RGT
+
+ADJUTANT GENERAL
+ARMY
+BRIGADE
+BATTALION
+COMPANY
+CORPS
+DIVISION
+GROUP
+HEADQUARTERS
+PLATOON
+REGIMENT
+
+NATIONALITY:
+BE
+CA
+GE
+NL
+UK
+US
+
+BELGIAN
+CANADIAN
+GERMAN
+NETHERLANDS/HOLLAND
+BRITISH
+AMERICAN
+
+B-31
+
+FM 4-02.21
+
+TAB D (CAUSE OF CASUALTY) TO APPENDIX 9 (REPORT CODES)
+TO ANNEX T, MEDICAL REPORTS
+_______INF DIV TSOP
+CAUSE OF CASUALTY TO BE USED FOR MASS CASUALTY REPORTING.
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+ACCIDENT:
+BATTLE:
+BATTLE:
+BATTLE:
+BATTLE:
+
+B-32
+
+AIRCRASH
+MARITIME
+MOTOR VEHICLE
+RAILWAY
+FIRE
+INDUSTRIAL
+POISON
+NATURAL DISASTERS
+OTHER CAUSES
+CONVENTIONAL
+NUCLEAR
+BIOLOGICAL
+CHEMICAL
+
+FM 4-02.21
+
+APPENDIX C
+
+BRIGADE SURGEONS SECTION INITIAL BRIGADE
+COMBAT TEAM
+C-1.
+
+Mission of the Brigade Surgeons Section
+
+The mission of the BSS is to plan, coordinate, and synchronize CHS for the brigade. This is accomplished
+under the supervision of the brigade surgeon. The BSS looks at the total CHS package in support of the
+brigade and plans its employment to ensure maximum coverage and effective utilization of brigade medical
+personnel.

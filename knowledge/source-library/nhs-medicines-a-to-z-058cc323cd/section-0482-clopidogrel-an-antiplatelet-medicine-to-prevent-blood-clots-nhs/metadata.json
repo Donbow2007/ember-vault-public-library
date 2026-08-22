@@ -1,0 +1,25 @@
+{
+  "id": "4262664c-c6aa-4280-a61c-7f2f4d8e200f",
+  "slug": "section-0482-clopidogrel-an-antiplatelet-medicine-to-prevent-blood-clots-nhs",
+  "title": "Clopidogrel: an antiplatelet medicine to prevent blood clots - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "67ae37805f3d69672987ea779bd28f5ab6db50632e4e76608afc4c1d07ce3225",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 482,
+    "content_hash": "45efc91061d5e636133253a01b0d1c5898c45d3b54a05d28cff12160be78765d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

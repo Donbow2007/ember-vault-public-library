@@ -1,0 +1,25 @@
+{
+  "id": "f700f43f-7eda-48ca-a313-e9c40f98480a",
+  "slug": "section-0786-who-can-and-cannot-take-ezetimibe-nhs",
+  "title": "Who can and cannot take ezetimibe - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "7dc6039f0dcf9c6cf0535de3c40f99468a63fb98cfa7075d4cf789869aee5723",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 786,
+    "content_hash": "2792147afa269e9c65ac39b4889b3ee187fcd7997ee59d12a2e7cc6c0efcca65",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

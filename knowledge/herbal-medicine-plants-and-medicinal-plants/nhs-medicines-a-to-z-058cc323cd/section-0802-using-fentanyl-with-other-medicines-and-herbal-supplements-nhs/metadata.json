@@ -1,0 +1,25 @@
+{
+  "id": "7f0ab799-b5ff-4bf1-81f9-fc52990cbbc2",
+  "slug": "section-0802-using-fentanyl-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Using fentanyl with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "56468067a1f16efef5810e333ef0bf8baae406b08fc322287a3b445b073eb70f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 802,
+    "content_hash": "88108b74f57e55c12317de81dca0788ce58bec3bb2c88b1780b2d20efdba68a6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

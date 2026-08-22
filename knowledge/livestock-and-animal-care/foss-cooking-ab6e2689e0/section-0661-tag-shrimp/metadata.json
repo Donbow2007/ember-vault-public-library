@@ -1,0 +1,25 @@
+{
+  "id": "aadef559-2bd4-4c99-b884-f7c10e066a45",
+  "slug": "section-0661-tag-shrimp",
+  "title": "Tag: shrimp",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "2a0aafcef823548658438a37b9daf3d8b595b27f82e29ac5af947986ad319382",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 661,
+    "content_hash": "7c687d1fa46aacb8751ed7b87052bd3915f70bc31438f93dc19f7f91b09f0f6f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

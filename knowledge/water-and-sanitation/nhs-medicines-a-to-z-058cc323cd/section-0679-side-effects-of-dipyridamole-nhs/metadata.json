@@ -1,0 +1,25 @@
+{
+  "id": "da07f479-8e6e-4066-87e0-c1c1e9d00fab",
+  "slug": "section-0679-side-effects-of-dipyridamole-nhs",
+  "title": "Side effects of dipyridamole - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "27203cea8fb26aa70cc4043f1023b85aaf2032aa66f10b7b8c4cd07db9b856c7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 679,
+    "content_hash": "31562d4517c5a2e25d7ecf2f7ee7f6bf2986219e7e4583bf8ca0982f323e7abc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

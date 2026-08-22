@@ -1,0 +1,25 @@
+{
+  "id": "f7ab1229-2354-4029-9dcb-778fee2ab2f9",
+  "slug": "section-0673-who-can-and-cannot-take-diphenhydramine-nhs",
+  "title": "Who can and cannot take diphenhydramine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "c33899ff5c710c28d8b4a860a797e029aa3359553dcb1853852ca189cb2d7053",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 673,
+    "content_hash": "7bb1733db0917400852db499a234a75fa63835d7b624761ae08529c49c8ef2f9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

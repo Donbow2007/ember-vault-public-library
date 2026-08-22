@@ -1,0 +1,25 @@
+{
+  "id": "a955f2cf-6347-424b-8240-ce09e1a1fbb5",
+  "slug": "section-0234-orange-glorious",
+  "title": "Orange Glorious",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "2113e6e705d001c4b6317f619e9cb724808ef3b9f464cff9f9ab0e24c3849aaa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 234,
+    "content_hash": "d35878b5202d1cb41bbeceb91897e8730f1572a580d7d227715afdb1d9abacee",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e504ad51-5690-4fc4-b8ab-b907d46a23db",
+  "slug": "section-1786-common-questions-about-sodium-valproate-nhs",
+  "title": "Common questions about sodium valproate - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "36fd46c5b63b387844863f31f70177f4dd705edc0b2593472ca7f741cb70623b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1786,
+    "content_hash": "47504ef5f6aa73518b4ba670a4f1c0a72585ceab3b2079f4e7d54e86699f18ab",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "971804d8-fd90-4cb6-bf2a-9c24b280dbbc",
+  "slug": "section-1358-memantine-a-medicine-to-treat-some-types-of-dementia-nhs",
+  "title": "Memantine: a medicine to treat some types of dementia. - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "cf8692dddbf9508a590c4cee773142103684eeab556925094407a8fada205c6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1358,
+    "content_hash": "b7c7d928d9d1929f9a09b1b9bf58097685c58e9eb29d842858bf86e45341fb7f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

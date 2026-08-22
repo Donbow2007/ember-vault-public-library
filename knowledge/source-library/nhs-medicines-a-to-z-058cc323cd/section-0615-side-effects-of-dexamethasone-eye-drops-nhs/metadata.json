@@ -1,0 +1,25 @@
+{
+  "id": "b80e7f6d-b858-433f-a878-1e84d6aa70f5",
+  "slug": "section-0615-side-effects-of-dexamethasone-eye-drops-nhs",
+  "title": "Side effects of dexamethasone eye drops - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "de4bee868a2b1f77d70eceb51a73a14263a4c01649fd6b3ff034044edd9f05a8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 615,
+    "content_hash": "9d7bcbac454ae51611a8a130ab387ab934c081eec3371306988d37d1a4b47cc6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

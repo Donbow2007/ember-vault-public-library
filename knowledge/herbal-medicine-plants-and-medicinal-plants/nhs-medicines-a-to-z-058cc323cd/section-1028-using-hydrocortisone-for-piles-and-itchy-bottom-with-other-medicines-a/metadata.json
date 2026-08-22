@@ -1,0 +1,25 @@
+{
+  "id": "629186c4-51b3-45ab-bba0-2361fe84651e",
+  "slug": "section-1028-using-hydrocortisone-for-piles-and-itchy-bottom-with-other-medicines-a",
+  "title": "Using hydrocortisone for piles and itchy bottom with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "f38c30e1b43fcc87f2acf5f64f654d44bdd1c4334d2267e1767456269d3bdfc0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1028,
+    "content_hash": "a16ce91a2d8ff98719656ee517e235bb107906a33fec394febc2bbcd859938c5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

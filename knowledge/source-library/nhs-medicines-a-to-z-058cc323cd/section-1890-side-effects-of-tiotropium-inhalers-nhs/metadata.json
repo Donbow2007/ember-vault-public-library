@@ -1,0 +1,25 @@
+{
+  "id": "acfda0ee-ab86-40da-800a-4f2539f8cfbc",
+  "slug": "section-1890-side-effects-of-tiotropium-inhalers-nhs",
+  "title": "Side effects of tiotropium inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "b17847cc9328acaa61a453d907810d242ba648df1870bffcf5915002a83b36d6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1890,
+    "content_hash": "922ad6659c7586129dd00eab296ce978af030cc32606b1027e2c0ad7671c17a7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

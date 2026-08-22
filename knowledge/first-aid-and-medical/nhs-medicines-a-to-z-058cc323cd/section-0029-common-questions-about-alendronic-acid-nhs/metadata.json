@@ -1,0 +1,25 @@
+{
+  "id": "d287d18a-58e8-4c63-99c7-8a8045d927c9",
+  "slug": "section-0029-common-questions-about-alendronic-acid-nhs",
+  "title": "Common questions about alendronic acid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "70644fe51866b10f49f49b6f8d0b1e71d9dda0716acda01a914b21391e3b623a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 29,
+    "content_hash": "8ae9002a575e4584c6fc95a9b4f0e96a8817c52dea9fb881c16fb27ef304a7ae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

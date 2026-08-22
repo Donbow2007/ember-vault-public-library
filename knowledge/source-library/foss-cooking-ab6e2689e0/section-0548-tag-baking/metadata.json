@@ -1,0 +1,25 @@
+{
+  "id": "2a9548cf-af61-43b9-84c8-c3a0266d04a2",
+  "slug": "section-0548-tag-baking",
+  "title": "Tag: baking",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "eea602e16ff6c537567ecfdc6ac57c23d786d996c4869de3d5df1f3bc6b83f1e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 548,
+    "content_hash": "eca7605da93ca5eb05d78edf9935f42362cc66695e7e54ccf9b7d9a7799fa6e2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

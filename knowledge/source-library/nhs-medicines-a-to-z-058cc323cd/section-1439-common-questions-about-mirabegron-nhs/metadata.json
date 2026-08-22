@@ -1,0 +1,25 @@
+{
+  "id": "91a4c04a-9339-4cf3-8a52-7b95a2de5b49",
+  "slug": "section-1439-common-questions-about-mirabegron-nhs",
+  "title": "Common questions about mirabegron - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "05fdf068fbb4b92a04cdcb46bb8cfbee2df750a25faf564634859d0b025b889b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1439,
+    "content_hash": "e51e058136b10681fbcded45f42ffa75e7199d186bec8cb398ce41a38cbf4dad",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

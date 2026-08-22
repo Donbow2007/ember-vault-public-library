@@ -1,0 +1,25 @@
+{
+  "id": "7e88114f-d39e-4ae1-a5ce-b1374a0217d4",
+  "slug": "section-0939-who-can-and-cannot-take-gliclazide-nhs",
+  "title": "Who can and cannot take gliclazide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "fa08c9c7abe77b03d169e389272472afe63e751e9bff5454e29261ed2e525af3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 939,
+    "content_hash": "43facd86e88c3a0fec06fba105765db1993a2b161290ba79d12a2ddd9f722ae4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

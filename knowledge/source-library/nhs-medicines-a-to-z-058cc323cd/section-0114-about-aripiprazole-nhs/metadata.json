@@ -1,0 +1,25 @@
+{
+  "id": "22b2e4da-3bf4-41eb-a1df-70a22fa1cde5",
+  "slug": "section-0114-about-aripiprazole-nhs",
+  "title": "About aripiprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "0802c1def56e1b86d7cfc00e5636535f237c071123eae0948f8e9ddf0feaf2ff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 114,
+    "content_hash": "f5191a58e6c0b7ca1d54195a9a3f0a05b478e913e4c2c5af813296d0ecf95c27",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

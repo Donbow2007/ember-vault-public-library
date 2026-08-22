@@ -1,0 +1,25 @@
+{
+  "id": "ecaee017-cabc-4a31-9466-b350370ba742",
+  "slug": "section-0373-limoncello",
+  "title": "Limoncello",
+  "category": "water-and-sanitation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "41096d1d02076547f2944c5f58645cd0abef33c2aa3cf613bc8538e7dbcbed4a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 373,
+    "content_hash": "2db2acd1060c58bd51ec3d58e268bb656633784dbd6e14c195ad550689c6bfd4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

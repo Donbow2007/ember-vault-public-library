@@ -1,0 +1,25 @@
+{
+  "id": "33d71ad7-e436-41eb-a543-1863b8fa305a",
+  "slug": "section-0460-common-questions-about-clobetasone-nhs",
+  "title": "Common questions about clobetasone - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "ca985ba0fe5ea4293d793eac3b91676514505cfae7a448dc65dcea49d2e4e54d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 460,
+    "content_hash": "dcc5f250cb3230f1999748759602fc386ad48a508c641c58806e82473612c04a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

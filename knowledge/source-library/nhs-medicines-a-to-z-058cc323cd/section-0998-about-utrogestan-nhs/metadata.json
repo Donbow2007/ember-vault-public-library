@@ -1,0 +1,25 @@
+{
+  "id": "275981c7-d77d-466d-879e-88d3eb0e09a9",
+  "slug": "section-0998-about-utrogestan-nhs",
+  "title": "About Utrogestan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "2bea4c39667bee3b38ed8cbc0ba72dab621eb70ab1c9bf4daf56a2d0ff4f872c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 998,
+    "content_hash": "930676d750f5bad6b6a467dbe46485562e9d6e67d6e40a7a55805d01b821216b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

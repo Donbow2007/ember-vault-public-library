@@ -1,0 +1,25 @@
+{
+  "id": "ade749b7-5105-4033-9eed-cf3d72501cc3",
+  "slug": "section-0499-fish-curry",
+  "title": "Fish Curry",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "2d77ddffae6aa206146e687c4e08d6ccefced1c901242f7742604cc53acffc5b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 499,
+    "content_hash": "cb5f538992a11f11e3b40944226fe1864702f3a7d5835ab1f66f5c000899c53e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4d67bd8b-5550-41d8-83d4-5030d4d56432",
+  "slug": "section-0279-three-bean-salad",
+  "title": "Three Bean Salad",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "7d540fd010151b9266c0157d73291759049981ab33aa6200106f74f4a59b972a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 279,
+    "content_hash": "47c74b0edd63bc10b117db7164c064fe4a210abf885bbe7ec2decbcf74f7cdbe",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

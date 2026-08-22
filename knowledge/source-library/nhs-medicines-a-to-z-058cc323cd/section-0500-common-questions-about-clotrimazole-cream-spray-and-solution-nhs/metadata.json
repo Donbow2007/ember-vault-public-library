@@ -1,0 +1,25 @@
+{
+  "id": "6d80ce41-3f1d-443d-aec5-e6affd76ae76",
+  "slug": "section-0500-common-questions-about-clotrimazole-cream-spray-and-solution-nhs",
+  "title": "Common questions about clotrimazole cream, spray and solution - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "d0167dbc4d96186f2dc499ed5db8b470383f2ca6f5b7488dd534feca7736b146",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 500,
+    "content_hash": "1211f38eb491ff52830273a07bd970eaf21be5f418b3ebebe1c0a5027a4ac814",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

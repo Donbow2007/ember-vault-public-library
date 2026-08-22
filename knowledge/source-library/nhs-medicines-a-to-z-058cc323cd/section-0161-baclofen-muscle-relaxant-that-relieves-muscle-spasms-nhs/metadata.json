@@ -1,0 +1,25 @@
+{
+  "id": "ca09cf6a-62eb-49ff-acca-86197a406417",
+  "slug": "section-0161-baclofen-muscle-relaxant-that-relieves-muscle-spasms-nhs",
+  "title": "Baclofen: muscle relaxant that relieves muscle spasms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "3da008169e3f572c5791c98f661ec0b1b75fb6b2d762c33419b03f65d628420c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 161,
+    "content_hash": "97af12ce8a07bb8e7e6ab517d7cf3b09c0439e52413488a56aff2cc27b228a93",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

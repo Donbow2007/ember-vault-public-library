@@ -1,0 +1,25 @@
+{
+  "id": "4f9fcd0f-617c-43db-9b0d-b7275adda05d",
+  "slug": "section-0424-ketchup",
+  "title": "Ketchup",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "57e71e5a41af22b85ceb1024eb186d51b618a66af274f171bd8ab7baef6abedb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 424,
+    "content_hash": "d35c7e5bfbfdb9272d3877fbd4fe9721305222810859e9daf6e28df6aa5867e4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

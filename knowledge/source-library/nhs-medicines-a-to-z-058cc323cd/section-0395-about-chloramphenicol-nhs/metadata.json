@@ -1,0 +1,25 @@
+{
+  "id": "c3fe4fa4-c8b3-4260-bd10-b7f92bf56186",
+  "slug": "section-0395-about-chloramphenicol-nhs",
+  "title": "About chloramphenicol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "e20ed3037598207e5dceb77c08b15ace6638fe8e5e3f536f1c1cab8b54329f0f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 395,
+    "content_hash": "8633ea3faa368526bce9611358f7d9fe7c84ce25d5893146d7e3f96b4432e974",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

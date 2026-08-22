@@ -1,0 +1,25 @@
+{
+  "id": "dd811757-5e39-431f-addd-f0bbac2299e3",
+  "slug": "section-1637-side-effects-of-pravastatin-nhs",
+  "title": "Side effects of pravastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "fad1749f6f91abedaabb7d4d16f33a3c1fc20090f6e4251db43eb388d6c824d4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1637,
+    "content_hash": "5314efece16199b724dd9c944afb783a62101ee1d1201b36d8090beaad5ecc72",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

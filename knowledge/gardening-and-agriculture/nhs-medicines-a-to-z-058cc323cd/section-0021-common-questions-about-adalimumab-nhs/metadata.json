@@ -1,0 +1,25 @@
+{
+  "id": "9e2e529d-dfd4-492e-a215-1b470b39c12c",
+  "slug": "section-0021-common-questions-about-adalimumab-nhs",
+  "title": "Common questions about adalimumab - NHS",
+  "category": "gardening-and-agriculture",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "144e7bc9b99bbad61c14a38a567beaed863e6bb07fa75e4ab7d7af3739f659d7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 21,
+    "content_hash": "ed0020e929a4bd7d907a922b9320100861255e043ad7063f8018d7e5adaf529c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

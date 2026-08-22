@@ -1,0 +1,25 @@
+{
+  "id": "81a91d4a-f59c-415c-a8a5-c723fb07e7fb",
+  "slug": "section-1636-pregnancy-breastfeeding-and-fertility-while-taking-pravastatin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking pravastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "89bfce26f150df1322de6b657d748c5daa0667e1bb5398d3c01ffd053c033a06",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1636,
+    "content_hash": "3f87c3ddcfb8b44584756ebf858bcd2cecda508d7323c376f53748e7fa8fc74b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

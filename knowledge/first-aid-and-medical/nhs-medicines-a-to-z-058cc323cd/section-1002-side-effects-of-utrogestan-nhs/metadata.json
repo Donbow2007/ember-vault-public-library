@@ -1,0 +1,25 @@
+{
+  "id": "4752375c-421f-44a3-b7b3-668aaffd394c",
+  "slug": "section-1002-side-effects-of-utrogestan-nhs",
+  "title": "Side effects of Utrogestan - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "8cb4be8cae9c2a8fe8b0a0a3837a3eec2828572a878cce1bad6ba8f23ab24e7c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1002,
+    "content_hash": "f4cbb5bdd98611ebb3d08e5642188c296800e2d335a4a25ee0a4dfb58d49211f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

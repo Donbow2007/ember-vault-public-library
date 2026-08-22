@@ -1,0 +1,25 @@
+{
+  "id": "32043f16-b5f3-4f49-beee-7ca6de177312",
+  "slug": "section-0405-dried-tomato",
+  "title": "Dried tomato",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "8bcd7e75f033413551b335b7048fb37f04a7d7a306519a4601c8af332aca3e67",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 405,
+    "content_hash": "8eeb7b478e52d9f970c4907dfe43c4b498f6ba476ff12b358fc0eb17dfda774b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

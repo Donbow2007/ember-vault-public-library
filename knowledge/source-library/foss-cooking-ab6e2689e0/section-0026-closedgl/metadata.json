@@ -1,0 +1,25 @@
+{
+  "id": "d62c89f3-d514-4197-9ca1-d93408c48886",
+  "slug": "section-0026-closedgl",
+  "title": "ClosedGL",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "22b6a46d2532115ce626deced6d41458cef1db39e3794792ef712eb1ff4c94a8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 26,
+    "content_hash": "0841d7e99d563e61d716290bc9634b168addf7e6024354fbd38e26dd55afaa9f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+# Side effects of azithromycin - NHS
+
+Side effects of azithromycin
+
+Like all medicines, azithromycin can cause side effects, although not everyone gets them. Common side effects These common side effects of azithromycin happen in more than 1 in 100 people. There are things you can do to help cope with them:
+Feeling sick (nausea)
+Stick to simple meals and do not eat rich or spicy food while you're taking this medicine.
+Diarrhoea
+Drink lots of fluids such as water or squash to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat diarrhoea without speaking to a pharmacist or doctor. If you take contraceptive pills and you have severe diarrhoea for more than 24 hours , your contraceptive pills may not protect you from pregnancy. Look on the pill packet to find out what to do.
+Being sick (vomiting)
+Take small frequent sips of water or squash to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat vomiting without speaking to a pharmacist or doctor. If you take the combined contraceptive pill or progestogen-only pill and you're being sick, your contraception may not protect you from pregnancy. Look on the pill packet to find out what to do.
+Losing your appetite
+Eat when you would usually expect to be hungry. If it helps, eat smaller meals more often than usual. Snack when you're hungry. Have nutritious snacks that are high in calories and protein, such as dried fruit and nuts.
+Headaches
+Rest and drink plenty of water. Ask your pharmacist to recommend a painkiller if you need one. Talk to your doctor if the headaches last longer than a week or are severe.
+Feeling dizzy or tired
+If you feel dizzy when you stand up, try getting up very slowly or stay sitting down until you feel better. If you begin to feel dizzy, lie down so you do not faint, then sit until you feel better. Do not drive, ride a bike or use tools or machinery if you feel dizzy or tired. Do not drink alcohol as it may make you feel worse.
+Changes to your sense of taste
+Talk to your doctor if this is bothering you. Keep taking the medicine, but talk to your doctor or pharmacist if these side effects bother you or do not go away. Serious side effects Serious side effects are rare and happen in less than 1 in 1,000 people. Call a doctor or call 111 now if: you have a faster or irregular heartbeat ( arrhythmia ) the whites of your eyes turn yellow, or your skin turns yellow (this may be less noticeable on brown or black skin), or you have pale poo with dark pee – these can be signs of liver or gallbladder problems you get ringing in your ears ( tinnitus ), temporary hearing loss, or you feel unsteady on your feet ( vertigo ) you have severe pain in your stomach or back – this can be a sign of inflammation of the pancreas ( pancreatitis ) you have diarrhoea (perhaps with muscle cramps) that contains blood or mucus – if you have severe diarrhoea without blood or mucus for more than 4 days you should also speak to a doctor Immediate action required: Call 999 now if:
+you have chest pain – this could be a sign of heart attack Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Serious allergic reaction In rare cases it's possible to have a serious allergic reaction ( anaphylaxis ) to azithromycin. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of azithromycin. For a full list see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 20 January 2022
+
+Next review due: 20 January 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

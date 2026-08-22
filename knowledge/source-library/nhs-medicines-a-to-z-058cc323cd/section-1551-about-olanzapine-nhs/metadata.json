@@ -1,0 +1,25 @@
+{
+  "id": "8fdc4194-e8ae-4d55-afb2-2129e6835810",
+  "slug": "section-1551-about-olanzapine-nhs",
+  "title": "About olanzapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "02becd42ded36ec397e17fc505bc0e0dec0b5160488963645baf3c32de7b20af",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1551,
+    "content_hash": "9d69e906f0fecf87845cc1cb503985a69c94c5c451c783eb2ad35004fc311288",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

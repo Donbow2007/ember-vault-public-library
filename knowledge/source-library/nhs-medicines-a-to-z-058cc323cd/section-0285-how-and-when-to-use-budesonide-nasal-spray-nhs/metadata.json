@@ -1,0 +1,25 @@
+{
+  "id": "17c0c2b1-7218-4ef0-a031-0af6102db066",
+  "slug": "section-0285-how-and-when-to-use-budesonide-nasal-spray-nhs",
+  "title": "How and when to use budesonide nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "493dc88c584c8bc5fe962f13cb26f3474f461311ba40d113539532848f2d1e97",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 285,
+    "content_hash": "2d9dfd8d5b057c8b2298b273351a8a2ffc0026d93f2c0f29397cb13fc9e7d4a0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

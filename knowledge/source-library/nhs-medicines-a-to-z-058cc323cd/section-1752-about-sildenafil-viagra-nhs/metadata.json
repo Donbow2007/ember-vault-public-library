@@ -1,0 +1,25 @@
+{
+  "id": "a13750b5-7423-4d62-8f09-179b62cf1ff7",
+  "slug": "section-1752-about-sildenafil-viagra-nhs",
+  "title": "About sildenafil (Viagra) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "beeeb9654a2df3a9db36ed7ef398bfff49eb220186f1d8065d2503c52c401993",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1752,
+    "content_hash": "ca62f6b6462f571b31e7367454b55381b473afda7dc393587d309f2ed3398da0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

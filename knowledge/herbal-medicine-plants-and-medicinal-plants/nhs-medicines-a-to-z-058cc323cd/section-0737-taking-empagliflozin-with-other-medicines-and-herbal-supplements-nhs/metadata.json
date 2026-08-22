@@ -1,0 +1,25 @@
+{
+  "id": "443adbb4-badd-4aa4-a9c9-9a34f7688505",
+  "slug": "section-0737-taking-empagliflozin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking empagliflozin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "85bfe35dfb0ce4d6c2de0117a8f14830cd0acd3c52c8c75776f826cd6d93873c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 737,
+    "content_hash": "5985efeee4e6aef04d5c931047000a92fd76f3e50051457f092cce86c456dba0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

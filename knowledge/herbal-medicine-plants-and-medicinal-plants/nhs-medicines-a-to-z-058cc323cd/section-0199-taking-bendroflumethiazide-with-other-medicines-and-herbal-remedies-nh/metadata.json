@@ -1,0 +1,25 @@
+{
+  "id": "dc27fca1-dd49-4d7a-85d9-4935876e0177",
+  "slug": "section-0199-taking-bendroflumethiazide-with-other-medicines-and-herbal-remedies-nh",
+  "title": "Taking bendroflumethiazide with other medicines and herbal remedies - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "1bac0a4b06e27832decfd522f626a35c05c687d08307d019cd0224b374757b5d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 199,
+    "content_hash": "6e21edbcd177cf1af6d2ae374bed15fafba9d5ff4e6652312689566d54651b48",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

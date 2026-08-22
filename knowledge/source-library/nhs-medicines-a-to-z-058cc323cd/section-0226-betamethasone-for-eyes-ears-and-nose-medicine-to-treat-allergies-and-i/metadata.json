@@ -1,0 +1,25 @@
+{
+  "id": "b4570eac-46fc-498f-ab24-a85bda47c029",
+  "slug": "section-0226-betamethasone-for-eyes-ears-and-nose-medicine-to-treat-allergies-and-i",
+  "title": "Betamethasone for eyes, ears and nose: medicine to treat allergies and inflammation - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "6262ab26aca0ff3741e2e85c8dc94063862774ad6c1ec7b54d230a8016b6834e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 226,
+    "content_hash": "9096bcb066feab0f2cd7796dea60cdfd6005d1b8c537b75d824b933aac5a3d55",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

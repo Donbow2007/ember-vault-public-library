@@ -1,0 +1,25 @@
+{
+  "id": "19ac0ed4-b0d8-405d-9ea7-04b5ef03f7da",
+  "slug": "section-2000-zopiclone-medicine-used-for-sleeping-problems-insomnia-nhs",
+  "title": "Zopiclone: medicine used for sleeping problems (insomnia) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "ed431f0f26e907387b09ddd9bc029545c5ea5f15313d04960c2ff1fe02b039ce",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2000,
+    "content_hash": "1a2e0a2a0be3bea86064efc068ebf016c29379ace6c890e9a037dd816e1b5e16",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

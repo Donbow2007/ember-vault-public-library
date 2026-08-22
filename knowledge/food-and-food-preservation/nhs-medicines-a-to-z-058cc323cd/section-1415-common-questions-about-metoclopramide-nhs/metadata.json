@@ -1,0 +1,25 @@
+{
+  "id": "19ce9628-78f2-4317-942f-2b7a8f264ba1",
+  "slug": "section-1415-common-questions-about-metoclopramide-nhs",
+  "title": "Common questions about metoclopramide - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "1db8b0f54061c63a6d207246f6e310da52cfa861f9365c099be5247513d37c99",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1415,
+    "content_hash": "1a98a0b4eb589a29f8ced4f9222493965742ff70ffab8815446a6a4f399b8599",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3e6afc69-de0a-4bdd-acc3-3b1de59ac689",
+  "slug": "section-0486-pregnancy-breastfeeding-and-fertility-while-taking-clopidogrel-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking clopidogrel - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "a2e1f16b8f9276c77c4142479ca3d44884e4e7f22dd2ccc9ef6bd21efe378b8d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 486,
+    "content_hash": "b061f5a02e8a92b3a6a061c84153a95b02b2cfd08ea822f9062e855233fcf0a2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

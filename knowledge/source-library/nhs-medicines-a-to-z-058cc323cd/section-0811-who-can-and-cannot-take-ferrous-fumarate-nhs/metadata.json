@@ -1,0 +1,25 @@
+{
+  "id": "6d301e7d-561c-47d5-ac9d-794ad1dbe209",
+  "slug": "section-0811-who-can-and-cannot-take-ferrous-fumarate-nhs",
+  "title": "Who can and cannot take ferrous fumarate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "240121cfbdc3e274c4261152ded9f0cbb6ed1310029a2f132a6273b736c15d80",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 811,
+    "content_hash": "3e37765250f7b571e841f12ab1ef08d4d0f2143a4048eca1e0271127cf635a4d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

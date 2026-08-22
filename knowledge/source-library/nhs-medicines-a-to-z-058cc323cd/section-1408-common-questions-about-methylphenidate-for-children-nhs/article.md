@@ -1,0 +1,29 @@
+# Common questions about methylphenidate for children - NHS
+
+Common questions about methylphenidate for children - Brand names: Ritalin, Concerta, Medikinet, Delmosart, Equasym
+How does methylphenidate work?
+Methylphenidate belongs to a group of medicines called stimulants. They increase activity in the brain, particularly in areas that help control attention and behaviour. Methylphenidate is thought to work by boosting the levels of chemicals called dopamine and noradrenaline in the brain. This can increase activity in the parts of your child's brain that control attention and behaviour. This makes them less hyperactive or impulsive. It will also help them to pay attention and concentrate better.
+How long does it take to work?
+When your child first starts taking methylphenidate they'll be on a low dose. Their doctor will usually increase this gradually until they find the dose that works for your child. This means it might take a few weeks before you see any benefits. When your doctor finds the right dose for your child, methylphenidate should start to work within 30 to 60 minutes of them taking it. The medicine makes your child less hyperactive or impulsive, and helps their concentration. How quickly it works depends on whether it's standard or slow release.
+Are there any long-term side effects?
+If your child takes methylphenidate for longer than a year, it can slow down their growth. However, this happens in less than 1 in 10 children. Your doctor will check your child's height, weight and appetite every 6 months to make sure they're growing OK There's no evidence that methylphenidate is harmful as long as your child takes it exactly as prescribed and they are monitored carefully. This is why it's a good idea for them to have regular check-ups with their doctor to see if they still need it.
+What will happen if my child stops taking it?
+Only stop giving your child methylphenidate if your doctor tells you to. If your child suddenly stops taking methylphenidate, you may notice withdrawal symptoms such as depression. Talk to your doctor if you want to stop giving your child methylphenidate. They may want to slowly reduce the amount that your child takes before stopping completely. This is to help avoid any extra side effects.
+Is methylphenidate addictive?
+Your child is unlikely to have any problems as long as you follow the doctor's instructions carefully. Methylphenidate does not generally cause addiction issues. The risk may increase, however, if you do not give them their medicine properly. This includes giving them more than their prescribed dose of methylphenidate or giving them higher doses. This can lead to being physically addicted, so they're more likely to get withdrawal symptoms if it's stopped suddenly. Talk to your doctor before stopping giving your child methylphenidate, as they may want to reduce the dose gradually. This reduces the risk of your child having extra side effects when they stop taking this medicine.
+Does my child need to stick to the same brand of methylphenidate?
+Once your child is on a brand of methylphenidate that works for them, they'll usually keep taking the same brand. It can be a problem to change brands, particularly if they're taking slow release tablets or capsules. This is because: different brands of slow release methylphenidate tablets and capsules release the medicine into the body in different ways, so this can affect how they work to manage symptoms the side effects for different brands of methylphenidate can be different instructions on how and when to give your child the medicine, such as whether to take it with food, are different for each brand If your child does need to change brands, check the instructions that come with the medicine carefully.
+Can my child take it with painkillers?
+You can give your child painkillers such as paracetamol or ibuprofen , unless your doctor tells you not to.
+Are medicines the first treatment option for children with ADHD?
+If a child has ADHD, their doctor will usually only prescribe a medicine if other treatments have not helped. Their symptoms may still be causing problems, even after trying practical things like: taking regular breaks to move around reducing distractions, for example by using headphones having instructions written down clearly Medicines are usually only used for ADHD as part of a treatment programme. Other treatments can include: therapies to improve specific skills and behaviours training for parents to help them manage their child's behaviour additional support at school If you have any questions or worries about your child's medicine, speak to your doctor.
+What if methylphenidate is not helping my child?
+Some people find that methylphenidate does not work for their child. In this case, their doctor may recommend trying a different medicine or psychological treatments. Other medicines for ADHD include dexamfetamine, lisdexamfetamine and atomoxetine. Non-medicine treatments for ADHD include behavioural therapy and talking therapy. Speak to your doctor if you're interested in finding out about alternative treatments. Do not stop giving your child methylphenidate without talking to your doctor first.
+Can taking supplements help ADHD?
+Some studies have suggested that omega-3 and omega-6 supplements can help with ADHD. However, there is limited evidence to support this. Talk to your doctor before giving any supplements to your child. This is because some can react with medicine, causing side effects, or can make the medicine work less well.
+Is there any food or drink they need to avoid?
+There's no particular food or drink that your child needs to avoid when taking methylphenidate. A healthy diet and exercise can help their symptoms.
+Page last reviewed: 12 March 2025
+
+Next review due: 12 March 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

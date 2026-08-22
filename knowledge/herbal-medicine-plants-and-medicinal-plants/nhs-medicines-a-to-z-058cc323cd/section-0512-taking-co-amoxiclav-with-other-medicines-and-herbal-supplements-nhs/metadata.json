@@ -1,0 +1,25 @@
+{
+  "id": "bd006c1d-6a44-43fd-b9a6-f7265a766da2",
+  "slug": "section-0512-taking-co-amoxiclav-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking co-amoxiclav with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "16960ac631cff61ed76292a7fb3ac3b47121ec59c56f49a3491e7a29e43168b0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 512,
+    "content_hash": "6c0af68c234b36b5fbd8fe6a41f7621df34db9533f45c84b1ff39aa79c0e8417",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

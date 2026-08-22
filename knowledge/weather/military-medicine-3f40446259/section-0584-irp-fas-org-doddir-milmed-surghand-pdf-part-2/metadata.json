@@ -1,0 +1,25 @@
+{
+  "id": "0ef1bbdf-8afc-484d-b05a-4b0e5bc1101f",
+  "slug": "section-0584-irp-fas-org-doddir-milmed-surghand-pdf-part-2",
+  "title": "irp.fas.org/doddir/milmed/surghand.pdf — Part 2",
+  "category": "weather",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "6fde35ea83b37e8080e289f5a2b40a81a533cd4de7665b432e46454f4d3d00a4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 584,
+    "content_hash": "f8d689ce6f1042444a765f211c7fc479928667ee7c2fe2c7f936888ed35d1598",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5d69d783-e04d-40aa-81ae-c9e826b5ae5b",
+  "slug": "section-0144-irp-fas-org-doddir-milmed-dosimetry-pdf-part-8",
+  "title": "irp.fas.org/doddir/milmed/dosimetry.pdf — Part 8",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:42Z",
+  "content_hash": "0c676bb561a9a421c49ea80c3a01197dfd0a4f8103bbe97a2508d74180c7ec75",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 144,
+    "content_hash": "138ba9835d61da6a3f92c83c9d71d559f19e5d2c26341b5ca217c7f52f1941df",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

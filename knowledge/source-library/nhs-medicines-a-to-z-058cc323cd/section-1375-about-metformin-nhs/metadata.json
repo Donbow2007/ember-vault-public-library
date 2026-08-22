@@ -1,0 +1,25 @@
+{
+  "id": "eef19c12-7b97-417c-b453-230bcbff44ef",
+  "slug": "section-1375-about-metformin-nhs",
+  "title": "About metformin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "e648211ee0d50b1894cb3c0c87cf13499a21528e6b8671e1ea4d733a74cfba69",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1375,
+    "content_hash": "fdd8023ad178d7fbd057991eb9c0cfdf46bd024eb2802f02f0d06472fc91e46a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

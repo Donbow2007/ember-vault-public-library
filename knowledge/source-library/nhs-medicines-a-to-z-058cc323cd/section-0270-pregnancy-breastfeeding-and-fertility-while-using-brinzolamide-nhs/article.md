@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while using brinzolamide - NHS
+
+Pregnancy, breastfeeding and fertility while using brinzolamide - Brand name: Azopt Brinzolamide and pregnancy Treating high pressure in the eye or glaucoma is essential and so it's important to keep using brinzolamide while you're pregnant. As it is applied to the eye, very little gets into your blood and to your baby. The small amount that might get to your baby is unlikely to harm them. Brinzolamide and breastfeeding You can use brinzolamide while you're breastfeeding. Treating high pressure in the eye or glaucoma is essential and so it's important to keep using brinzolamide while you're breastfeeding. Brinzolamide eye drops are not thought to pass into breast milk or cause any side effects in breastfed babies. Medicines containing brinzolamide may also contain other ingredients. Check with a pharmacist or doctor first if you're breastfeeding. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your midwife, health visitor or doctor as soon as possible. Brinzolamide and fertility There's no evidence to suggest that using brinzolamide eye drops reduces fertility in men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Information: For more information about how treatment for glaucoma can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (Bumps) website .
+Page last reviewed: 20 September 2024
+
+Next review due: 20 September 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

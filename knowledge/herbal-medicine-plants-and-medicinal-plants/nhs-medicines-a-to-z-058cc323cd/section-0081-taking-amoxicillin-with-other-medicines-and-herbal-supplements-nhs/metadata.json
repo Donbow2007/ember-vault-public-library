@@ -1,0 +1,25 @@
+{
+  "id": "db92b3e5-3441-4565-98ec-8712d9b62bd2",
+  "slug": "section-0081-taking-amoxicillin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking amoxicillin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "8c00fb024e8af2d875c62f8eb50652aceaaa4fcdfe444aeac999e1b59c2a23d7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 81,
+    "content_hash": "b18e790d42fff0cac2bd001f9121e11aa3888c1ffd48a2c65808867ef065a36c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

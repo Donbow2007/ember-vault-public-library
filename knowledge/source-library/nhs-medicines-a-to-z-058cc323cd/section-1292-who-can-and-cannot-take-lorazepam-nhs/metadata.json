@@ -1,0 +1,25 @@
+{
+  "id": "4c9c4de5-3eab-40ee-964d-0abffb04eaff",
+  "slug": "section-1292-who-can-and-cannot-take-lorazepam-nhs",
+  "title": "Who can and cannot take lorazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "57b8682178acf1f0b01096704e43000e2ffc4f1e54a1947b4cd35a3d1046c7fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1292,
+    "content_hash": "6074aae0ec2b9d66323d5a58e9494aa3c11839e499da7a2475c42190f6e599b7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

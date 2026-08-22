@@ -1,0 +1,25 @@
+{
+  "id": "04c8474c-3088-40a3-b9bd-66e2aec5046a",
+  "slug": "section-0168-cuca",
+  "title": "Cuca",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "2963ae1bbb8e10555a48cd59496beddfd575c3dc18dee9b9eb4e84428aec4d80",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 168,
+    "content_hash": "8fc5dcdbe47f65259418df65e0f85cbafb310e1fe10ac2d937d257202a40ba9c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

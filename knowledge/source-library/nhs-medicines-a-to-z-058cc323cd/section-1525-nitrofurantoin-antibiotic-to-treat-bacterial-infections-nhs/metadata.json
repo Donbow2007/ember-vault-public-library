@@ -1,0 +1,25 @@
+{
+  "id": "fa9cf568-ef8e-4bcb-98c0-36bfe52c5dd8",
+  "slug": "section-1525-nitrofurantoin-antibiotic-to-treat-bacterial-infections-nhs",
+  "title": "Nitrofurantoin: antibiotic to treat bacterial infections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "157e0061c8a21aead29f36a2e19c25ad909728d5ff4064e4a4afa51a842418b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1525,
+    "content_hash": "6a7b107542f6b6aa205c5903cf854f190b31d624878e3a268390ec1ef8e7a252",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

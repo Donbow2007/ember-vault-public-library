@@ -1,0 +1,25 @@
+{
+  "id": "d8ce0110-4396-4b65-b05e-e0ad3383493a",
+  "slug": "section-0390-sopa-de-lentejas",
+  "title": "Sopa de Lentejas",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "0794473bcb778da20475b4bd29513e81bc8d0317e1a1c5556ee59c7b8c1739d9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 390,
+    "content_hash": "0b8ebcd8216a969ff440ba3ea29068e2bd0c3175bbf74c0f2330f9bdcfc0616d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

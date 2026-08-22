@@ -1,0 +1,25 @@
+{
+  "id": "061d1ae0-e262-4d3e-9cb5-5cbdc4ef506e",
+  "slug": "section-0358-pregnancy-breastfeeding-and-fertility-while-taking-carbocisteine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking carbocisteine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "046529933b6c89503c6113eb11d223b5105d0e0aaf31c97150309ffaa4c8119d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 358,
+    "content_hash": "8923dcd87693e553e73ee88a623adc44263c54312265b5612b6bcb3bf77c263d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

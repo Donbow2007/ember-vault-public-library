@@ -1,0 +1,7 @@
+# Who can and cannot take clonidine - NHS
+
+Who can and cannot take clonidine - Brand name: Catapres Who can take clonidine Most adults aged 18 years old and over can take clonidine. It's sometimes prescribed for children if a specialist recommends it. Who may not be able to take clonidine Clonidine is not suitable for some people. To make sure clonidine is safe for you, or your child, tell your doctor if you: have ever had an allergic reaction to clonidine, any of its ingredients or any other medicine are pregnant, trying to get pregnant or breastfeeding have any heart or kidney problems have blood circulation problems in your hands, feet or lower legs, including Raynaud's or peripheral arterial disease (PAD) (also known as peripheral vascular disease) have ever had problems with blood circulation to the brain (cerebrovascular disease) such as stroke , transient ischaemic attacks (TIA) or brain aneurysm have ever had clinical depression have constipation have polyneuropathy, a type of peripheral neuropathy that affects several nerves in your body with symptoms such as tingling, unusual feeling, numbness, pins and needles or sharp pains in the hands, feet, arms or legs wear contact lenses – you may get dry eyes while taking clonidine, which may be a problem if you wear contact lenses
+Page last reviewed: 10 February 2023
+
+Next review due: 10 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

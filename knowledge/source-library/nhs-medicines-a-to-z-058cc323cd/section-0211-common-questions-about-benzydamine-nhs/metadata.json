@@ -1,0 +1,25 @@
+{
+  "id": "a4e116c4-9cf0-4e44-9b17-4792e9f424cf",
+  "slug": "section-0211-common-questions-about-benzydamine-nhs",
+  "title": "Common questions about benzydamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "3875e6bebd5ead938291eb10e94e49073e42797bf201ad8fbf1611307f8a606c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 211,
+    "content_hash": "e8650b3c120a9478bfd5459a157154f565060b3b7906f9f8644a0e3a4bc7ccfd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

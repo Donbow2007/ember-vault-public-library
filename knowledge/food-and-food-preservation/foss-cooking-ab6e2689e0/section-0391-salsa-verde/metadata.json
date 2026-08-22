@@ -1,0 +1,25 @@
+{
+  "id": "948f559b-5b04-40cd-b7ea-4a978af03d89",
+  "slug": "section-0391-salsa-verde",
+  "title": "Salsa Verde",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "dbab52953eb621ad2d31cbe5698d812d1586032a4a015fed33093db10e849624",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 391,
+    "content_hash": "b0f7f66a06999b18fb730175715999825e4c42f0880e020e14271b6cca03bdc2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

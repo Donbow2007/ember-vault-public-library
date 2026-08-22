@@ -1,0 +1,25 @@
+{
+  "id": "4d00dccf-d9bc-4e4a-a128-3f4ff9ac5c05",
+  "slug": "section-0581-irp-fas-org-doddir-milmed-sterile-pdf-part-1",
+  "title": "irp.fas.org/doddir/milmed/sterile.pdf — Part 1",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "78632721594c59d86a175f45b93bc51d95142251fd8db7e661a0a4246ba9e05b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 581,
+    "content_hash": "4c96d61ced9668187aee248d77e582e806d0f48d286d81e79f8a8421bc330c63",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

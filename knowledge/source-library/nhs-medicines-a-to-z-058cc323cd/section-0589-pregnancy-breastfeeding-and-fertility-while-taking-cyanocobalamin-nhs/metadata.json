@@ -1,0 +1,25 @@
+{
+  "id": "e583a7c0-8940-4e0d-9619-420b6c2ce714",
+  "slug": "section-0589-pregnancy-breastfeeding-and-fertility-while-taking-cyanocobalamin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking cyanocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "4bc00f701cec8bb0cc2516a083cd8fd5b4914adfc50fc4c243e59be58e02e12a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 589,
+    "content_hash": "edabb3133b4ee67c1ed57a149431b1a970f5ee28a87526b09d9a22fcb1330567",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "757abf8a-60a9-43cf-9f86-b45e5eb43aa0",
+  "slug": "section-0857-side-effects-of-fluoxetine-nhs",
+  "title": "Side effects of fluoxetine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "1a9ce4683ccdff8ee806a55d173b2f02226200e8ebb5cf73d001b826fe8dc2b0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 857,
+    "content_hash": "51d4835467402502834cf4909862c68c81b8a14b9c865258d028ad69c66513b6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

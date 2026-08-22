@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while taking sumatriptan - NHS
+
+Pregnancy, breastfeeding and fertility while taking sumatriptan - Brand names: Imigran, Migraitan, Boots Migraine Relief Sumatriptan and pregnancy Sumatriptan is not thought to be harmful during pregnancy. However, there is not enough research to say for certain. Talk to a doctor about the benefits and possible harms of taking sumatriptan. Other medicines may be more suitable for you to take during pregnancy. Sumatriptan and breastfeeding If your doctor or health visitor says your baby is healthy, it's OK to take sumatriptan while you're breastfeeding. Only very small amounts of sumatriptan pass into breast milk and it's very unlikely to cause any problems for your baby. If you notice that your baby is not feeding as well as usual, seems unusually sleepy, has an upset stomach, or if you have any other concerns about your baby, speak to your doctor, pharmacist, midwife, or health visitor. Sumatriptan and fertility There's no evidence that sumatriptan affects fertility in men or women. Speak to your doctor if you're trying to get pregnant or you're having problems getting pregnant while taking sumatriptan. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how triptans such as sumatriptan can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 8 December 2022
+
+Next review due: 8 December 2025

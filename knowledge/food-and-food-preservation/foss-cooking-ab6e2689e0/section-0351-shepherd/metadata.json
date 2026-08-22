@@ -1,0 +1,25 @@
+{
+  "id": "fac2aa30-3227-4a82-8907-2f1a730b709c",
+  "slug": "section-0351-shepherd",
+  "title": "Shepherd",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "57dc8e44ae05d3f548861720c3ad69bd0453ab3bf338392758bd8a37080fa86c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 351,
+    "content_hash": "6ff2f6e319147b67180725e77d3000c436b27dc9adb4c118a16f1ddf5e87a31e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

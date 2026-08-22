@@ -1,0 +1,9 @@
+# Laxatives - Considerations
+
+Considerations
+-
+Laxatives
+Most people can use laxatives, but not all types are suitable for everyone. Check with a GP or pharmacist before using laxatives if you: have a bowel condition, such as irritable bowel syndrome (IBS) ,  Crohn's disease or  ulcerative colitis have a  colostomy or  ileostomy , where the small or large intestine is diverted through an opening in the abdomen have a heart condition, such as heart failure are pregnant or breastfeeding have an obstruction somewhere in your digestive system have difficulty swallowing (dysphagia) have a  lactose intolerance , as some laxatives contain lactose have phenylketonuria, a rare genetic condition where the body is unable to break down a substance called phenylalanine, as phenylalanine is found in certain bulk-forming laxatives are taking opioid painkillers, such as codeine or morphine These situations do not necessarily mean you cannot take laxatives, but certain types of laxative may be more suitable for you than others. Children and laxatives Always check with a GP before giving your baby or child a laxative. Laxatives are not recommended for babies who have not been weaned. If your unweaned baby is constipated, try giving them extra water in between feeds. Gently massaging their tummy and moving their legs in a cycling motion may also help. Babies who are eating solid foods may be able to use laxatives, but first make sure your baby drinks plenty of water or diluted fruit juice, and increase the amount of fibre in their diet. If they're still constipated, a GP may prescribe or recommend a laxative. Find out more about treating constipation in children
+Page last reviewed: 11 October 2022
+Next review due: 11 October 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

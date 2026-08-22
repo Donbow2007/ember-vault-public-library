@@ -1,0 +1,25 @@
+{
+  "id": "4317b7e6-2585-4c56-a756-cc47ccd9c579",
+  "slug": "section-0534-lenten-chili",
+  "title": "Lenten Chili",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "9412419b273330be1b95a712c03fb24f2abad6444d422b77933442e879c262b3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 534,
+    "content_hash": "b65d11bb6b345183d4dd2aada56e69ee3e1e17788dbc4ea41aa934156b02d857",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

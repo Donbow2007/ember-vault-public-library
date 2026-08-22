@@ -1,0 +1,25 @@
+{
+  "id": "16b130a6-fa98-4941-9d39-6570675c5cbd",
+  "slug": "section-0871-how-and-when-to-use-fluticasone-nasal-spray-and-drops-nhs",
+  "title": "How and when to use fluticasone nasal spray and drops - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "c710bd4df97522182730101acb0040ea68d73f1206ce6e2871880a5342beffab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 871,
+    "content_hash": "306f7ebacc30b5f6f5d04b9cac0a70a63f53ddc078810759d222d5eba3d3d2f0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

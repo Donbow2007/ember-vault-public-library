@@ -1,0 +1,25 @@
+{
+  "id": "700d7184-c499-4340-b9cc-95e59fa9eecb",
+  "slug": "section-1615-who-can-and-cannot-take-pepto-bismol-nhs",
+  "title": "Who can and cannot take Pepto-Bismol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "89c5fa41070ecb85784ee49ffdb6878b0af0eadcb663097faa714bfd44da271e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1615,
+    "content_hash": "c116812fc183fd597b1d66eac9d6232246c4d7c04ed717a256404e954b7fa024",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

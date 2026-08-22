@@ -1,0 +1,7 @@
+# Who can and cannot take aripiprazole - NHS
+
+Who can and cannot take aripiprazole - Brand name: Abilify Who can take aripiprazole Most adults can take aripiprazole. Most children and young people aged 15 years old and over can take aripiprazole for schizophrenia. Those aged 13 years old and over can take it for mania in bipolar disorder. Who may not be able to take aripiprazole Aripiprazole is not suitable for some people. To make sure it's safe for you, tell your doctor before starting to take it if you have: ever had an allergic reaction to aripiprazole or any other medicine a heart problem such as an irregular heartbeat ( arrhythmia ) low blood pressure or high blood pressure ever had problems controlling the movements of your tongue, mouth and face ever had a rare condition called neuroleptic malignant syndrome (symptoms include a high temperature, muscle stiffness, sweating, anxiety and excess saliva) epilepsy diabetes or someone in your family has diabetes had a blood clot – or someone in your family has had blood clots had a stroke or are at high risk of having a stroke Alzheimer's disease or another type of dementia liver problems ever had problems with gambling or disorders related to lack of impulse control
+Page last reviewed: 6 April 2023
+
+Next review due: 6 April 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

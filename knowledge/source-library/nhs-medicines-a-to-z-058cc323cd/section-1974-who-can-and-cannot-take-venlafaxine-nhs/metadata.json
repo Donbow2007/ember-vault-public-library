@@ -1,0 +1,25 @@
+{
+  "id": "c1be73cd-b074-4fe9-bfe6-d7ce28b16143",
+  "slug": "section-1974-who-can-and-cannot-take-venlafaxine-nhs",
+  "title": "Who can and cannot take venlafaxine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "1b2967df1623d00d0e796413eec6ab073cb7752d44ed2108ccc36a32a5ec28ae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1974,
+    "content_hash": "acc7594f9031605cf0c5d37959a9bc9d09f5db1caf3ee3020a4d647f5a1d3872",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

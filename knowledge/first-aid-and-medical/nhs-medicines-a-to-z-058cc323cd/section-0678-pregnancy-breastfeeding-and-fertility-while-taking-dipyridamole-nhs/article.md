@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking dipyridamole - NHS
+
+Pregnancy, breastfeeding and fertility while taking dipyridamole - Brand name: Attia Dipyridamole and pregnancy Dipyridamole is not often used in pregnancy. This is because there's little information about how the medicine may affect your baby. However, your doctor may advise you to take it if they think the benefits of taking the medicine outweigh the risks. If you're trying to get pregnant or you're already pregnant, talk to your doctor about the benefits and possible harms of taking dipyridamole. These will depend on how many weeks pregnant you are and the reason you need to take it. There may be other medicines that are more suitable for you while you're pregnant. Dipyridamole and breastfeeding If your doctor, midwife or health visitor says your baby is healthy, you may be able to take dipyridamole while breastfeeding. But talk to your doctor or a pharmacist before you take it. It's not known how much dipyridamole gets into breast milk, but it's likely to be a small amount. It's unlikely to cause any side effects in your baby. As a precaution, call 111 or talk to your doctor, midwife, or health visitor if you have any concerns about your baby. This includes: diarrhoea or being sick (vomiting) being irritable bruising or bleeding easily skin rashes Dipyridamole and fertility There's no evidence that dipyridamole affects fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 2 July 2024
+
+Next review due: 2 July 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

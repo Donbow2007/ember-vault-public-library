@@ -1,0 +1,25 @@
+{
+  "id": "26a28811-a606-4d29-a476-592aceed394c",
+  "slug": "section-1227-levetiracetam-a-medicine-to-treat-epilepsy-nhs",
+  "title": "Levetiracetam: a medicine to treat epilepsy - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "acc37f29a43907ffd43e0e6789c8b73dde6c6b100484d45f96ca2cf6503b41ac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1227,
+    "content_hash": "eb440f886c937da4f1e7db768a8838f9326ccd930ac98a4a3a07c6850f1eb1aa",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "973d416f-0eb5-416d-a2d0-14241108d2ad",
+  "slug": "section-0207-turkish-yogurt-soup",
+  "title": "Turkish Yogurt Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "7ffd0b7e75e01488e9865729b75f8a3fe233bc08690172a5d1d08ef273d6da89",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 207,
+    "content_hash": "0bda447d92b55d037355a194736e8b1fbd1daee0b88e50e9741d407a2c847207",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

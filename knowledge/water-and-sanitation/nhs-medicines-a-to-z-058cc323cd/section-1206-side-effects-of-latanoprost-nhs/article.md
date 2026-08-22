@@ -1,0 +1,21 @@
+# Side effects of latanoprost - NHS
+
+Side effects of latanoprost - Brand names: Xalatan, Monopost Like all medicines, latanoprost can cause side effects, but not everyone gets them. Common side effects These common side effects of latanoprost happen in up to 1 in 10 people. There are things you can do to cope with them:
+Change in eye colour
+Talk to your doctor before you start using latanoprost if you're worried about this. If this is going to happen, it willl usually start within 8 months of using the eye drops. This colour change can be permanent and may be more obvious if you're only using the eye drops in 1 eye.
+Red and itchy eyelids, irritated eye and eye pain
+Irritation should go away once your body gets used to latanoprost, but talk to your doctor or pharmacist if you're worried about this. If the eye drops are irritating your eyes and making them water so much that you're thinking about stopping using them, talk to your doctor straight away. They may prescribe something different for you. Do not drive, cycle, use tools or operate heavy machinery until your eyes feel comfortable again and your vision is clear.
+Inflamed eyelid
+Place a warm, clean flannel or piece of cotton wool over your eyes for up to 10 minutes. You could also try gently massaging your eyelids, or cleaning your eyelids with cotton wool or cotton wool buds that have been soaked in a small amount of baby shampoo.
+Eye infection (conjunctivitis)
+Dip a clean cotton wool pad (1 for each eye) into some cooled, boiled water then gently wip your eyelashes to clean off the crusts. You can also try holding a cold flannel on your eyes for a few minutes to cool them down.
+Changes to your eyelashes (growing longer and thicker)
+Your eyelashes are likely to return to normal after you stop using latanoprost. Talk to your pharmacist or doctor if you're worried about this.
+Sensitivity to light (photophobia)
+Wearing sunglasses may be helpful. Keep using the medicine, but talk to your doctor or pharmacist if the advice on how to cope does not help and these side effects bother you or do not go away. Serious side effects Serious side effects are rare and may affect 1 in 1,000 people. Do not use any more latanoprost if you get serious side effects. Call a doctor or call 111 straight away if you: have a fast heart rate ( palpitations ) Immediate action required: Call 999 or go to A&E if:
+you have chest pain you are wheezing and find it difficult to breathe ( asthma or worsening of asthma) Information: Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance. Bring all the medicines you take with you. Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to latanoprost. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of latanoprost. For a full list see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 20 February 2023
+
+Next review due: 20 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

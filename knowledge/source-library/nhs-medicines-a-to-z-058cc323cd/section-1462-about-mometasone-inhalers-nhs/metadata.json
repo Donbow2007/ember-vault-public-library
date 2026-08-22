@@ -1,0 +1,25 @@
+{
+  "id": "9ed3ea52-1c3e-4f2f-a4ef-823a0b94eade",
+  "slug": "section-1462-about-mometasone-inhalers-nhs",
+  "title": "About mometasone inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "1ca2b93152da78845b05dfcc2eb4a8c79d4e9ac0f67052903bc086e79fae0e8e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1462,
+    "content_hash": "fbf7bb48c40852d32fbddf1c10dcce0080951d84cc0746e1286fc1f342ed342a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

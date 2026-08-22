@@ -1,0 +1,7 @@
+# About anastrozole - NHS
+
+About anastrozole - Brand name: Arimidex Anastrozole is a medicine that works by lowering the level of oestrogen (a hormone) in your body. It's mainly prescribed for women who have been through the menopause and have a type of cancer called hormone-dependent breast cancer. Most people who take anastrozole will have had surgery, radiotherapy or sometimes chemotherapy to treat their breast cancer first. Anastrozole is an additional (adjuvant) treatment which helps stop the cancer coming back. It can also be used: to prevent breast cancer if you're high risk and have been through the menopause to treat breast cancer in men to treat breast cancer in younger women before the menopause Anastrozole is available on prescription only. It comes as tablets. Key facts You usually take anastrozole once a day. Try to take it at the same time each day, as this makes it easier to remember. Most people take anastrozole for 5 years. It's important to complete your course of treatment. Common side effects include symptoms similar to the menopause such as hot flushes, difficulty sleeping, tiredness and low mood. They usually improve after a few months. Your doctor will monitor your cholesterol levels and bone density during your treatment. If anastrozole makes you feel tired or dizzy, do not drive a car, ride a bike, or use tools or machinery until you feel better.
+Page last reviewed: 6 March 2024
+
+Next review due: 6 March 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

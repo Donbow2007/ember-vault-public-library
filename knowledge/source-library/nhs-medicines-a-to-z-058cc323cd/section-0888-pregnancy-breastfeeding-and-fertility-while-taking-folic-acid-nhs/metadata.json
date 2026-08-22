@@ -1,0 +1,25 @@
+{
+  "id": "f0fabffc-e73e-438e-8d96-ea1bd09f4c46",
+  "slug": "section-0888-pregnancy-breastfeeding-and-fertility-while-taking-folic-acid-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking folic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "295455b8420e0426b6aeb6abdb2f90d6e6714787bd81cac306528fc97cd76bdf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 888,
+    "content_hash": "5dc935652e387e5c77e5b99026d4960ffdca4599467a242a40902a248a98579d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

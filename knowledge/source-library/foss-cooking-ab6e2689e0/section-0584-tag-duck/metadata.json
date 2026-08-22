@@ -1,0 +1,25 @@
+{
+  "id": "8f7eb1f0-427f-4bc1-bc8e-433610f065ce",
+  "slug": "section-0584-tag-duck",
+  "title": "Tag: duck",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6279e95a6c79b71b6a46fbdef68c58dc83e1aa2e2db8cfa7895313a140d11352",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 584,
+    "content_hash": "48022c54cf2ce7bd96dc09ae38e89cb2ac1b88f8d44d47c8ca94c1bfd48b2fbe",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

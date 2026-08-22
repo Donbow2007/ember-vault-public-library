@@ -1,0 +1,25 @@
+{
+  "id": "15ff34d0-31bb-465e-b4ca-508ee5b4a664",
+  "slug": "section-0016-benjamin-h",
+  "title": "Benjamin H",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "d050d6c641249d08fbddd9176d064a8bf42f47ea7865301cd7bff47331f5477b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 16,
+    "content_hash": "fcb32dfdee2b2f4a17ea96c9e2f1eae6f44fd0ecc015a0ae8469d5353a01249e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

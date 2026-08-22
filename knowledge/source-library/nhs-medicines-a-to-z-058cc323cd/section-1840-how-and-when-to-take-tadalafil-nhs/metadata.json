@@ -1,0 +1,25 @@
+{
+  "id": "ccdcdb9e-88ad-4f41-9c24-7587044ede7c",
+  "slug": "section-1840-how-and-when-to-take-tadalafil-nhs",
+  "title": "How and when to take tadalafil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "c445f328108aea3368e9addade37a0a85934e9e1b36a5c0a614e6e6edea285a1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1840,
+    "content_hash": "e14087441277a084c14d076b00d7dc2730ebf508ae5e234cff1716bb6f6f8224",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

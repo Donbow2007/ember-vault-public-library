@@ -1,0 +1,25 @@
+{
+  "id": "3b1f9bae-b246-41fa-ab3a-7919022b0650",
+  "slug": "section-0176-shrimp-fettuccine-alfredo",
+  "title": "Shrimp Fettuccine Alfredo",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "f03b72b408a9c52e6433a0a292e5dcef6a556207d6048e2c33b4429d57175ebf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 176,
+    "content_hash": "7b79f9ba1cb7cd359032242af247bee27eca9e61169492a17765116745128355",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

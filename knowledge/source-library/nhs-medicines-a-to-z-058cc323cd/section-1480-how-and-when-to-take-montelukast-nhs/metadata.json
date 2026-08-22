@@ -1,0 +1,25 @@
+{
+  "id": "3790fd1f-a872-4ebd-8d46-e387c416778f",
+  "slug": "section-1480-how-and-when-to-take-montelukast-nhs",
+  "title": "How and when to take montelukast - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "d968d6fa42a3e62850b39a202a2b2cb73fe652d5371e25de493a734579cca604",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1480,
+    "content_hash": "720cd40c3fb34e60f88f7570ce951d0582ccc967da08def20f2f7266bd8f42c9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

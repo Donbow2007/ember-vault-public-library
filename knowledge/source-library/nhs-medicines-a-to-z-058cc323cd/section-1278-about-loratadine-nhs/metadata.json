@@ -1,0 +1,25 @@
+{
+  "id": "7a9e6f18-a865-4e67-a0e1-d1e1bebb3fbb",
+  "slug": "section-1278-about-loratadine-nhs",
+  "title": "About loratadine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "ea464e66f2badd60c05872909bd1d6d6da2e8050da11474c4003f866b04552cf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1278,
+    "content_hash": "9fb170ee99a5a51779fb2038e282441b18fcf80364f99fbdf74fd799d55e3648",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

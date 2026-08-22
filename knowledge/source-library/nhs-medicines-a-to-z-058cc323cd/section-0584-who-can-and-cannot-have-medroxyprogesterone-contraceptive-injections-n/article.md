@@ -1,0 +1,7 @@
+# Who can and cannot have medroxyprogesterone contraceptive injections - NHS
+
+Who can and cannot have medroxyprogesterone contraceptive injections - Brand names: Depo-Provera, Sayana Press Who can have medroxyprogesterone contraceptive injections Most women and girls who've started their periods can have medroxyprogesterone contraceptive injections. Who may not be able to have medroxyprogesterone contraceptive injections Medroxyprogesterone contraceptive injections are not suitable for some people. To make sure they're safe for you, tell your doctor before having the injection if you: have ever had an allergic reaction to medroxyprogesterone or any other medicine are pregnant, trying to get pregnant or breastfeeding have a rare condition called porphyria have had breast cancer or another type of cancer that is affected by hormones, or if a close relative has had one of these cancers have ever had liver problems have had a blood clot in a vein ( deep vein thrombosis – DVT ) or in your lung ( pulmonary embolism ) have had a type of brain tumour called a meningioma have high blood pressure have had a heart attack or have a heart condition called angina have ever had mental health problems have migraines have diabetes have epilepsy have hearing loss caused by otosclerosis have asthma have gallstones have lupus are at risk of osteoporosis
+Page last reviewed: 20 April 2023
+
+Next review due: 20 April 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

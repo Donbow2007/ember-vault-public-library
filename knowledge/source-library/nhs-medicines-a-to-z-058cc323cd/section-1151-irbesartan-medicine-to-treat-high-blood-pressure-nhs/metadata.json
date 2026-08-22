@@ -1,0 +1,25 @@
+{
+  "id": "d29c54e2-e3be-4ef4-9ad9-1c48efab3eac",
+  "slug": "section-1151-irbesartan-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Irbesartan: medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "6698e28b9e4df6e79e9f68f6882966e4c2906698afd2e6bed1a30b02e83dc300",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1151,
+    "content_hash": "b9cfaa2700397b9d6a1071d1218fe482b8926aa7d3382dc21ffaeb744d4ba444",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

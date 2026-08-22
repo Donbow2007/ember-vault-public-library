@@ -1,0 +1,25 @@
+{
+  "id": "9a1495ca-da90-4d6e-b7b5-c65572e4c9d3",
+  "slug": "section-0376-ravioli",
+  "title": "Ravioli",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "7552411bbb2fc962838a4d4e939b60043f4b69ce4c40e1c9e35e394effe464fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 376,
+    "content_hash": "a2c7bb215dbaa65a58f8d472afb5d089b4a526db7203b6569db7acdc238fd0ed",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e02c20ac-a31f-4529-9bd9-9e04f85a7644",
+  "slug": "section-1955-pregnancy-breastfeeding-and-fertility-while-taking-valsartan-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking valsartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "810a1c52a4ebf04f07e6545f8a5fb55737e894634a4f3080e409a242c2844f66",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1955,
+    "content_hash": "24e56415962968be54a9bf31c1d165862b85c6818a0114f5908b1f014178a5b1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

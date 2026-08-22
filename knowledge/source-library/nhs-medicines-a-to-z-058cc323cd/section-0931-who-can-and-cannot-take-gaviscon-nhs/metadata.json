@@ -1,0 +1,25 @@
+{
+  "id": "05cfc69d-6058-459f-8087-8c8457ab9475",
+  "slug": "section-0931-who-can-and-cannot-take-gaviscon-nhs",
+  "title": "Who can and cannot take gaviscon - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "a086eed6a22f64afb104bf623986580d9373bbf8213cbbf6569dcaab17e0bf3d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 931,
+    "content_hash": "f808c8e48fa10f99d2f24df1a406cf0bb619567507f81aae5ee2493cee844b37",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

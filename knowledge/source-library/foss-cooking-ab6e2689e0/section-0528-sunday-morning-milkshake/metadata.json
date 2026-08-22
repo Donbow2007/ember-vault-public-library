@@ -1,0 +1,25 @@
+{
+  "id": "6a1cd636-efae-4752-95e8-09385f012d49",
+  "slug": "section-0528-sunday-morning-milkshake",
+  "title": "Sunday Morning Milkshake",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "2bbac3845ca3e65d9b656eddb3a376b86b997026290a26cc8aeea02fa5a25668",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 528,
+    "content_hash": "0a0b1413ba8404b67f2c1662e19a066ba8943d7f302d74b8722527bc05f6751d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

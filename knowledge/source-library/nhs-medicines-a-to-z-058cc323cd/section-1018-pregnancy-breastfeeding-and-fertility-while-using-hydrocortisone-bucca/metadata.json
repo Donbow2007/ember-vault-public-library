@@ -1,0 +1,25 @@
+{
+  "id": "dfff166e-e67a-440b-a1de-43b56f59418f",
+  "slug": "section-1018-pregnancy-breastfeeding-and-fertility-while-using-hydrocortisone-bucca",
+  "title": "Pregnancy, breastfeeding and fertility while using hydrocortisone buccal tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "86e320ce8f1f5ecaa85df5bf3beb0cfe2b27253419fafdb41f58c84ee48edb6d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1018,
+    "content_hash": "fab2475de2292dc5b3ce3bc1760091c4171dddfa880a58486c2a813965a08b68",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

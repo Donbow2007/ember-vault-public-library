@@ -1,0 +1,25 @@
+{
+  "id": "7a742a63-12f1-4f16-bf13-f15e2e173847",
+  "slug": "section-0171-grostoli",
+  "title": "Grostoli",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "fe25935bb2feadd55b339be9b096e863abfe50ad26e7e2fcc74d3378e33ca27b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 171,
+    "content_hash": "4281ab107847909ab259933a9c1d7934ffc555b5b8c9cdebba2470e2ea0f0ace",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

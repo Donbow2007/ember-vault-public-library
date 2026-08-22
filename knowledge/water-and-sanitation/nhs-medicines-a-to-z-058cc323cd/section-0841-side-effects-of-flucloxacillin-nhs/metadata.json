@@ -1,0 +1,25 @@
+{
+  "id": "d24f5d29-afb5-4155-96d7-f55906d77c17",
+  "slug": "section-0841-side-effects-of-flucloxacillin-nhs",
+  "title": "Side effects of flucloxacillin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "bcdedb6a31ad3bc5b80fd700026e1c35b1ba74b790cc5ea2b2e6731579585b24",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 841,
+    "content_hash": "1ba9c2bb88d613c8e3867dd4c6c35b94ceb3c926e8ea337c84d067583cd2cc90",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

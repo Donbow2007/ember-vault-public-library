@@ -1,0 +1,25 @@
+{
+  "id": "6ce313bb-954f-4ace-ae99-a9b57d654421",
+  "slug": "section-0688-taking-or-using-docusate-with-other-medicines-and-herbal-supplements-n",
+  "title": "Taking or using docusate with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "3abfb087890918f69284c5dad6a5f5e08c8a0f5059492203aaa37b427e93af2c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 688,
+    "content_hash": "0eebadd7d970c68d19021d25bb05f6fc4fc423f1dd2afd1fa1d439e33e2ab883",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

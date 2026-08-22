@@ -1,0 +1,25 @@
+{
+  "id": "be6c5dc5-c047-4879-b4c8-e574fa33af53",
+  "slug": "section-1389-who-can-and-cannot-take-methadone-nhs",
+  "title": "Who can and cannot take methadone - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "fae90ad9495ce25e0c8a700f812946ee515cfe425294a27112c0fcebbb4319cb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1389,
+    "content_hash": "1da61d3b64899ebf908e2fffebe6e50c80030c6254c8828049f6f19d455213b3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "842d0d3e-6293-4783-bf53-5a39b796cb28",
+  "slug": "section-0567-tag-chicken",
+  "title": "Tag: chicken",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "ba33f018aff9f46be4237f8328715446e2902ad8f6ef9e1b0f57c2ad90677b76",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 567,
+    "content_hash": "f6426062e03016b4e2d46937aa2ad319b20c6158ee586edde5104e8ad9fc4f9c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "896a8493-7bed-4f03-81fd-5facf7aaadb2",
+  "slug": "section-1120-who-can-and-cannot-take-intermediate-acting-insulin-nhs",
+  "title": "Who can and cannot take intermediate-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "84cd46cfd07673e3272e3b1931aae69708cb6ee6fb271dbd803cc857d77e0154",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1120,
+    "content_hash": "cdae84285e3d432d7601d0b8ef56adb4f6dc076d3f7a54110b991286fbca100c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

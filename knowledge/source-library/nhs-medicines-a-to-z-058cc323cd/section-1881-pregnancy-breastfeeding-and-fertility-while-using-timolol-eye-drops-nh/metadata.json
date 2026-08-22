@@ -1,0 +1,25 @@
+{
+  "id": "e9596486-a8f7-46c8-bda9-5df2954a2a8b",
+  "slug": "section-1881-pregnancy-breastfeeding-and-fertility-while-using-timolol-eye-drops-nh",
+  "title": "Pregnancy, breastfeeding and fertility while using timolol eye drops - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "39a907bd656c992991ed2871c0a5e0005b006ff06a691bff5de1fe5fd1b7ced1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1881,
+    "content_hash": "2da7c4ff655aa4b2fc5e3a526f920d2a500c2eca9912a5010af164a54a955bf0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

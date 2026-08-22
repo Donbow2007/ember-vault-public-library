@@ -1,0 +1,25 @@
+{
+  "id": "a245f145-39ea-45c5-9b15-4e22142636e3",
+  "slug": "section-1892-who-can-and-cannot-use-tiotropium-inhalers-nhs",
+  "title": "Who can and cannot use tiotropium inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "80aa94035fa0144d9416f55b70cdb7f6959d89fa75bc4d4279f26af38ffe8a60",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1892,
+    "content_hash": "2ff9bd4a3c462dd090ffd922e8d327dfad1fff207bb1c1ff2f3b50b238e9dc25",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

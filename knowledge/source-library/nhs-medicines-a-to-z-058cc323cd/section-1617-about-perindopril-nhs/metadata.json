@@ -1,0 +1,25 @@
+{
+  "id": "f4743a47-2334-4f13-8099-08481e088b53",
+  "slug": "section-1617-about-perindopril-nhs",
+  "title": "About perindopril - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "20c9ef16673f9b71a52b8afe1c88cc729635c04ce8f0a09560a1a1c8646da124",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1617,
+    "content_hash": "505a6aa861e99e37ebccc7d03995cca8eadb9cccd2996e2a8f60b0d33253066a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

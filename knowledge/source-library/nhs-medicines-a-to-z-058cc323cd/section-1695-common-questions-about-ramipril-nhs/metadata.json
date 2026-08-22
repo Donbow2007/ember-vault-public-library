@@ -1,0 +1,25 @@
+{
+  "id": "f70a7d3c-32d2-46cd-b2ed-94aa71116271",
+  "slug": "section-1695-common-questions-about-ramipril-nhs",
+  "title": "Common questions about ramipril - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "b1012a6b632f3353ab56ce1c73e026b196b55ddd96bcf1c85082b7a6fb464e5e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1695,
+    "content_hash": "4b978ba6cf9a2e6c7cb8c15b9f956e90e4ef1ebf402281cb41ab22d998f04995",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

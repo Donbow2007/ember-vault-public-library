@@ -1,0 +1,25 @@
+{
+  "id": "7e5a0b84-6226-4e9c-871c-3c5f733c55bf",
+  "slug": "section-0820-fexofenadine-antihistamine-medicine-that-relieves-allergy-symptoms-nhs",
+  "title": "Fexofenadine: antihistamine medicine that relieves allergy symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "8f2e945dc937fba2550ed1c6b4a51c5bdd1348a23686405647b8634cfa0a691d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 820,
+    "content_hash": "45390807c5a45cfbb1ef8257106fc1a4731f28acd2bf9a7f38fcfb5f744515f7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

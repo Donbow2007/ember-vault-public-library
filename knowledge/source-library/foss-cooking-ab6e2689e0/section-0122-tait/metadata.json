@@ -1,0 +1,25 @@
+{
+  "id": "1f7b3de8-d883-4b7e-b7bb-6ef5bc5756ac",
+  "slug": "section-0122-tait",
+  "title": "Tait",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9d1f2167906bda574a38e7b9a1f5717dffd6549487468837a2aef47011b9efc2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 122,
+    "content_hash": "1cc2570ad1b068f6f1c0d3cec63f27f47905406c98066f4d8d007e43f2323002",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

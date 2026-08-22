@@ -1,0 +1,25 @@
+{
+  "id": "26579a6f-3486-4c10-9444-fc85efc68121",
+  "slug": "section-0164-how-and-when-to-take-baclofen-nhs",
+  "title": "How and when to take baclofen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "e7f42b50ca1c0107f86243334edbb618a574c46f151a56ad54707080bc1ef118",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 164,
+    "content_hash": "b9968b33e45d45ed8ef1ec3efd12314e84926a4379c49b18d001ed07fc95d7e7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

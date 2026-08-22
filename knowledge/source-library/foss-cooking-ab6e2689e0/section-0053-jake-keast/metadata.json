@@ -1,0 +1,25 @@
+{
+  "id": "f2329e78-f3d4-4e2b-b4ef-737a4ec70318",
+  "slug": "section-0053-jake-keast",
+  "title": "Jake Keast",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "547fb915c192dd0f22a71e463d39234e1be33e1a60295c4ae7de302ce4dba9dc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 53,
+    "content_hash": "a1ccde40128e82f367738ac45426be39f32e87066125b5cab5e57d81b2bee151",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

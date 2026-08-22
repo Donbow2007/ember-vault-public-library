@@ -1,0 +1,25 @@
+{
+  "id": "4f748d18-6f43-47d0-92e0-5a1eb5c94ff4",
+  "slug": "section-0300-common-questions-about-bumetanide-nhs",
+  "title": "Common questions about bumetanide - NHS",
+  "category": "weather",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "1f4c950b4e6d01f43f6a6e26229a0017de01755f010c765fd81624471619cf47",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 300,
+    "content_hash": "1e1b3a966e91a2bcfa5f12de19646d4eab3e2a789db7236fcf11bd83704ccca5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

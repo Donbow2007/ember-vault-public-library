@@ -1,0 +1,25 @@
+{
+  "id": "cc818000-7528-4693-a2f4-e175c8513719",
+  "slug": "section-0979-sequential-combined-hrt-a-medicine-to-treat-menopause-symptoms-nhs",
+  "title": "Sequential combined HRT: a medicine to treat menopause symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "41a5e871a9451652f2bb8a4708ba9b6184e122e1d28e58699d87efadd3b0c27c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 979,
+    "content_hash": "2ed1cba5d788ad0edfa95db5ad05639caed40dcccb4bb410e36d14773f71e603",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

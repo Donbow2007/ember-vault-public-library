@@ -1,0 +1,25 @@
+{
+  "id": "2822596e-1b1d-42f7-baaf-aa6e57ba4d24",
+  "slug": "section-0357-lemon-juice-salad-dressing",
+  "title": "Lemon juice salad dressing",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "b832f4b5b6cd4aa3409357f7a6452a84d049d49826f140ffa59224775a694076",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 357,
+    "content_hash": "105b904a3c8cfb7cede85748cc2864c5f6ba40927fddc5889df2727f8baeced8",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c90a7f00-a3db-48bf-a6fb-30b6b445e236",
+  "slug": "section-0615-tag-lebanese",
+  "title": "Tag: lebanese",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "fd03fd287f7279b73b3e2ed0b414d61b2f5ac7f300b403b41cb890a3d0ae2168",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 615,
+    "content_hash": "e9bcd4dadec8a6d67e51d7889e8d7ed49c8e63e6ceb16931a7029e2d5f00f318",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

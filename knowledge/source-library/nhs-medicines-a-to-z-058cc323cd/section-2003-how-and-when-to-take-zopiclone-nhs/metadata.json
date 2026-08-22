@@ -1,0 +1,25 @@
+{
+  "id": "80acabdc-595b-45c3-b56b-1427541b75b1",
+  "slug": "section-2003-how-and-when-to-take-zopiclone-nhs",
+  "title": "How and when to take zopiclone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "5892ca3135e8042554bd5273824c9e2e0351bdcd19fed8a3b5aeb74cfe98e41e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2003,
+    "content_hash": "9917c3f6e6eef67bf0ae3f1c142e25553e6e89fa5a2883a4d0d00918aa34eb4f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

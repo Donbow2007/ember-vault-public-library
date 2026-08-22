@@ -1,0 +1,25 @@
+{
+  "id": "778743ef-8d6b-4ae0-adac-50c65f0b96f3",
+  "slug": "section-0142-mushroom-stroganov",
+  "title": "Mushroom Stroganov",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "eb6e7583e337dcbd001b4df839ac4ff613b4a21be85630a5d13d29ebdaa70e39",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 142,
+    "content_hash": "c5b66370e506c7958ce090f9775b14b3311ca57cd688edbc4a42e491436cefe2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

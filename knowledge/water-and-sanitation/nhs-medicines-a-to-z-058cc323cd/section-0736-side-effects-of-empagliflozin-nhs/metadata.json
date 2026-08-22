@@ -1,0 +1,25 @@
+{
+  "id": "88831507-ddb7-4293-a1d6-e07f98bd98cf",
+  "slug": "section-0736-side-effects-of-empagliflozin-nhs",
+  "title": "Side effects of empagliflozin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "9dfd9bf8ce7423edc851ce81839a04ce95b2122a21a7a57dd89c35ca022075f9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 736,
+    "content_hash": "0ccb484e6493c8f1c6c0c4cd1c64a9a19704884c958effa6fe695a41d6014ab7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

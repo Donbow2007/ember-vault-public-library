@@ -1,0 +1,25 @@
+{
+  "id": "2e1a77fc-c0f3-413a-be10-b04a8874586a",
+  "slug": "section-0055-pregnancy-breastfeeding-and-fertility-while-taking-amitriptyline-for-d",
+  "title": "Pregnancy, breastfeeding and fertility while taking amitriptyline for depression - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "0749f27ad0919714b9ddc459d7431ad1eb12b808dba80157f9d9e1145fdaf76c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 55,
+    "content_hash": "3e77a67b1ca7a7b36ee0dfc938820172fdbd9a43fa3207ec59804625bb2bb7dd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

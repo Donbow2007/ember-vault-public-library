@@ -1,0 +1,25 @@
+{
+  "id": "484f2872-20fc-40a5-b438-d0848a559853",
+  "slug": "section-1495-common-questions-about-naproxen-nhs",
+  "title": "Common questions about naproxen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "e14ee20e5a6dc1523e05a188a89cab97fc8e1c885d472318b5ad9073b6a23981",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1495,
+    "content_hash": "25bd3ee0fca07729197ea0dc8cb66093985665cc4f54bacb58c7af8e3665423b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

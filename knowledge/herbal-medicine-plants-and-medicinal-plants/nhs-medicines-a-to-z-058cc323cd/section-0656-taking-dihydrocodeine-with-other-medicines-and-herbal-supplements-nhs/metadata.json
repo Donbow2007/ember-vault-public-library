@@ -1,0 +1,25 @@
+{
+  "id": "fd7e6162-5b00-4213-99e0-da1336bbbbed",
+  "slug": "section-0656-taking-dihydrocodeine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking dihydrocodeine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "3096189bd2fc6f758b911c9e12f3a590d55c3b61d4cc9fb1627d4bf5cb13515e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 656,
+    "content_hash": "aed6c14f6b5951d76f061418d701fc87e223dfb8dd8da3955ee6b9bab76ef6d6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

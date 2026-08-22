@@ -1,0 +1,25 @@
+{
+  "id": "e7fdf155-f853-4ced-ba50-64177148a4ad",
+  "slug": "section-0268-common-questions-about-brinzolamide-nhs",
+  "title": "Common questions about brinzolamide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "07dd728075d4bd153a34aebccb49f9055ca9b66acac098baaa7fc1d4dcb54e9c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 268,
+    "content_hash": "e7bcd7e3cced679ec1c20f2e97c14d42ae09907fe7b9db21b82f71a85f286dce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

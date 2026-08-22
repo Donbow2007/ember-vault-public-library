@@ -1,0 +1,25 @@
+{
+  "id": "0aef391c-e680-4bba-9a7f-e6431ff7e1f1",
+  "slug": "section-0944-pregnancy-breastfeeding-and-fertility-while-taking-glyceryl-trinitrate",
+  "title": "Pregnancy, breastfeeding and fertility while taking glyceryl trinitrate (GTN) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "16063287b0370d8a5848c40e294db8c159fa0bf702fcf4858be18aec1bfd7c69",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 944,
+    "content_hash": "3241e2bee4aa5ce595ae5da1ea49e0584db672ddcb63f3c1a92726a9d05b069c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

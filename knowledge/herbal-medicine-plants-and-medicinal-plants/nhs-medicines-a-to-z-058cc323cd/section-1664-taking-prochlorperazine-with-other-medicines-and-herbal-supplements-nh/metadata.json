@@ -1,0 +1,25 @@
+{
+  "id": "fb1d54fa-627c-4aa1-ab86-b6fadc5be9cd",
+  "slug": "section-1664-taking-prochlorperazine-with-other-medicines-and-herbal-supplements-nh",
+  "title": "Taking prochlorperazine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "daa8f50062d84fcc59b6042cf3f18696b75761cc8d5c6912cdb675b21c90cc7d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1664,
+    "content_hash": "96b76d873314c265d643bcabc64159061857b6ec14dcd61ce1c086cdc6420681",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

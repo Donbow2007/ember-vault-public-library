@@ -1,0 +1,25 @@
+{
+  "id": "e2970a32-ac48-4f05-abc5-a90e5518aa26",
+  "slug": "section-0749-common-questions-about-eplerenone-nhs",
+  "title": "Common questions about eplerenone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "dabda36b7422ccae7d560522db48524ed06000e74979de1d71179cbc64877694",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 749,
+    "content_hash": "caf98e6118cce2f40339f87f7820056cb9f40023b99b53287d800ce8ac362f3c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

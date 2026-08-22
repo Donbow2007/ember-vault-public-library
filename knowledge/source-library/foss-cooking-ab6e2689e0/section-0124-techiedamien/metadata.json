@@ -1,0 +1,25 @@
+{
+  "id": "60f77f57-de00-4232-90c0-acce057998ef",
+  "slug": "section-0124-techiedamien",
+  "title": "TechieDamien",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "fafb39535a3bd61ed2d63141478da07c098d34cec043152f830894640e4f325a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 124,
+    "content_hash": "140adab34c89779396874c549f7deed35d6146116defa158582a008765fc4c72",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

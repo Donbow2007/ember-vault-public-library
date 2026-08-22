@@ -1,0 +1,25 @@
+{
+  "id": "0f98803f-81c2-4316-a230-086176e9a794",
+  "slug": "section-0027-alendronic-acid-medicine-to-treat-and-prevent-osteoporosis-nhs",
+  "title": "Alendronic acid: medicine to treat and prevent osteoporosis - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "08c87ecdd8b94373ea315cc27fbaaf147b2883dfee00abdb05b53795cce9198b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 27,
+    "content_hash": "42c0505b43e08692f66e8d49d83076f9e575485a670f79b1e850193b5108206e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f25f4fc5-9dc8-4c54-8a33-e6a5474be8ce",
+  "slug": "section-0109-ryan-wilson",
+  "title": "Ryan Wilson",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "3755a917a891b3fe3ee00f533ca54c0ddbc641d2ad8629630a8be9905b309d93",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 109,
+    "content_hash": "cded0cb905702141a49cb222d579ae90257e1d5ae16e02f11d6a72daea223da6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

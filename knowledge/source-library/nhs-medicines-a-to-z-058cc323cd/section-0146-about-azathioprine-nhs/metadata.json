@@ -1,0 +1,25 @@
+{
+  "id": "684449bb-59e7-44c5-bc3d-a6d0b18882d9",
+  "slug": "section-0146-about-azathioprine-nhs",
+  "title": "About azathioprine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "6813e4af16b1b720fa4e255ffe262ec0129a057a05728e22f2b59b7a48358aad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 146,
+    "content_hash": "98b272010a94f43560ee6b4ac048ce1d86c5ffd061856323fb154778ea5f1596",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

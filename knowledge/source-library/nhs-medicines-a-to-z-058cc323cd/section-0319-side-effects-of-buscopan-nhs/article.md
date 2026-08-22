@@ -1,0 +1,16 @@
+# Side effects of Buscopan - NHS
+
+Side effects of Buscopan
+
+Like all medicines, Buscopan can cause side effects in some people, but most people have no side effects or only minor ones. Common side effects of Buscopan These common side effects of Buscopan happen in more than 1 in 100 people. There are things you can do to help cope with them:
+Dry mouth
+Chew sugar-free gum or suck sugar-free sweets. Some people with IBS find that chewing gum or sugar-free sweets make their IBS worse. If this happens, do not use gum or sweets. You may find cold unsweetened drinks or sucking on ice lollies or ice-cubes helps your dry mouth.
+Constipation
+Get more fibre into your diet , such as fresh fruit, vegetables and cereals, and drink plenty of water. Try to exercise more regularly, for example, by going for a daily walk or run.
+Blurred vision
+Do not drive, cycle or use tools or machinery until you can see clearly again. Do not take your next dose of Buscopan if your vision is still blurry. Speak to your doctor or pharmacist if your vision does not return to normal. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects It happens rarely, but some people may have a serious side effect when taking Buscopan. Stop taking Buscopan and call a doctor or call 111 now if you get a painful red eye with loss of vision. This could be caused by increased pressure in your eye. Call a doctor or call 111 now if you: get a fast heart rate ( palpitations ) find it hard to pee Serious allergic reaction It happens rarely, but it's possible to have a serious allergic reaction ( anaphylaxis ) to Buscopan. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of Buscopan. For a full list, see the leaflet inside your medicine packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 13 May 2025
+
+Next review due: 13 May 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

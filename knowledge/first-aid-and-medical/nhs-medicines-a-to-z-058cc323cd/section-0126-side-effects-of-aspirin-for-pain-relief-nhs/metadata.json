@@ -1,0 +1,25 @@
+{
+  "id": "1695551f-c8bc-4cab-839b-0f6f4ebf231a",
+  "slug": "section-0126-side-effects-of-aspirin-for-pain-relief-nhs",
+  "title": "Side effects of aspirin for pain relief - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "b713a145b6f5dfea9eb307c9cd63526d502d09d94b3ddc591dbab80d77a0f90e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 126,
+    "content_hash": "a289c7bb4a43b000e0e6ebcd19257b4c2837698f10ed6efb46ce545b0d8cf434",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

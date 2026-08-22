@@ -1,0 +1,25 @@
+{
+  "id": "b3285155-dbfd-4780-9425-b66ca3def6c2",
+  "slug": "section-1727-about-rosuvastatin-nhs",
+  "title": "About rosuvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "3413982304cecd10199c68a5b84edea38c45fe11ce1e73a364986fb17171b35b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1727,
+    "content_hash": "65d973a240aa7af3a114d3bdc9a6ab38c575dcb5012b249b9df47b14c09d8863",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

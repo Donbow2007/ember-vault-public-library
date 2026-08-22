@@ -1,0 +1,25 @@
+{
+  "id": "7470ed6a-732c-4e84-bbca-18e81f64a591",
+  "slug": "section-0167-taking-baclofen-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking baclofen with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "66312a5a524e3855e82533c59e34ba135b7a24f4f208f16db3438da16fa22822",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 167,
+    "content_hash": "a970fa28634356d11576839204a3778558c28f1f74be304fa2544aa34955033c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

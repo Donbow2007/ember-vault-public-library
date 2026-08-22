@@ -1,0 +1,25 @@
+{
+  "id": "b3746f9c-bf3c-4117-af77-6823a9186a93",
+  "slug": "section-1027-side-effects-of-hydrocortisone-for-piles-and-itchy-bottom-nhs",
+  "title": "Side effects of hydrocortisone for piles and itchy bottom - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "478689570f8d7a83fe690f3eb8d954710097f34836069a9282b24faa6c4fe425",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1027,
+    "content_hash": "242141852bb9c7b1ed4ea547fcdc7ca1ae1c062a3d39d48ebff2b5839a25200f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

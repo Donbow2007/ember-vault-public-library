@@ -1,0 +1,25 @@
+{
+  "id": "621a278e-f888-441e-a006-0869362c8189",
+  "slug": "section-0039-elias-pahls",
+  "title": "Elias Pahls",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "85c2f68ba2b861552fc638d327a9a131520a84881bbec7c47f7f7dd9b396a71d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 39,
+    "content_hash": "6e644420b66d9d79afedf31e76ed73bbf0d641c2d455f11944af3d70d3ad4260",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

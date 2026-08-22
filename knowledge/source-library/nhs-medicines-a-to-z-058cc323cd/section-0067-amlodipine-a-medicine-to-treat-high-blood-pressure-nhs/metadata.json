@@ -1,0 +1,25 @@
+{
+  "id": "c9f9fef2-3229-41d9-a400-b5bb1754bbf5",
+  "slug": "section-0067-amlodipine-a-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Amlodipine: a medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "dafbc93fee2465eaac51954bf8f68e5bdc9c5eced9c3a5aa28f833603538a47c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 67,
+    "content_hash": "e30651c03d5c60ff1c2ab982c474cec85e3e45bf64f67453901a039afff43c3a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

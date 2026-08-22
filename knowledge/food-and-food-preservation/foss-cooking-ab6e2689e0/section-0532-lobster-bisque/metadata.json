@@ -1,0 +1,25 @@
+{
+  "id": "bf8f17bc-783b-4546-a4fa-2ad3ea63994c",
+  "slug": "section-0532-lobster-bisque",
+  "title": "Lobster bisque",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "b6e0a83ee4432d98b09c09bf3bbeb0d8c2c839268124507d476e0661ef3a8aaa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 532,
+    "content_hash": "cc3b9aa9756a86c727919fd1eadd8db09452fa4735fae20c862387f38fc952eb",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c3e98062-7156-4a57-bdca-e73c1e5038c5",
+  "slug": "section-0118-side-effects-of-aripiprazole-nhs",
+  "title": "Side effects of aripiprazole - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "261e2cda54c61a04c73062c360df07d6bc80643ffc99161e5172598708d5c34c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 118,
+    "content_hash": "0a4568b8566a58e3f9eeaba7236386d907fcc00a619d587ab2b13e8cfc8603f2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

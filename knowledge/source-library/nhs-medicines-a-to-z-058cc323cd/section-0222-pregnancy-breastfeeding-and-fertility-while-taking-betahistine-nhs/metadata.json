@@ -1,0 +1,25 @@
+{
+  "id": "5353944c-92e9-40e3-8d71-57c42233e1a8",
+  "slug": "section-0222-pregnancy-breastfeeding-and-fertility-while-taking-betahistine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking betahistine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "b6654bc9e8b2e7c87e6846fb3719b24e0da433cc93fb99235eaaa85c702a285f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 222,
+    "content_hash": "427902139c4390da05e20975036aeca6f52ec1e4f42323fac3ae2f76f939ade3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

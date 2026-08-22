@@ -1,0 +1,25 @@
+{
+  "id": "97ec5db0-74f9-49d2-b032-9911f6c77c0a",
+  "slug": "section-0098-patryk-niedzwiedzinski",
+  "title": "Patryk Niedźwiedziński",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "bdbf85288998bb0e2eabcd61688e0cfbc4a74c12e79b64186063bcc636df1cc3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 98,
+    "content_hash": "b8f57ae5cf011ffd47b5556a3b6010cbb7807668fb62b17a9a823556bfe603ef",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

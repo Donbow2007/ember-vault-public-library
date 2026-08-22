@@ -1,0 +1,25 @@
+{
+  "id": "b8232618-1c4c-49be-aeed-4d0cea6ce289",
+  "slug": "section-0309-how-and-when-to-use-buprenorphine-nhs",
+  "title": "How and when to use buprenorphine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "6df07f60f21e6ad1599dd099c8d0ed71825444a68062b79d8069c855c5e7ee48",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 309,
+    "content_hash": "2ed01419b505ee67050ed20370eadbb91e2d77f37c8ceccbeabe2ad930038753",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

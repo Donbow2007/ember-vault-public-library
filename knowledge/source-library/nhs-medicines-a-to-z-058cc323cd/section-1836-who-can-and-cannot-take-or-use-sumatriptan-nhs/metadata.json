@@ -1,0 +1,25 @@
+{
+  "id": "44545f3e-3802-4448-a888-47ed6c11547a",
+  "slug": "section-1836-who-can-and-cannot-take-or-use-sumatriptan-nhs",
+  "title": "Who can and cannot take or use sumatriptan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "b0c77a11af75ecc98ed0112333c642d1d96f8a18c8c6e6a4242434150cf8a004",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1836,
+    "content_hash": "74d769ceadba8f7c35efe4bf6ea2ebc1cbf44b16dce2dff8e7a95d3cabc81760",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

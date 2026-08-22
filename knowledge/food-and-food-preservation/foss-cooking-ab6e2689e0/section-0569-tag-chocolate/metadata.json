@@ -1,0 +1,25 @@
+{
+  "id": "bbd15257-47f3-4ede-9b57-019793cc162a",
+  "slug": "section-0569-tag-chocolate",
+  "title": "Tag: chocolate",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "ab5c578346614c05899314cdaf7be25dd81571a7f7b68d593d8c93d21b90d138",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 569,
+    "content_hash": "7dd519819312a89abb7c91039a103573b499e262cfd19922bd8bb798776cff26",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

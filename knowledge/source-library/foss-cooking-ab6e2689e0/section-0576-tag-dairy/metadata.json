@@ -1,0 +1,25 @@
+{
+  "id": "97fc637b-be90-4a76-994d-8eecb495e984",
+  "slug": "section-0576-tag-dairy",
+  "title": "Tag: dairy",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "db14dc2a1b238f7547906b08c2bbcc33e1fa1e2ce84cc1bb67d442ba5ae1785a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 576,
+    "content_hash": "d9870102e22d6232c4457a96b54e49a03b83c40e0c717ed412da459cd9559cf4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

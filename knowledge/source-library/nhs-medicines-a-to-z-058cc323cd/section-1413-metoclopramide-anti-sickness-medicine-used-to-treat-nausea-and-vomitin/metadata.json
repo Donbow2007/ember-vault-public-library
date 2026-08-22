@@ -1,0 +1,25 @@
+{
+  "id": "e2a9d130-fc7f-4632-bfea-c2f54f183135",
+  "slug": "section-1413-metoclopramide-anti-sickness-medicine-used-to-treat-nausea-and-vomitin",
+  "title": "Metoclopramide: anti-sickness medicine used to treat nausea and vomiting - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "f6271ae622eb125859bfafecaad78e49dedbf816f124ca56e3ae0bac0fb56e45",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1413,
+    "content_hash": "dd9504873b01876e40cce5cb65cf90f092032b944a73bf6e2658ecabf0a2646f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

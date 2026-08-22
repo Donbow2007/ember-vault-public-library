@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking loperamide - NHS
+
+Pregnancy, breastfeeding and fertility while taking loperamide - Brand name: Imodium Loperamide and pregnancy Loperamide is not usually recommended when pregnant. This is because there's not enough information to say if it's safe. If you're pregnant, talk to your doctor before taking loperamide. They'll be able to advise you about the benefits and possible harms of taking it. This will depend on how many weeks pregnant you are and why you need to take it. Talk to your doctor if you're trying to get pregnant and are taking loperamide regularly. Loperamide and breastfeeding It's OK to take loperamide while you're breastfeeding. Only tiny amounts of loperamide pass into breast milk, and your baby will not be able to absorb a lot into their body from breastfeeding. It's not expected to cause any side effects in your baby. As a precaution, if you notice that your baby is not feeding as well as usual, seems constipated or irritable, or if you have any other concerns about your baby, talk to your health visitor, midwife, doctor or pharmacist. Loperamide and fertility There's no evidence to suggest that loperamide affects fertility in men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Information: Find out more about how taking loperamide can affect you and your baby on the Best Use of Medicines in Pregnancy (BUMPs) website.
+Page last reviewed: 10 April 2024
+
+Next review due: 10 April 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

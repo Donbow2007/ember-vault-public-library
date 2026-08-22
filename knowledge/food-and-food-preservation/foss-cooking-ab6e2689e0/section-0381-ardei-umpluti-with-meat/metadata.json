@@ -1,0 +1,25 @@
+{
+  "id": "ac90c409-76ca-418e-bf56-33053c6491b9",
+  "slug": "section-0381-ardei-umpluti-with-meat",
+  "title": "Ardei umpluti with meat",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "03c4190cbbc61c7c8323c1b7c600707ab8edff69b22d23c3e03ee86375ed6a63",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 381,
+    "content_hash": "bdc828aebaa38d37f7e57f9da5bf854a9549ad2db03e6deb09f2e8dade42a179",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

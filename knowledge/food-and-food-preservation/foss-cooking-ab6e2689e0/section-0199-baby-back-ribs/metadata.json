@@ -1,0 +1,25 @@
+{
+  "id": "d6c443dc-4777-4b2c-a3b6-1e02a4dfb8e0",
+  "slug": "section-0199-baby-back-ribs",
+  "title": "Baby Back Ribs",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "1141c10ae2f9f0c0019185e60de17990680fc4e44414780f6134bc6d44d3f1a6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 199,
+    "content_hash": "e936a1d1091ebe1687ab506569aeab1ec31fb1a4d71df548488abd648c1696db",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

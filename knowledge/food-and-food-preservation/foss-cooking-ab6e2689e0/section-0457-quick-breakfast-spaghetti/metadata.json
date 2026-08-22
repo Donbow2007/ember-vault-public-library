@@ -1,0 +1,25 @@
+{
+  "id": "ba70b58f-1655-4e4c-a79f-fa7b5e9a34e9",
+  "slug": "section-0457-quick-breakfast-spaghetti",
+  "title": "Quick Breakfast Spaghetti",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "3634378ef1a9a37066f220ecc23246aebfd90325cb6b56d39a13d87ddfc4b749",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 457,
+    "content_hash": "2057c41ca57a963fe6f30d0bc9afdb67df16f506b386f7c75bacdd829697a3b6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

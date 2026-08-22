@@ -1,0 +1,25 @@
+{
+  "id": "ab45acf5-cc8b-4e07-9dc7-9e71e0c65822",
+  "slug": "section-0388-common-questions-about-cetirizine-nhs",
+  "title": "Common questions about cetirizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "2020806783cfed19608c808ff929cc6e38790a4225b29a67d399e93288728441",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 388,
+    "content_hash": "c43be720e4a7b083532f341e0e145b0f4986debaadc0ba4dce6df03cf10ecc7e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

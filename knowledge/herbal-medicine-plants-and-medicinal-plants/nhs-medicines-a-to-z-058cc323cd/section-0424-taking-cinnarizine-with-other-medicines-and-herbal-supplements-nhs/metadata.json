@@ -1,0 +1,25 @@
+{
+  "id": "a493abe3-e628-4dbb-9114-bfea606cacfe",
+  "slug": "section-0424-taking-cinnarizine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking cinnarizine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "5f888cb77f072b0f73f03d0152d7411f1028e164848b4b45ecf5abeb5c18c6f7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 424,
+    "content_hash": "db5b6fb4dc333a480f217c74946d02515c6c601df86cf6f7a28f207fb7791abb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

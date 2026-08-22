@@ -1,0 +1,25 @@
+{
+  "id": "81761a31-e659-44b1-8adb-ee7a14d5920c",
+  "slug": "section-0398-spanish-tortilla",
+  "title": "Spanish Tortilla",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "79bab0c92fe51916c02f7cd94fc073aa20ce8841ddd1e6b584b171292c5d84bd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 398,
+    "content_hash": "8bf432f6fed9b5abf3b016a66f535401bd0476e08c48e6236214ecc2b6e39099",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

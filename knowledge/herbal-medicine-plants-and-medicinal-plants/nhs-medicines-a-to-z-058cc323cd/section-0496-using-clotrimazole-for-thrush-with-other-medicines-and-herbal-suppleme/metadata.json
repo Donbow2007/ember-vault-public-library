@@ -1,0 +1,25 @@
+{
+  "id": "98f89546-98b6-43ff-8336-f1cb41615136",
+  "slug": "section-0496-using-clotrimazole-for-thrush-with-other-medicines-and-herbal-suppleme",
+  "title": "Using clotrimazole for thrush with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "eba8bd68ad41342708c5eaf0c96c608dd9d4c83a6228665b958473be4a34276b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 496,
+    "content_hash": "e79144f72ca12f8a5681a7079dd88a14b8b3e985ae0752872db74e29a6811f30",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

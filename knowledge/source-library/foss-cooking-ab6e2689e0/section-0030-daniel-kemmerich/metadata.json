@@ -1,0 +1,25 @@
+{
+  "id": "0923b6e9-6ff6-43f2-b353-d2df418b9694",
+  "slug": "section-0030-daniel-kemmerich",
+  "title": "Daniel Kemmerich",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "abf301982c37b0b53eb446a811e23a441d0df17b8f44d6173dcde8099038dd4e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 30,
+    "content_hash": "f7f56716584822c7ab2840c77b130af0ea56a37830f5f1438ea76d0ccba7ebe5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

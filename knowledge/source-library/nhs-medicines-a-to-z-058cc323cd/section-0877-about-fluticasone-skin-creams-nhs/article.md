@@ -1,0 +1,7 @@
+# About fluticasone skin creams - NHS
+
+About fluticasone skin creams - Brand name: Cutivate Fluticasone is a type of medicine known as a steroid (also called a corticosteroid). This is not the same as an anabolic steroid . Fluticasone skin creams are stronger than other steroid skin creams such as hydrocortisone . Fluticasone cream has more fluticasone in it than the ointment. Although they are different strengths, both work well for treating skin conditions such as contact dermatitis , eczema and psoriasis . Fluticasone skin creams are available on prescription only. Fluticasone also comes as an inhaler and nebuliser to treat asthma and chronic obstructive pulmonary disease (COPD) , and a nasal (nose) spray or drops to treat hay fever and allergies . Key facts You're unlikely to have side effects from fluticasone skin cream or ointment, if you follow the instructions. Creams are better for skin that is moist or weepy. Ointments are thicker and greasier and better for dry or flaky skin. Only use fluticasone on your face if your doctor says it's OK. Do not give fluticasone to children under the age of 3 months. Fluticasone will not help with skin conditions such as acne and rosacea. If you use fluticasone for a long time your doctor might advise you to reduce your dose gradually to avoid withdrawal reactions.
+Page last reviewed: 20 February 2023
+
+Next review due: 20 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

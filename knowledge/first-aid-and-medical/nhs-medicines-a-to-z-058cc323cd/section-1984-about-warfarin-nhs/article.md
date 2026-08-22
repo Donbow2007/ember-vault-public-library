@@ -1,0 +1,9 @@
+# About warfarin - NHS
+
+About warfarin
+
+Warfarin is a type of medicine known as an anticoagulant. It makes your blood flow through your veins more easily. This means your blood will be less likely to make a dangerous blood clot. Warfarin is used to treat blood clots and help prevent future blood clots if you've had one previously, such as: a blood clot in the leg ( deep vein thrombosis, or DVT ) a blood clot in the lungs ( pulmonary embolism ) It's also used to prevent blood clots if you're at high risk of having them in the future. This includes people with: an irregular heartbeat ( atrial fibrillation ) a replacement or mechanical heart valve a blood clotting disorder, such as thrombophilia a higher chance of having a blood clot after an operation Warfarin is only available on prescription. It comes as tablets and as a liquid that you swallow. Key facts You'll usually take warfarin once a day in the evening. The most common side effect of warfarin is bleeding more easily than normal, such as having nosebleeds, bleeding gums, heavier periods and bruising. This is most likely to happen if you're unwell. You need to have blood tests at least every 12 weeks while you're taking warfarin to make sure your dose is right. It's normal for your warfarin dose to go up or down. The dose can depend on lots of different things, including what you eat and drink, what other medicines you're taking, and if you become unwell. Your doctor or pharmacist will give you an anticoagulant alert card. Always carry this with you. Show it to your doctor or dentist before you have any medical or dental procedures, including vaccinations and routine appointments with the dental hygienist.
+Page last reviewed: 22 April 2022
+
+Next review due: 22 April 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "1f1560c4-ba19-491c-8364-9b427f57439d",
+  "slug": "section-1295-common-questions-about-losartan-nhs",
+  "title": "Common questions about losartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "8c3631a4e405c8cb8e8cf7a537c60397b2fa8e8daab4d4e5599387a824f8c843",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1295,
+    "content_hash": "5ac5b7e9bda6f4fd62750dd4cf785964c67c13057c1f83dcb14f78dc7c523740",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

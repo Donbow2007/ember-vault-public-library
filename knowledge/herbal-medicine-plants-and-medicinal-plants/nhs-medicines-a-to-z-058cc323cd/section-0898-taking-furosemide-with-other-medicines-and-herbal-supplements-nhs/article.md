@@ -1,0 +1,11 @@
+# Taking furosemide with other medicines and herbal supplements - NHS
+
+Taking furosemide with other medicines and herbal supplements
+
+Cautions with other medicines Some medicines can affect the way furosemide works. They can stop it working properly or increase the chances of you having side effects. Tell your doctor if you're taking: medicines to treat, or which have the side effect of, an irregular heartbeat, including amiodarone, digoxin , disopyramide, flecainide or sotalol medicines that can change the level of potassium in your blood, such as potassium supplements, steroids, or other diuretics medicines used to treat mental health problems, such as amisulpride, lithium , pimozide or risperidone painkillers known as non-steroidal anti-inflammatory drugs ( NSAIDs ), including diclofenac , ibuprofen or naproxen medicines that treat high blood pressure , or those that have a side effect of low blood pressure a medicine used to treat ulcers called sucralfate – leave about 2 hours between the time you take furosemide and sucralfate Taking furosemide with painkillers and remedies Some painkillers and remedies contain a lot of sodium, which is found in salt. Too much salt can stop furosemide working properly. Medicines that contain a lot of salt include: soluble paracetamol soluble co-codamol some remedies for heartburn and indigestion Speak to a pharmacist or doctor to see if these medicines are safe for you to take alongside furosemide. Mixing furosemide with herbal remedies and supplements Tell your doctor if you are taking any potassium supplements. These change the levels of potassium in your blood and can affect the way furosemide works. There's not enough information to say that other herbal remedies or supplements are safe to take with furosemide. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 21 February 2022
+
+Next review due: 21 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "72762503-2390-49b2-96e3-5664dc54665d",
+  "slug": "section-1916-who-can-and-cannot-take-tramadol-nhs",
+  "title": "Who can and cannot take tramadol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "4421136115455be38860207a1d2e13659d1393f675c727bae8b96c4e91f8218b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1916,
+    "content_hash": "c61e8dd5483d93946b87b55978b1b5c492c32abb90e0721199176ba8cbd4e0e8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

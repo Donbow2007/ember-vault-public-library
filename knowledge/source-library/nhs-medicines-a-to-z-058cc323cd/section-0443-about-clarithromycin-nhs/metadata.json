@@ -1,0 +1,25 @@
+{
+  "id": "34547dbd-a005-4530-824d-8d86eca66c47",
+  "slug": "section-0443-about-clarithromycin-nhs",
+  "title": "About clarithromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "430064b7a20ed158248cbf0b4c8ba55e67dd0936aa595b95b1c19f3db1fd5eba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 443,
+    "content_hash": "1b0a5dd0ec30fd63168dc363741a288cb67587fe000f433ca08a813f64b5f061",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

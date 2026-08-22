@@ -1,0 +1,25 @@
+{
+  "id": "8859020b-9cb9-453b-988f-af760093e071",
+  "slug": "section-1367-about-mesalazine-nhs",
+  "title": "About mesalazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "1788bb90315609bfb91c55bf438d27546f92698051088cc19c61b9ec770f90bb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1367,
+    "content_hash": "95e2cf515472464b8f97cc26b11ec5563ec5d86e01d193b966453c7dc82bd44c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9f3aea49-cb85-438f-a89b-692adb5bdaf1",
+  "slug": "section-0453-greek-easter-cookies",
+  "title": "Greek Easter Cookies",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "1fcd98b3c1147c60f5386a9d082a5b2bd9fbfa80fc54bf37acbc65143d84de89",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 453,
+    "content_hash": "2f9333d6ea0987f4f9cd313035ba760088ba6932c2c728b9f7970eee22b02743",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

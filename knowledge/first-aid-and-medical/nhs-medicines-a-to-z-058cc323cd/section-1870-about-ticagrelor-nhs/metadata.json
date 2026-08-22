@@ -1,0 +1,25 @@
+{
+  "id": "759626ba-883d-4406-ba97-fd56c8ced4c6",
+  "slug": "section-1870-about-ticagrelor-nhs",
+  "title": "About ticagrelor - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "9ba3a52c6e6bffee39746300bd660364bfbee58d50354c2f7c85ea101981c1d4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1870,
+    "content_hash": "1384c0f068652c1363ed6f3b5e08ead846ce1022af6162b2fe135e7059060200",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

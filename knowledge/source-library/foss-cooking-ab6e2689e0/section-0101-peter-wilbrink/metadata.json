@@ -1,0 +1,25 @@
+{
+  "id": "ddbc51d6-3c4c-4a64-8abf-a5d696a7202e",
+  "slug": "section-0101-peter-wilbrink",
+  "title": "Peter Wilbrink",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "8cb7720fc7f675b121fecee41c4839bf4ba00fb91bd05f70713cfc06ec709cdb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 101,
+    "content_hash": "e40dd609aa9faa0da6deab69524ae7e499e9181e8a42243c77685e674895d09a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

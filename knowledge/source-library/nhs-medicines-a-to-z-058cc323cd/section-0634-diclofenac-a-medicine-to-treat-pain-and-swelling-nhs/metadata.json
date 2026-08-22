@@ -1,0 +1,25 @@
+{
+  "id": "448793a1-b52c-4eca-a05e-c512d50d7668",
+  "slug": "section-0634-diclofenac-a-medicine-to-treat-pain-and-swelling-nhs",
+  "title": "Diclofenac: a medicine to treat pain and swelling - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "ef952d8eb709e61da4282fb2e1f6f5cf41f1f6bd9bb5ed318930b043e610deae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 634,
+    "content_hash": "97e33e871f1ab1b8871afe2d42aa8187869700466a628e050355dfb8bc028d25",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

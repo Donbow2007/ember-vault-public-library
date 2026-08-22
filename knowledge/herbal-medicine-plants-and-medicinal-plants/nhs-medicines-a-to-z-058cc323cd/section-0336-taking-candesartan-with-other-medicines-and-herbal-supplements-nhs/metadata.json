@@ -1,0 +1,25 @@
+{
+  "id": "fe5a77fc-516f-4c80-ac6f-f17a2d175dd4",
+  "slug": "section-0336-taking-candesartan-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking candesartan with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "41f5d8102289b5d16fa8c14daf04211caa52600f9b2d3d53ae9fdebd81221d72",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 336,
+    "content_hash": "be82bb4ee1a8fd7e179b5a8a100a2f1005de963c81b0bbd500179c609a27110f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

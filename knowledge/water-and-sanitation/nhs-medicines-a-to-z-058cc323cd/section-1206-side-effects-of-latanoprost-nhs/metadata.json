@@ -1,0 +1,25 @@
+{
+  "id": "5b308773-144e-4029-b25e-d500bc93290b",
+  "slug": "section-1206-side-effects-of-latanoprost-nhs",
+  "title": "Side effects of latanoprost - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "dbb169c2e793b0fdb31d092ee34d008ac89c7cabdc9fa55acb9cb14baa8299f3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1206,
+    "content_hash": "e36ba182219a1e8f969b2b1f867883ebba7cc2f5ba8673607c1fab440537d3c1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

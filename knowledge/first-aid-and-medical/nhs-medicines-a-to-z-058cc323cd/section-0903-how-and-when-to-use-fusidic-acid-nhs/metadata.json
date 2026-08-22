@@ -1,0 +1,25 @@
+{
+  "id": "6ee3c20a-cb2e-42c1-8b3e-4c452336364a",
+  "slug": "section-0903-how-and-when-to-use-fusidic-acid-nhs",
+  "title": "How and when to use fusidic acid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "f09c137610f6af2fa4ca483221900e2ae90c037c759ef1b7a86f149653a6fe07",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 903,
+    "content_hash": "41f306f7619b33c2d740874e4502920b4ffc2bffea1f7accca0939b481a6a0ff",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

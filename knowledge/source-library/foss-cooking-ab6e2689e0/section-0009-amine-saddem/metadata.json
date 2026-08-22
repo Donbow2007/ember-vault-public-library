@@ -1,0 +1,25 @@
+{
+  "id": "6ae326a2-e89b-4e38-bdcb-23f6215cd6d2",
+  "slug": "section-0009-amine-saddem",
+  "title": "Amine Saddem",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "e3cf38fb130136b64ee02f7ad404dc8ac99292efc9ae0c264bf069cd5b4ab847",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 9,
+    "content_hash": "ffc39c3af04d63c977683914708c1c310c16ca95f44b75307ffc823af128ea27",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

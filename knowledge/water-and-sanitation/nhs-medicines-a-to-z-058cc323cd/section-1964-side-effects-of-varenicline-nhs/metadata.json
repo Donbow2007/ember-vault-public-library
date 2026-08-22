@@ -1,0 +1,25 @@
+{
+  "id": "8353122a-fafd-48db-8565-4857c17b1bf9",
+  "slug": "section-1964-side-effects-of-varenicline-nhs",
+  "title": "Side effects of varenicline - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "344bdd28304f4bc5fdcfd7bc4719a5099663a140214b1bb1dbe540dd27db1061",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1964,
+    "content_hash": "24fa3048cf2f8b803da3299aa388314edfe737dc710c4a480ee3830367b3b054",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

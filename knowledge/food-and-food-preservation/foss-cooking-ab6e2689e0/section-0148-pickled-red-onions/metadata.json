@@ -1,0 +1,25 @@
+{
+  "id": "e0aaab00-d77c-4455-8879-d09f6a909868",
+  "slug": "section-0148-pickled-red-onions",
+  "title": "Pickled Red Onions",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "2b9019de2147a7f8948ea1793aacc4b4dc4736e49ac3f962a72528dc3346c1d9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 148,
+    "content_hash": "c4160239f2bf96047aff5d0de42383220f3ead69cd7dde130f55a1a1cd70d47e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

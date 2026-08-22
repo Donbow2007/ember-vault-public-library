@@ -1,0 +1,25 @@
+{
+  "id": "0f995997-aa6a-4001-8707-4b3a61adb61a",
+  "slug": "section-0080-side-effects-of-amoxicillin-nhs",
+  "title": "Side effects of amoxicillin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "61a435ca2b0ee2f646d2bfa9f6776da3e64bc35763d7338ad00f02be5702746f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 80,
+    "content_hash": "c51d96ea2cea70e3d57005cec771d047571ad111005ea5ae9ea12e3db6449c08",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

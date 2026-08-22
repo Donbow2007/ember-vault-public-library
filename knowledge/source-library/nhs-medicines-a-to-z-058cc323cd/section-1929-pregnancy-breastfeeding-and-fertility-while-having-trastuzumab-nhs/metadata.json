@@ -1,0 +1,25 @@
+{
+  "id": "e38e969c-4f4b-40c0-ac66-4d217ff7f73b",
+  "slug": "section-1929-pregnancy-breastfeeding-and-fertility-while-having-trastuzumab-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while having trastuzumab - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "9ac6d257ebebcecbef93080bb3197db52950734751199a69d2bef8791724dac7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1929,
+    "content_hash": "a40a2fd8be9d27f390714e5fae675ce25283de5768bb76f0e6a43252036f0c8f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

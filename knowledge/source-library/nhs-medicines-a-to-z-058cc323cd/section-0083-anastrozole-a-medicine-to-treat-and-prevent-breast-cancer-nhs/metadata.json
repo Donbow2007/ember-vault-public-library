@@ -1,0 +1,25 @@
+{
+  "id": "787a7c81-5e71-4e8f-bcc4-1dd0a1890c5a",
+  "slug": "section-0083-anastrozole-a-medicine-to-treat-and-prevent-breast-cancer-nhs",
+  "title": "Anastrozole: a medicine to treat and prevent breast cancer - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "38cc3682b0f4f4736602595f556fba356ac77fc68dc78270865c0fdc94275ac1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 83,
+    "content_hash": "575a49142bfd9889a65194e2357278fb859f78d60ebe4a5daa5399a3f2b13608",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "37038dbe-631e-435b-856e-4352dce00fb5",
+  "slug": "section-0730-who-can-and-cannot-take-edoxaban-nhs",
+  "title": "Who can and cannot take edoxaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "c7dcd1f3d5c6972f80b7e2f9e1e88ab9f5b3b363f29d2324cbacaac9c781d14e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 730,
+    "content_hash": "2a431c80a76bb63318be047a33933f38689bb3022654bcb0c5d9b63f73be1231",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

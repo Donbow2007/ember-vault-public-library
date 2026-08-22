@@ -1,0 +1,25 @@
+{
+  "id": "144ba5e0-f944-4359-b361-47bf487b0257",
+  "slug": "section-0007-alexander-bocken",
+  "title": "Alexander Bocken",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9102296f06d76a629d43db602f620c601e45e039f49a923a70d30620dcd3886f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 7,
+    "content_hash": "f3b7568a6684a79b315b228b91fbb089890ca357f3efabd92530ce58d7d25879",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

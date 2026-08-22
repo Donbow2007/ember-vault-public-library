@@ -1,0 +1,25 @@
+{
+  "id": "fc997591-d2f0-4469-ab90-d22f041513ef",
+  "slug": "section-0493-how-and-when-to-use-clotrimazole-for-thrush-nhs",
+  "title": "How and when to use clotrimazole for thrush - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "603c437d84019e1c375c4e43f9d192d967596f61feb20854de6383a300253fb8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 493,
+    "content_hash": "c24a715ae67975e7b77717a8048320c1858157d22dcacc90e686fe35d75f490b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

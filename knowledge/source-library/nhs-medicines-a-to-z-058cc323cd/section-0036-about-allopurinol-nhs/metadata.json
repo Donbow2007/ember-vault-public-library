@@ -1,0 +1,25 @@
+{
+  "id": "4a4fd782-d052-4ec5-951c-8e43c79ae251",
+  "slug": "section-0036-about-allopurinol-nhs",
+  "title": "About allopurinol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "fce77eac8da9cdff516bfd0c3596e5f939ecff641076df8524d8936ddb028fbb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 36,
+    "content_hash": "2682a1758bb5f00caa2e371efc03278836a13b0227fd665c73552fb984dc843e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

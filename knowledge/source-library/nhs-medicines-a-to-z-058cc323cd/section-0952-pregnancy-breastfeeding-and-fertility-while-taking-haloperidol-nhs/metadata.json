@@ -1,0 +1,25 @@
+{
+  "id": "4f163751-5943-4314-8d51-ecc9606c9fcd",
+  "slug": "section-0952-pregnancy-breastfeeding-and-fertility-while-taking-haloperidol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking haloperidol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "8a3dc2490a2395863cb448d142632396d5e3fb34d60faf3f00fe2f129d57bfb6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 952,
+    "content_hash": "def812c131f47d85d6f0cc0cf9395243c10d3bc4abae8b644985ff623778a63e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

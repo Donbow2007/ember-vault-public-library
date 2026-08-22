@@ -1,0 +1,25 @@
+{
+  "id": "78456c99-1cae-448c-96b7-b5e4c7ec5b78",
+  "slug": "section-0039-pregnancy-breastfeeding-and-fertility-while-taking-allopurinol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking allopurinol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "218159986f1f4072a08f88ceb765b1db169221efbc2f567cd0ce0900f46f7db2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 39,
+    "content_hash": "6159e3f8c9fcb0ed061398b954ff8589954f7f09d4a99c83a7e1d4064bf80d61",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

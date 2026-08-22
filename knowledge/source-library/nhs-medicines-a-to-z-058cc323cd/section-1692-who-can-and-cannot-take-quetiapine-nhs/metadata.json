@@ -1,0 +1,25 @@
+{
+  "id": "80ca08fd-9520-437a-a694-b811f91c97b7",
+  "slug": "section-1692-who-can-and-cannot-take-quetiapine-nhs",
+  "title": "Who can and cannot take quetiapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "7fae4cd955808fed14c7ba9fab3aa5fc255c0c975cac1fb29fc857844a1963b3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1692,
+    "content_hash": "9fa9c49a16364bee5074b1363b7e3b8dbd7efc7d685d951613a9ed8e0701c025",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

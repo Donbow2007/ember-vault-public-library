@@ -1,0 +1,25 @@
+{
+  "id": "ff95bf50-0799-4ad9-afe4-d74fd9cb5587",
+  "slug": "section-1029-who-can-and-cannot-use-hydrocortisone-for-piles-and-itchy-bottom-nhs",
+  "title": "Who can and cannot use hydrocortisone for piles and itchy bottom - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "5c7b700bd805469362fdfb1e41f0b33b88ece205aa06a3dadd87e09e9102afd1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1029,
+    "content_hash": "1d47eff90b3528ebdf88faed3b8bc35d9a57ffff2704ef730b2680db9867a698",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

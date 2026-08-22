@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking low-dose aspirin - NHS
+
+Pregnancy, breastfeeding and fertility while taking low-dose aspirin
+
+Low-dose aspirin and pregnancy It's safe to take low-dose aspirin during pregnancy. Only take low-dose aspirin if advised to do so by your pregnancy specialist (obstetrician), midwife, GP or fertility specialist. You should check with them if you are unsure. Your doctor may advise you to take low-dose aspirin from 12 weeks of pregnancy: to help prevent pre-eclampsia (pregnancy-related high blood pressure) if you have had several previous miscarriages or complications in a previous pregnancy to help prevent a heart attack and stroke if you have certain medical conditions (your doctor or obstetrician will advise) Low-dose aspirin and breastfeeding Only take low dose aspirin while you’re breastfeeding if your doctor has advised you to do so. Aspirin passes into breast milk in very small amounts, and it is unlikely to cause any side effects in your baby. However, there is a possible link between aspirin and Reye's syndrome in children. If your baby develops a viral infection or a high temperature, stop taking aspirin until your baby is well again Alternatively, you can express milk, throw the milk away and give formula. This will maintain your supply of milk until your baby is better and you can then carry on breastfeeding. If you notice that your baby is not feeding as well as usual, they seem to be bruising or bleeding easily, or has a rash, or if you have any other concerns about your baby, talk to your health visitor, midwife, pharmacist, or doctor as soon as possible. Low-dose aspirin and fertility There's no clear evidence to suggest that aspirin reduces fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how aspirin can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 16 December 2021
+
+Next review due: 16 December 2024
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

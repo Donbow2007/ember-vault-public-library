@@ -1,0 +1,25 @@
+{
+  "id": "3d71f162-7916-4951-8da6-8733755f7dff",
+  "slug": "section-0350-beef-stroganoff",
+  "title": "Beef Stroganoff",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "799e2697e8807ed9893a8516e5eee7113748a896ab3a4598e3c394e33834002d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 350,
+    "content_hash": "9c6e6f4300297a12f31a7b98585d47389a2d69d6bcb2b99141aa53407b1b77d1",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

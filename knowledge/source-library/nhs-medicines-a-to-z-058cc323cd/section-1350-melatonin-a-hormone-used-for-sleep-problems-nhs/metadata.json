@@ -1,0 +1,25 @@
+{
+  "id": "8be39a26-bf59-40b5-a9c6-0e94f32b63a3",
+  "slug": "section-1350-melatonin-a-hormone-used-for-sleep-problems-nhs",
+  "title": "Melatonin: a hormone used for sleep problems - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "a86d6b52832cc8993129c899f3b521ddbc753ccbf31437697e22ee8469026731",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1350,
+    "content_hash": "d8ab2f6861554c908767e9125813a8ad6fd997e8676a8d0a7642ae5722e900d4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

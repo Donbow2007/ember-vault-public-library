@@ -1,0 +1,7 @@
+# About solifenacin - NHS
+
+About solifenacin - Brand name: Vesicare Solifenacin is a medicine used to treat symptoms of an overactive bladder. These can include: a sudden and urgent need to pee (urinary urgency) needing to pee more often than usual (urinary frequency) not being able to hold your pee ( urinary incontinence ) Solifenacin works by relaxing the muscles in your bladder. This means your bladder can hold more liquid and you do not need to pee as often or as urgently. Solifenacin is only available on prescription. It comes as tablets and as a liquid that you swallow. Solifenacin also comes combined with tamsulosin , a medicine for prostate problems. The brand names for solifenacin with tamsulosin are Vesomni and Vecit. Your doctor may prescribe this to treat a sudden and urgent need to pee if you have an enlarged prostate . Key facts You'll usually take solifenacin once a day. Solifenacin starts to work within 3 to 8 hours, but it can take up to 4 to 6 weeks to work fully. Common side effects include a dry mouth and blurred vision. You'll usually take this medicine long term to help keep your symptoms under control. Your doctor will check every 6 to 12 months to see if you need to keep taking it. Do not drive a car or ride a bike if solifenacin makes you sleepy, gives you blurred vision, or makes you feel dizzy, clumsy or unable to concentrate.
+Page last reviewed: 2 July 2024
+
+Next review due: 2 July 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

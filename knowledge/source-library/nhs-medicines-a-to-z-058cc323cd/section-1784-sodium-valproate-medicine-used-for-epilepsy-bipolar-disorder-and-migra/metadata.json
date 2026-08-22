@@ -1,0 +1,25 @@
+{
+  "id": "48c9c707-8778-4a0a-b742-505db08da34a",
+  "slug": "section-1784-sodium-valproate-medicine-used-for-epilepsy-bipolar-disorder-and-migra",
+  "title": "Sodium valproate: medicine used for epilepsy, bipolar disorder and migraine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "920c6457bce9280066ca9e450556e7f1d40e4347772d9a1f7706f49a55cd5ceb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1784,
+    "content_hash": "f7900aeb05b78ca35bd92effd9a32ee68241efb4f183f89224570e5a05e1e463",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

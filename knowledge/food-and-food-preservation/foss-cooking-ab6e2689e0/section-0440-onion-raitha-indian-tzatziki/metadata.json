@@ -1,0 +1,25 @@
+{
+  "id": "f327cc00-580f-486f-a6b2-16bdd966c61c",
+  "slug": "section-0440-onion-raitha-indian-tzatziki",
+  "title": "Onion Raitha (Indian Tzatziki)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "203b9e5eef1930e4bf1d9adda9ad4e0bc4ab0ed4c609a5e2b5b691e56375e21f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 440,
+    "content_hash": "68b1421480f1a7ed0369c786d263299471e1f5839b6881b209e276da3753e02c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

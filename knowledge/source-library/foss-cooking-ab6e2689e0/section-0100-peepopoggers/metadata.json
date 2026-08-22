@@ -1,0 +1,25 @@
+{
+  "id": "70e9c760-33e4-4871-8e4b-a47f228d4a97",
+  "slug": "section-0100-peepopoggers",
+  "title": "peepopoggers",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "cc634e982819a01a40b681bd57a7b356940324d8b279178d9a84f148af1eeb3f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 100,
+    "content_hash": "037f123dd323536798abf422459e6bd19b646d9ce8b11ffb53f60c5330ee1920",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

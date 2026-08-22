@@ -1,0 +1,25 @@
+{
+  "id": "eb59087e-82a6-4c60-91df-28037668f526",
+  "slug": "section-0082-martin-stohanzl",
+  "title": "Martin Stohanzl",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "245aa53164a311bc6a6c9672ab17ab090b7dcb1f0671297501964e0767d1931b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 82,
+    "content_hash": "abcfdcd44e3737136fa031f372a5a7c0be817fc2d2ee3a4de5960b1520850e5d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

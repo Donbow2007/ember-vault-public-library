@@ -1,0 +1,25 @@
+{
+  "id": "7262bcdc-88be-4666-94a6-259163cd975c",
+  "slug": "section-0458-slow-cooked-pork-carnitas",
+  "title": "Slow-cooked Pork Carnitas",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "e34e3b59edc1064f27f880ca4dce5081049d732c0ed4b0c313019a4527b9a3a9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 458,
+    "content_hash": "7ed176c9f60c83bf2a469450f01e6db7352ab6dc8b70423b15ea5e15496fc16b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

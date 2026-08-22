@@ -1,0 +1,25 @@
+{
+  "id": "ea7db2b4-8545-4281-a8a2-7678dd1ffc18",
+  "slug": "section-0568-who-can-and-cannot-take-colchicine-nhs",
+  "title": "Who can and cannot take colchicine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "57ea3363a3eb901ef5205c0b5a5e446a8a49a7d75276570d11a73f3d4b8e2b3f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 568,
+    "content_hash": "8a187740031aa9b4f3ce891f6854ae679a0f436368f33b883eb584f21cfa2065",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2f624f60-6175-4b79-b399-098cea316e26",
+  "slug": "section-0245-chicken-paprikash",
+  "title": "Chicken Paprikash",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "2d81979aaebe5e67862d1e3e5f28989f0b822d4eb062e1c832dce1873df12266",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 245,
+    "content_hash": "6c0bb539c27de3ecdf6c02bedb59c025fbbdd54492758ff90d0b7e49fe2facc6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "11c7699f-f38d-490b-95cf-32908d94c60a",
+  "slug": "section-1452-who-can-and-cannot-take-mirtazapine-nhs",
+  "title": "Who can and cannot take mirtazapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "81e58e49ff2a07131c6161268e29630d635fad5ec77447a7c6bbdad8ffad5973",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1452,
+    "content_hash": "1ff16c83b358d005a30ef0df1b65a2296e399b445ab14f7b5553e9b228873852",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

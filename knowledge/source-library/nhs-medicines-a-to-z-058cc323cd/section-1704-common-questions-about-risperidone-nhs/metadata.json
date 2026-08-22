@@ -1,0 +1,25 @@
+{
+  "id": "9f8dcb8b-8536-4ae9-aae7-bdd837147ff2",
+  "slug": "section-1704-common-questions-about-risperidone-nhs",
+  "title": "Common questions about risperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "9d6919fae02b928fdce5933ea7e92d49eb50d493113f0fb478477af3f3302128",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1704,
+    "content_hash": "f25afeac02235ef0cad20644bf0e4c08bb10dda926a6f080c71d239b38e421d8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

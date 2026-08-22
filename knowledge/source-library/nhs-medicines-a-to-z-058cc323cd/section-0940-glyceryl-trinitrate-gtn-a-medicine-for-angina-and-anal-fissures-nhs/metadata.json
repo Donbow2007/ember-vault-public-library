@@ -1,0 +1,25 @@
+{
+  "id": "bbb0b926-fb2f-4250-ab66-afb088a0565f",
+  "slug": "section-0940-glyceryl-trinitrate-gtn-a-medicine-for-angina-and-anal-fissures-nhs",
+  "title": "Glyceryl trinitrate (GTN): a medicine for angina and anal fissures - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "0622909499471693266c0bd7cc9ef96acd9d95d6d482c23fa73a2b3f89f350fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 940,
+    "content_hash": "2094a1b4f121ca12e2e48d74c2b3c71091e5a3d8167316cc615049bd05d8fa22",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

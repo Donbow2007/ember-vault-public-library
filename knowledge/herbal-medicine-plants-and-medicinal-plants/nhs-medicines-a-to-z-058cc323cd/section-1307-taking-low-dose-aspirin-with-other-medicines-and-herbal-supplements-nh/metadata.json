@@ -1,0 +1,25 @@
+{
+  "id": "3884cee6-f4d0-4d06-b8b0-a29847f9fecb",
+  "slug": "section-1307-taking-low-dose-aspirin-with-other-medicines-and-herbal-supplements-nh",
+  "title": "Taking low-dose aspirin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "6936b19942efecc3aa2d3e4f771c2421d672ee563a5861a387ea9f49040ff2b4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1307,
+    "content_hash": "52451c37d016ca0e62c169a979a4afffc3947c5fa2536db4f7739bc661646177",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

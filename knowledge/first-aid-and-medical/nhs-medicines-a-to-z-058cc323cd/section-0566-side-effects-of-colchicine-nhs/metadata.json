@@ -1,0 +1,25 @@
+{
+  "id": "d02b20f3-8c15-42c3-8257-954d2ba726a0",
+  "slug": "section-0566-side-effects-of-colchicine-nhs",
+  "title": "Side effects of colchicine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "94b11271460634959dd164a400025ea85cf2612163dd27ee0c7846aca41dc43a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 566,
+    "content_hash": "ce1b4e52afb8b2c51a94242f720fadf6aff9d2ea878bd4a59fc400ae81931549",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3364da8b-28c4-474c-9f73-cc822ad2ec93",
+  "slug": "section-1208-who-can-and-cannot-use-latanoprost-nhs",
+  "title": "Who can and cannot use latanoprost - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "5d565d923fc8d973ad846eeba6d29fe6decdae14b7ab1cdf225a1ca91cf5c4a4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1208,
+    "content_hash": "24f4f23bb4d36b1d8d102578434f31c2ea561ac6eee0099d41fb504a9db69abd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

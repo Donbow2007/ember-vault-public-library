@@ -1,0 +1,25 @@
+{
+  "id": "b350a98c-9ba0-4026-8685-8f85151c1466",
+  "slug": "section-0056-side-effects-of-amitriptyline-for-depression-nhs",
+  "title": "Side effects of amitriptyline for depression - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "f23fc91f1ce62f9e714cbfe19c0c4cb188abddb8fa20037140fb6f82958eda03",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 56,
+    "content_hash": "89f3475e030d47ac2eeb34af739bb8f5b42d1c0b21b38694fd3737e8239f9ede",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

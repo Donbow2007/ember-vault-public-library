@@ -1,0 +1,25 @@
+{
+  "id": "a76fe3ad-7820-4d80-b643-3d2777fe5319",
+  "slug": "section-0371-irp-fas-org-doddir-milmed-preventive-pdf-part-3",
+  "title": "irp.fas.org/doddir/milmed/preventive.pdf — Part 3",
+  "category": "source-library",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "ab5c9263fc0fc79f15f729f8ebdfce98b354f6f8f2f99dfe6258d7a87c344242",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 371,
+    "content_hash": "26583d33e38c252a0e2d42f26e732c94a30d3a797a50959fc175159a53e13878",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

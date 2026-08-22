@@ -1,0 +1,7 @@
+# About tranexamic acid - NHS
+
+About tranexamic acid - Brand names: Cyklokapron, Evana Heavy Period Relief Tranexamic acid (sometimes shortened to TXA) is a medicine that controls bleeding. It helps your blood to clot and is used for nosebleeds and heavy periods . If you're having a tooth taken out, using tranexamic acid mouthwash can help stop bleeding. Tranexamic acid can also help if you have a condition that causes swelling under the skin (hereditary angioedema ). If you have any condition that causes you to bleed more than usual, you may need to take tranexamic acid for a few days before having surgery or dental surgery. Tranexamic acid is available on prescription as: tablets mouthwash injections – usually only given in hospital Tranexamic acid tablets for heavy periods are also available to buy from pharmacies, for adults aged 18 and over. Key facts You'll usually take tranexamic acid 3 times a day for a few days at a time. It can take up to 24 hours for the medicine to work fully. You can take the tablets with or without food. Most people do not have any side effects when taking tranexamic acid tablets. Speak to your doctor if you also take the combined contraceptive pill ("the pill"), as there's a very small increased risk of DVT (deep vein thrombosis) with tranexamic acid.
+Page last reviewed: 9 March 2023
+
+Next review due: 9 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

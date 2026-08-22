@@ -1,0 +1,25 @@
+{
+  "id": "d8304c0f-32dc-4d61-af40-8ac575d8e14c",
+  "slug": "section-0955-who-can-and-cannot-take-haloperidol-nhs",
+  "title": "Who can and cannot take haloperidol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "ae7d86e18df52f0f95bc73c8448668835b206a2e6cf1ad5e39f5a38addb8117e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 955,
+    "content_hash": "f1f3342ddf02eaec721cda66fe94759e35475f1ee85d260da82cc551d3a0ef0d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

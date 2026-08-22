@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while using benzydamine - NHS
+
+Pregnancy, breastfeeding and fertility while using benzydamine - Brand name: Difflam Benzydamine and pregnancy If you're pregnant and have mouth ulcers or a sore throat, talk to your doctor or a pharmacist. They'll be able to discuss your options and help you decide what treatments are best for you and your baby. Only small amounts of benzydamine get into the body when you use it because most of it stays in the throat. Because of this, your doctor may say it's OK to use benzydamine. Although benzydamine is unlikely to affect your baby, it should only be used for short periods (a few days). If you feel you need to use it for longer, talk to your doctor or a pharmacist. Benzydamine and breastfeeding It's OK to use benzydamine while breastfeeding. Try to use it for as short a time as possible. It's not known how much benzydamine passes into breast milk, but it's only thought to be a tiny amount. It's unlikely to cause any side effects in your baby. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife, doctor or pharmacist as soon as possible. Benzydamine and fertility There's no evidence that benzydamine mouthwash, spray or lozenges affect fertility in men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about pain relief in pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 8 July 2024
+
+Next review due: 8 July 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

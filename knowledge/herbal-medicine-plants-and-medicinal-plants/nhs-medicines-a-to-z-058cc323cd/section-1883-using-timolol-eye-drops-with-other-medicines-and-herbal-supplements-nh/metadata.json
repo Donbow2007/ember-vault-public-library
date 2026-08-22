@@ -1,0 +1,25 @@
+{
+  "id": "11dc20bb-2087-4bd8-b650-ad6cd7318b64",
+  "slug": "section-1883-using-timolol-eye-drops-with-other-medicines-and-herbal-supplements-nh",
+  "title": "Using timolol eye drops with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "5e83f2f7f82016ad35349f6cec28785cb9f8a76c61faeffdb3011eb9e10d86b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1883,
+    "content_hash": "27dcd7120e82324450d7f59c532b9abfcb852adc651ecb074ac693b1591a81b6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

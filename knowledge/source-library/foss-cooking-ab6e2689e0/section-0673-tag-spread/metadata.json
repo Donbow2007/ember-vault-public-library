@@ -1,0 +1,25 @@
+{
+  "id": "3fb9ed59-fd3c-409f-b8b7-16e0c3f4631e",
+  "slug": "section-0673-tag-spread",
+  "title": "Tag: spread",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "5d54c057fe3de8536fa273e4631075ccdddd89f09c6825cd9f211937bd5e00aa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 673,
+    "content_hash": "ae0deefb5184fe5677df81fac1deb24b8d0ac79814d8ef9765f76e3f94ab595e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

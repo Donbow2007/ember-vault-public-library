@@ -1,0 +1,25 @@
+{
+  "id": "e02d0618-930b-4e80-ba01-a68e3732f5ab",
+  "slug": "section-1571-pregnancy-breastfeeding-and-fertility-while-taking-oxycodone-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking oxycodone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "59a9ce157e52ad9e2114072dbd8c9b368303fdc7aeb0349c589267606e7f720b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1571,
+    "content_hash": "1fb8708d2cd929dddcb11db5758d3042b098f850fbfb7beea5217cfb14fd54cb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

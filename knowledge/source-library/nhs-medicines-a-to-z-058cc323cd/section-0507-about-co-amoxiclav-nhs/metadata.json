@@ -1,0 +1,25 @@
+{
+  "id": "479c9caf-354a-4009-90dd-d069c9312898",
+  "slug": "section-0507-about-co-amoxiclav-nhs",
+  "title": "About co-amoxiclav - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "8c42cca72ac469d1125ef125a240522a242c4856fc43d27c9f36f21ce4c10d0d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 507,
+    "content_hash": "4584ee9d00e0b405f5b992feab8855e0d71620a5a2c5b09ad75343ea7ac6f672",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

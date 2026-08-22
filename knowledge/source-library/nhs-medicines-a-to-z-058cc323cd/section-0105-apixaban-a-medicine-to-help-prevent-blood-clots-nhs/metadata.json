@@ -1,0 +1,25 @@
+{
+  "id": "cfa84018-b5ed-4674-97f1-9e72bb6e2f6b",
+  "slug": "section-0105-apixaban-a-medicine-to-help-prevent-blood-clots-nhs",
+  "title": "Apixaban: a medicine to help prevent blood clots - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "4ee85c55027025bf2709359e87655b0aeaa1f98540d57bab72ec740765633e73",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 105,
+    "content_hash": "44a967c3e9dc4f994e79a4f85f3f0f22626e48680b45dceac44dee72d138c874",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

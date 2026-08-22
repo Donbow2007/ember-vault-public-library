@@ -1,0 +1,25 @@
+{
+  "id": "cfe63922-fd2b-4e57-aeb8-582e633d80bc",
+  "slug": "section-0282-budesonide-nasal-spray-a-steroid-used-to-treat-symptoms-of-allergic-rh",
+  "title": "Budesonide nasal spray: a steroid used to treat symptoms of allergic rhinitis - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "73872ba732e12cdee79da670c3c2dda0962fac82288bf3c0df723a927bb282ad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 282,
+    "content_hash": "6fd22a32bc7e7f625559d1524f4548ff6cab795e5b33dfa03dbbf0cdf14e08fd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e8396803-b583-4c6a-9947-3508b4a524c0",
+  "slug": "section-0514-zaatar",
+  "title": "Zaatar",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "ca2e68b53af902ca679c0e3acae6ef68bb088221e4932207c231cd8e95567dff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 514,
+    "content_hash": "7fa8ac313f4f1722eddd5eb4efc7555809ac4bd36fb82ad8f382d2e05288ae26",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

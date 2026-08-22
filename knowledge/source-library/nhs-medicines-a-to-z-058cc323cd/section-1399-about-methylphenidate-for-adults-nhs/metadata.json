@@ -1,0 +1,25 @@
+{
+  "id": "adf07954-f44b-4818-98c0-b77155b473e4",
+  "slug": "section-1399-about-methylphenidate-for-adults-nhs",
+  "title": "About methylphenidate for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "b31684fbc881d6bf86b90c04be0fbd0973d4b787228c871882b0faa7c6361954",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1399,
+    "content_hash": "ce98aa343b8d56bcb28ff153321e7d550fe8ddb97ce64ee44a45920f1a114aac",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

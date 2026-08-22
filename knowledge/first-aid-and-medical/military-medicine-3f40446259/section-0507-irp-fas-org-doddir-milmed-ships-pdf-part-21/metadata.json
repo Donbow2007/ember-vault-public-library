@@ -1,0 +1,25 @@
+{
+  "id": "7fd2cb31-5218-4210-8c5d-74f70830aa02",
+  "slug": "section-0507-irp-fas-org-doddir-milmed-ships-pdf-part-21",
+  "title": "irp.fas.org/doddir/milmed/ships.pdf — Part 21",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "6a63cca2ce1ae05f7cfbf85f2d5b9f8e397d77fa48835a43c10b9c250e7b5989",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 507,
+    "content_hash": "2480fe6d4be615f9ac7756f33b694dd5dbac377229633088744a6bc1fa482423",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

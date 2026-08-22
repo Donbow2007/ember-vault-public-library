@@ -1,0 +1,25 @@
+{
+  "id": "592721fc-4919-4a14-bab7-51a586e0d977",
+  "slug": "section-1306-side-effects-of-low-dose-aspirin-nhs",
+  "title": "Side effects of low-dose aspirin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "fd9090a62f3eaf71255faf3c299aa09582c2b12de78bfef06305a6ccd99d790f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1306,
+    "content_hash": "14f5f260d86c0f0d2737be396c80dfe9134be4fa5f1243f60745539b18967ec5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

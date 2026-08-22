@@ -1,0 +1,25 @@
+{
+  "id": "894d91c9-76f5-4463-88f6-7f4fa579d5b1",
+  "slug": "section-1869-ticagrelor-an-antiplatelet-medicine-to-prevent-blood-clots-nhs",
+  "title": "Ticagrelor: an antiplatelet medicine to prevent blood clots - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "116b4a9af148dbcd57cc42665c1d0c6f64c115007a7a4f45b8ec686ab93e22e0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1869,
+    "content_hash": "507437d4108ee6230e97cd0b31e0e451027b5d34ec2e3cae751c23a54d3a12c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

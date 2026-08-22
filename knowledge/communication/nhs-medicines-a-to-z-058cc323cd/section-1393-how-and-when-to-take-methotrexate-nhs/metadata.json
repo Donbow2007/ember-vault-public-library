@@ -1,0 +1,25 @@
+{
+  "id": "e9e6d125-5d90-429e-aee8-3f895d7f1100",
+  "slug": "section-1393-how-and-when-to-take-methotrexate-nhs",
+  "title": "How and when to take methotrexate - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "5f6978fbe05cf80ec3d08443310765cf7d37200ed983367adc972dd8c4508c51",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1393,
+    "content_hash": "d99221f02801a2f4adc2e4fb3ed3e3a09da807a129f0baf7a5d31e3cf7e7b03e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

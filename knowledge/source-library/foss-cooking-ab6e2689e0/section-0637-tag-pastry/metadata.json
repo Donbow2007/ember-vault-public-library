@@ -1,0 +1,25 @@
+{
+  "id": "90c06670-a7f7-49a2-bd49-c493a342e4c3",
+  "slug": "section-0637-tag-pastry",
+  "title": "Tag: pastry",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "80b7392efb9432474840f3b2cdf484794b824ba8f58501b375d79e39ab4e63fb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 637,
+    "content_hash": "4064c0ed274902a61ba6d660df3ce48593142972aa6d251ed590f0db5a650f42",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

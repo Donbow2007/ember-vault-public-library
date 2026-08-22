@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while using clobetasone - NHS
+
+Pregnancy, breastfeeding and fertility while using clobetasone - Brand names: Eumovate, Clobavate Clobetasone and pregnancy Clobetasone can be used during pregnancy. Since it's applied to the skin, very little of the medicine gets into your bloodstream and almost none gets to your baby. Even if a small amount does get to your baby, it will not harm them. Clobetasone and breastfeeding Clobetasone can be used during breastfeeding. It is not known how much passes into breast milk but it's likely to be a tiny amount. Try to use it on as small an area as possible, taking care that your baby does not touch any areas of your body where you've used clobetasone. If you're using clobetasone on your chest, make sure to wash it off your breasts, nipples and hands before feeding your baby. It's usually better to use cream rather than ointment when breastfeeding, as it's easier to wash off. Clobetasone and fertility There's no evidence to suggest that using clobetasone reduces fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how steroids such as clobetasone can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPs) website .
+Page last reviewed: 6 October 2022
+
+Next review due: 6 October 2025

@@ -1,0 +1,25 @@
+{
+  "id": "dc56d289-327f-435e-9335-e67488cb3f0c",
+  "slug": "section-0543-taking-co-codamol-for-children-with-other-medicines-and-herbal-supplem",
+  "title": "Taking co-codamol for children with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "663b84c842b1adca5701d7367f777031f3e834a6ddc763386d37f143fa0ce042",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 543,
+    "content_hash": "3489a972198653b5a63e554b89e4e49e07f9acd08ad3ef4a66260891678ba661",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

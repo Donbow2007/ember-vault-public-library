@@ -1,0 +1,25 @@
+{
+  "id": "4ebb2c26-593c-4cc9-9726-126482763e33",
+  "slug": "section-0186-cannellini-bean-salad",
+  "title": "Cannellini Bean Salad",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "86133d1191a79d806ba2c0d1f15ec15bdbe76f019e7fe2064bd80be1fbf67595",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 186,
+    "content_hash": "675da027701ce43902d37bfd11a8503a40e0abeeb16465c7496a6d7f353f4770",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

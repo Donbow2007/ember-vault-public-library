@@ -1,0 +1,25 @@
+{
+  "id": "28d9b1b7-3ded-41d7-8325-9578f5dba731",
+  "slug": "section-1334-about-mebeverine-nhs",
+  "title": "About mebeverine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "23a4cf8c5e06d1f21a20cc026963b29d5becd1b370903c41ec9640d6351e28c4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1334,
+    "content_hash": "29c37631a1af0ad4bd41175dfb71763dc8c34c5c10122a4287219f94a9ed39a4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

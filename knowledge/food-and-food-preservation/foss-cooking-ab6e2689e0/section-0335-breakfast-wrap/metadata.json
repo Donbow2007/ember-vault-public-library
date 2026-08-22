@@ -1,0 +1,25 @@
+{
+  "id": "29704c94-f4c1-4b25-8f27-7f3049dd2317",
+  "slug": "section-0335-breakfast-wrap",
+  "title": "Breakfast Wrap",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "74894f01f629905e77f109f3763acc874bfb15a07bfba16cf74d3e78455ea183",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 335,
+    "content_hash": "253106806e179be4ea06ae27c5920f401f0b28ac8b67ae5ed6a8f15e85e6d22a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

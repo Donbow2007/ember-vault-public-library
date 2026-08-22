@@ -1,0 +1,11 @@
+# Taking warfarin with other medicines and herbal supplements - NHS
+
+Taking warfarin with other medicines and herbal supplements
+
+Cautions with other medicines Many medicines and supplements can affect warfarin. This can make you more likely to bleed. You might need a blood test to check the other medicine is not affecting how your blood clots. If you take warfarin, do not take any new medicines without first checking with a doctor or pharmacist. Some of the medicines that can affect warfarin include: medicines for heart problems, such as amiodarone, quinidine or propafenone non-steroidal anti-inflammatory drugs ( NSAIDs ) like ibuprofen or aspirin tramadol , a strong painkiller cholesterol-lowering medicines, such as bezafibrate, gemfibrozil, clofibrate or cholestyramine antibiotics, such as erythromycin , co-trimoxazole or norfloxacin miconazole gel for fungal infections like thrush Taking warfarin with everyday painkillers It's safe to take paracetamol while you're on warfarin. But take the lowest dose that controls your pain. Taking more than four, 500mg tablets over 24 hours for longer than a few days may make your blood clot more slowly. This puts you at risk of bleeding. If you're still in pain after taking paracetamol for 3 or 4 days, speak to your pharmacist or doctor. Do not take aspirin or ibuprofen while you're taking warfarin unless a doctor has said it's OK. They increase the chance of bleeding. Mixing warfarin with herbal remedies and supplements Do not take St John's wort, the herbal remedy for depression, while you're taking warfarin. It can increase your risk of side effects. Tell your doctor if you're taking vitamin K supplements before you start taking warfarin. Do not start taking vitamin K supplements while you are taking warfarin without checking with your doctor first. There's not enough information to say that other herbal remedies and supplements are safe to take with warfarin. They're not tested in the same way as pharmacy and prescription medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 22 April 2022
+
+Next review due: 22 April 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "73a89ff5-6fb4-4975-addd-1ac7959b825e",
+  "slug": "section-0956-hormone-replacement-therapy-hrt-nhs",
+  "title": "Hormone replacement therapy (HRT) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "41e97d26e0a2603918fd68b2dbdd6a4710da7ce2bd7085c803cb56102d4dda44",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 956,
+    "content_hash": "b7d2a809480139c23ca7f53ef1a010b5cf460e1dba985fb1019a8658a5f83bf2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

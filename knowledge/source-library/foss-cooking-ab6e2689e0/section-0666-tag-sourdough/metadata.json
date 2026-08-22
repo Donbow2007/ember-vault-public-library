@@ -1,0 +1,25 @@
+{
+  "id": "f60027b1-a756-491e-95ab-6d0bdadf59d7",
+  "slug": "section-0666-tag-sourdough",
+  "title": "Tag: sourdough",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "d244c714cdfdaee89142b43dbd95dd2e39070095b6efd872ce2972406e18430d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 666,
+    "content_hash": "ef6d1ad968b73cf3047494ba311de06e1fc065c5e1de31f600faf1e3ba26bdd1",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

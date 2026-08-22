@@ -1,0 +1,25 @@
+{
+  "id": "750fde2e-88d2-40aa-ac4e-d1871c816129",
+  "slug": "section-0806-common-questions-about-ferrous-fumarate-nhs",
+  "title": "Common questions about ferrous fumarate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "694336a61867c269fd0a4f276be32540809f6d230f9ed2911ed4c76f896c3bb8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 806,
+    "content_hash": "231f94a5f09ea6893da0fc6418e838bb9262ec0635c819f3155d0b362d76aa19",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

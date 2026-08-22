@@ -1,0 +1,25 @@
+{
+  "id": "45afba14-3a8c-4b87-b21e-d813015d0016",
+  "slug": "section-0800-pregnancy-breastfeeding-and-fertility-while-using-fentanyl-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using fentanyl - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "4fed3f7f8e24510bef00916c5f271f0ab56500d66978f712b68738821e14bfad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 800,
+    "content_hash": "6ceb75cbe249280254117a2b8122416eef3bf0e3a83c3c625a2ae6260f82984e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "76f1b015-ad34-4ceb-995b-a18e585b7444",
+  "slug": "section-0517-miso-soup",
+  "title": "Miso-soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "c70e8673bf42b1ddb45c15b717141f9e097fa20d799a91f27899b27be730f3fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 517,
+    "content_hash": "21dd3eb7935e0935b3febadd0e1e19d1d2f5118fca776eb7b2e0a701d9409c68",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

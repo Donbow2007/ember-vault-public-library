@@ -1,0 +1,25 @@
+{
+  "id": "2e6f3b8b-0ac8-449b-9de5-c6bf2f98192a",
+  "slug": "section-1801-about-sotalol-nhs",
+  "title": "About sotalol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "45ad2e53d128574a6efa9fc50643c4dd7df0161ad452750c698741fca42afaee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1801,
+    "content_hash": "9e163dbb06af675cae3c56fa94eecee06b20bb1b002c28d076a4f69e35cfd1bb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

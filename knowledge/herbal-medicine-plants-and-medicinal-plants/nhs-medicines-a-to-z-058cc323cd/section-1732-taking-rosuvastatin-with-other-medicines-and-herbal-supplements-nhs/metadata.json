@@ -1,0 +1,25 @@
+{
+  "id": "e1482e28-d7c9-4129-910c-70595f99d8f9",
+  "slug": "section-1732-taking-rosuvastatin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking rosuvastatin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "8af0fd17c060de4d9efe4590c7a53f147ae22d026c428b4d82b28aed4895ab28",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1732,
+    "content_hash": "63ec7b81406c5c577003a28e359afebe00bb84832847ec67f7c773162d1be1d1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

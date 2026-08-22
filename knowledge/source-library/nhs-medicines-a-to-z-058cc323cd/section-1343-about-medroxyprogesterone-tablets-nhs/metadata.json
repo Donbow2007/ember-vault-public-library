@@ -1,0 +1,25 @@
+{
+  "id": "7a566ec9-a66d-4361-a13c-efcc9c0b880a",
+  "slug": "section-1343-about-medroxyprogesterone-tablets-nhs",
+  "title": "About medroxyprogesterone tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "d385bff0e45962fdf8fc106125c4efbefa97feb76ed4054e71155687c758a751",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1343,
+    "content_hash": "75f92f44f43f0b946058c8ee85d9ab2dc0b731131448f2bf858b2923cccf1ae4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

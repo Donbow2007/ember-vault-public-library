@@ -1,0 +1,25 @@
+{
+  "id": "543fa393-5d9e-460a-bbed-b1fb7db5548e",
+  "slug": "section-1386-pregnancy-breastfeeding-and-fertility-while-taking-methadone-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking methadone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "1fc00b32c96541858e0740c1a8fa4439b04b36bcb2bd7da173b43a399045f4a7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1386,
+    "content_hash": "e13a62407801135dbefe96bf8a0260e2353d577f683b15e683c97849e033fce8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

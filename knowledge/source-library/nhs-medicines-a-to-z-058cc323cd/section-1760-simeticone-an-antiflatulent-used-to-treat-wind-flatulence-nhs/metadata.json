@@ -1,0 +1,25 @@
+{
+  "id": "0f750365-7091-4b99-b2d9-85e3a85ff64c",
+  "slug": "section-1760-simeticone-an-antiflatulent-used-to-treat-wind-flatulence-nhs",
+  "title": "Simeticone: an antiflatulent used to treat wind (flatulence) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c0d92af352572242bde9ba16521f94111c412da0b7789d8b0b53493f0c140abd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1760,
+    "content_hash": "eef2f1d0447fb6d4a82bf7f9813f01fc9a4284d68356688063193e20c4181ac0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

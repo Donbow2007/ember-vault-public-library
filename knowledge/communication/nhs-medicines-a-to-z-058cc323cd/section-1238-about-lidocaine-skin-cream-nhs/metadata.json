@@ -1,0 +1,25 @@
+{
+  "id": "312e2e5f-8214-46e9-b290-bff7d7229961",
+  "slug": "section-1238-about-lidocaine-skin-cream-nhs",
+  "title": "About lidocaine skin cream - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "2f9d8d9bd52a4189f07bfdaf6d4bfabcbc93c2a602eb2c134086a1e0c2d081b3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1238,
+    "content_hash": "903bc1d7b1326febc82f5474762edb17df0a82b8b2858a11164979de4af05da1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

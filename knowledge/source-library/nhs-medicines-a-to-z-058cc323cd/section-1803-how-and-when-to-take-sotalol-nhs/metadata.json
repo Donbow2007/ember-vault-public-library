@@ -1,0 +1,25 @@
+{
+  "id": "2002db70-9840-41f1-b9c1-8491c52f42ab",
+  "slug": "section-1803-how-and-when-to-take-sotalol-nhs",
+  "title": "How and when to take sotalol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "b74278a7f6c0b8a422d4dacd3d8b043a82886b2b98a1d2d3ea1352ef97bc3059",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1803,
+    "content_hash": "3efc24ef1d35062feb2f90353651547f69fc56e14cafbe4faf18fb53a0474121",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

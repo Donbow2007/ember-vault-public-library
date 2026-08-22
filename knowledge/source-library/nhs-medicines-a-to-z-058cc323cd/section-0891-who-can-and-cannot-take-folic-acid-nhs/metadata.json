@@ -1,0 +1,25 @@
+{
+  "id": "03766f16-0797-4ad9-9bb5-7bcbd82b64bb",
+  "slug": "section-0891-who-can-and-cannot-take-folic-acid-nhs",
+  "title": "Who can and cannot take folic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "56d395d5ec17d9b86a14a54c5d39c3a6a41ffdfe6f612700ebf7f01eda0b900c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 891,
+    "content_hash": "5791ad34e4c397a5a49f6b3d892eac12dec81e62be61b7602b714b69f99d20a0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

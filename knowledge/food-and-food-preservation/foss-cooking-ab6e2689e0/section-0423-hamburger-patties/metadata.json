@@ -1,0 +1,25 @@
+{
+  "id": "a42d5223-640a-4418-bd4f-88ca213ac360",
+  "slug": "section-0423-hamburger-patties",
+  "title": "Hamburger Patties",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "eb83de3eca4a5acd14ac537409b43391d9b367869ae380045670dcae0bff29aa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 423,
+    "content_hash": "e4458647f47fa0eb977b831a9f98c234bd0547dbcbae55ba553be215ee50cb10",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b84fd251-b771-402e-b27e-d8587c306144",
+  "slug": "section-0289-who-can-and-cannot-use-budesonide-nasal-spray-nhs",
+  "title": "Who can and cannot use budesonide nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "ead572f8ce47267647f0df264f75a5c9015130c61877ca0ff19c769cac6c4929",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 289,
+    "content_hash": "9e1046a083e7cbdfbe521bd13f9c79f6cc82371449b6d40cf9dbc5f4c6721de1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

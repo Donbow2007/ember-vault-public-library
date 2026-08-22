@@ -1,0 +1,25 @@
+{
+  "id": "ed32074c-5f2d-4a13-a1e2-6e9e80ab6198",
+  "slug": "section-0409-who-can-and-cannot-use-chlorhexidine-nhs",
+  "title": "Who can and cannot use chlorhexidine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "46fd207ed24f07fac71d8e7ad06bd2604b63d73456a2e0eda27560cf722126ea",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 409,
+    "content_hash": "2b3dd3ec7d2512086272cec6534f78b3541a9f4fab90b24883295d85c0c7f7c5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

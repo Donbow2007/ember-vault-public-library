@@ -1,0 +1,25 @@
+{
+  "id": "45bd575a-6707-4afe-a942-515b68e987b9",
+  "slug": "section-0817-side-effects-of-ferrous-sulfate-nhs",
+  "title": "Side effects of ferrous sulfate - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "52561a054eaf9f69791504b72991942197a0b6c4c2f6a433baed3a2654b16b5d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 817,
+    "content_hash": "47efa9a0ef6ad3bc208b99ce1fa22b59171138189a02d012b3bb2173b2486d37",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

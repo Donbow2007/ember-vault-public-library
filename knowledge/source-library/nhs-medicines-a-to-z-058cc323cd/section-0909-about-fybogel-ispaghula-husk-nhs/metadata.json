@@ -1,0 +1,25 @@
+{
+  "id": "c64cd7bd-49c1-4a2d-a8de-07808ecf3c99",
+  "slug": "section-0909-about-fybogel-ispaghula-husk-nhs",
+  "title": "About Fybogel (ispaghula husk) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "743cf5499fb89d1a99a8614487e50bffa22061db141e634c774770c525511f5b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 909,
+    "content_hash": "87529e3c12e4a85bc61e4702daa1c457d62aaf9cd66a0cebc3e9f0c2528bbc62",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

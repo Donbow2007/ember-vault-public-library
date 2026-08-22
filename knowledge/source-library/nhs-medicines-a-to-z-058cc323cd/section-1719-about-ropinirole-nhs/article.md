@@ -1,0 +1,7 @@
+# About ropinirole - NHS
+
+About ropinirole - Brand names: Requip, Ipinnia, Repinex Ropinirole is a medicine used for conditions that affect the way you move. It's used to treat the symptoms of Parkinson's disease and restless legs syndrome . If you have Parkinson's disease, ropinirole can improve symptoms like shaking ( tremors ), slowness and stiffness. If you have restless legs syndrome, it helps control your leg muscles. Ropinirole is only available on prescription and comes as tablets, including slow-release tablets. Key facts You'll usually start on a low dose of ropinirole. This will be increased gradually to help reduce side effects, like feeling sick. Some people find that ropinirole makes them fall asleep suddenly. This is more likely while your dose is being increased. Do not drive, cycle, or use tools and machinery until you know how this medicine affects you. Other possible side effects include feeling dizzy when sitting up or lying down, feeling tired and heartburn. Drinking alcohol while taking ropinirole may make you feel sleepy or tired. When you first start taking ropinirole it's best to not drink alcohol until you see how the medicine affects you. Do not stop taking this medicine suddenly. If you need to stop taking it, your doctor or specialist nurse will reduce your dose gradually.
+Page last reviewed: 1 April 2025
+
+Next review due: 1 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

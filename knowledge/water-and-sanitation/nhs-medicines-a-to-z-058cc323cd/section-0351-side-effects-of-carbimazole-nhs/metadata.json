@@ -1,0 +1,25 @@
+{
+  "id": "2bf7c4dd-b0c2-4e95-b84c-6fbecc3d45b6",
+  "slug": "section-0351-side-effects-of-carbimazole-nhs",
+  "title": "Side effects of carbimazole - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "fa9e05fa24f9c1341a9221f9263f3c1896ab5e004636b6f27b092a9edd191b0f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 351,
+    "content_hash": "647cb8e7b0e2030b7573357b7fcabeee4fa4a1aae75bbfb9aa492c1bfce6b80e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

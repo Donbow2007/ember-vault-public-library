@@ -1,0 +1,25 @@
+{
+  "id": "e6f263ab-e93f-427f-9e51-0c345b5f319d",
+  "slug": "section-1527-common-questions-about-nitrofurantoin-nhs",
+  "title": "Common questions about nitrofurantoin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "1af239f98bdb5aed4fccf993865085f2281bb6d6eb3902f3135e5674075ed90e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1527,
+    "content_hash": "21866bccdf80623baec7b6f62e8154183293b3c85d59ddbbcbec75887c233922",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

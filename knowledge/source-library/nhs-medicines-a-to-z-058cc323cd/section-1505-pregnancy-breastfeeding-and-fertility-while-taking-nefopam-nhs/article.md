@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking nefopam - NHS
+
+Pregnancy, breastfeeding and fertility while taking nefopam - Brand name: Acupan Nefopam and pregnancy Nefopam is not usually recommended during pregnancy. This is because there's little information on how the medicine might affect your baby. Paracetamol is generally the first choice of painkiller in pregnancy. Stronger painkillers are available which can be used in pregnancy after discussion with your doctor. Talk to your doctor who will advise you about the most suitable medicine for you and your baby. Nefopam and breastfeeding You can take nefopam while breastfeeding if your doctor says you need it. There's not much information about using nefopam while breastfeeding, but it shows that it passes into breast milk in very small amounts. It's unlikely to cause any side effects in your baby. Paracetamol or ibuprofen are the best painkillers to take if you're breastfeeding. As a precaution, talk to your health visitor, midwife, doctor or pharmacist or call 111 as soon as possible if you have any concerns about your baby. This includes if they're: not feeding as normal unusually sleepy or not sleeping as much irritable sweating being sick not peeing as much, for example you notice fewer wet nappies Nefopam and fertility There's no evidence to suggest that taking nefopam will reduce fertility in either men or women. If you're trying for a baby, or having problems conceiving while on nefopam, then speak to your doctor. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 23 April 2024
+
+Next review due: 23 April 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

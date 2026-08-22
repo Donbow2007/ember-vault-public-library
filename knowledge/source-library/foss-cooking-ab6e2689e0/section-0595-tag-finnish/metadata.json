@@ -1,0 +1,25 @@
+{
+  "id": "ca088be6-c1bb-4390-b8fb-755ff62ef15c",
+  "slug": "section-0595-tag-finnish",
+  "title": "Tag: finnish",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "3f91be56bd8eb6fc69c7fcb0ac09e2339aae3bdab668c607bae233323f400f22",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 595,
+    "content_hash": "2c4ca8fda7818c31d275b99609b8eee6c289ad2a2ff7052605784d660a87c1f3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3d982f06-b36d-4ea9-8a3b-71c78bbe97f6",
+  "slug": "section-0556-how-and-when-to-take-codeine-nhs",
+  "title": "How and when to take codeine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "13097c5b3e231e3e6cf8028e676af3d2d2ee98efc3d9404ccc7f9effc2ed1091",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 556,
+    "content_hash": "83ec08bfcb232243f7dade09afda6728c32fdf88f7d143b6624cb4d1a0b48037",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e0ca646b-5b8f-4f88-a5f9-91777b866c4b",
+  "slug": "section-0219-about-betahistine-nhs",
+  "title": "About betahistine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "ad731a70cfd9b966e66e5242a8e58b9a2737b1084220c624c50dc578061f09ed",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 219,
+    "content_hash": "76c859279f88b70b592423e976ec91b81b69585795a7015a6cee63e933968773",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

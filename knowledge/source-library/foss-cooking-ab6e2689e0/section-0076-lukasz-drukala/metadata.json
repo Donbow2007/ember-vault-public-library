@@ -1,0 +1,25 @@
+{
+  "id": "34feedd8-48af-4325-ad29-33ffc5162778",
+  "slug": "section-0076-lukasz-drukala",
+  "title": "Łukasz Drukała",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "04d7119e12d5c0fe434dbf3c647264ef2127fd5d5b86d578afbbe22cca07a2a4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 76,
+    "content_hash": "23848963c8475ca257389dbc0093f48a2b6753dbe2265157c4321a726837a06b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

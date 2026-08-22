@@ -1,0 +1,25 @@
+{
+  "id": "3b4e1526-93a5-4292-a1b2-68df0eabbc89",
+  "slug": "section-0120-irp-fas-org-doddir-milmed-corpsman-pt3-pdf-part-35",
+  "title": "irp.fas.org/doddir/milmed/corpsman-pt3.pdf — Part 35",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:42Z",
+  "content_hash": "74191dbc6d0f6404cf71f5cfdb88ddd534a65b5b2e43a4532325cc8884da4bbb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 120,
+    "content_hash": "8873fe0bfceec7b767df0e4e61c51398c0563221dd8ded5390fe02210d7e88ff",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

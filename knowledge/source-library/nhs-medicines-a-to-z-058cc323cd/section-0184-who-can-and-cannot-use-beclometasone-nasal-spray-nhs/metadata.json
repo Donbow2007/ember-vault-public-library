@@ -1,0 +1,25 @@
+{
+  "id": "3fdd583e-0028-46d9-b2a1-ae61fe3be0cf",
+  "slug": "section-0184-who-can-and-cannot-use-beclometasone-nasal-spray-nhs",
+  "title": "Who can and cannot use beclometasone nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "40ee7b51a2cc4d3e585366157b063631eae60a311bf66a0387338d3d09e56871",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 184,
+    "content_hash": "7e48be183bcecb2eb5c3b45b104c81c298a220de2a6bb9e74644dcaa20b53d3a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

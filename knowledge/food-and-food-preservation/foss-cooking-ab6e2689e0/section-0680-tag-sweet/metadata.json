@@ -1,0 +1,25 @@
+{
+  "id": "cfe69a38-84c7-4d5e-9552-aa1993b8760b",
+  "slug": "section-0680-tag-sweet",
+  "title": "Tag: sweet",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e8a2a7fb125bcdaca6af610c935fcfc3c215045368cb5c8cff8167a1b47ef3f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 680,
+    "content_hash": "506d40b9dcbe5ae0cc21b01d2f1a24685ed497851bb532dfb591805a76a53f01",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

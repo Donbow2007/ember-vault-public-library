@@ -1,0 +1,25 @@
+{
+  "id": "e1d414f4-330e-4a69-8dfb-c5cd2d0dda66",
+  "slug": "section-0578-about-medroxyprogesterone-contraceptive-injections-nhs",
+  "title": "About medroxyprogesterone contraceptive injections - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "3f17cddb570b5788c69e917ac69a0df4abe7ca73b676224bb144babacd701d5b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 578,
+    "content_hash": "e68a7bfcaf93c6306f882c333fbf892292895f67f3bd7664ef02773faf97f99f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

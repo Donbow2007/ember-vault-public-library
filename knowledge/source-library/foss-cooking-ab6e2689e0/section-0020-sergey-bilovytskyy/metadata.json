@@ -1,0 +1,25 @@
+{
+  "id": "83f2b816-bb74-4a47-8a7b-dd8f11d26661",
+  "slug": "section-0020-sergey-bilovytskyy",
+  "title": "Sergey Bilovytskyy",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "a4d695e4fa579b5f68f5d7333f779a71f4eb48ac426006fc40a036a18561abc5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 20,
+    "content_hash": "b04ad09fa1e1b0d3afb890c8166f479ac280feac128666926487cdc8758b889e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

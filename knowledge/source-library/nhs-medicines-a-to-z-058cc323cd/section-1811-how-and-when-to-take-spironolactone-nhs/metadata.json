@@ -1,0 +1,25 @@
+{
+  "id": "113cc24f-2eeb-4a62-b804-5bd17b0b312f",
+  "slug": "section-1811-how-and-when-to-take-spironolactone-nhs",
+  "title": "How and when to take spironolactone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "0a93e25362e58a20efec4d0fab4f0b568b4031faa09d073f3329a2110757db36",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1811,
+    "content_hash": "e4c4e891c57df50b9746883ef4545f30578ac312c3a5790dad4a9ea8fa73702a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

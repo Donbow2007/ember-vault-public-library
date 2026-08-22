@@ -1,0 +1,25 @@
+{
+  "id": "afd6b4e1-2d80-46fc-a9c4-74e3f906afbb",
+  "slug": "section-0384-broccoli-with-ginger-and-garlic-sauce",
+  "title": "Broccoli with Ginger and Garlic Sauce",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "28ddde00c3da7f585e0636b697180b21d0d3ff19b81ad295a2db4161447254c6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 384,
+    "content_hash": "0627f9dc9584525b96c1f00ad1cdbee4bcbe3805ec26193737e44ff38b1cbde4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

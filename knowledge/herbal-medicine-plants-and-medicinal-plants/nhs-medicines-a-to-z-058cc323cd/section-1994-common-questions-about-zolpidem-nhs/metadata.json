@@ -1,0 +1,25 @@
+{
+  "id": "4076dc89-f41a-4cf4-8544-0be2cbbf73aa",
+  "slug": "section-1994-common-questions-about-zolpidem-nhs",
+  "title": "Common questions about zolpidem - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "2a3ba0edf00c0f4da1cae17b017d15601fd24fd7073c00faf0e4a354ad8a35e5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1994,
+    "content_hash": "0945b995ca24a67362cba22db0cfa3adc1f506efb16428f1f1daf6759ae4b6aa",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

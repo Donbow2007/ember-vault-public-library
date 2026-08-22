@@ -1,0 +1,25 @@
+{
+  "id": "1ee54b04-f56f-4e6b-8ec0-6efd2368e4b9",
+  "slug": "section-0914-taking-fybogel-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking Fybogel with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "2cc0efb9c93f2e08f65e035d76a26d48ac21569d4d924908f06d959a617dbf02",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 914,
+    "content_hash": "f0d280252381a45cdc4dae7a95e0aa68201a0f0ca92808f343b4f8074d165602",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

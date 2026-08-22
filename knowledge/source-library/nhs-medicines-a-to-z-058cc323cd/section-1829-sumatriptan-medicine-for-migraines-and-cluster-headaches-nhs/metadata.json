@@ -1,0 +1,25 @@
+{
+  "id": "0f4d84f1-e8bf-485a-8679-5b4703f53e51",
+  "slug": "section-1829-sumatriptan-medicine-for-migraines-and-cluster-headaches-nhs",
+  "title": "Sumatriptan: medicine for migraines and cluster headaches - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "2bf157ac328bb50c1aaaf8d2594383407be6f055573fd6744f8b2cd13bc0672f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1829,
+    "content_hash": "f5c1eba046f47de0fcad7cf71e6815b63729d9082b70bbaf0a56d4545b2cf3c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

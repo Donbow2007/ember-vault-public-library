@@ -1,0 +1,25 @@
+{
+  "id": "76e9876b-a250-4eb3-b500-5d1f5312088e",
+  "slug": "section-0592-who-can-and-cannot-take-cyanocobalamin-nhs",
+  "title": "Who can and cannot take cyanocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "904b69b5af015e7ea5feaafc82077f60f56b5038048fe6677523fa375b9427af",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 592,
+    "content_hash": "8618be47aa64055f56164846a2ba70da29c9c0ba9b5436c7c7a6de7e55849579",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

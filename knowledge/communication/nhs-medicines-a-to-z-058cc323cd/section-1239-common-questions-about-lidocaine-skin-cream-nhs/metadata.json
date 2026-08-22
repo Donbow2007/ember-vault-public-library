@@ -1,0 +1,25 @@
+{
+  "id": "bc2f49b6-b846-452c-9797-5a0a38698703",
+  "slug": "section-1239-common-questions-about-lidocaine-skin-cream-nhs",
+  "title": "Common questions about lidocaine skin cream - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "e1450ec565226c225ec08ac55ff57040a221ade2be0e6f1de763fbea24d960b7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1239,
+    "content_hash": "1dfd55207dd29c5889f1445f0088c043de59c0eba3af707b49aeceab15323d75",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

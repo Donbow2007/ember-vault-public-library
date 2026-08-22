@@ -1,0 +1,25 @@
+{
+  "id": "ea5cb98b-08dc-438f-b322-49b4f729fdaa",
+  "slug": "section-0066-irp-fas-org-doddir-milmed-corpsman-pt2-pdf-part-32",
+  "title": "irp.fas.org/doddir/milmed/corpsman-pt2.pdf — Part 32",
+  "category": "food-and-food-preservation",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "e13347fbe632bffa17cdbc14c866361f6fc198dbe046fedd8d9dd29362044372",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 66,
+    "content_hash": "d7c0d28652b89ab3e998d10a888acf51ce9e38eaed404ced82cf068fec76448b",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

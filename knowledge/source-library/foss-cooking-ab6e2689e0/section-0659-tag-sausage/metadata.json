@@ -1,0 +1,25 @@
+{
+  "id": "1476c6ed-440b-448a-b972-088fed2025c3",
+  "slug": "section-0659-tag-sausage",
+  "title": "Tag: sausage",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "11e1acd902cbb9f5bd9835ebebae2b3fd8b16a95a3f26ff01688e564c7fdad4d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 659,
+    "content_hash": "5f9dcdf035d6253bd0ed9a4ef70b42f4fb81ac6604ae9ff8a153f1f74fedb558",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

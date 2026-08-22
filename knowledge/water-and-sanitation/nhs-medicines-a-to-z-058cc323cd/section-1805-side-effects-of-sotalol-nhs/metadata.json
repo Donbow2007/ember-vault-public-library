@@ -1,0 +1,25 @@
+{
+  "id": "40ee84d3-8052-4eb0-92ee-53358a3b8639",
+  "slug": "section-1805-side-effects-of-sotalol-nhs",
+  "title": "Side effects of sotalol - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "54a54c5f16d61835863c1867d6ac5a9d3332ad1e0b47e806096d0335c7f6a74e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1805,
+    "content_hash": "95ed9cdd91b101a22158246412c67f19ae365070d3d8d612043c6bdb557407de",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

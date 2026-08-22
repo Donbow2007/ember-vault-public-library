@@ -1,0 +1,25 @@
+{
+  "id": "9056db06-b152-44f6-bd56-4f3ddcb7a047",
+  "slug": "section-0411-about-chlorphenamine-nhs",
+  "title": "About chlorphenamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "8662cc2c779a9bbf4e893da0e07235d1067d23b0a9ab79e3c3c15172fe8ec3d0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 411,
+    "content_hash": "7f4e7d60193da9c0e9afe834d9efddc1913ca578d8caf5f6b71b2eee22a9a51e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

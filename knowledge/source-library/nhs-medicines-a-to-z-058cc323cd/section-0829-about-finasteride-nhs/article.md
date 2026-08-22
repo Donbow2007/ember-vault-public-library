@@ -1,0 +1,7 @@
+# About finasteride - NHS
+
+About finasteride - Brand names: Proscar, Propecia Finasteride is used to treat an enlarged prostate ( benign prostate enlargement ). It can help ease your symptoms if: it's difficult to start peeing you need to pee urgently or more often it's difficult to empty your bladder completely Finasteride is available on prescription only. It comes as tablets. It can also be used to treat hair loss in men (male pattern baldness). However, for hair loss you can only get finasteride on a private prescription. This means you'll need to pay the full cost of the medicine. It's not available on the NHS. This medicine is generally not recommended for women. It might be prescribed by a specialist doctor but only in very rare cases. Key facts You'll usually take finasteride tablets once a day. If you're taking finasteride for an enlarged prostate it can take up to 6 months for it to work fully. The main side effects are losing interest in sex and difficulty getting an erection. Rare side effects include mood changes such as depression and thoughts of harming yourself. Speak to your doctor if you get these side effects. Finasteride can affect the results of PSA testing (a blood test to check for prostate cancer). If you need to have a PSA test, tell your doctor that you're taking finasteride.
+Page last reviewed: 2 August 2023
+
+Next review due: 2 August 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "26e487e0-bf7c-42ed-aeb4-698644e0a551",
+  "slug": "section-0300-shrimp-and-chicken-jambalaya",
+  "title": "Shrimp and Chicken Jambalaya",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "2968c299223ec92f3a104700a9067d165e48cf7c25c96656b91c5a216b3fea00",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 300,
+    "content_hash": "1180ab703b25d82429a3e33368e0f2ef47afbad0d6c2b0aa1fa1545dc9ae3d5b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

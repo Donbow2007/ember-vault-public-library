@@ -1,0 +1,25 @@
+{
+  "id": "7c78268c-4ac8-49ba-a901-68846cba5e15",
+  "slug": "section-0486-ricotta",
+  "title": "Ricotta",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "fc69ca466b7ff26ddcb62c1c3a2a35f840fa62055c197f722fe056ccf2983abf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 486,
+    "content_hash": "f099badd9a8bccfe93c6477fa6077f3e3c09b5e6d89be85dc2d15ab68bee7584",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

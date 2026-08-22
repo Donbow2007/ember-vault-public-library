@@ -1,0 +1,25 @@
+{
+  "id": "ef27924c-338a-4bf2-8b37-980bfe4eccf8",
+  "slug": "section-0567-taking-colchicine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking colchicine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "1a8baf993a6b4fe98c7a29bbc9473eb5329c285be63d020bfbb4e2b8c18d5ef8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 567,
+    "content_hash": "dba4c39457a40102f8c7f7e3add6df9e702f0e336152f65123617168bb708cc5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

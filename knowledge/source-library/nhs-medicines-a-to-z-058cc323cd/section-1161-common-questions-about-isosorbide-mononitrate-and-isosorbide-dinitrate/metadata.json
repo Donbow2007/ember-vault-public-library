@@ -1,0 +1,25 @@
+{
+  "id": "754cb5ca-d5b2-4abc-ad8e-d3a224086382",
+  "slug": "section-1161-common-questions-about-isosorbide-mononitrate-and-isosorbide-dinitrate",
+  "title": "Common questions about isosorbide mononitrate and isosorbide dinitrate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "df1f05287575d97fb462e08bd26d25fecdd48ece5b25fde72814e497b48d7f93",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1161,
+    "content_hash": "0da6862bd31aed6726a1bbfb657b751256b07a25e7e0c4fbee164fbb27e8d0a6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

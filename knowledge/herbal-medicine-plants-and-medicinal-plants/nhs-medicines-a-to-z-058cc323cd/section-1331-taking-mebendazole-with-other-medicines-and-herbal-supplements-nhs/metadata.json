@@ -1,0 +1,25 @@
+{
+  "id": "6574d3bc-e739-4e7a-9c6b-e21cdfa5266b",
+  "slug": "section-1331-taking-mebendazole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking mebendazole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "c306cca109180d8ae824cb2d22b67da206f18b736f3653e21441d9c49d0c7092",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1331,
+    "content_hash": "b9cd37201ca48a2db2dc8e51bf308edd5a0704745c71158bc73bd6b7321ede2a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

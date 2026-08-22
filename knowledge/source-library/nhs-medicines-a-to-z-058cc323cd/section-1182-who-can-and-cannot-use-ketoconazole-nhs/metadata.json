@@ -1,0 +1,25 @@
+{
+  "id": "36a4ac16-f69a-4d22-97a5-c50f39c7b018",
+  "slug": "section-1182-who-can-and-cannot-use-ketoconazole-nhs",
+  "title": "Who can and cannot use ketoconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "5d7877ef3621d7fc9b2b151bec7ea4eeb77679d5a0824e261c5954d7fc040bbd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1182,
+    "content_hash": "13fd3ee72e39e61ad48822bba77a6c91f320a109d8344512094c69368c6a7cba",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

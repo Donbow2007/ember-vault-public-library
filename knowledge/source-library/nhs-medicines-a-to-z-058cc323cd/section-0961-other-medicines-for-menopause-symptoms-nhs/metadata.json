@@ -1,0 +1,25 @@
+{
+  "id": "2b865084-74bf-44ff-b3e1-0a5fd933528b",
+  "slug": "section-0961-other-medicines-for-menopause-symptoms-nhs",
+  "title": "Other medicines for menopause symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "2b1cd22dadf64482302674506e6d552a1a5fb9ef39d449d8117d440edaddca4b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 961,
+    "content_hash": "11007c22e2fd4963f74e5517706c4e871993bd04b6a48603dff6e8925ada3d01",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

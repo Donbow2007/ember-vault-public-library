@@ -1,0 +1,25 @@
+{
+  "id": "ce692dfd-4005-4bde-b05f-7d92fa579a68",
+  "slug": "section-0699-about-donepezil-nhs",
+  "title": "About donepezil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "fcaef027bb22a817cdbd99531b1719de9e3bfb2018ab6dfb058ca24be2dc6585",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 699,
+    "content_hash": "d32e4d2a6e13c7c2121ffa689ac7d16e7270218b4344aeedbbc504f39059dfc0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

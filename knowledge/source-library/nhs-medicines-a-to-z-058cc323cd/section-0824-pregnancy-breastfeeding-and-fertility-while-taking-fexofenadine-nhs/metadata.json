@@ -1,0 +1,25 @@
+{
+  "id": "c5143d02-e1ed-482a-95fb-987aa14b5a40",
+  "slug": "section-0824-pregnancy-breastfeeding-and-fertility-while-taking-fexofenadine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking fexofenadine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "e48a3328c84d134fa81a0944f590d6dd55a469eed9973a8d668a7c59ef1ddd51",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 824,
+    "content_hash": "415d3db8f7faabf92e5ceeb56a1b2764cbd0a438f6a1b8249c5a5429435c4a7b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c5fb40c9-424e-40bc-86e5-5d483b99425b",
+  "slug": "section-1327-common-questions-about-mebendazole-nhs",
+  "title": "Common questions about mebendazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "c1cb8d94e44deeca4c83812d14889878766ad81670faf4548ceff8d198473e76",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1327,
+    "content_hash": "0c7503f8e53f9100e3d7ae657e9ec0d269525aced462d6a9d8d935e365da4dca",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

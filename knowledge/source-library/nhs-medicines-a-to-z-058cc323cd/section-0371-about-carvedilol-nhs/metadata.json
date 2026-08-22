@@ -1,0 +1,25 @@
+{
+  "id": "393566c5-97ab-410a-a06f-65809d393c31",
+  "slug": "section-0371-about-carvedilol-nhs",
+  "title": "About carvedilol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "46daa3d7d21b6bd2bffa3a4c7dfee2dfeb3f35c624e35ce83de096a7ebb9c744",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 371,
+    "content_hash": "1009b3e7f3215520767cf746900ccdb48bf58d01363645db7f3f2e87baf8651a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

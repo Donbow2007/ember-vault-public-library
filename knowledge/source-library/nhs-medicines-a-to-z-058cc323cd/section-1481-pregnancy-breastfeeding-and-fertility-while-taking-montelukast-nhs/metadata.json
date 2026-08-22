@@ -1,0 +1,25 @@
+{
+  "id": "742e92ae-30c3-43fb-8480-948cbf913235",
+  "slug": "section-1481-pregnancy-breastfeeding-and-fertility-while-taking-montelukast-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking montelukast - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "fec836a1424676157fb81f41214e344d73e27bc33014aebc679f2f7c71a5522d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1481,
+    "content_hash": "3df7122e866bfa803335c078e86d36a4cd6b45769587d6b3fc3d99209204a1bf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

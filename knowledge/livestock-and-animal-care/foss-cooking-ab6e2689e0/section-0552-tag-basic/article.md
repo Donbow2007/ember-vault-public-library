@@ -1,0 +1,3 @@
+# Tag: basic
+
+Pizza Dough Hamburger Patties Salsa Breakfast Wrap Overnight Oats Cheese Cream Cheese Greek Yogurt Ricotta Sourdough starter Chimichanga Pickled Red Onions Bread Hamburger dressing Mayonnaise or aioli No-knead pizza dough Pan pizza Pizza sauce Baked Salmon Cooked Chickpeas Fajita Seasoning Smoked Turkey Demi-glace Simple sauce Spatchcock Chicken Croutons Simple Creamy Pasta Sauce Yogurt Garlic Toast Hummus Peanut Butter Basic Meatballs Ricotta lasagna filling Chicken Stock or Bone Broth Pasta (store bought) Pasta sauce Rice Eggs Lemon juice salad dressing Russian Okroshka Aussie Snags (sausage sizzle) Ketchup Russian 1000 Islands Sauce Tzatziki Spicy Mayo Simple Tuna Salad Classic béchamel sauce

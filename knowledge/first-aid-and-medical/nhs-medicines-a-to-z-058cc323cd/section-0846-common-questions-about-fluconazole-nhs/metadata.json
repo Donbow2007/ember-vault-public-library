@@ -1,0 +1,25 @@
+{
+  "id": "e4e5c2e0-97d4-47f9-bacf-f181e05f9112",
+  "slug": "section-0846-common-questions-about-fluconazole-nhs",
+  "title": "Common questions about fluconazole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "903129f6856149859e760a522a4aecfab67a0c3eab0ce4cfd3bfc6f13d4de013",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 846,
+    "content_hash": "edad3150cce60dd29cdee86cc2e60b6d3b4c4339cee8ce4fa220c59896d28c88",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

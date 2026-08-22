@@ -1,0 +1,25 @@
+{
+  "id": "b08750cd-d401-4367-8998-bffb1a3e9811",
+  "slug": "section-0277-how-and-when-to-use-budesonide-inhalers-nhs",
+  "title": "How and when to use budesonide inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "37f07edf1c45cd8004c7c2ffd9028a94d99106767f62676534c8ab78f537f483",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 277,
+    "content_hash": "6a23e673333a7541de986bd29a0abb2560202aef02a48d6d40538d7f820156a7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

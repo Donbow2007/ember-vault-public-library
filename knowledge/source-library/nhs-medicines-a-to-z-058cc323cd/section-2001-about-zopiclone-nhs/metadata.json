@@ -1,0 +1,25 @@
+{
+  "id": "3479b1a4-a423-402e-8b8e-4e7cf8723de2",
+  "slug": "section-2001-about-zopiclone-nhs",
+  "title": "About zopiclone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "5e0b01dcbc9b37ac545622d4644fa7ac77b8ab3aec7c62cf302177aacc0b5090",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2001,
+    "content_hash": "2f5ea6ab47268829fb98469bc8d80cf26839fd468c76d3676506c6597dfc2efa",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c2c9ded6-712a-4f39-9103-055ff655aa51",
+  "slug": "section-0233-who-can-and-cannot-use-betamethasone-for-eyes-ears-and-nose-nhs",
+  "title": "Who can and cannot use betamethasone for eyes, ears and nose - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "76ce78c24cc28a6ec91b224a3ac01f3de78974e75312545c4cb7d06d8188e75f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 233,
+    "content_hash": "a5b450b2593fd1a167115e7bd320b59f555171ed94da67ce16785a6cfbbd34f5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

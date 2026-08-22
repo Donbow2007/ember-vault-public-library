@@ -1,0 +1,25 @@
+{
+  "id": "bf9b753e-0392-4ae7-9242-923b9e43c9e9",
+  "slug": "section-0599-tag-fry",
+  "title": "Tag: fry",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "f208ec471b3d89aa7cfd8f0d2c7ed3d9d863595be26f88eff63b8c1b3914800c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 599,
+    "content_hash": "8cbf70933294423f706080db87cdd7f74b30f387c1c8d9c8b11cdb4695f75a79",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

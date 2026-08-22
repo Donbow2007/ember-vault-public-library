@@ -1,0 +1,25 @@
+{
+  "id": "8c7994ff-4cab-40e0-be84-4bd3b4fe00b8",
+  "slug": "section-0438-sourdough-table-loaf",
+  "title": "Sourdough Table Loaf",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "6a201c3202702cf036e41a932f04f44f738a5c4c7dee38da028e48ab5d28b824",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 438,
+    "content_hash": "91bbb9f79631657584c863f7fce23b1046b36d3740b0596ca521962c6a95e188",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "27363496-d163-47dd-a1d3-3ea03835c789",
+  "slug": "section-0235-about-betamethasone-for-skin-nhs",
+  "title": "About betamethasone for skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "dc6cdd6ded502cab07d977f3ce741cdb590e08cf3403276ab841bb5a7b07b6e1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 235,
+    "content_hash": "28736a26a7fc0d080a93e80517a846066b54ecf36ac21ecf0597a6ff67eea01b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

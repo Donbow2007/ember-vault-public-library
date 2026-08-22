@@ -1,0 +1,25 @@
+{
+  "id": "04e75c30-c78d-4444-a972-a6e382a8f1b7",
+  "slug": "section-0711-side-effects-of-doxazosin-nhs",
+  "title": "Side effects of doxazosin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "1fab71646189ac1b7d6f0de7ea777dddeaf336aebaadd1eebe1b1fec5802e64f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 711,
+    "content_hash": "409273c02ab3ebda0292fae779ad370363d57c9d445e1512707b310eb54576de",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dddc1bda-c150-42df-9ce4-01ddf7091031",
+  "slug": "section-0623-side-effects-of-dexamethasone-tablets-and-liquid-nhs",
+  "title": "Side effects of dexamethasone tablets and liquid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "84b76a011ef385797c523b8b30fac4e19466a18fc06b9adf15c845936d564284",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 623,
+    "content_hash": "3b5f7ad5ae778c4d16f5cb675a80461f4962e67defd4be7bef8334bb4c524d77",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

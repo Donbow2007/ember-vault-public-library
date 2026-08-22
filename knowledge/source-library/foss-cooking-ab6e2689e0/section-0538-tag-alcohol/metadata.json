@@ -1,0 +1,25 @@
+{
+  "id": "15d9ce78-fa02-4e09-a572-bbff780233c3",
+  "slug": "section-0538-tag-alcohol",
+  "title": "Tag: alcohol",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "6bfb1fa592bf0b8ac6118b92360adf8a4712a509aa703dde0b125e59c4fcb12d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 538,
+    "content_hash": "226b02fe3376fd92157ca11cd3582639b91389b898e55b6f303ed9541d1fd8bc",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

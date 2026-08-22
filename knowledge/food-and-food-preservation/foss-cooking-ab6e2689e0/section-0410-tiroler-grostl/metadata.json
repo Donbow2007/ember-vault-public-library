@@ -1,0 +1,25 @@
+{
+  "id": "09fd184e-c714-475b-9d1c-639b75276667",
+  "slug": "section-0410-tiroler-grostl",
+  "title": "Tiroler Gröstl",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "ff38e6e62196479c3c4facbe55ee2e765cab5d7e75ea366f2a5c0e6c397bf62c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 410,
+    "content_hash": "5cd1fca93e454d360d8bfa379385911404d1f917c60dae19b3a985d9e9949f4f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

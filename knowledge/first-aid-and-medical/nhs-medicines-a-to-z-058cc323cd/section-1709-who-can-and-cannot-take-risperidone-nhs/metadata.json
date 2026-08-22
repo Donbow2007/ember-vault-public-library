@@ -1,0 +1,25 @@
+{
+  "id": "2a2c8174-2938-445a-b1ea-781acc5a5291",
+  "slug": "section-1709-who-can-and-cannot-take-risperidone-nhs",
+  "title": "Who can and cannot take risperidone - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "8bb09588a73858d8e82a078251187c3f57e09336463c96e7d4ed36c08603b6ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1709,
+    "content_hash": "600aed7c6dadfcfd28d0e84c614b14744bdbdcdb45d48559423f8a66c5d315dc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

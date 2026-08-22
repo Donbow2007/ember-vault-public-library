@@ -1,0 +1,25 @@
+{
+  "id": "decbca40-f429-4593-b780-502c2948abb8",
+  "slug": "section-0338-simple-chicken-curry",
+  "title": "Simple Chicken Curry",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "f7bf155a3d89ad95894e55876dcff055210b55446543d3da25afec1de1aa74f3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 338,
+    "content_hash": "36aff30044ab7b8f262774ef19905e57d973cf2ae2ee7729ebb0da5600338afd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

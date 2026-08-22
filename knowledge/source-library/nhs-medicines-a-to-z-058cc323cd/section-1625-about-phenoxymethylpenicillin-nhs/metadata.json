@@ -1,0 +1,25 @@
+{
+  "id": "4953d6c5-3fdf-4a15-971f-017af0eff936",
+  "slug": "section-1625-about-phenoxymethylpenicillin-nhs",
+  "title": "About phenoxymethylpenicillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "570a43bbbe54f9840a5e0cb09ee6f44ae05b44e8beb3506a777fd561f1ff7093",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1625,
+    "content_hash": "033897febf0afd49a6819e0268558b17d686a3f695e7282bfe1c99aaeec5c0e5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

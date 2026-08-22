@@ -1,0 +1,25 @@
+{
+  "id": "1adf264e-4c30-4793-adb6-0911c8c2688e",
+  "slug": "section-0816-pregnancy-breastfeeding-and-fertility-while-taking-ferrous-sulfate-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking ferrous sulfate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "1088ddbb0652c84940c94047f2c96e4b0fa993fc03086bcb5a17de2caf4702ef",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 816,
+    "content_hash": "26c302ce44763052813a290a01ef985d01681e77aeda4d82efc29c9157ab4b24",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

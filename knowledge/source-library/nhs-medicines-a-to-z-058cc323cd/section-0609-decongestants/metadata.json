@@ -1,0 +1,25 @@
+{
+  "id": "fe3b1ef5-a849-44e0-9588-e120de45b469",
+  "slug": "section-0609-decongestants",
+  "title": "Decongestants",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "a6d8d91f8d5cb1769947e6f7834b3eadff746d10c7df22ed5830ca30e392ff57",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 609,
+    "content_hash": "e228b318954f6be84adb712356244092f0e679bc23a1db46a0dc727e24b29341",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

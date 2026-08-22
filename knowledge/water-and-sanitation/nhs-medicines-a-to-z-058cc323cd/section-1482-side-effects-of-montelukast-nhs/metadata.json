@@ -1,0 +1,25 @@
+{
+  "id": "0f6f6182-e6af-4b7a-98db-62e4d1815871",
+  "slug": "section-1482-side-effects-of-montelukast-nhs",
+  "title": "Side effects of montelukast - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "6ce74081faf5c3eba90cbb8bc55b5010c38dfb3a99a39841a4c8476a418cc06b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1482,
+    "content_hash": "1c0f623690a7208d8ea7f30577995f21f4bf630a508edfa5b43a1c8a70d30eaf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

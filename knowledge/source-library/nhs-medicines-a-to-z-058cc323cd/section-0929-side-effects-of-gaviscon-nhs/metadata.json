@@ -1,0 +1,25 @@
+{
+  "id": "5077b74f-87e2-468e-af77-bc011bf9e793",
+  "slug": "section-0929-side-effects-of-gaviscon-nhs",
+  "title": "Side effects of Gaviscon - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "82b5dc75583311cb577d8bdeb2a141d5d13f5a7999fcc95a10651227f04851d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 929,
+    "content_hash": "890e98d658d4b5197f3d7540aadde64591c943958a06b8c21689c105bba90ec9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

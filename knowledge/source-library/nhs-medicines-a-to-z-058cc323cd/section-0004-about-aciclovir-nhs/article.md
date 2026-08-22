@@ -1,0 +1,7 @@
+# About aciclovir - NHS
+
+About aciclovir - Brand names: Zovirax, Cymex Ultra, Virasorb Aciclovir (or acyclovir) is an antiviral medicine. It treats a range of infections caused by herpes viruses, including: cold sores genital herpes eye infections Your doctor may prescribe aciclovir to prevent you getting these infections if you've had them before or if you have a weak immune system. It's also used to treat chickenpox and shingles . Aciclovir is available on prescription. It comes as tablets, a liquid that you swallow, an eye ointment, a cold sore cream and a cream for genital herpes. It's sometimes given by injection, but this is usually only done in hospital. You can buy aciclovir cold sore cream at most pharmacies and shops without a prescription. Key facts Start taking or using aciclovir as soon as you get the first signs of infection. For most infections, you should start to feel better after taking or using aciclovir for a few days. Common side effects of the tablets and liquid include headaches, feeling dizzy, and feeling or being sick. If aciclovir tablets or liquid make you feel dizzy, or if the eye ointment affects your vision, do not drive or cycle until you feel better. Wash your hands before and after using the genital herpes cream, cold sore cream or eye ointment.
+Page last reviewed: 1 July 2022
+
+Next review due: 1 July 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

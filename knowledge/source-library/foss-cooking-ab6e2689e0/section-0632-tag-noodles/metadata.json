@@ -1,0 +1,25 @@
+{
+  "id": "458134b5-c59f-494c-9b5a-4053913a9bd0",
+  "slug": "section-0632-tag-noodles",
+  "title": "Tag: noodles",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "d297fea426a1b37dba7714e15d63c31ccb468247437f7a503f34e7097e8a750c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 632,
+    "content_hash": "0e56260fad1fc4e54bc09fbd33bcd74e32a2529f2d59a18b334852b5c5dc7382",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

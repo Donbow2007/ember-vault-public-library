@@ -1,0 +1,25 @@
+{
+  "id": "bb470e1b-5f82-4a05-9e04-7fe8c3263869",
+  "slug": "section-1390-methotrexate-a-medicine-to-treat-autoimmune-conditions-nhs",
+  "title": "Methotrexate: a medicine to treat autoimmune conditions - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "3baff89feb21f1fc7cdce098bb541ab59ca937749f9d442ac5ccc3e8673cb9b1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1390,
+    "content_hash": "d784e7ed2527fec85591c9fe4fd165cc5e31a673c12247fbfaa2f5650f673874",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

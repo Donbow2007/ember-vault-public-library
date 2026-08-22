@@ -1,0 +1,25 @@
+{
+  "id": "c5c28daa-daf7-4d76-9b5b-496664436517",
+  "slug": "section-0101-anticoagulant-medicines-uses",
+  "title": "Anticoagulant medicines - Uses",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "ec03a701bb60a3f924d424e9e0cf1d0b2727370250919772e1be386545ef2112",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 101,
+    "content_hash": "71bc30aa17973c768905d99b9b5e52f09119830d736beefe29613ea70e91ba6b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

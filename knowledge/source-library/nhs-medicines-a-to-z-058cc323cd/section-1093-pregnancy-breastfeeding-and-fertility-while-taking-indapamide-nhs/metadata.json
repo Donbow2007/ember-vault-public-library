@@ -1,0 +1,25 @@
+{
+  "id": "3738eff4-6ced-4d24-9de6-e1cd91a4de2c",
+  "slug": "section-1093-pregnancy-breastfeeding-and-fertility-while-taking-indapamide-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking indapamide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "d7a7f6e0b82380806470fef24fc50891c3e340ca314456476a4be3579fe4e848",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1093,
+    "content_hash": "71a7bc68e209673ef5d935980fb4d892de87981ed23726331c6d78da85e8a23e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

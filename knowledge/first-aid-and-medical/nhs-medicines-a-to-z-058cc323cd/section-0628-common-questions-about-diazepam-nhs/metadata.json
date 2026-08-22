@@ -1,0 +1,25 @@
+{
+  "id": "540c8548-9232-480e-869a-b2d84a0cc6b7",
+  "slug": "section-0628-common-questions-about-diazepam-nhs",
+  "title": "Common questions about diazepam - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "8dfe17547f6c1f52581fc0d4dac7c0e29dd1f8faa156b393d6ee9529d98a3fd1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 628,
+    "content_hash": "c3de8a44075d2234ab89d9e46eb69e963d22507ae45f03a9b831aa1008055c17",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

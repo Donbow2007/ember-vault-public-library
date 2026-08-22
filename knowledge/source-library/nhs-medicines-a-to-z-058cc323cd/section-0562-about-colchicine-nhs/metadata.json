@@ -1,0 +1,25 @@
+{
+  "id": "affdf014-4a3b-45b7-b3ba-011830fb71cc",
+  "slug": "section-0562-about-colchicine-nhs",
+  "title": "About colchicine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "d27ad0496e323dc4cf093f6a0226b46494292ecbc93ec1e50ed0a5936eae414a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 562,
+    "content_hash": "00a6fc3cc748f52938e1964de61df9d093920bc5572d32bdb2e40eda1e532434",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

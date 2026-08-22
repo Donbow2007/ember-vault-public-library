@@ -1,0 +1,25 @@
+{
+  "id": "bf963302-002a-4e0b-9648-e21dec29e012",
+  "slug": "section-0154-sauerkraut",
+  "title": "Sauerkraut",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "477d4059237d03b6c30bbe92f65341999f53d7720844e1080e9a8de85440ba91",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 154,
+    "content_hash": "c2ad1663007d3dd70fef1ee63d85387351be5264ca3ebbd918d48062129596db",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

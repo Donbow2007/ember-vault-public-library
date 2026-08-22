@@ -1,0 +1,25 @@
+{
+  "id": "f0da0af6-50de-40c7-9ced-6447375a8b33",
+  "slug": "section-1489-pregnancy-breastfeeding-and-fertility-while-taking-morphine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking morphine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "9077c0d0c9ddc7a96420455133f1eef96758c3effdf38e6caccd89f4018ee452",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1489,
+    "content_hash": "1925f2e85f5a35f323ca95d980cd8be230b7606cd2e88184da2818727e603af5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

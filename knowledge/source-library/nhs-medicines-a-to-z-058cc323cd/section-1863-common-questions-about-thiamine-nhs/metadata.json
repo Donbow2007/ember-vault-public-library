@@ -1,0 +1,25 @@
+{
+  "id": "2414c7c1-0a3b-43aa-8fe6-f7e8436c1cd4",
+  "slug": "section-1863-common-questions-about-thiamine-nhs",
+  "title": "Common questions about thiamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "9d718684e110f6e57f781a657dc8230874506d49b0de70982474f05012535d4b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1863,
+    "content_hash": "c0c6944ee66e7c271a373c2c60b0588decfd2fed20ca1300faca46668e3690f7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

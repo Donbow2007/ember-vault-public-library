@@ -1,0 +1,25 @@
+{
+  "id": "a597678e-f772-4751-b3bc-c4b19394ada8",
+  "slug": "section-1075-common-questions-about-ibuprofen-and-codeine-nhs",
+  "title": "Common questions about ibuprofen and codeine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "1981879a0a2799ace3795bd42b7f5a0435b0370315377ba134befaf100324516",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1075,
+    "content_hash": "0fe7a84423dc21addceb64c9396acdf5efec2c41ee2eeb4008a61e3bb45cbd8b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

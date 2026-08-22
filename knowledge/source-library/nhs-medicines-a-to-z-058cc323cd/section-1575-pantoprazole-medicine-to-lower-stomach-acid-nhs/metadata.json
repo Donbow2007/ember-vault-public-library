@@ -1,0 +1,25 @@
+{
+  "id": "283ab08e-a900-428b-aaf5-74c0a20bf450",
+  "slug": "section-1575-pantoprazole-medicine-to-lower-stomach-acid-nhs",
+  "title": "Pantoprazole: medicine to lower stomach acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "ea8a8ed46e002be7b19b19f4a1a77e53e2160583b580dd448960db9e60580afd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1575,
+    "content_hash": "82efe53059c5be4718926a7d879d4740d77fc86a23188f9750696252667279d0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

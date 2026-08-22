@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while taking co-amoxiclav - NHS
+
+Pregnancy, breastfeeding and fertility while taking co-amoxiclav - Brand name: Augmentin Co-amoxiclav and pregnancy Co-amoxiclav can be taken during pregnancy, although it is not recommended in certain circumstances (for example if your waters break early). Check with your doctor, midwife or pharmacist to make sure that co-amoxiclav is suitable for you. Co-amoxiclav and breastfeeding It's OK to take co-amoxiclav while breastfeeding. Co-amoxiclav passes into breast milk in tiny amounts and is very unlikely to cause side effects in your baby. However, mild side effects have been reported in a small number of babies. If your baby is not feeding as well as usual, is being sick or has diarrhoea, has oral thrush (mouth thrush) , a skin rash, or seems restless, or if you have any other concerns about your baby, talk to your doctor, pharmacist, health visitor or midwife. Co-amoxiclav and fertility There's no evidence to suggest that taking co-amoxiclav will reduce fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+pregnant breastfeeding For more information about how penicillin antibiotics such as co-amoxiclav can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 21 September 2022
+
+Next review due: 21 September 2025

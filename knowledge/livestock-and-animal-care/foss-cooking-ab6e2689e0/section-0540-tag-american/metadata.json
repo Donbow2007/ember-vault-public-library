@@ -1,0 +1,25 @@
+{
+  "id": "e91e3cea-f456-4d44-bf73-3939ef00f022",
+  "slug": "section-0540-tag-american",
+  "title": "Tag: american",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "39823240ecc94bc1ac657727ec1bc738cf5d1521677ce209d8940464d52fd9b0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 540,
+    "content_hash": "1a6f00b6184f09264b22fe6f5638603f05d4b1be4b882100faa1933094dd905f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

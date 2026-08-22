@@ -1,0 +1,25 @@
+{
+  "id": "c8c31a0f-92ba-43a1-ab0d-dd0525a99517",
+  "slug": "section-0582-tag-dressing",
+  "title": "Tag: dressing",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6e0b173b0641fcd3a351b53fbf1da2be9b30e38c46ca704d47889e2283bd6b24",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 582,
+    "content_hash": "5ae9f94a1fadc867577755dbc010316a4bc104f036533ed52677bf786f977a39",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

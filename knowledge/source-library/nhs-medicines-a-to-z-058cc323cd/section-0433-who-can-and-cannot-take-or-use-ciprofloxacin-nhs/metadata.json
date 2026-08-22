@@ -1,0 +1,25 @@
+{
+  "id": "b83ff0c8-7ce8-424a-8303-3dfa74b79560",
+  "slug": "section-0433-who-can-and-cannot-take-or-use-ciprofloxacin-nhs",
+  "title": "Who can and cannot take or use ciprofloxacin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "0856463e7b872b62c7b38c58e52c315d54ec4bb44dd0cd1da77da7e51664da78",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 433,
+    "content_hash": "2741df3b11577ee2d9a50accbdddc9833beffa70e51e7c3216ac317a7b6e210d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

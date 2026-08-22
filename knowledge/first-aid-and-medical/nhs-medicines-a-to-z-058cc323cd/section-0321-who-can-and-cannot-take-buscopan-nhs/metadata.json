@@ -1,0 +1,25 @@
+{
+  "id": "ed0b68b9-7ee8-4b30-9891-1f510a7b6251",
+  "slug": "section-0321-who-can-and-cannot-take-buscopan-nhs",
+  "title": "Who can and cannot take Buscopan - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "03446184b113d44956ca929622d1c8c651e4e825d40e2ec200c931f2c6a479cc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 321,
+    "content_hash": "65d29e0ea7a00d6a47b5e73529a89be6d31e6770eb93025f01cf5e461c80ea5f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a1badb3f-a921-4499-80a5-a0f8d9ced6b8",
+  "slug": "section-0166-lavacake",
+  "title": "Lavacake",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "3270828c13ac3a776254e91c2b84a7fd6d66a50ee1fa72956ef8a56d394d5b51",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 166,
+    "content_hash": "28cccef83626ea921538b31e624670955970ab7a529a4f846db19399721f0f64",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

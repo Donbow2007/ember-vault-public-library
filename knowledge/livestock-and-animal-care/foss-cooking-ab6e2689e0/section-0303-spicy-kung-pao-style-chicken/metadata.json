@@ -1,0 +1,25 @@
+{
+  "id": "b1d31df1-5c47-4e40-ba0c-0adf00d25877",
+  "slug": "section-0303-spicy-kung-pao-style-chicken",
+  "title": "Spicy Kung Pao-Style Chicken",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "814d1e8de58615fcd47ba9ad099c52698546faebc8a407a933c3b0dcdf50eddb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 303,
+    "content_hash": "862d30097b7a8974e9a3ce7a4216330b016e25ea1f9328c89bc9c0ee35c77f11",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

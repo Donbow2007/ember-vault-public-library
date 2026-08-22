@@ -1,0 +1,25 @@
+{
+  "id": "bbd10947-f430-4b6c-b48f-cac926a8861f",
+  "slug": "section-0653-how-and-when-to-take-dihydrocodeine-nhs",
+  "title": "How and when to take dihydrocodeine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "185480662c31f9df65f86a97adc33e1318db4b8691f5dd8481b466b2781c668d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 653,
+    "content_hash": "ebb9823ca500d33d59702f5f883427d85b10ffea3e6e192916c86480435923c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

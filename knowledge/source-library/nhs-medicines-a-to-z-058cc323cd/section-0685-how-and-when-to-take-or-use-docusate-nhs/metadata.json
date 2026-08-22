@@ -1,0 +1,25 @@
+{
+  "id": "0d884ca4-bd63-4aac-ad9b-865fa9e03920",
+  "slug": "section-0685-how-and-when-to-take-or-use-docusate-nhs",
+  "title": "How and when to take or use docusate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "8b762afc040ee561cae81a4ade619754a6ac12d41bd1689f5f806967800145de",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 685,
+    "content_hash": "f661ba8452ff6fe2140812032f8375f9ab7c262eeda0ce30a4a563ad05a07882",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

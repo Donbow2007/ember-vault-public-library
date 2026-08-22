@@ -1,0 +1,25 @@
+{
+  "id": "47ac28b2-b56a-4608-80bc-04c9a54ebb6b",
+  "slug": "section-0935-how-and-when-to-take-gliclazide-nhs",
+  "title": "How and when to take gliclazide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "2b557c7447c1266091914aabd8943f86c76fd4559b66c95b7f2dee42fc564690",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 935,
+    "content_hash": "64311f7b127e9faf4c8156350493140c4591eebdaa189e655f63c3ebe21f93f0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

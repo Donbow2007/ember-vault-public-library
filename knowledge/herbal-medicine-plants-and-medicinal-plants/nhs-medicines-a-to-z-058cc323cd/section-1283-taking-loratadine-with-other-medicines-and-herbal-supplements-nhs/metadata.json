@@ -1,0 +1,25 @@
+{
+  "id": "f2e7866d-d25b-44d1-8cc5-39358669266a",
+  "slug": "section-1283-taking-loratadine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking loratadine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "5b8daca3a2358fb1d4a26b181fd1ed003f9168ae21158417f7c26f859943805d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1283,
+    "content_hash": "2c506108f65fa576112a4bdebb7e2bb5967061c0150c9d1928affc0eb846157c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

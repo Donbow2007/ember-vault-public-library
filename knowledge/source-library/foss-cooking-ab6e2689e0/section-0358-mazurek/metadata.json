@@ -1,0 +1,25 @@
+{
+  "id": "17c923ba-e047-4b28-9dfa-99d3e33736b7",
+  "slug": "section-0358-mazurek",
+  "title": "Mazurek",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "587fdaf85cf67d4161bc12ce40920ae57c6f887ba6c1de8cde1650e562f11e29",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 358,
+    "content_hash": "3cd47ebe2d00e88c255099f3263d770f56b2c3ab5f7e78a7b64fdf2d91e1d0c6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

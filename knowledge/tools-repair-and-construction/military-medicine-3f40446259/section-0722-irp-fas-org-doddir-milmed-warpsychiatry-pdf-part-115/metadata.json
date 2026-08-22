@@ -1,0 +1,25 @@
+{
+  "id": "f2c36622-05eb-4ccc-81d0-3a60c542c493",
+  "slug": "section-0722-irp-fas-org-doddir-milmed-warpsychiatry-pdf-part-115",
+  "title": "irp.fas.org/doddir/milmed/warpsychiatry.pdf — Part 115",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:47Z",
+  "content_hash": "9421c49ad4d20e3d544ea708d5c92765ccab6d762cad31ee077db136205ed428",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 722,
+    "content_hash": "926e60f3a5d93921ee1fbb7887d64638c42e85cc5a0c0471cef72af6cae36ea5",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

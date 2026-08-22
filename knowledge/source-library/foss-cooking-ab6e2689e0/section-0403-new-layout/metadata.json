@@ -1,0 +1,25 @@
+{
+  "id": "773cfcea-f8ca-46c4-855c-b2cf52698b0c",
+  "slug": "section-0403-new-layout",
+  "title": "New layout!",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "eb5e1c51aaab8941a5e816810f6fac4f617ba9d97f5aaced82112939cf6d9b25",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 403,
+    "content_hash": "5b78df8d82375f25e2696896f2e5b09ccce4b828837454a86c90931192732180",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

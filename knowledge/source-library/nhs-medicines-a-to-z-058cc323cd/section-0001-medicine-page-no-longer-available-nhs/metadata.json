@@ -1,0 +1,25 @@
+{
+  "id": "f1b15406-68f1-43c0-9cb7-db591d81afb6",
+  "slug": "section-0001-medicine-page-no-longer-available-nhs",
+  "title": "Medicine page no longer available - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "53d0060fe79eb65dc014289e74f0a4fd83d7841cdc3574b3c1c47a07c163bc72",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1,
+    "content_hash": "e989de5859eab27a4fc77efad63a6b1d05e29b3e0df399628602913b035f7f0d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

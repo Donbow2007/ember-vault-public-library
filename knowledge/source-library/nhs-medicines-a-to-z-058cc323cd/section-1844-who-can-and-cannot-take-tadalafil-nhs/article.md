@@ -1,0 +1,6 @@
+# Who can and cannot take tadalafil - NHS
+
+Who can and cannot take tadalafil - Brand names: Cialis, Adcirca Who can take tadalafil Most men aged 18 and over can take tadalafil for erectile dysfunction. Most adults aged 18 and over can take it for pulmonary hypertension. Who may not be able to take tadalafil Tadalafil is not suitable for some people. To make sure it's safe for you, tell your doctor if you: have ever had an allergic reaction to tadalafil or any other medicine are taking medicines called nitrates for chest pain (angina) have a serious heart and liver problem have recently had a stroke or a heart attack have low blood pressure (hypotension) or uncontrolled high blood pressure (hypertension) have ever lost your vision due to reduced blood flow to the eye have sickle cell anaemia (an abnormality of red blood cells) have leukaemia (cancer of blood cells) have multiple myeloma (cancer of bone marrow) have Peyronie's disease (curved penis) or a similar problem with your penis have a liver or kidney condition have a heart condition – your doctor will advise you whether your heart can take the additional strain of having sex
+Page last reviewed: 11 November 2022
+
+Next review due: 11 November 2025

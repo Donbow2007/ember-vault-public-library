@@ -1,0 +1,25 @@
+{
+  "id": "1dcb4487-f85a-47bf-a40b-0e6ae6f98bf6",
+  "slug": "section-1560-about-oxybutynin-nhs",
+  "title": "About oxybutynin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "d448692eb067194f351c0bc50ec57f9adc835943dbc922c56cbb44ef65125b81",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1560,
+    "content_hash": "77c9993d8a1100603931552345d9fee3ea60ab9ab6d202446423c1d301dc4b19",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

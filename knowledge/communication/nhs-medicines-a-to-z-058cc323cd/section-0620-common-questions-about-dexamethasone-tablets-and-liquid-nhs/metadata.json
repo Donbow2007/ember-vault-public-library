@@ -1,0 +1,25 @@
+{
+  "id": "e4f4e1ff-581d-42c7-851b-4f3454be42e7",
+  "slug": "section-0620-common-questions-about-dexamethasone-tablets-and-liquid-nhs",
+  "title": "Common questions about dexamethasone tablets and liquid - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "42a92d01973450a4d246740c2c521720a94e956957a76464769eabf1d80a2a9c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 620,
+    "content_hash": "a3c18bd5c22ef517ca4eeb3115c1f792cddf5c202f3059ad926ffdcaf2602142",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "eba4f07d-efbe-4747-8a61-209873df1a88",
+  "slug": "section-0027-crazywillbear",
+  "title": "CrazyWillBear",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "8df295a5ec951592a0e71dc2c9c2cf8247f8d793f162e47b0724c2052b9f8b60",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 27,
+    "content_hash": "87527b10eaa3521595ff12d313ac523594fccc78a6ff0836d5077569ef87edcd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

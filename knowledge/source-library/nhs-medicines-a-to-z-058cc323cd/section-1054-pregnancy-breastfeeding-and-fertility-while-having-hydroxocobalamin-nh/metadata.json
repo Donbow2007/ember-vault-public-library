@@ -1,0 +1,25 @@
+{
+  "id": "3850748f-4e3a-42a2-a9a5-c33614bce718",
+  "slug": "section-1054-pregnancy-breastfeeding-and-fertility-while-having-hydroxocobalamin-nh",
+  "title": "Pregnancy, breastfeeding and fertility while having hydroxocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "4c2188daaa963cd63b5ffa3039fedb0b78140d617122dcaff6428186df7d3e78",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1054,
+    "content_hash": "3d53779cfdb239f088e7c7306e18040d32478c79792d326dc8b9fb65cd32593f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

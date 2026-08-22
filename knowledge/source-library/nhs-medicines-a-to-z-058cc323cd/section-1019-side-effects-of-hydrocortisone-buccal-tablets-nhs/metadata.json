@@ -1,0 +1,25 @@
+{
+  "id": "55ecdc0a-f7f9-4d7c-b6eb-04a31bf1a2a8",
+  "slug": "section-1019-side-effects-of-hydrocortisone-buccal-tablets-nhs",
+  "title": "Side effects of hydrocortisone buccal tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "99f08b59fab0c1618588220aeb54733aa411d99c7391017028eff7afb217766a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1019,
+    "content_hash": "609d3283ba9103364c9c323a33901b75dc66912508e5a1a1f692dab811bb2794",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

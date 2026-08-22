@@ -1,0 +1,25 @@
+{
+  "id": "3a3c0a1a-250f-4b09-a5a9-4b690a4690bc",
+  "slug": "section-0115-common-questions-about-aripiprazole-nhs",
+  "title": "Common questions about aripiprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "c0a8c16460ab315e198ad828ef8f80f6a9ffca7e430755905ca9c7728e825816",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 115,
+    "content_hash": "80b97f2592c5d393d894ca4bc3f8b172ba739d16bbab03d398a1b18e99c2cd8e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

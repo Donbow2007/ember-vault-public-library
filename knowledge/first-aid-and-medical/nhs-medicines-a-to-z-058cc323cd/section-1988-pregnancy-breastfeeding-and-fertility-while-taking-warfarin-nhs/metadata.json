@@ -1,0 +1,25 @@
+{
+  "id": "d89c08bb-c2c6-4acc-b533-02010285991c",
+  "slug": "section-1988-pregnancy-breastfeeding-and-fertility-while-taking-warfarin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking warfarin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "52512c22786e5a2675b009d7ee6695d049a927f1674dd884ff981011ca0d723d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1988,
+    "content_hash": "bb55ca7fbec7ddadc878cee454d8922d995ca1d99e0566e552fc3aa5e661d616",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

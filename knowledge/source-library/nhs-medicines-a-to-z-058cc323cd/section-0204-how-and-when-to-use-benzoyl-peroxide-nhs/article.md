@@ -1,0 +1,14 @@
+# How and when to use benzoyl peroxide - NHS
+
+How and when to use benzoyl peroxide - Brand name: Acnecide Benzoyl peroxide is for use on your skin only. Follow the instructions that come with the medicine. Dosage You'll usually use benzoyl peroxide gel or face wash once or twice a day. If you have sensitive skin, use it once a day, before going to bed. If your skin becomes dry or starts peeling, try using benzoyl peroxide less often. Put it on once a day or once every 2 days, until your skin gets used to it. How to use benzoyl peroxide 5% gel The amount of gel you need to use is sometimes measured in fingertip units. This is the amount you can squeeze onto the end of your finger. As a general rule, a fingertip unit of gel is enough to treat an area that's twice the size of the palm of your hand. If you need to treat your whole face, use a strip of gel 2.5cm long each time. Wash your hands. Wash the affected area with a mild skin cleanser and water. Gently pat your skin dry. Put a thin layer of gel on all the affected areas. Wash your hands again. Try to avoid strong sunlight while using benzoyl peroxide gel. Use an oil-free sunscreen, or a moisturiser or foundation with added SPF30. In stronger sunlight, use SPF30 or above. Ask a pharmacist to help you pick a sunscreen that's right for your skin type. How to use benzoyl peroxide 5% wash Wash your hands. Wet the area you want to treat. Put a small amount of the product onto your hands. Smooth it onto the affected area. Keep the wash on your skin for no more than 1 to 2 minutes. Rinse your face thoroughly with water. Gently pat your skin dry. Wash your hands again.
+
+Important
+
+Benzoyl peroxide can bleach or discolour your hair, as well as clothes, towels and bedding. Keep it away from hair and coloured fabrics. How long to use it for How long you'll need to use it for depends on how quickly your condition improves. Benzoyl peroxide will usually start to work within 4 weeks, but once your acne is under control you may want to keep using it to stop your acne coming back. You may find that using it less often, such as every other day, is enough to stop acne coming back. If you forget to use it It does not matter if you forget to use benzoyl peroxide. When you remember, start using it again once or twice a day in the same way as before. If you use too much If you use too much benzoyl peroxide, your skin may become irritated. Wash off as much as you can and wait for the irritation to go away. When your skin has calmed down, you can start using benzoyl peroxide again. Be careful to follow the instructions on the package.
+
+Important
+
+Keep benzoyl peroxide away from your eyes. If you get the gel or wash in your eyes, rinse thoroughly with lukewarm water for a few minutes or until it stops stinging.
+Page last reviewed: 30 September 2022
+
+Next review due: 30 September 2025

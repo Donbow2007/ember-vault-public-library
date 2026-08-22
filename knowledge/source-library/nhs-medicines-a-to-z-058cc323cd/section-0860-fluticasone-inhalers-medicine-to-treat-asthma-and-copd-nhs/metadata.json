@@ -1,0 +1,25 @@
+{
+  "id": "d0be2178-e729-4c4b-927d-e69cf6eeb497",
+  "slug": "section-0860-fluticasone-inhalers-medicine-to-treat-asthma-and-copd-nhs",
+  "title": "Fluticasone inhalers: medicine to treat asthma and COPD - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "20f7deb3a23ac2bb7490a885853f35a590558ecf270ccdf4269e13303272f461",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 860,
+    "content_hash": "ce2bb446101cce90acefd397ffff4b554450bcfe105df4756bfd388e20769e0a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7f2515fa-9e49-433d-ada3-864de0bcec8e",
+  "slug": "section-1742-senna-laxative-to-treat-constipation-nhs",
+  "title": "Senna: laxative to treat constipation - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "ceecc996e560e82bdae63cf21a2fc10aa4ae1505c647ce2fe9d39b986c88fc04",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1742,
+    "content_hash": "a1e188df827a3d806a474e3821d46e159a76419cc8050a0695cf2e3edc082425",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

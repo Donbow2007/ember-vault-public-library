@@ -1,0 +1,25 @@
+{
+  "id": "584a5cda-3323-4a11-9be9-6ab49f684f1b",
+  "slug": "section-1149-taking-short-acting-insulin-with-other-medicines-and-herbal-supplement",
+  "title": "Taking short-acting insulin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "c404009f74adc05c8dc286dbb223cfebb0e46cfd950f34ee8f5053ecddaae1cf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1149,
+    "content_hash": "1fe1f197f55fb2349bdf29411f7c5d22af163cb1409dd1585b8d965336c3338d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "493dd1d3-39f1-44e3-8f82-b3ff924bd8c8",
+  "slug": "section-0112-sekthor",
+  "title": "sekthor",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "4c2cf2afa2121d2eb92bcf3b447b5b398e62d3b5bfe47d890cec20d80e4f969d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 112,
+    "content_hash": "fe4e7895e435688214fedcba9804b173e103f2cd871bc88ce115e4acd1631e0a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

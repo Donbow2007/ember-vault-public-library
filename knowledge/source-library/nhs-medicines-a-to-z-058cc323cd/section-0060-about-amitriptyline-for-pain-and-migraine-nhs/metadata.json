@@ -1,0 +1,25 @@
+{
+  "id": "29205df5-6761-4284-90d5-c18acd17c7c8",
+  "slug": "section-0060-about-amitriptyline-for-pain-and-migraine-nhs",
+  "title": "About amitriptyline for pain and migraine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "0cf4cac6438c82bb3f0491aee205c397e5ea145107e2f4593cb79732d933d86c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 60,
+    "content_hash": "01af5504698acb12d1caba05175c34dffbf3bf8d3919efa1f3ae88943959b58b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

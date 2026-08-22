@@ -1,0 +1,25 @@
+{
+  "id": "02a50ac8-5a5a-47aa-83f5-6c93d4670ab7",
+  "slug": "section-0038-elias-howell",
+  "title": "Elias Howell",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "ec97cfae17e83fbb35f9746992971459f5b4a3e07574a80ef16871fe49cd5ca3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 38,
+    "content_hash": "9200e199fcc5be44badf711cef3ccc945cae0c62c0c70293368beb231b27e52f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

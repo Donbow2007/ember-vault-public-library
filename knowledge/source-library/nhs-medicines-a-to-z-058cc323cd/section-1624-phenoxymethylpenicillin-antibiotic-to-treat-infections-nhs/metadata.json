@@ -1,0 +1,25 @@
+{
+  "id": "770ee141-d5c7-4fbf-b491-9cdb9d73c81e",
+  "slug": "section-1624-phenoxymethylpenicillin-antibiotic-to-treat-infections-nhs",
+  "title": "Phenoxymethylpenicillin: antibiotic to treat infections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "b0cfa4fc05b950441d07b23b5685dc3cfa8f20e50b88e3c6dc79575a52a05f31",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1624,
+    "content_hash": "1a8bb465de5bbf960eefeb1e82b3552f2353a0319533c9ca484dc453dbb4e6e4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

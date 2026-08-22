@@ -1,0 +1,25 @@
+{
+  "id": "4219047f-0e78-4f16-befb-1ea743026f77",
+  "slug": "section-1629-side-effects-of-phenoxymethylpenicillin-nhs",
+  "title": "Side effects of phenoxymethylpenicillin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "3385284c35849c611266d501b71ca47f42d0e3dc428d220e79b83cd7cd724eb7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1629,
+    "content_hash": "5f75291dea035e074186383620e79ed9ea2a221e4fe9612c9b973c5460940016",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

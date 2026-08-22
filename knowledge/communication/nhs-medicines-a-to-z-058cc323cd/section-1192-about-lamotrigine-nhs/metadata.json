@@ -1,0 +1,25 @@
+{
+  "id": "f44e37cc-400a-4817-bd6f-3c4d021410c6",
+  "slug": "section-1192-about-lamotrigine-nhs",
+  "title": "About lamotrigine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "af61a4b165d4b2f3010181f64eca0cebd71f8cf8ff0845e5156d283df7ac500d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1192,
+    "content_hash": "b18ef164f22ab0c2241bbd9ae717c984b0def8772ec2bbff28bb6003890befd5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

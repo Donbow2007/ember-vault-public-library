@@ -1,0 +1,25 @@
+{
+  "id": "9e09a30e-042c-440a-b61e-819da3c4d647",
+  "slug": "section-0880-pregnancy-breastfeeding-and-fertility-while-using-fluticasone-skin-cre",
+  "title": "Pregnancy, breastfeeding and fertility while using fluticasone skin creams - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "2e3fe8d145a969a6987f48e712fef9cfd4dd60a67b5667844cc4a2d043238009",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 880,
+    "content_hash": "8732e4a0a16f80b25983c9ecba3213ce1a3350d04d98226b2ae01148a6bd9f29",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

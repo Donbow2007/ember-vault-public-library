@@ -1,0 +1,25 @@
+{
+  "id": "d9d96d75-2f07-4480-b3d0-23eaf4439a6b",
+  "slug": "section-0411-beef-kidney",
+  "title": "Beef Kidney",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "b142648a1f2f9fd4746960db8d0a9aa1e57db41c6c4b07f367b9cc8b62e92ac1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 411,
+    "content_hash": "d3824f5764f2fc0c1df4a716c90a39274bc0f759b20ca92eb25475c8519adfd4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

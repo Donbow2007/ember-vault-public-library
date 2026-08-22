@@ -1,0 +1,25 @@
+{
+  "id": "3ced2f8d-6b85-4f27-b857-900bb8de8e18",
+  "slug": "section-0915-who-can-and-cannot-take-fybogel-nhs",
+  "title": "Who can and cannot take Fybogel - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "c67adc3bc36d3b30e0724eb7efcfb83d3278bbc7439341213b1f4bc8000f1bfa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 915,
+    "content_hash": "e7f1e0b55ebf8b2e1a8735429016fea83747b5ed3fee0e3abf26c132fdc65c3a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

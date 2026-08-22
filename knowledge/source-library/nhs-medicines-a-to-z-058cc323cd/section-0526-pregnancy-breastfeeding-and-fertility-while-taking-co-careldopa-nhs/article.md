@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking co-careldopa - NHS
+
+Pregnancy, breastfeeding and fertility while taking co-careldopa - Brand names: Sinemet, Caramet, Apodespan, Lecado Co-careldopa and pregnancy Co-careldopa may be used in pregnancy if necessary. If you're pregnant or trying to get pregnant, speak to your doctor. Do not stop taking your medicine without talking to your doctor first. Co-careldopa and breastfeeding You may be able to take co-careldopa while breastfeeding if your doctor says it's OK. They can talk to you about your options. There is little information about using co-careldopa while breastfeeding, but it's thought that it only passes into breast milk in very small amounts. It's very unlikely to cause any side effects in your baby. Co-careldopa can sometimes affect your milk production, although this is less likely if you've been breastfeeding for a while Talk to your health visitor, midwife, doctor or pharmacist as soon as possible if you have any concerns, including if your baby: is not feeding as well as usual has changes in their behaviour has changes in their normal sleeping pattern is being sick Co-careldopa and fertility There is no evidence to suggest that taking co-careldopa reduces fertility in either men or women. However, speak to a pharmacist or your doctor if you're trying to get pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 22 March 2023
+
+Next review due: 22 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

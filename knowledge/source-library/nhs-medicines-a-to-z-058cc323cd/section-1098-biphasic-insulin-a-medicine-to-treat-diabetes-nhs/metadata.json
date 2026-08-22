@@ -1,0 +1,25 @@
+{
+  "id": "2deaf4d6-8145-4f80-9a8d-ed83cb2b7240",
+  "slug": "section-1098-biphasic-insulin-a-medicine-to-treat-diabetes-nhs",
+  "title": "Biphasic insulin: a medicine to treat diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "cc8052acf3fc3179f3db7936dcb672294951d818484f3b55fe971acc25656323",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1098,
+    "content_hash": "68c97f7cdce4ea9c4596efaaa27739fee9a4520c804557d99c2601838ae4bde4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

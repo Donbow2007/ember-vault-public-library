@@ -1,0 +1,25 @@
+{
+  "id": "e971df83-d7c6-446f-9d09-b3aea6395b71",
+  "slug": "section-0785-taking-ezetimibe-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking ezetimibe with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "195f7fe9d2f98719e8259e282059f70859f6c27e597e8dd037780510ae3c04ef",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 785,
+    "content_hash": "979037bea8d4aa1f66bf89208c363928d63b800a7ac0a415343d9fc6f8947f9e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

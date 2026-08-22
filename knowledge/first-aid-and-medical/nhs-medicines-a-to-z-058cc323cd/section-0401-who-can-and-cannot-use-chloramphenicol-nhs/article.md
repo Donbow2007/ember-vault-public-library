@@ -1,0 +1,9 @@
+# Who can and cannot use chloramphenicol - NHS
+
+Who can and cannot use chloramphenicol
+
+Who can use chloramphenicol Chloramphenicol can be used by most adults and children including babies. The eyedrops and eye ointment are available to buy in pharmacies for use in adults and children aged 2 years and over. For children under 2 years, you'll need a prescription for chloramphenicol from your doctor. Who may not be able to use chloramphenicol Chloramphenicol is not suitable for everyone. To make sure it's safe for you, tell your doctor if: you have ever had an allergic reaction to chloramphenicol or any other medicine you or anyone in your family has ever had a rare condition called aplastic anaemia (when your bone marrow does not produce blood cells) Who may not be able to use eyedrops or ointment Before using chloramphenicol, tell you doctor if you're using other eyedrops or ointment, or if you normally wear contact lenses. It's also important to speak to your doctor if you have: any problems with your eyesight, or severe eye pain swollen eyes, and a rash on your face or head a cloudy eye unusual looking pupils – irregular size, dilated (bigger than normal), or not reacting to light had a recent eye injury, or something in your eye recently had conjunctivitis dry eye syndrome (when your eyes do not produce enough tears) glaucoma had eye surgery or laser treatment in the last 6 months Who may not be able to use eardrops Before using chloramphenicol eardrops, tell your doctor if you: currently have a perforated (burst) eardrum are allergic to polyethylene glycol (an ingredient used in some medicines and cosmetics, and found in some foods)
+Page last reviewed: 9 February 2022
+
+Next review due: 9 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

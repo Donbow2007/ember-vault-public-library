@@ -1,0 +1,25 @@
+{
+  "id": "498e4751-48c4-423d-9154-9a94af9c2152",
+  "slug": "section-0495-side-effects-of-clotrimazole-for-thrush-nhs",
+  "title": "Side effects of clotrimazole for thrush - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "a740f0c65346b82a87d8774259cf8ca6dbb2ebf1bb885cb51232d280334c8434",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 495,
+    "content_hash": "3ba64630bac321fce63c5a009631dc5cac961a82a6612aeee328e9f6c0cea3e5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

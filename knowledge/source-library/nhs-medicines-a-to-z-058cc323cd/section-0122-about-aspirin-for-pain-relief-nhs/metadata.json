@@ -1,0 +1,25 @@
+{
+  "id": "a12e1249-be86-4e8d-bb29-7937fafde1da",
+  "slug": "section-0122-about-aspirin-for-pain-relief-nhs",
+  "title": "About aspirin for pain relief - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "6f2a801b22f040b34736fff08992a916fed9f32e9d8318f8b123ab681d79de47",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 122,
+    "content_hash": "7911f8dd226023ae79d89c40ccc349afd4e15b093ad8af8a76e4088789e6c81f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b6bbd402-0d95-4982-8363-482b585ad104",
+  "slug": "section-0383-side-effects-of-cefalexin-nhs",
+  "title": "Side effects of cefalexin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "c0548ec0f0eea21b0b914c404d0b0e77dcf1cdd8d357c34f91dc3ac806b5083f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 383,
+    "content_hash": "5181db5b94638028591c73e5be6d3e7d7c06d85dd3e03b10ccee72b69272e84e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

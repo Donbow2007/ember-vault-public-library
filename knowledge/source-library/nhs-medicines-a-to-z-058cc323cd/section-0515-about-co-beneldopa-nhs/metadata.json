@@ -1,0 +1,25 @@
+{
+  "id": "57372726-4381-4117-b921-47e550857429",
+  "slug": "section-0515-about-co-beneldopa-nhs",
+  "title": "About co-beneldopa - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "ee7fd077d836f690d6ca1c27101556b78023190a2085f961c2acab4bccb06905",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 515,
+    "content_hash": "2e3833d52cb936265a0bed1560dbca9da751dbd8103e3648dd05b30643411db2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

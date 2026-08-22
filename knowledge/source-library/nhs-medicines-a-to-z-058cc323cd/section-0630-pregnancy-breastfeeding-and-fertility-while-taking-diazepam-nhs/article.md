@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking diazepam - NHS
+
+Pregnancy, breastfeeding and fertility while taking diazepam
+
+Diazepam and pregnancy You can take diazepam during pregnancy, but taking it for a long time, particularly towards the end of pregnancy, may make your baby drowsy after they're born. You may need to keep taking diazepam during pregnancy as it's important for you to remain well. If you become pregnant while taking diazepam, speak to your doctor. They can explain the risks and the benefits of taking diazepam, and will help you choose the best treatment for you and your baby. Diazepam and breastfeeding If your doctor or health visitor says your baby is healthy, you can take diazepam while breastfeeding as long as you're only taking a low dose occasionally or for a very short time. Diazepam passes into breast milk, usually in small amounts. If you take it for a long time or in high doses, it can build up in your milk. This can make your baby sleepy and can make it difficult for them to feed. It is important not to share a bed with your baby until you have finished taking diazepam. If you're breastfeeding or planning to breastfeed, talk to your doctor or pharmacist, as other medicines might be better while breastfeeding, although this will depend on what you're using the diazepam for. If you do take diazepam while you're breastfeeding and you notice that your baby is not feeding as well as usual, seems unusually sleepy, or has unusual breathing, or you have any other concerns about your baby, talk to your doctor, pharmacist, midwife or health visitor as soon as possible. Diazepam and fertility There's no clear evidence to suggest that taking diazepam reduces fertility in either men or women. If you're trying to get pregnant, or you're having problems getting pregnant while on diazepam, speak to your doctor. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 3 February 2022
+
+Next review due: 3 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

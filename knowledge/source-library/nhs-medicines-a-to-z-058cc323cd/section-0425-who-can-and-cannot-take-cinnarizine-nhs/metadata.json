@@ -1,0 +1,25 @@
+{
+  "id": "9f1befec-4df6-41e0-94d8-3fde60800c14",
+  "slug": "section-0425-who-can-and-cannot-take-cinnarizine-nhs",
+  "title": "Who can and cannot take cinnarizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "e083213ed9d6d6923422c2f64809ee69e28e78e6da38a80911a81b25724fb067",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 425,
+    "content_hash": "e1f0d0c855109b610145b9df409e7e0def121ce4e7cb4fd60ec72d337dd3e4f1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

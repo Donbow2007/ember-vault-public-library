@@ -1,0 +1,25 @@
+{
+  "id": "a4988254-857f-477d-b956-8ba798ce7bb7",
+  "slug": "section-0093-antibiotic-resistance",
+  "title": "Antibiotic resistance",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "f105655cb969b3066bcb2c602377b05f88068686e9117fe6a398a78a33b6397a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 93,
+    "content_hash": "89e5800d811e4a2f44198c9d850a556ac0d846b000603cf2a72d2899a07dbcdf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

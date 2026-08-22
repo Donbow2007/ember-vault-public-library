@@ -1,0 +1,7 @@
+# Who can and cannot use buprenorphine for pain - NHS
+
+Who can and cannot use buprenorphine for pain - Brand names: Butec, Buvidal, Espranor, Suboxone, Subutex Who can use buprenorphine Most adults can use buprenorphine. Children can sometimes use it if a specialist doctor recommends it. Buprenorphine is usually only recommended when weaker opioids for pain stop working for you. Your doctor or pharmacist will work out how much buprenorphine to give you, depending on why you're using it and what dose of other opioids you've had. Who may not be able to use buprenorphine Buprenorphine is not suitable for some people. To make sure it's safe for you, tell your doctor or pharmacist if you: have ever had an allergic reaction to buprenorphine or any other medicine have breathing difficulties such as asthma or a lung condition have sleep apnoea drink a lot of alcohol, or are addicted to alcohol or drugs have a head injury have a condition that causes fits or seizures have an irregular heartbeat ( arrhythmia ) have kidney or liver problems have low blood pressure (hypotension) have an impaired gut or bowel (paralytic ileus) have long-term constipation have myasthenia gravis (a condition where muscles become weak) are trying to get pregnant, are already pregnant or breastfeeding
+Page last reviewed: 23 May 2023
+
+Next review due: 23 May 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

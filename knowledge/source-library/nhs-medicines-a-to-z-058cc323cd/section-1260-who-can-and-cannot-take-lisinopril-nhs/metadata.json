@@ -1,0 +1,25 @@
+{
+  "id": "70722d58-ea4c-492e-b4d4-8e99d33c5a0b",
+  "slug": "section-1260-who-can-and-cannot-take-lisinopril-nhs",
+  "title": "Who can and cannot take lisinopril - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "51d80181ab3ec946e04a68314190d9a3b42830fb8679a5f32c45dc26b01b0de4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1260,
+    "content_hash": "5fb8c24c1d0f10b4c51006c45071ee9f1c5629e12d304e6e3cc8939a774b2b01",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

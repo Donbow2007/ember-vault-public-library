@@ -1,0 +1,25 @@
+{
+  "id": "234319a0-0c30-4f7e-b38e-bd7581065d0c",
+  "slug": "section-1030-hydrocortisone-for-skin-steroid-for-skin-conditions-nhs",
+  "title": "Hydrocortisone for skin: steroid for skin conditions - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "5ab6b10e85f5b03200b84c63bad41021242492acfcc5881f0c84445ab036852f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1030,
+    "content_hash": "f9bc67b719f0397b62f0aadbbce48f0a6ec9c62e9484829e8d965498159cc0cc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

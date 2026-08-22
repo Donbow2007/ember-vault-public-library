@@ -1,0 +1,25 @@
+{
+  "id": "21a7d329-170e-445e-8199-84cc8e75e638",
+  "slug": "section-0362-carmellose-sodium-eye-drops-lubricant-to-treat-dry-eyes-nhs",
+  "title": "Carmellose sodium eye drops: lubricant to treat dry eyes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "60ff3f592d652e76bbf3775220f7e1560bcaed917c5a08adca9b4e722ee7417c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 362,
+    "content_hash": "5592091ccd7644e8796b56ef4bc009e69d960bdd6f66b21a0b07cfc5571bb378",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

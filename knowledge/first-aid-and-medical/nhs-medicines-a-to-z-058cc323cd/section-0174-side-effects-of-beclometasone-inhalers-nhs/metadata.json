@@ -1,0 +1,25 @@
+{
+  "id": "e221e817-3aac-4c3b-b703-0d562935d100",
+  "slug": "section-0174-side-effects-of-beclometasone-inhalers-nhs",
+  "title": "Side effects of beclometasone inhalers - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "339c9e793f8f1ee859f5657322034f9f497216882d4dc8c32bb4b967f047ce47",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 174,
+    "content_hash": "f353e0edfb62bba522c8085c6ef6e7688607fe47db094650bacfaa2cc3ecea05",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

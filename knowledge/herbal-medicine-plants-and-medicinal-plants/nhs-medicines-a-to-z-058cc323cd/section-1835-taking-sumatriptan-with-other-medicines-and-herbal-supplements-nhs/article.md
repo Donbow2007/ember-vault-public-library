@@ -1,0 +1,8 @@
+# Taking sumatriptan with other medicines and herbal supplements - NHS
+
+Taking sumatriptan with other medicines and herbal supplements - Brand names: Imigran, Migraitan, Boots Migraine Relief Cautions with other medicines There are some medicines that may affect the way sumatriptan works. Tell your doctor if you're taking: other migraine or headache medicines (including ergotamine and other triptans) antidepressants , including SSRIs (selective serotonin reuptake inhibitors) or MAOIs (monoamine oxidase inhibitors) If you're taking antidepressants, check with your doctor whether it's safe to take sumatriptan with your other medicines. Using sumatriptan with some types of antidepressants can increase your risk of a severe side effect called serotonin syndrome. Symptoms of serotonin syndrome include: feeling confused or agitated muscle twitching high temperature, sweating or shivering increased heart rate diarrhoea Tell a doctor immediately if you get any of these symptoms. Mixing sumatriptan with herbal remedies or supplements Taking sumatriptan with St John's wort, a herbal remedy for depression, can increase your risk of serotonin syndrome. Do not take St John's wort if you're taking or using sumatriptan. There's not enough information to say that other complementary medicines, herbal remedies and supplements are safe to take with sumatriptan. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 8 December 2022
+
+Next review due: 8 December 2025

@@ -1,0 +1,7 @@
+# Who can and cannot take bisacodyl - NHS
+
+Who can and cannot take bisacodyl - Brand name: Dulcolax Who can take bisacodyl Most adults, aged 18 years and over, can take bisacodyl tablets and use suppositories. Young people aged 12 to 17 years can take bisacodyl tablets and use suppositories if a doctor or pharmacist says it's OK. Children aged 11 years and under can take bisacodyl tablets and use bisacodyl suppositories if a doctor prescribes them. Who may not be able to take bisacodyl Bisacodyl is not suitable for some people. To make sure it's safe for you, tell your doctor or pharmacist before starting to take it if you: have ever had an allergic reaction to bisacodyl or any other medicine have signs of dehydration – these include peeing less than usual or having dark, strong-smelling pee have severe stomach pain and you're feeling or being sick (nausea or vomiting) have a serious problem in your stomach (abdomen) such as appendicitis have a blockage in your bowel (intestinal obstruction) have ulcerative colitis or Crohn's disease have a problem with the muscles in your bowel not being able to move food and liquid along are pregnant, trying to get pregnant or breastfeeding For suppositories, also tell your doctor or pharmacist if you have: ever had an allergic reaction to suppositories tears or open sores ( anal fissures ) or cracked skin around your anus (bottom)
+Page last reviewed: 2 August 2024
+
+Next review due: 2 August 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

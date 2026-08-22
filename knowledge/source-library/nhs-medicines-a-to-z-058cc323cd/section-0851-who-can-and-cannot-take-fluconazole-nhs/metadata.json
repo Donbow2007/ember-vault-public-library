@@ -1,0 +1,25 @@
+{
+  "id": "31042173-f6bb-4bdf-9672-05b795aca44c",
+  "slug": "section-0851-who-can-and-cannot-take-fluconazole-nhs",
+  "title": "Who can and cannot take fluconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "b1e56149849fd8582ff4588f9bc1abb501e8ae90e5bdc8818e4a6c16ecd6de54",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 851,
+    "content_hash": "936942df1aef8618bf7238a3193aa2f20d326d27be9af1bbaf7d2cfc92199271",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

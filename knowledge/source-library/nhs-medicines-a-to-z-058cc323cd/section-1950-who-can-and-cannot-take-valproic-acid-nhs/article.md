@@ -1,0 +1,7 @@
+# Who can and cannot take valproic acid - NHS
+
+Who can and cannot take valproic acid - Brand names: Belvo, Depakote, Convulex, Syonell Who can take valproic acid Most adults can take valproic acid to treat bipolar disorder or epilepsy or help prevent migraine . Most children aged 1 month or older can take valproic acid to treat epilepsy. Who may not be able to take valproic acid Girls and women who need to take valproic acid must be enrolled on Prevent, the valproate pregnancy prevention programme. Valproic acid may affect fertility in men. There may also be a small chance of learning or behavioural problems in the baby if you are taking valproic acid and your partner becomes pregnant. For these reasons, doctors may recommend different treatments for men who could possibly have children, or in those planning to try for a baby. To make sure valproic acid is safe for you, tell your doctor if you: have ever had an allergic reaction to valproic acid or any other medicine have liver problems have a rare metabolic or genetic condition such as porphyria, urea cycle disorder, mitochondrial disorder or primary carnitine deficiency Find out more Valproate guide for women (PDF only, 495 KB) Valproate guide for men (PDF only, 222 KB)
+Page last reviewed: 11 March 2025
+
+Next review due: 11 March 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

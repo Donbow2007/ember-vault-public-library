@@ -1,0 +1,25 @@
+{
+  "id": "554f72ef-a0b3-48de-900f-b100bd8d299d",
+  "slug": "section-1286-about-lorazepam-nhs",
+  "title": "About lorazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "e7f61c4b3f6b6e7e75c0e7e788eb7b369b104effada65e8183f282544ec55ee3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1286,
+    "content_hash": "ae42439bfef2369a6171ce50e88efee01a22bd03cf79dc514a0598c29f9bb9ab",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

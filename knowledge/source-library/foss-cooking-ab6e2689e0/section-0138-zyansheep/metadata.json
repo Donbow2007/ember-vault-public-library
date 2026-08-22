@@ -1,0 +1,25 @@
+{
+  "id": "9f80aed5-4fce-452c-b47e-ab8697e53d27",
+  "slug": "section-0138-zyansheep",
+  "title": "Zyansheep",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "d06583d4165f3dd06e2d06ffade31fc4423e13c2b6ca97cd5528926962298343",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 138,
+    "content_hash": "651ef41584861f92b93588f27d0e1e59f782eb83f7896a1b6344f4a35068ff92",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

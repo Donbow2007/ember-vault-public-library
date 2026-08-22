@@ -1,0 +1,25 @@
+{
+  "id": "6576a329-dd63-4196-a1e0-8a57f05933b3",
+  "slug": "section-0243-matcha-cookies",
+  "title": "Matcha Cookies",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "272ab4cc537e461f3afccc4966d632b6b6a979d6ea265bb6441fc548b3bde66c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 243,
+    "content_hash": "59abb3ac0676f4f51458c3816d6d53d6e805356a09790e650a4bd5bfd849e8da",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

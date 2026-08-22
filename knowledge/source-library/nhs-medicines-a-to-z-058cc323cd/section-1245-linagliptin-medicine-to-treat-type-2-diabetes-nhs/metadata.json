@@ -1,0 +1,25 @@
+{
+  "id": "3becde15-1fd1-4e26-b85d-d9633b027e83",
+  "slug": "section-1245-linagliptin-medicine-to-treat-type-2-diabetes-nhs",
+  "title": "Linagliptin: medicine to treat type 2 diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "38968e1714cf8dd60d45d6ccda9e750c74e31b6ce6e09f6478617517089ad5af",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1245,
+    "content_hash": "cc60b250c9eae29f9cec4b409f4d461d63c111e7c8ca0417b8f5dd2b1a431618",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

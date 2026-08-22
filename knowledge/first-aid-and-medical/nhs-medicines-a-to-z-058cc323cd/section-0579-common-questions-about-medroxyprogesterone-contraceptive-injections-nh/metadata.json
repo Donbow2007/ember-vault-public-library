@@ -1,0 +1,25 @@
+{
+  "id": "e1c0730f-1d9c-4a11-a8df-989e6bcb6617",
+  "slug": "section-0579-common-questions-about-medroxyprogesterone-contraceptive-injections-nh",
+  "title": "Common questions about medroxyprogesterone contraceptive injections - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "8fe8c60e4de96e952f960488b57ea32f200fb6f5dd2e7a026dcee240caa7334d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 579,
+    "content_hash": "4de9002831c96e7582647ade5879ceb88c2b335e822f4fecbd08e0af59827c31",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

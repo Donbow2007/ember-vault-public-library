@@ -1,0 +1,25 @@
+{
+  "id": "6063e53c-fb1e-4b7c-8461-0788b6b4c1ea",
+  "slug": "section-0195-common-questions-about-bendroflumethiazide-nhs",
+  "title": "Common questions about bendroflumethiazide - NHS",
+  "category": "weather",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "47aa004b948c4064cafb5e104c0c64146a826f76e14d8d3d131ef061f10aaa17",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 195,
+    "content_hash": "f6b7fad9aa162d693b6c1660a175a4936693c06fad6a8dbf7215e309d03576ef",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

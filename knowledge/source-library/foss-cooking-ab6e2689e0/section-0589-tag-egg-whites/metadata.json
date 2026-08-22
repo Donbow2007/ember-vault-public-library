@@ -1,0 +1,25 @@
+{
+  "id": "eb714427-3b59-46a7-b1d3-9fb160e24517",
+  "slug": "section-0589-tag-egg-whites",
+  "title": "Tag: egg whites",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "613448737facee4896c0d042c4430ba42fcd235d80f5ca0361a322bf5fcb039b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 589,
+    "content_hash": "0ed7267b44e1c06679f535201c4ad736cca2583022c77d6559c2dcc6c1b0ab90",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

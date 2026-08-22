@@ -1,0 +1,25 @@
+{
+  "id": "fd66b754-1d2f-46f2-b073-9e22c2a47ba4",
+  "slug": "section-0768-side-effects-of-escitalopram-nhs",
+  "title": "Side effects of escitalopram - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "bac5033d68deb8dc59002148d8eb91f125e83a4f620ce55a74874c5eb60e5a1f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 768,
+    "content_hash": "fb2e407b5ea83daea37008b0ad00a6061f9871e6c403ecfe60a0bb2fe4f71b0e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

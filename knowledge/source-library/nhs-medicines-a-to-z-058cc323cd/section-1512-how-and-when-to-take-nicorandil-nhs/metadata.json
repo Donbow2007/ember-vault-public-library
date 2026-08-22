@@ -1,0 +1,25 @@
+{
+  "id": "975ba906-1fac-4742-a6f1-0390cc9a1f55",
+  "slug": "section-1512-how-and-when-to-take-nicorandil-nhs",
+  "title": "How and when to take nicorandil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "d726adaba532cf90bd7fefd47858b9e006e942a8b420f93411ed1930c49754f3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1512,
+    "content_hash": "06d4207b1e58a08383a975ed190dca5fa62c3290c26b8e7a103397bb00953bdc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "de93c29c-96e6-453a-b480-fc55075bc504",
+  "slug": "section-0682-tag-swiss",
+  "title": "Tag: swiss",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e998a2540e5d2bd84e93e502dfedd0279b8661e68608c023a064915bd8a4ba61",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 682,
+    "content_hash": "1f7346584bab9bff49b37e97297dfdf8ec538e0e11ea9c8c5aa2649e5c0cade2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

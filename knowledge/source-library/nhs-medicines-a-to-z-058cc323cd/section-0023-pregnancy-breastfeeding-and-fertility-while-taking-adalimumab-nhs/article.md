@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking adalimumab - NHS
+
+Pregnancy, breastfeeding and fertility while taking adalimumab
+
+Adalimumab and pregnancy You can take adalimumab during pregnancy, especially if it's needed to keep you well. Talk to your doctor if you become pregnant or are thinking of becoming pregnant while taking adalimumab. They will help you weigh up the benefits and possible risks so you can decide on the best treatment plan for you. Do not stop taking your medicine unless your doctor tells you to. You may need to continue to take adalimumab during pregnancy to stay healthy and well. Adalimumab and breastfeeding If your doctor or midwife says your baby is healthy you can take adalimumab while you're breastfeeding. Adalimumab passes into breast milk in tiny amounts and your baby will not absorb a lot into their body from the breast milk. It has not been known to cause side effects in breastfed babies. If your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your doctor, pharmacist, health visitor or midwife as soon as possible. After your baby is born If you're taking adalimumab while pregnant, your baby will not be able to have live vaccines for the first six months after they're born. This means that they will not be able to have the rotavirus vaccination (which must be given by 4 months of age). The BCG vaccine (if needed) will have to be delayed. All of the other early vaccinations can be given as normal. Adalimumab and fertility There's no evidence to suggest that taking adalimumab reduces fertility in either men or women. Speak to your doctor if you're trying to get pregnant. They may want to review your treatment. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how adalimumab can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website.
+Page last reviewed: 24 March 2022
+
+Next review due: 24 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

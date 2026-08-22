@@ -1,0 +1,25 @@
+{
+  "id": "168ae0ad-3872-4005-9c08-1c4ac63dd181",
+  "slug": "section-0011-acrivastine-benadryl-antihistamine-medicine-that-relieves-allergy-symp",
+  "title": "Acrivastine (Benadryl): antihistamine medicine that relieves allergy symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "a015e3b6541d341ead8dde215eda772370a22384f6d4d460dbab9eb668254a88",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 11,
+    "content_hash": "30ff51abb61292f6176f89abd44b7e24d5aad8c9755fae4ce6081f5cf35fbed3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

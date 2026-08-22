@@ -1,0 +1,25 @@
+{
+  "id": "c1951e17-6653-4955-804a-df1d3618ad1b",
+  "slug": "section-0670-tag-spice",
+  "title": "Tag: spice",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "a15019331b3b2e470128c6d57fd3ec727de92e8f25065fc7a7ad665f46545c5a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 670,
+    "content_hash": "9ee9f8a0d909cb891e01e6c8ce038987572080c15dfd8ebcab22eeaae5d56ed6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

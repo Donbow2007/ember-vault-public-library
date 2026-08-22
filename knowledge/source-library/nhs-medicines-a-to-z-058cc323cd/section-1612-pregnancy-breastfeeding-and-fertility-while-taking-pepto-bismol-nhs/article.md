@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while taking Pepto-Bismol - NHS
+
+Pregnancy, breastfeeding and fertility while taking Pepto-Bismol - Other brand names: Pepti-Calm Pepto-Bismol and pregnancy Do not take Pepto-Bismol if you're pregnant as it might affect your baby, particularly if you take it regularly after 30 weeks of pregnancy. You may find that you can treat indigestion without taking a medicine. It can help to: eat smaller meals and more often avoid fatty or spicy foods, and avoid alcohol and cigarettes prop your head and shoulders up when you go to bed, so your head is higher than your stomach avoid lying down immediately after eating However, heartburn or indigestion are common during pregnancy. If these changes do not work, or if you would prefer to take a medicine, speak to your doctor or a pharmacist. They will be able to recommend the most suitable treatment for you and your baby. Pepto-Bismol and breastfeeding Do not take Pepto-Bismol if you're breastfeeding. If you do need a medicine, speak to you doctor or pharmacist who will be able to advise on other options that are more suitable. Pepto-Bismol and fertility There's no evidence to suggest that taking Pepto-Bismol reduces fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 3 August 2022
+
+Next review due: 3 August 2025

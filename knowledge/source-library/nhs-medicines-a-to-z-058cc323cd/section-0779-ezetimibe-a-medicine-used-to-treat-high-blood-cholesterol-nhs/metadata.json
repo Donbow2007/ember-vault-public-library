@@ -1,0 +1,25 @@
+{
+  "id": "9da5169d-2184-45c1-b6f6-dfca0b8f352c",
+  "slug": "section-0779-ezetimibe-a-medicine-used-to-treat-high-blood-cholesterol-nhs",
+  "title": "Ezetimibe: a medicine used to treat high blood cholesterol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "d66fd526a65c96766c483f7fb4e8fc34ba36b3d9014d9cb8a59ec7dadb9577eb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 779,
+    "content_hash": "815019e53bb5420cae5a374b818f91aaaf7d30a3b1ef8387bc28f04dc37e509d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

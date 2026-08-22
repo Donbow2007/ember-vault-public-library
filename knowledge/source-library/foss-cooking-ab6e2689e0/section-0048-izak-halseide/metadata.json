@@ -1,0 +1,25 @@
+{
+  "id": "ce0e06f8-5388-4f02-bb7b-56093b571444",
+  "slug": "section-0048-izak-halseide",
+  "title": "Izak Halseide",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "959c85170ebcee58be29dbda33d3b5651bc3f2e50b7db991f667368f4c189fbc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 48,
+    "content_hash": "00b1de920b076f426de737e70eb67c34db775991bd6c8b4a9c33eeb289eafc03",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

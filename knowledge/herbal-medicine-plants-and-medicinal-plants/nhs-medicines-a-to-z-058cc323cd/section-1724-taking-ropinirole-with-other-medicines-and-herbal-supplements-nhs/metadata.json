@@ -1,0 +1,25 @@
+{
+  "id": "dd8a26f9-778d-43e9-a495-c3e23388867e",
+  "slug": "section-1724-taking-ropinirole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking ropinirole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "58dac8269eb12bd2ed48f2b146cba5f9b76a2e87e16c29de7975e41b0895cb26",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1724,
+    "content_hash": "3ff8acf89eda095403f4885e88d0d50c6daa74d55881db29f6c6de320d97abb0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

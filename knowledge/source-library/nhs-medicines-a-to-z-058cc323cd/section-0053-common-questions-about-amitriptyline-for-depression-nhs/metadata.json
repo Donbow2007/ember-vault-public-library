@@ -1,0 +1,25 @@
+{
+  "id": "557501f8-da99-41ba-b389-9836114a99cf",
+  "slug": "section-0053-common-questions-about-amitriptyline-for-depression-nhs",
+  "title": "Common questions about amitriptyline for depression - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "68080fbe1ef62577aeeb3876f682e302b43cb90315b45fb635b84efac234786c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 53,
+    "content_hash": "fedc2ae5d5fe21132345bb6b5cb13f26884b5fa96f5ab0f11e1f92549731b3cc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

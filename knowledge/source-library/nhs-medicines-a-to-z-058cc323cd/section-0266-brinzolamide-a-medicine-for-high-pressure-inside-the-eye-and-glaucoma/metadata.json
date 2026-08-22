@@ -1,0 +1,25 @@
+{
+  "id": "589780d1-d4cd-4e9e-9920-c628b0153159",
+  "slug": "section-0266-brinzolamide-a-medicine-for-high-pressure-inside-the-eye-and-glaucoma",
+  "title": "Brinzolamide – a medicine for high pressure inside the eye and glaucoma - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "228467c66a0718254f03430fd53c98644d6e87da2b20f397b8c4b47cb7cc4c9c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 266,
+    "content_hash": "332c010de0905f50490e5277fdb987c44e81a4bf0543d858d0b7932557bf4669",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

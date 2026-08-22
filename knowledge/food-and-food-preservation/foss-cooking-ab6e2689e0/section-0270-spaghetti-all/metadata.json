@@ -1,0 +1,25 @@
+{
+  "id": "326f23ae-2f9e-4a47-bb0c-45a3e24ace80",
+  "slug": "section-0270-spaghetti-all",
+  "title": "Spaghetti all",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "ffee507c2189395c44922a2805c064a92c0540ed707ae651f53ec2644448335b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 270,
+    "content_hash": "48d6987caab6319486a14322090fb7586721b39919d031d09aab20230eb86d31",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "45ffc300-c115-429a-869e-fddffdc4a60b",
+  "slug": "section-0156-how-and-when-to-take-azithromycin-nhs",
+  "title": "How and when to take azithromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "e74f98ca97952f16ce0f879e3e78dd9686bae266231f8938096dab1227c6e936",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 156,
+    "content_hash": "17907e787e5250b9495408ff20af8183edcad841363af24ab3614b9fa420a05d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

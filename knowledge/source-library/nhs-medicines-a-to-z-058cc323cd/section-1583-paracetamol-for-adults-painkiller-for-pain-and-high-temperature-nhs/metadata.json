@@ -1,0 +1,25 @@
+{
+  "id": "8e6fdeb8-7361-4f6d-ad20-88b4aea33de6",
+  "slug": "section-1583-paracetamol-for-adults-painkiller-for-pain-and-high-temperature-nhs",
+  "title": "Paracetamol for adults: painkiller for pain and high temperature - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "a6934d1c43b03f77676cb97f252ff024d0b778cfe8fb1fd61ac2febbc8a68c57",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1583,
+    "content_hash": "333815a5c81c0ce617306686275b9b35d78df360ff28db234c572c9bae4c4000",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

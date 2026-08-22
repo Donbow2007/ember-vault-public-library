@@ -1,0 +1,25 @@
+{
+  "id": "26bb4efb-b1a8-431d-adda-2bb519135066",
+  "slug": "section-1712-common-questions-about-rivaroxaban-nhs",
+  "title": "Common questions about rivaroxaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "feebac9df12a0aa3625860910da89fb16353685a468c64df6c249fd7845af296",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1712,
+    "content_hash": "c2b2b09bd734c68473bf696164484630c6cfa440b7e67926e7235b7efd3ac5e3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

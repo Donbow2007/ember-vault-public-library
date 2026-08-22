@@ -1,0 +1,25 @@
+{
+  "id": "e1b050d3-af09-4123-8bb4-d3d9b8bb3467",
+  "slug": "section-0074-who-can-and-cannot-take-amlodipine-nhs",
+  "title": "Who can and cannot take amlodipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "0d2166da84e3049b67494db760f32c297df0196d4e5598862e0a72af3f568590",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 74,
+    "content_hash": "036c4d910c8cb4736888d8f501c072d84fb9a91fbe09d8001c8ecdb7f3e8f215",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

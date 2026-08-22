@@ -1,0 +1,25 @@
+{
+  "id": "d1affc26-5f28-4b4c-9157-fc4b706aa65c",
+  "slug": "section-1751-sildenafil-viagra-medicine-for-erection-problems-nhs",
+  "title": "Sildenafil (Viagra): medicine for erection problems - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "5b07bc4690aecfcce34d784c93808fbcfbbecf5843433e2575223a72042dbd84",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1751,
+    "content_hash": "44022c5de12f462c46d14e6ce2a0efa23e1fa564448b30d0cb8741dc6799c1f8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

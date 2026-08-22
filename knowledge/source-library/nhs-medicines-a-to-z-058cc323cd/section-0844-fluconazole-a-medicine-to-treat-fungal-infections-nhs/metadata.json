@@ -1,0 +1,25 @@
+{
+  "id": "e1badb28-6d06-40da-aa9d-2a4dba05ac6f",
+  "slug": "section-0844-fluconazole-a-medicine-to-treat-fungal-infections-nhs",
+  "title": "Fluconazole: a medicine to treat fungal infections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "7d48845104128f514591c035df25b84765addf0eb98d9fa245b8cc06d1586c1a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 844,
+    "content_hash": "b7faddc28534e219e1237574e26eb725dff5bd54e48dc1513c53fe24d4bb1ba4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

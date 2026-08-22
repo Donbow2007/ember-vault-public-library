@@ -1,0 +1,25 @@
+{
+  "id": "b4d8ccb1-1015-42d0-8667-f385ca22bde9",
+  "slug": "section-0209-maque-choux",
+  "title": "Maque Choux",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "40160138266b1a1957b29d7a48a5609e595f5e0c7205ec5fb71916052c00d281",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 209,
+    "content_hash": "a9aa09e42079cbb9b5fb09dfe5468623ba30f00e0220d7f487840d8673dd383f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

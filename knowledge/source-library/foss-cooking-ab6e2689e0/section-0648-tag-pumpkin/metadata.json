@@ -1,0 +1,25 @@
+{
+  "id": "41474d98-1817-4f4d-898a-d8a9a4e329f4",
+  "slug": "section-0648-tag-pumpkin",
+  "title": "Tag: pumpkin",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e0b77d70d870fc35e1eacd8ae382453a0fbf51ff4ff5bec8f2de84cf0a906384",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 648,
+    "content_hash": "2de97c085ed73351c66101d7b802c9cfa409331ee318784be0e7ae292a191386",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

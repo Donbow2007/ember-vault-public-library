@@ -1,0 +1,25 @@
+{
+  "id": "daa39913-db6b-4248-a237-b1080ac6cd0c",
+  "slug": "section-1649-about-prednisolone-tablets-and-liquid-nhs",
+  "title": "About prednisolone tablets and liquid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "a9ba9e5f5b6a360641f044f3d9c1d402d0aaea0773d7bfbb9e789b54a1494b89",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1649,
+    "content_hash": "32d4b1d87e95ba7f8a2b20bce9037bb31c2d955d3c342902667b3287bd81b9ca",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

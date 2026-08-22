@@ -1,0 +1,9 @@
+# About sildenafil (Viagra) - NHS
+
+About sildenafil (Viagra)
+
+Sildenafil is a medicine used to treat erection problems ( erectile dysfunction ). Sildenafil is also sometimes used to treat pulmonary hypertension (high blood pressure in the blood vessels that supply the lungs). If you have erection problems sildenafil works by temporarily increasing blood flow to your penis when you get sexually excited. In pulmonary hypertension it works by relaxing blood vessels in the chest. If you buy sildenafil for erectile dysfunction, it can also be known by the brand names Viagra, Aronix, Liberize and Nipatra. Sildenafil for pulmonary hypertension can also be known by the brand names Revatio and Grandipam. This medicine is available on prescription and you can also buy it from most pharmacies. It comes as standard tablets, chewable tablets, and as a liquid that you swallow. Key facts It usually takes 30 to 60 minutes for sildenafil to work for erectile dysfunction. You can take it up to 4 hours before you want to have sex. Taking sildenafil alone will not cause an erection. You need to be sexually excited for it to work. The most common side effects are headaches, feeling sick, indigestion and dizziness. Many people have no side effects or only mild ones. It can be dangerous to take sildenafil if you also take medicines called nitrates (often given for chest pain). The combination can cause a dangerous fall in your blood pressure. If you're not sure if you're taking a nitrate, ask your doctor or pharmacist. Do not drink grapefruit juice if you're taking sildenafil (Revatio) for pulmonary hypertension. It affects the way the medicine works.
+Page last reviewed: 2 March 2022
+
+Next review due: 2 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

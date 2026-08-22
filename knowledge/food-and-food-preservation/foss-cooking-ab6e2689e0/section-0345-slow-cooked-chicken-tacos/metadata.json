@@ -1,0 +1,25 @@
+{
+  "id": "9eb2b43c-4743-4e51-baef-385721297504",
+  "slug": "section-0345-slow-cooked-chicken-tacos",
+  "title": "Slow-cooked Chicken Tacos",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "5bfb0e8ad49afefae34a94059193ddce61cfe8c2c0ecfdc066068579fe5a85ce",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 345,
+    "content_hash": "bd41a92c3c1c12058906853bd60153bf50e0b9ae0e7307c77b2e646bca83520b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

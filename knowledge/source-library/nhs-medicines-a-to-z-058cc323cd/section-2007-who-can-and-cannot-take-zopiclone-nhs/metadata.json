@@ -1,0 +1,25 @@
+{
+  "id": "8b689f70-78a1-403e-a907-43b02b18cf94",
+  "slug": "section-2007-who-can-and-cannot-take-zopiclone-nhs",
+  "title": "Who can and cannot take zopiclone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "892226031aad82f1591c5208783464deac7732c91428772ad4f846b637055206",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2007,
+    "content_hash": "46516ec3ae64a486b8775f3fd1d0e6833f0d87455549056a6292520343fd8eaf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

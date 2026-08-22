@@ -1,0 +1,25 @@
+{
+  "id": "04bc6bbd-7b17-498c-8a2e-647549063241",
+  "slug": "section-1384-common-questions-about-methadone-nhs",
+  "title": "Common questions about methadone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "affe6c8b1876781bb662f9a60bfa52ea22f52ae9743c116661772b181a85a9d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1384,
+    "content_hash": "41de4a6c0f466cbe8b1da9dbe3ed4c1a6d682e3a71b947092f3cf4c0375418b6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

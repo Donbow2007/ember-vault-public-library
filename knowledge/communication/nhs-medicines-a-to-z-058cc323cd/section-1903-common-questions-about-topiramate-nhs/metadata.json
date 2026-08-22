@@ -1,0 +1,25 @@
+{
+  "id": "21e41cbb-7845-4fa0-9a8c-43a7afdc7002",
+  "slug": "section-1903-common-questions-about-topiramate-nhs",
+  "title": "Common questions about topiramate - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "92593017d72fbaabe5e2ec2ee35e9c8808d9d3b785b007f59e25fba8aaf2cbcd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1903,
+    "content_hash": "7ee56c0cb373896527b406c1a75abeffe5b1086c67341b86ed1a3e821741a73d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

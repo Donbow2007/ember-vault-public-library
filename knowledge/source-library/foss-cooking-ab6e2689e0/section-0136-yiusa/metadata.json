@@ -1,0 +1,25 @@
+{
+  "id": "860ac7b5-2ad5-4e85-b20b-6a33f7894dfc",
+  "slug": "section-0136-yiusa",
+  "title": "Yiusa",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "a481d33926a36edd6410e639513d1196522151c40f8717ed276ca3dc1ce65f3b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 136,
+    "content_hash": "be016df6b0e9eaec96cb9b05f97a76ee8b4458e59383e07c2730f5f435abcfc3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f6f3d8d5-7e60-47e0-a155-97428397bec1",
+  "slug": "section-1791-who-can-and-cannot-take-sodium-valproate-nhs",
+  "title": "Who can and cannot take sodium valproate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "5ec434b9dae7609ea383d7c8d9ccc50ab8c67856915b0c5852200298f979a356",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1791,
+    "content_hash": "7011490accb798b87ca1ad2709b50092152672160dd052b7eb13eb4d87673921",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b6e19739-2aab-447b-a529-5bc08054f9f9",
+  "slug": "section-1519-common-questions-about-nifedipine-nhs",
+  "title": "Common questions about nifedipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "b0c8b8ee3d3253f18e3a061d918e7583e0cf8ca12cc044364559f08fb572003f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1519,
+    "content_hash": "0b882dd8e27124dd751a99bbae136c0552fb10ba36581cb8c3e9114f0920939e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

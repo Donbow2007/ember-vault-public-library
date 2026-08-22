@@ -1,0 +1,25 @@
+{
+  "id": "d8846fc7-2822-48dc-bc23-f87dea83e80f",
+  "slug": "section-0312-basic-meatballs",
+  "title": "Basic Meatballs",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "ebc791b5543b6121c6dab61dc479ce1991e16e5346477514b72d5afefb037e15",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 312,
+    "content_hash": "eaa2814a7d55df31e5aa774fce9dab19c725bcf0ac88092d27fc4631b66b5095",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

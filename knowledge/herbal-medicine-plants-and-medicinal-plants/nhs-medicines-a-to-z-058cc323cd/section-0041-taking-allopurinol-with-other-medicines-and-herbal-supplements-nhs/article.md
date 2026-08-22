@@ -1,0 +1,9 @@
+# Taking allopurinol with other medicines and herbal supplements - NHS
+
+Taking allopurinol with other medicines and herbal supplements - Brand names: Zyloric, Uricto Cautions with other medicines Some medicines and allopurinol can affect each other and increase the chances of you having side effects. Tell a doctor or pharmacist if you're taking any of these medicines before you start taking allopurinol: aspirin or medicines used to help prevent blood clots ( anticoagulants ), such as warfarin any antibiotics medicines used to reduce your immune response (for arthritis or after you've had an organ transplant) tablets that make you pee more (diuretics) such as furosemide or ACE inhibitors to treat high blood pressure (hypertension) such as enalapril or ramipril If you take aluminium hydroxide (found in some antacids such as Maalox and Mucogel), leave a 3-hour gap between the aluminium hydroxide and your allopurinol dose. Taking allopurinol with painkillers You can take allopurinol with paracetamol and anti-inflammatory medicines such as ibuprofen , naproxen , or indomethacin. Your doctor may prescribe an NSAID (such as diclofenac or naproxen) or a medicine called colchicine to help prevent or to deal with attacks of gout – especially in the early stages of allopurinol treatment. Mixing allopurinol with herbal remedies and supplements There's not enough information to say whether complementary medicines, herbal remedies and supplements are safe to take with allopurinol. They are not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 23 January 2023
+
+Next review due: 23 January 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "78d67f7f-0ef5-40b3-881f-3078db799eb3",
+  "slug": "section-0354-blueberry-muffins",
+  "title": "Blueberry Muffins",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "f459d05f0eb3602ae33acaa0a29b38bc54f1b94f23c010116b56e76b98d686c4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 354,
+    "content_hash": "45a08778e24ce8011f644d6c45a0ad1aa09106e8a02fdfaae433fee411452ace",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

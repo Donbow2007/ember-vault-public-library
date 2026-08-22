@@ -1,0 +1,25 @@
+{
+  "id": "d800d44c-bb44-4638-80b1-5d0fa63f592b",
+  "slug": "section-0432-taking-or-using-ciprofloxacin-with-other-medicines-and-herbal-suppleme",
+  "title": "Taking or using ciprofloxacin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "d6c76cb9ecc1375a7d20cb1d818d5a5f834944dac0681dfda8bce1f174f47e6d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 432,
+    "content_hash": "4e42bfa66f4592041b9c392f27f134f793b5b2eaa563eca942932e2367ace2d3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

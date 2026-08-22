@@ -1,0 +1,25 @@
+{
+  "id": "83580a44-c793-4cb2-92d9-a80b49908236",
+  "slug": "section-1714-pregnancy-breastfeeding-and-fertility-while-taking-rivaroxaban-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking rivaroxaban - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "9073fb0822eae7af43bff43429dc86d273336762b1af05dca8ead1cf7f544cdb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1714,
+    "content_hash": "bc15c526e243d8e577ff3fe35c6c5ccbc9cb4dad09445e57d0410b342b2d0bc5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

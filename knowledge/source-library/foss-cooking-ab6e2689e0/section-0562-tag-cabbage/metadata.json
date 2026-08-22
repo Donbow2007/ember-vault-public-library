@@ -1,0 +1,25 @@
+{
+  "id": "2ed3fb15-6f62-4091-8219-90f06cd3001e",
+  "slug": "section-0562-tag-cabbage",
+  "title": "Tag: cabbage",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "f36c23ce12c6efad614bd1b919773bc1dbd643eb38f67159e4d2353b6a42aa6a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 562,
+    "content_hash": "f767958334c73b613e63e7aae324a81b91f633d7712843715155e4532d860489",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

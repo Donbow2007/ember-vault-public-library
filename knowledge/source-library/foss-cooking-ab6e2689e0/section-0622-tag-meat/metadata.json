@@ -1,0 +1,25 @@
+{
+  "id": "b3c60a7c-ac6c-4a8c-a231-fa7bcc78aee4",
+  "slug": "section-0622-tag-meat",
+  "title": "Tag: meat",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6191860d5bc0b1aa36e00acbf2e62420249f57fef9c3bd255a7020b203859fa9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 622,
+    "content_hash": "400313a8496e1c10ad43a872bd65fdfd71fa83babdc540c5f6edda04b4bc1c9c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

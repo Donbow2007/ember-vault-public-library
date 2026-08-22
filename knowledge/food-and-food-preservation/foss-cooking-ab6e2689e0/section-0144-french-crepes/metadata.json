@@ -1,0 +1,25 @@
+{
+  "id": "47a4ccf5-e0e9-41b5-855d-3c16df5a6de4",
+  "slug": "section-0144-french-crepes",
+  "title": "French Crêpes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "18b182ef9dc8ca8b63f9cc2c08e86e9afec5024dc39f0b47c7cbc619fb70d70f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 144,
+    "content_hash": "48941effd0105308d4d0bcd725a05bdd1a23bef3df42a85b5db38ccb06f85a4e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

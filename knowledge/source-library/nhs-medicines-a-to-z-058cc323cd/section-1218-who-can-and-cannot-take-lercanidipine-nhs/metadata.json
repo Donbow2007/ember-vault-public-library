@@ -1,0 +1,25 @@
+{
+  "id": "0b1ab539-1cd2-4128-b886-c17ec200d9a3",
+  "slug": "section-1218-who-can-and-cannot-take-lercanidipine-nhs",
+  "title": "Who can and cannot take lercanidipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "40ae9bc77760d474135171cbba84d54d3bd202514565532ba094d071b2ca24a5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1218,
+    "content_hash": "e9a4dcb656a597311cb4bf58f66cb762e5fc18386aaebaa2695a5c5033d23f4a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "089112ad-7db0-4aeb-bef9-50e1ea51591e",
+  "slug": "section-1572-side-effects-of-oxycodone-nhs",
+  "title": "Side effects of oxycodone - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "f6062074752dcfdcbbe81a9587e535031e988a5ae31ea5f46bc8a068048ca616",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1572,
+    "content_hash": "2d483c47474a74119f81192b5e7c97c3faa21ddb7d6d98e6d5f5d93592b4e244",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

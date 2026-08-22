@@ -1,0 +1,25 @@
+{
+  "id": "67276e2f-33b0-4f37-a882-df6c7aaeca26",
+  "slug": "section-0261-hummus",
+  "title": "Hummus",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "283decdd8684b75aa6d0db34a012d1c4fa6fb8386c87e4212fb3158ff690ecb0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 261,
+    "content_hash": "5f8e6f077960821208e5d7d2c4d8481494fb56d24d9c2701bf25de58f2bfb295",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

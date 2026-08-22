@@ -1,0 +1,25 @@
+{
+  "id": "a94badeb-b527-4860-8566-2585d3bd6ce0",
+  "slug": "section-0985-taking-sequential-combined-hormone-replacement-therapy-hrt-with-other",
+  "title": "Taking sequential combined hormone replacement therapy (HRT) with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "612e7cfc41e2ace7cf2dc9a9611f891472d31a0e9da9f2813d53f8437ae65688",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 985,
+    "content_hash": "614040a6106c9611496aecef97aedac362dfecbd24180764c9029c2f33eef1c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

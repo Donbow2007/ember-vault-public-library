@@ -1,0 +1,25 @@
+{
+  "id": "2c990e52-a39a-4825-82c1-83666cf5cb52",
+  "slug": "section-0672-taking-or-using-diphenhydramine-with-other-medicines-and-herbal-supple",
+  "title": "Taking or using diphenhydramine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "04004792c89231aff289d7e80cb08e0d9ddd46c97507d0c5fd5ad07124c906b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 672,
+    "content_hash": "58e58bc92e6c8cea7825ffa464acf34e0c867ef32f974f7b8113089a21b1f823",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cc8c4fe5-5b09-44ef-8e9c-05628963415b",
+  "slug": "section-0551-tag-bariatric",
+  "title": "Tag: bariatric",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "788bf3adb89da1c0c53f921caa222c548b07ba4a10a996f79d748d72f32fc3ad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 551,
+    "content_hash": "b514318a4dc1699d19659e3ffc6bce37105134796d6bcbdb45b311d77861a94e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

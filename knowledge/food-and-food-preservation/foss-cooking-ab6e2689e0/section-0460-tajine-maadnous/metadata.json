@@ -1,0 +1,25 @@
+{
+  "id": "59ab28b0-29b5-4af2-8391-6fc419968ea3",
+  "slug": "section-0460-tajine-maadnous",
+  "title": "Tajine Maadnous",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "12062035be976c0adf59b5f43c2f4b3b9f4150591cd7b5ef8c2039619b823ea2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 460,
+    "content_hash": "da924131eb726a1d4e7f8167bfe3cd94bb79618411c5e1f8cf3795251f3bb3e5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

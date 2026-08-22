@@ -1,0 +1,25 @@
+{
+  "id": "6d7c8356-a8a5-4622-b15a-509bb731251f",
+  "slug": "section-0288-greek-salad",
+  "title": "Greek Salad",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "8f1fa5ddc012128d1dda51b305334a614e7d2949c3d6fd3846cbcca76310e6f8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 288,
+    "content_hash": "deb8d21e5ea29cdc132afebb5ce64206069f063450330e31c23cfa1ac5caba02",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

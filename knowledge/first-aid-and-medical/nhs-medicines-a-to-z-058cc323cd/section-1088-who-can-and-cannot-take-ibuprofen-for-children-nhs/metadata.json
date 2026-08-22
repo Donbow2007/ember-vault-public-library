@@ -1,0 +1,25 @@
+{
+  "id": "f9c567e0-0c53-4296-8e88-d972ee90b796",
+  "slug": "section-1088-who-can-and-cannot-take-ibuprofen-for-children-nhs",
+  "title": "Who can and cannot take ibuprofen for children - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "4bb15c8f7e5e44736cc628957b6816842e84560118db7e6cbd65bd57242a1bb5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1088,
+    "content_hash": "0d76e15b9e2099e67fb3c7760da0e024b4c97acae35222cc8387d448de9d46a6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

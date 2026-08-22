@@ -1,0 +1,25 @@
+{
+  "id": "1900dc76-aa1a-4fa3-bd63-a459db4b2529",
+  "slug": "section-0829-about-finasteride-nhs",
+  "title": "About finasteride - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "2df83271527667347c15dd677109302315d1fa44601f6a579438637fb9ec38ab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 829,
+    "content_hash": "d9d3d930a8f8534711b39d069417fe90aa00c22298508943347c9b6a8ee1ea9c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

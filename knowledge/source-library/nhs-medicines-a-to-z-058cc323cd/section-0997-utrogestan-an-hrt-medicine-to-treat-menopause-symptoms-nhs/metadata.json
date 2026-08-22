@@ -1,0 +1,25 @@
+{
+  "id": "895932b6-fc5b-4914-bcee-dab82c9b0672",
+  "slug": "section-0997-utrogestan-an-hrt-medicine-to-treat-menopause-symptoms-nhs",
+  "title": "Utrogestan: an HRT medicine to treat menopause symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "831e66169fb332121167e9ae14c3c6fb455be6e94826e0562e939c808f51577f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 997,
+    "content_hash": "2a35ce6dc7face069d611ec4484b98c7d5a597b35c8607adc9061eb723c24df5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

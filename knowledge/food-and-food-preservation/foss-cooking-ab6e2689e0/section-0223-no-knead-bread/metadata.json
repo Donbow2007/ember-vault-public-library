@@ -1,0 +1,25 @@
+{
+  "id": "ac40a64e-4854-4fd7-8ac7-1622b2265c21",
+  "slug": "section-0223-no-knead-bread",
+  "title": "No-knead Bread",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "d39240f608e1ea10d15b7a7f6bb360e4e514cd5f2c8931a8715f465bc71d879b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 223,
+    "content_hash": "a61f31a4d2a893f36ce38577786906c35a8bc9159a1cc5c9f59f844fa6b64326",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

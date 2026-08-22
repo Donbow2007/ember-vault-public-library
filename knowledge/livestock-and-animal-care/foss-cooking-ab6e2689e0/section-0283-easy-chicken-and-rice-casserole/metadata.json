@@ -1,0 +1,25 @@
+{
+  "id": "801e7ff0-997c-4505-ab37-98067ee56adc",
+  "slug": "section-0283-easy-chicken-and-rice-casserole",
+  "title": "Easy Chicken and Rice Casserole",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "a08151e7410f7dd5f4e728ed5cee6114ba8c11106b51a11e26c2dd8907601a38",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 283,
+    "content_hash": "3f09423a9b1de6836d7d6de70f1668419cb818b162a2fde58305875c023bd587",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

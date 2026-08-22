@@ -1,0 +1,11 @@
+# Taking carvedilol with other medicines and herbal supplements - NHS
+
+Taking carvedilol with other medicines and herbal supplements
+
+Cautions with other medicines There are some medicines that can affect the way carvedilol works. Tell your doctor if you're taking: other medicines for high blood pressure – when taken together with carvedilol, they can sometimes lower your blood pressure too much other medicines that can lower your blood pressure – these include some antidepressants, nitrates (for chest pain), baclofen (a muscle relaxant), medicines for an enlarged prostate gland like tamsulosin , or levodopa (for Parkinson's disease) medicines for an irregular heartbeat such as digoxin , amiodarone or flecainide medicines for asthma or chronic obstructive pulmonary disease (COPD) medicines for diabetes, particularly insulin – carvedilol may lower your blood sugar too much when taken with diabetes medicines, and may make it more difficult to recognise the warning signs of low blood sugar. Speak to your doctor if you have low blood sugar levels without getting any warning signs. Check your blood sugar after exercise, and follow usual advice about checking it before driving, or operating machinery medicines that treat nose or sinus congestion, or other cold remedies (including those you can buy in the pharmacy) medicines for allergies, such as ephedrine, noradrenaline or adrenaline non-steroidal anti-inflammatory drugs ( NSAIDs ), such as ibuprofen , diclofenac or naproxen – these medicines may increase your blood pressure ciclosporin, used for immune conditions such as rheumatoid arthritis Mixing carvedilol with herbal remedies and supplements There's not enough information to say that complementary medicines, herbal remedies and supplements are safe to take with carvedilol. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 5 July 2024
+
+Next review due: 5 July 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

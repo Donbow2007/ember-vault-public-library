@@ -1,0 +1,25 @@
+{
+  "id": "051332ff-45a0-42e3-895e-cf2e13a6a15a",
+  "slug": "section-1432-how-and-when-to-take-or-use-metronidazole-nhs",
+  "title": "How and when to take or use metronidazole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "bc8d737da43904d5a0a2aa0a74f532795d43eef03e68794115d5eed5d4190482",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1432,
+    "content_hash": "399a275b96ed67f27e925689575b7f198aa103569409aa665e75663f5d6400d0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

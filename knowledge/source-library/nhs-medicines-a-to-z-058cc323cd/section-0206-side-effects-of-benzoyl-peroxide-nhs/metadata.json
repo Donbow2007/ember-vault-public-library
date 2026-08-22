@@ -1,0 +1,25 @@
+{
+  "id": "da712f86-0dad-4f4c-a655-c75a771a6509",
+  "slug": "section-0206-side-effects-of-benzoyl-peroxide-nhs",
+  "title": "Side effects of benzoyl peroxide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "55ddca47842ce73ae5f187ab4c57f114d601e4eb8eb1dd5b1f6cf49023244d77",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 206,
+    "content_hash": "ebdef1a73e77c80e6b2bcfd53f1a104e0eb3ae3f7aa8ddfc3685181ef6769209",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ef9cbba1-6688-4175-85ca-265b1fb25895",
+  "slug": "section-0889-side-effects-of-folic-acid-nhs",
+  "title": "Side effects of folic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "836f4763d67cc2145d95c9c5b3111f981ac87153e55780fbfc978fcd74cd0bd5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 889,
+    "content_hash": "3a61611a98fb171c074997f6af35648571e632418c03c6387debef77ef1a7ae3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

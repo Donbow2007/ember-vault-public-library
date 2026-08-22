@@ -1,0 +1,25 @@
+{
+  "id": "a54785ef-b0e8-47a3-b914-dc808280aab2",
+  "slug": "section-0391-side-effects-of-cetirizine-nhs",
+  "title": "Side effects of cetirizine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "8e9ce6839d09932a723be508e3777bb1a1f7cd885e719356fbc7ee8ba5328cf8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 391,
+    "content_hash": "97e1aa7fd5497612c56d11fbbeb6e581463d8f2a16b47f4cc1dd90471e8f3ae0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

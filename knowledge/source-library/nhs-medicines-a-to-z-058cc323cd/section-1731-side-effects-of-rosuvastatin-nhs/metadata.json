@@ -1,0 +1,25 @@
+{
+  "id": "8266c23c-6dd2-4375-b036-79420c0d4ccb",
+  "slug": "section-1731-side-effects-of-rosuvastatin-nhs",
+  "title": "Side effects of rosuvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c0733e124643ae2a6e2316fa784db4250f41d9f33c793b0a00d2e89239a6e130",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1731,
+    "content_hash": "182d7249b1199732e307b614c11ee7dc20f754242b3bff13c04ee3fffcc1d077",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

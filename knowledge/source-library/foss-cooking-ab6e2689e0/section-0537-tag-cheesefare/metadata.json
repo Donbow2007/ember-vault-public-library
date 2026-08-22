@@ -1,0 +1,25 @@
+{
+  "id": "0c3f9c98-1c63-44b6-a45a-8225731c6deb",
+  "slug": "section-0537-tag-cheesefare",
+  "title": "Tag: cheesefare",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "294c8d049637b658fb039301aadd6100963c41b74c8cc9d9450feba9788fa608",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 537,
+    "content_hash": "2de97c085ed73351c66101d7b802c9cfa409331ee318784be0e7ae292a191386",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

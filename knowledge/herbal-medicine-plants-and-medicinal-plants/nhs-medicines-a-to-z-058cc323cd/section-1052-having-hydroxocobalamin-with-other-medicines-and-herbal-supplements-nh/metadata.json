@@ -1,0 +1,25 @@
+{
+  "id": "09c04a6f-cfce-4b37-bf8c-c82c5def2642",
+  "slug": "section-1052-having-hydroxocobalamin-with-other-medicines-and-herbal-supplements-nh",
+  "title": "Having hydroxocobalamin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "abac6bac7b3914f1d7ec39bb33ca6421c26ef49fee8495c654062d0194b2796a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1052,
+    "content_hash": "c1e6b246dd4d70a6414ae265b66898821d50f846a1457327cd8c728f0bdd67ce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

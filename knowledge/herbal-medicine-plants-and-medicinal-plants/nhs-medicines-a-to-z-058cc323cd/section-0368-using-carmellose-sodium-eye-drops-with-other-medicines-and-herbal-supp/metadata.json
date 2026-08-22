@@ -1,0 +1,25 @@
+{
+  "id": "c57c568a-f068-4db4-aaff-ddb292b2a5bb",
+  "slug": "section-0368-using-carmellose-sodium-eye-drops-with-other-medicines-and-herbal-supp",
+  "title": "Using carmellose sodium eye drops with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "a0c8842d717ccd8660678f5b819ac056cc3573b19c47c1d75bee65d3e8231494",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 368,
+    "content_hash": "a9721b83547a2ab70b46904d4d83bd02e22267bd3e33cfd3d196f7dbcebef970",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

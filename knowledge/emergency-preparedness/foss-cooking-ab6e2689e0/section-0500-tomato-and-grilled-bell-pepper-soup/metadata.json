@@ -1,0 +1,25 @@
+{
+  "id": "26a0ab03-04e8-4bdd-b09a-d2208c9f5df4",
+  "slug": "section-0500-tomato-and-grilled-bell-pepper-soup",
+  "title": "Tomato and Grilled Bell Pepper soup",
+  "category": "emergency-preparedness",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "46803b94097d16a04f26c8604365c2e2f133969bf83436a1ced0eb0c54fdcfef",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 500,
+    "content_hash": "9f32cfc497761e8f5facf854389684dca3356bce8f52e8fa6fd08b1c5adc4957",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

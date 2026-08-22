@@ -1,0 +1,25 @@
+{
+  "id": "64408c94-87f1-48f4-bf8a-c2be84cc082e",
+  "slug": "section-1737-how-and-when-to-use-salbutamol-inhalers-nhs",
+  "title": "How and when to use salbutamol inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "3604472268937b3400e5a34af851bde191f3e979c74860658d6d014efd157463",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1737,
+    "content_hash": "204cadb888fa387e74a6dd9148570a099dab7a826fa7dfacdc96c6e06594f10d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

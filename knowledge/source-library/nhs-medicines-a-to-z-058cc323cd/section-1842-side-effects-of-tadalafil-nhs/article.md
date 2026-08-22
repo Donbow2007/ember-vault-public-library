@@ -1,0 +1,21 @@
+# Side effects of tadalafil - NHS
+
+Side effects of tadalafil - Brand names: Cialis, Adcirca Like all medicines, tadalafil can cause side effects in some people, but many people have no side effects or only minor ones. Common side effects Common side effects of tadalafil happen in more than 1 in 100 people. If you're taking it for erection problems you're unlikely to get side effects as you're only taking it for a short time. If you're taking tadalafil for pulmonary hypertension and get these side effects, there are things you can do to help cope with them:
+Headaches
+Make sure you rest and drink plenty of fluids. Do not drink too much alcohol. Ask your pharmacist to recommend a painkiller. Headaches should usually go away after the first week of taking tadalafil. Talk to your doctor if they last longer than a week or are severe.
+Feeling sick (nausea)
+It may help if you stick to simple meals and avoid rich or spicy food. If you're taking tadalafil for pulmonary hypertension, it may help to take it after a meal or snack.
+Facial flushing and hot flushes
+Try cutting down on coffee, tea and alcohol. It might help to keep the room cool and use a fan. You could also spray your face with cool water or sip cold or iced drinks. The flushing should go away after a few days.
+Indigestion
+If you need something to ease the discomfort, try taking an antacid , but do not put off going to the doctor if it bothers you. They may be able to prescribe an extra medicine to protect your stomach.
+Stuffy nose
+Speak to a pharmacist or doctor. They may be able to recommend a nasal spray that helps.
+Muscle aches
+If you get unusual muscle ache that is not from exercise or physical work, ask your pharmacist to recommend a suitable painkiller. Talk to your doctor if the aches continue. Side effects will usually go away when you stop taking the tablets. Talk to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects Serious side effects are rare and happen in less than 1 in 1,000 people. Urgent advice: Go to A&E straight away if:
+you have sudden loss of vision or sudden problems with your hearing – stop taking tadalafil if this happens you have a prolonged or painful erection, especially if it lasts for more than 2 hours Find your nearest A&E Immediate action required: Call 999 now if:
+you have a seizure or fit you have chest pain Stop taking tadalafil if you get any of these symptoms. If you get chest pain during or after sex and you usually use nitrates, such as glyceryl trinitrate (GTN) , do not take them to treat your chest pain. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Serious allergic reaction In rare cases, tadalafil can cause a serious allergic reaction ( anaphylaxis ). Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of tadalafil. For a full list, see the leaflet inside your medicine packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 11 November 2022
+
+Next review due: 11 November 2025

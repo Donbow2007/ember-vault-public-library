@@ -1,0 +1,25 @@
+{
+  "id": "2f76be0c-37c7-40b9-b857-5d70d6b85070",
+  "slug": "section-0022-cactar",
+  "title": "Cactar",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "c018f695f23c2696f66594a9996ee90d48324b0f1fb243c0ba0fa5bea7f2aee2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 22,
+    "content_hash": "7958c1fbfd35234bbff6e774f016bff6afffc199a94bd579a2de0fade1ca3263",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

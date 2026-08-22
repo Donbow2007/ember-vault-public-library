@@ -1,0 +1,25 @@
+{
+  "id": "111113f1-197a-43b3-a509-1e16d1d9e255",
+  "slug": "section-0387-loaded-mexican-rice",
+  "title": "Loaded Mexican Rice",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "1ad3908db87e12696f1dea0ba220bb62580e3b48adc5cfbc697349ff01edda98",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 387,
+    "content_hash": "d895096ed82dec694ab35574736633d260ee89ed887e60605335e9d689d71e58",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

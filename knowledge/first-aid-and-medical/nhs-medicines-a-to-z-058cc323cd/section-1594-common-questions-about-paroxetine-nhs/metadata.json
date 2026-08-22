@@ -1,0 +1,25 @@
+{
+  "id": "e0d7a3d1-201d-43fd-92a8-66144f4ba7ed",
+  "slug": "section-1594-common-questions-about-paroxetine-nhs",
+  "title": "Common questions about paroxetine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "6e746128afd9525fc33378f0b7eb6d93e6b7bf61f8badb099bc211f6cca00fd8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1594,
+    "content_hash": "b323e6617cb75764491836e538a7b845db555202eca8f52bf2af731f9544eee1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

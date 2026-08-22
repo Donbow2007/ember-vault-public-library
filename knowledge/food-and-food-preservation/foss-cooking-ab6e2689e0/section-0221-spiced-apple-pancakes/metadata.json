@@ -1,0 +1,25 @@
+{
+  "id": "3cd88ff0-c325-46a7-ac5f-ac9aff3072c1",
+  "slug": "section-0221-spiced-apple-pancakes",
+  "title": "Spiced Apple Pancakes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "21abeb26b200768064f216fc8342ee0f48834c45f9d0d773cd12c2fa228802a0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 221,
+    "content_hash": "d5c725226060ebf92d4c4aa596eabe65dde5f96fd1f98f6b967b3356ee1b8496",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

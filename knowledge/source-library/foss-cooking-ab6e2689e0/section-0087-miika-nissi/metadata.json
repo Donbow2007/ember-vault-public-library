@@ -1,0 +1,25 @@
+{
+  "id": "0b9e84f7-a821-4a2e-b012-f2d7906d5863",
+  "slug": "section-0087-miika-nissi",
+  "title": "Miika Nissi",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "b55e06379015415e29363a28931950d0f7fb53a2c3e28783d9ea76a463250587",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 87,
+    "content_hash": "718624ccf314174bcfbe3af1c972d4be8cfcdd6e8a6da893176eb51762f78aef",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

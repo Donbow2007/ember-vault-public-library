@@ -1,0 +1,25 @@
+{
+  "id": "6142ea46-21e1-4a63-81a5-cf6d576223ec",
+  "slug": "section-0365-overnight-oats",
+  "title": "Overnight Oats",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "76ce3f142106a97f2232b486415a5a3bbcd3e2d17f2669a7187b6b80eff4514e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 365,
+    "content_hash": "287e99d4bfeb587fd8d1a63a9800552018690b2c87b6a2e67a6b8633ae75c641",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

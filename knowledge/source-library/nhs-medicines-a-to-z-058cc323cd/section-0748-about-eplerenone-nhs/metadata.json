@@ -1,0 +1,25 @@
+{
+  "id": "192f6a1f-cfef-4361-920c-a72c5e29b778",
+  "slug": "section-0748-about-eplerenone-nhs",
+  "title": "About eplerenone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "43f01090c416bba21356d72cdde4c8919d2e090d0381dd1763d293423b7fdc95",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 748,
+    "content_hash": "002ce7b91a22dc1726eb6fa4671d7e5bcc1cd3c21b119f82c298aecd8933d195",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

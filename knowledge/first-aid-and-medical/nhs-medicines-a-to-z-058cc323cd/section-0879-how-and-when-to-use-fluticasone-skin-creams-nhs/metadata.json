@@ -1,0 +1,25 @@
+{
+  "id": "e21cf7bb-85ef-4346-8a5f-0105001466df",
+  "slug": "section-0879-how-and-when-to-use-fluticasone-skin-creams-nhs",
+  "title": "How and when to use fluticasone skin creams - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "4bb633f47c82c2a459880bd437d0fcf9bc92364f4814fb2dba32a85a005be73e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 879,
+    "content_hash": "be8adc8dcaebdc20938373d5b214e787ad1ee5d0fba47b4f91755b65ba9591bc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

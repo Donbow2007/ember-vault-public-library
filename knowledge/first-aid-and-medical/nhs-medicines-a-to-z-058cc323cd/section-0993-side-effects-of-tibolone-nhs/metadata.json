@@ -1,0 +1,25 @@
+{
+  "id": "398e10e4-80ec-4294-8185-4578361e52c0",
+  "slug": "section-0993-side-effects-of-tibolone-nhs",
+  "title": "Side effects of tibolone - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "c7510706a7096f54bb8065e819c04c8596d6c6075e62071a4f95001e5c5756bc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 993,
+    "content_hash": "90d8a8245b1584d709532fd482768cab6370635a0234f032de47633c06ba6267",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

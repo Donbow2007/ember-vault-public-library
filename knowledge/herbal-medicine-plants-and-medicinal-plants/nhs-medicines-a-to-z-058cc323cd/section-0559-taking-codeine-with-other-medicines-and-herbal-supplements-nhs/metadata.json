@@ -1,0 +1,25 @@
+{
+  "id": "84adfa43-2c2f-416a-960b-2c2ce07b98d8",
+  "slug": "section-0559-taking-codeine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking codeine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "b155407e5f908699855654fd23ed3cb311aca63cf52f3b759d38e33d39e4a7be",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 559,
+    "content_hash": "b5ff16cb6fb9dad583417903389d6654593536f82f1ccc7c21b51375413ee6f8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6ec0105c-87e6-447e-be06-fa90385778a2",
+  "slug": "section-1726-rosuvastatin-a-medicine-to-treat-high-cholesterol-nhs",
+  "title": "Rosuvastatin: a medicine to treat high cholesterol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "a502f76c04860613df0554e07315e1f1402ecd11b217100732589b872054d57e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1726,
+    "content_hash": "db204834dc5c42b87e77513708807c46e4fe8359498ec3cbb08e294002e9658a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

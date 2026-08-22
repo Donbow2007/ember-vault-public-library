@@ -1,0 +1,25 @@
+{
+  "id": "d150ae2d-be90-418d-8fc6-f25bb726d24b",
+  "slug": "section-1267-taking-lithium-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking lithium with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "d5644cad7c0c58da7a634bb5b55b2183c0f6cc9e0cc5201e28b00c002953d7ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1267,
+    "content_hash": "a73be47d5ebd9914fa604fa336b137ae41a1cb4272daa01e7b286bd27d207220",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

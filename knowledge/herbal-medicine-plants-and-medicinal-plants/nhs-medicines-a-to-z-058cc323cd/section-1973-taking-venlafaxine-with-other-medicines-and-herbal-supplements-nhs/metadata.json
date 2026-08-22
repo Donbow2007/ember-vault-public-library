@@ -1,0 +1,25 @@
+{
+  "id": "2008d682-b267-4696-89ed-20ec635b6b5b",
+  "slug": "section-1973-taking-venlafaxine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking venlafaxine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "ba4281e0c97385f84e2d88f2e3b5498997d241e7debc571743c3607cb00aa2a3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1973,
+    "content_hash": "183a2e9b0c401d4b71b3e6965232dd777d43f3ca3b2f6abd4244ba7a34ff5334",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

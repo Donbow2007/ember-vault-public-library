@@ -1,0 +1,25 @@
+{
+  "id": "db277e3b-b696-4739-8235-5d46a7adc440",
+  "slug": "section-1553-how-and-when-to-take-olanzapine-nhs",
+  "title": "How and when to take olanzapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "b59f002d546e4ce9d79c41561b989aa3115cceb7f44381db72eb4071c1b29bfd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1553,
+    "content_hash": "a9fd5561bb2c10a6020e938b6fe9ae9fd01c6d4e319c25464b8c91d8e48d710b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

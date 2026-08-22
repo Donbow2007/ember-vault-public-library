@@ -1,0 +1,25 @@
+{
+  "id": "6344c9ff-b6eb-4107-8f8f-8494d374d35d",
+  "slug": "section-1409-how-and-when-to-take-methylphenidate-for-children-nhs",
+  "title": "How and when to take methylphenidate for children - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "f54a8c34d603b6acdf49469f8f1e00ee7d5508da9e98e2d828854074b5081dda",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1409,
+    "content_hash": "aaad3b660f42888f6b840e30c5e7900cb6f80ebc17ecec515b3010bfc2b0be19",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

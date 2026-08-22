@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while using chlorhexidine - NHS
+
+Pregnancy, breastfeeding and fertility while using chlorhexidine - Brand names: Corsodyl, Covonia, Dermol, Germolene, Savlon Chlorhexidine and pregnancy It's generally thought to be OK to use products containing chlorhexidine during pregnancy. There's very little information on the safety of chlorhexidine products in pregnancy, but they are not thought to be harmful. Chlorhexidine and breastfeeding All chlorhexidine treatments are OK to use while breastfeeding. If you're using chlorhexidine on your skin, take care that your baby does not touch any areas of your body where you've used it. Wash your hands after using it and before picking up your baby. If you're using chlorhexidine on your breasts or nipples, wash off any cream or ointment, and then wash your hands before feeding your baby. It's usually better to use cream rather than ointment when breastfeeding, as it's easier to wash off. Chlorhexidine treatments may also contain other ingredients such as steroids, antibacterials and antifungals. It's still OK to use them while breastfeeding. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife, doctor or pharmacist as soon as possible. Chlorhexidine and fertility There's no evidence that chlorhexidine affects fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 19 August 2024
+
+Next review due: 19 August 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

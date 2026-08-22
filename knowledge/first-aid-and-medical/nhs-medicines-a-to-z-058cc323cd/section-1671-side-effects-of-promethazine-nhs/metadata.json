@@ -1,0 +1,25 @@
+{
+  "id": "f484bdae-fe4b-4865-b46f-8ab8581fdd37",
+  "slug": "section-1671-side-effects-of-promethazine-nhs",
+  "title": "Side effects of promethazine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "b4d62769af70225b1bbfffad9e3e7e89a31880774b8e9c3ef99c404743875423",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1671,
+    "content_hash": "47bf2f1ed10ea59f48591e8dd51797c9cbfcf4f6ba3d0d8c70f4eddcb595b314",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

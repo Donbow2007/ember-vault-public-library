@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking montelukast - NHS
+
+Pregnancy, breastfeeding and fertility while taking montelukast - Brand name: Singulair Montelukast and pregnancy You can take montelukast during pregnancy. It's important that your asthma is well controlled. Having difficulty with breathing during pregnancy can be dangerous for you and your baby. Speak to your doctor if you become pregnant while you're taking montelukast. They may wish to review your medicine to check that you're on the best treatment for your asthma. Montelukast and breastfeeding If your doctor, health visitor or midwife says your baby is healthy, you can take montelukast while you're breastfeeding. It's important to continue taking montelukast to keep your symptoms under control. Breastfeeding will also benefit both you and your baby. There is not much information about montelukast in breastfeeding, but the information shows that montelukast passes into breast milk in tiny amounts. It has not been known to cause any side effects in breastfed babies. Talk to your health visitor, midwife, doctor or pharmacist as soon as possible if you have any concerns, including if your baby: is not feeding as well as usual seems unusually sleepy or irritable has diarrhoea Montelukast and fertility There's no evidence that montelukast affects fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how montelukast can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 14 March 2023
+
+Next review due: 14 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

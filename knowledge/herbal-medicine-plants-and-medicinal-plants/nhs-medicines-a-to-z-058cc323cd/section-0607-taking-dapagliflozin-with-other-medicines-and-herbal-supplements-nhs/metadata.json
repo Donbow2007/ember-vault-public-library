@@ -1,0 +1,25 @@
+{
+  "id": "3a4e41e0-a788-42c8-b5e5-b8a16e124f80",
+  "slug": "section-0607-taking-dapagliflozin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking dapagliflozin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "5867975954973d721129f0e117c08bf24b9b2701274904905846f07f11d94ff6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 607,
+    "content_hash": "e98004f21798b4d7f27b60dec16ffa4d9ef0ae1039ab6595258f17e8ce90a362",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

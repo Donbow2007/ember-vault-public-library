@@ -1,0 +1,25 @@
+{
+  "id": "3999a1a9-c9e9-41f7-a6be-96ef5cc32860",
+  "slug": "section-0717-common-questions-about-duloxetine-nhs",
+  "title": "Common questions about duloxetine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "3b42ba3ef5e9302c3be25ffcc8e92de0e9cbea1d7d6e0df896d3a8a7a0bc20e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 717,
+    "content_hash": "f26bae514cb782dfc9f5d0164e07e39eb6a6df8e33c3bd0b52bbabb9e80ff769",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

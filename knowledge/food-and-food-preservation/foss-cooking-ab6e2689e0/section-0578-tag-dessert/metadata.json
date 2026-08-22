@@ -1,0 +1,25 @@
+{
+  "id": "275e9c42-8edd-4537-a1ce-bd7b0596f042",
+  "slug": "section-0578-tag-dessert",
+  "title": "Tag: dessert",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "8d53de8504a428e098ff44cb2148f40f6ae118834208b58d13ec98df4ac4143f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 578,
+    "content_hash": "6ea271980ff1dae294a4cc4bee2e3f5e3ff3a87e5cab28273ecc10399d20a145",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

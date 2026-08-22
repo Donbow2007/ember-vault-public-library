@@ -1,0 +1,25 @@
+{
+  "id": "aaecaa0d-a0eb-40b1-9870-30810e1c6a88",
+  "slug": "section-1584-about-paracetamol-for-adults-nhs",
+  "title": "About paracetamol for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "08e9f7da8132eb35f4ba2ac7292987647b3b3ab59759665911e79903e4aaf239",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1584,
+    "content_hash": "0e397700cfa5bfbe8da25063501be5391e1d162bd7faf2dba508e9e677c9294a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8f2f02e7-9ae7-4cb4-876a-ad2b18ad9be1",
+  "slug": "section-0294-newfoundland-cod-chowder",
+  "title": "Newfoundland Cod Chowder",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "8b162e8c322b2cf90fb4ae045f0e0b052b2ec54bee8ebb20c2267dc4af693227",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 294,
+    "content_hash": "fcdde723ab1096571e0636f3d79980ceb3fe1b095f3c034eaf12e826da1ceca4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

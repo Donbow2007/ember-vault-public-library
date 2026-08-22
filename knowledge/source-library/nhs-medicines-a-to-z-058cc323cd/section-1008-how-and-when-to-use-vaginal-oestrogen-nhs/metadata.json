@@ -1,0 +1,25 @@
+{
+  "id": "018caed5-09d6-434e-8f55-db4b9adb37a2",
+  "slug": "section-1008-how-and-when-to-use-vaginal-oestrogen-nhs",
+  "title": "How and when to use vaginal oestrogen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "f2ecefadd4cbcab5d2411d6ab63612f84d7373dfff238959bc73a93b9352d546",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1008,
+    "content_hash": "fe608831709287a152577db937d1e47cff31e900f5f7e2dd315313a6989a721a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

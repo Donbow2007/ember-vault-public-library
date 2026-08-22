@@ -1,0 +1,25 @@
+{
+  "id": "73bdffd9-2710-443b-8730-71cb0abdf0c8",
+  "slug": "section-0115-siedes",
+  "title": "siedes",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "28cc900cf274062366fe71618b7f8d054e99047b20017c57d2f6c61837837fbe",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 115,
+    "content_hash": "405885bb4e90020ea41ab858b53f241f678742c1e3fccb418f1eea7e87f1bdb1",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

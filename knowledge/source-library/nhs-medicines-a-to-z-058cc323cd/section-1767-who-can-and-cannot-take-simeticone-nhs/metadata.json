@@ -1,0 +1,25 @@
+{
+  "id": "56166f74-9ea3-4e3d-904a-ec00cd9630e7",
+  "slug": "section-1767-who-can-and-cannot-take-simeticone-nhs",
+  "title": "Who can and cannot take simeticone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c119ef292ea0d0cc4607fc6e0e9b5c304dcf32178774dd3e636c8cd1307226cc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1767,
+    "content_hash": "a71ab0482d47343f9092ccb856992618c67d5915dd6f2ff465d91ced69a2138e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

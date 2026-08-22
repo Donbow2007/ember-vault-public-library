@@ -1,0 +1,25 @@
+{
+  "id": "f331b3b2-eaeb-46de-85dd-42789485f574",
+  "slug": "section-0808-pregnancy-breastfeeding-and-fertility-while-taking-ferrous-fumarate-nh",
+  "title": "Pregnancy, breastfeeding and fertility while taking ferrous fumarate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "3b403efaaba8235107c16c49ad27d55b67ad609119a930d06eba16066ede402a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 808,
+    "content_hash": "51ccbcbd25bf2402002ab863465d3ae6d35ca198e6fd580e1c2436fabaa3e018",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

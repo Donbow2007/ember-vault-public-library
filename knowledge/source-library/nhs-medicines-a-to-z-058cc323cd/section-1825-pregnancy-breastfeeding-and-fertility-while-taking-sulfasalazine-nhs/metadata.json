@@ -1,0 +1,25 @@
+{
+  "id": "c25eaeb5-a4f6-417b-b418-34b4ab72495d",
+  "slug": "section-1825-pregnancy-breastfeeding-and-fertility-while-taking-sulfasalazine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking sulfasalazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "8e1e24bf6a3ea588267f5a6d40a2ca563b2b07f0c475350adb34b2e2f7a8b278",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1825,
+    "content_hash": "a3f71b62f4e3c62a2ac62933c07f3f9398485027949ce23e2e6435bd26377d5b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1feb5ae3-1ad0-4003-ae06-9e3d81adeed6",
+  "slug": "section-0301-smoked-salmon-pasta-primavera",
+  "title": "Smoked Salmon Pasta Primavera",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "a2669751565203b8baba9828fe4714d4b0a4babd1b14606ca89dc5c77bd9146b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 301,
+    "content_hash": "ced0d45c87469c428e74ccf685ce2991617ff1110f78315d996270493cc14ebb",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

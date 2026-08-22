@@ -1,0 +1,25 @@
+{
+  "id": "3cb92e60-c181-4968-a02d-37984aec2caa",
+  "slug": "section-0480-taking-clonidine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking clonidine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "7e256608db5898b1fc1e91eff925c651de0670f01f6b0268f46aef5787fc5552",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 480,
+    "content_hash": "2f269871690a74463b93aeccef9d7d2c77d7a63b1af680b7957457e47442eacc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

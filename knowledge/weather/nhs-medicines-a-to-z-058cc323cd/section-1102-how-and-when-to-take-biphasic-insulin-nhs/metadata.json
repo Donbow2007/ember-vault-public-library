@@ -1,0 +1,25 @@
+{
+  "id": "27b6cce7-e416-4af0-a482-9fa731ceb4f7",
+  "slug": "section-1102-how-and-when-to-take-biphasic-insulin-nhs",
+  "title": "How and when to take biphasic insulin - NHS",
+  "category": "weather",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "70b88c7bc4c6cb53fee3744bd9968fa369f8346ce78f72709968f979c81beaba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1102,
+    "content_hash": "ae5c452f032077dc5f2833c5a23ef81f5988f13feb72334176a87d1fb2bcb101",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

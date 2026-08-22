@@ -1,0 +1,25 @@
+{
+  "id": "9d7c280f-26ae-4452-9ad4-ecc6c2e661eb",
+  "slug": "section-1708-taking-risperidone-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking risperidone with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "1cc8f62f13d235d44996eb822748e158195a3bc02b3fdd011c35e48b5c62d33a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1708,
+    "content_hash": "c5abdd41a3f91114e2cc211b2145a4a79a998d01aa84fbd50d9aa9eb00d79ac0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

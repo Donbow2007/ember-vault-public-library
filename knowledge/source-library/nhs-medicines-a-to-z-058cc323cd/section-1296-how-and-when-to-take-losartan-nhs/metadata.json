@@ -1,0 +1,25 @@
+{
+  "id": "cf18b9ff-a446-4c7b-96e5-acf7d4892114",
+  "slug": "section-1296-how-and-when-to-take-losartan-nhs",
+  "title": "How and when to take losartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "d2d6029f2a9428dba6afe150940658ade80af5bba4090bbcf2e3bb4086b4890f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1296,
+    "content_hash": "2a2ebab32b825e3b7df998fd3d19b5a5a5ab48404261d576bd078f264c970f70",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

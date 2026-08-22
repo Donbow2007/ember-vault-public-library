@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking linagliptin - NHS
+
+Pregnancy, breastfeeding and fertility while taking linagliptin
+
+Linagliptin and pregnancy Linagliptin is not recommended as there's not much information about its safety during pregnancy. Other medicines used to treat diabetes, such as insulin and metformin, are safe to take while pregnant. If you are pregnant or thinking of getting pregnant, talk to your doctor as they will need to review your treatment. They will be able to suggest a different medicine that is safer for you to take in pregnancy. Linagliptin and breastfeeding Linagliptin is not usually recommended while breastfeeding. We do not know how much of it passes into breast milk, but it is likely to be a small amount. If you are breastfeeding, or planning to breastfeed, talk to your doctor about what's best for you and your baby. They will need to review your treatment and may be able to suggest a different medicine for you, particularly if you're breastfeeding a newborn or premature baby. If your doctor says it's OK to keep taking linagliptin while breastfeeding, contact your health visitor, midwife, pharmacist or doctor as soon as possible if: your baby is not feeding as well as usual your baby seems unusually sleepy or drowsy your baby seems unusually restless or irritable your baby is paler, or more sweaty, than usual your baby seems hungrier than usual your baby is peeing more you have any other concerns about your baby Linagliptin and fertility There's no evidence to suggest that taking linagliptin reduces fertility in either men or women. Speak to a pharmacist or your doctor if you're trying to get pregnant. They may want to review your diabetes treatment. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding For more information about how diabetes medicines can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 24 March 2022
+
+Next review due: 24 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

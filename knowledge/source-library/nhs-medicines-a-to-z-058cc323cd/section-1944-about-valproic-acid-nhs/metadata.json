@@ -1,0 +1,25 @@
+{
+  "id": "6863b7ee-2801-44e8-8402-de5148d083b5",
+  "slug": "section-1944-about-valproic-acid-nhs",
+  "title": "About valproic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "486950bc29f1e5b3b779e86a8ddb87c5c207ba4bacc673f636de0f0e004a57c8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1944,
+    "content_hash": "4f537601bfc614c4f704896da08215e717e9d8d704ec2037aa12c991eb527a08",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

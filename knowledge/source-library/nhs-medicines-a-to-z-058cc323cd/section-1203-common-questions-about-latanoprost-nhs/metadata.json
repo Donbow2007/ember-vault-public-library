@@ -1,0 +1,25 @@
+{
+  "id": "ff28b633-993d-4ef6-9b2d-f45c89506c31",
+  "slug": "section-1203-common-questions-about-latanoprost-nhs",
+  "title": "Common questions about latanoprost - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "87246543523ae6688bdf3ade39c5a2890a696d1a9437d7f5d4a0707b64abcfac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1203,
+    "content_hash": "f1bf05d781e49bc9b96318cd2c8ffe8d3008ad82112f8d18fee99fb30090cfef",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

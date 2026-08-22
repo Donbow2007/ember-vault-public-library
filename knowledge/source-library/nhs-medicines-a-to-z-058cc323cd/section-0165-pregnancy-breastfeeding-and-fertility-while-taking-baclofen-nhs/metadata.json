@@ -1,0 +1,25 @@
+{
+  "id": "b7e4d805-407d-43fb-a054-95cf9c58e1c0",
+  "slug": "section-0165-pregnancy-breastfeeding-and-fertility-while-taking-baclofen-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking baclofen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "ed9dbbaa4a101cb222a52a128e6b56c814f04d2eac748cb798d50ee2cc966356",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 165,
+    "content_hash": "081f31478f4e030bd07b11a9a7daefcec29afd730b40f2ab7c41248d2205520c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

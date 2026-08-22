@@ -1,0 +1,25 @@
+{
+  "id": "45562299-74a3-4933-a5b5-6d7b44a5b5a8",
+  "slug": "section-0470-chorizo",
+  "title": "Chorizo",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "25728e61261c63177b657b9a535c8ee3de9550c0f355ea2bf813053ec8ccec82",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 470,
+    "content_hash": "5900d8ae6eb1aff78461db9d57a52bb3934b248e232d36e10b3e58bed63afb5a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

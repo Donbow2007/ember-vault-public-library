@@ -1,0 +1,25 @@
+{
+  "id": "1de6b2ca-875e-4bc1-8bb0-8491df218bd6",
+  "slug": "section-1352-common-questions-about-melatonin-nhs",
+  "title": "Common questions about melatonin - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "3ca208c1713e2e824216b073f6a52515761d86511d28cebdbedaa60b44279765",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1352,
+    "content_hash": "2ed977d9042f65a98bf596e8ccd552f214b0feb81023de6a4ad72e038a1529fe",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

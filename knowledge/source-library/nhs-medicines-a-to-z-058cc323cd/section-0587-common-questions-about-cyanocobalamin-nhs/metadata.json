@@ -1,0 +1,25 @@
+{
+  "id": "600bd969-0763-4ef0-8444-38223ef29aa1",
+  "slug": "section-0587-common-questions-about-cyanocobalamin-nhs",
+  "title": "Common questions about cyanocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "d357e7c185420033ba31ca58fcf6a988a0a4c0a2369c1aff4387b475cdaa3d71",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 587,
+    "content_hash": "688d52a493a01eff3660c77b68c029f5c448bff68458c51afa0c8f7e06251def",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

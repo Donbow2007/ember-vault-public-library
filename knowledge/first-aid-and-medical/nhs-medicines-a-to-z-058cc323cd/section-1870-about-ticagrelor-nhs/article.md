@@ -1,0 +1,7 @@
+# About ticagrelor - NHS
+
+About ticagrelor - Brand name: Brilique Ticagrelor is an antiplatelet medicine. It prevents platelets (a type of blood cell) from sticking together and forming a dangerous blood clot. Taking ticagrelor can help prevent blood clots if you have an increased risk of having them because you: have had a heart attack have unstable angina have had a stroke or a transient ischaemic stroke (TIA, or mini-stroke) Ticagrelor is only available on prescription. It comes as standard tablets that you usually swallow whole or tablets that melt in your mouth. Key facts You'll usually take ticagrelor twice a day. Ticagrelor is often prescribed together with low-dose aspirin at the start of treatment. The main side effects of ticagrelor are getting out of breath and bleeding more easily than normal. You may have nosebleeds, heavier periods, bleeding gums and bruising. If ticagrelor makes you feel dizzy, do not drive, cycle or use machinery or tools until you feel better. You can drink alcohol with ticagrelor. But do not drink too much while taking this medicine. It can irritate your stomach. You may need to stop taking ticagrelor for a short time before having surgery or dental treatment, but check with your doctor or dentist first.
+Page last reviewed: 1 April 2025
+
+Next review due: 1 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

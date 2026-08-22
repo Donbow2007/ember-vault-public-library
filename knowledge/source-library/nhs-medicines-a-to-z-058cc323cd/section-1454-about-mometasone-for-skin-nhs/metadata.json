@@ -1,0 +1,25 @@
+{
+  "id": "bb7d51c0-5e92-402e-9d57-6519025dff73",
+  "slug": "section-1454-about-mometasone-for-skin-nhs",
+  "title": "About mometasone for skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "1c52293764586eb0b862171ba0f121f44356ffa1adebb3e0a41f4401c637bbcc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1454,
+    "content_hash": "90e82c845fb1443842b14cab816bfaf44f89e6223ae6aa279a556bb35a280686",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

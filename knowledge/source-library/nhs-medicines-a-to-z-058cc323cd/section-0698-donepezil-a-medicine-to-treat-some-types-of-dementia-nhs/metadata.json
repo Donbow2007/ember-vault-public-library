@@ -1,0 +1,25 @@
+{
+  "id": "8662e4bb-d400-45e3-80b9-198bec94056f",
+  "slug": "section-0698-donepezil-a-medicine-to-treat-some-types-of-dementia-nhs",
+  "title": "Donepezil: a medicine to treat some types of dementia - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "82f10fb0aea0569804bd3e3b3bef031b6b9b66fbb341e365c4967fe3d90fe5e5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 698,
+    "content_hash": "44316212efb94a6450a9a6e02f70aacada3afbe63bc670baf3bd2ee790a9951e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b5b93dd7-115a-4aa8-9953-e9f8b5459935",
+  "slug": "section-0444-irp-fas-org-doddir-milmed-rhpm-pdf-part-12",
+  "title": "irp.fas.org/doddir/milmed/rhpm.pdf — Part 12",
+  "category": "source-library",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "9740feaf19dcbbb606e086747d3eae20110798142245769cc6d7f1db680792c3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 444,
+    "content_hash": "a61cb50f655d5ea713f16f9c51ef09d1cd3ed13f1da2e1ac0d4e0bf4d88d786f",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1f5b0132-9943-4f07-b4f4-9e74a53e8416",
+  "slug": "section-0483-cheese",
+  "title": "Cheese",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "2ed58941c893c16ac9991e8b5dacee6ca391cc17450b68af03bd69d6ccef4e13",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 483,
+    "content_hash": "4064888ad1e2f72d69bced14c3428f5778ea33adf800aa66f337cdeaae59d1a2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

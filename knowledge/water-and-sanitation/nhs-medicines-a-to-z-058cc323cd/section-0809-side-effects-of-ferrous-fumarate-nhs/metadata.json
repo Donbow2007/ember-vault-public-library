@@ -1,0 +1,25 @@
+{
+  "id": "6e88b379-f5fd-4517-b43b-99337a78f3f5",
+  "slug": "section-0809-side-effects-of-ferrous-fumarate-nhs",
+  "title": "Side effects of ferrous fumarate - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "adf0c728933a6b9587ed83f1f4198803b3d71658bf7a0a948a03c147e60fdf51",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 809,
+    "content_hash": "32b36b8e3194784b5d49c72abee25edb1ef2ebb8013f828db41c3ebb076a5e10",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

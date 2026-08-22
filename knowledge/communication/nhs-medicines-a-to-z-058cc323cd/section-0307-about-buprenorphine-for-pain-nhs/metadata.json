@@ -1,0 +1,25 @@
+{
+  "id": "8824d80e-d5ba-473a-b29c-e18321001733",
+  "slug": "section-0307-about-buprenorphine-for-pain-nhs",
+  "title": "About buprenorphine for pain - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "5f044c54072535c064911d6981ed09e444ff53d8373d74fe089034de1ee321eb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 307,
+    "content_hash": "9604c4b8db4b61fc3362e6d4d06bf8a4019afd22e8628e3c122137e0df5431da",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

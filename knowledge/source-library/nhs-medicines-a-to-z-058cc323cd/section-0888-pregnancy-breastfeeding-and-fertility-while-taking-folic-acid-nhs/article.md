@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking folic acid - NHS
+
+Pregnancy, breastfeeding and fertility while taking folic acid
+
+Folic acid and pregnancy It's recommended you take folic acid as soon as you start trying for a baby (ideally for 3 months before) and during the first 12 weeks of pregnancy. This will help your baby's brain and spine to develop normally. You can take folic acid after 12 weeks too. It helps make blood cells. Your doctor or midwife may recommend that you keep taking folic acid throughout pregnancy if you are anaemic or at risk of anaemia. You'll usually take 400 micrograms a day. Your doctor may advise you to take a higher dose of folic acid (usually 5 mg) if you have a higher chance of having a baby with a neural tube defect (a problem with the brain and/or spine, such as spina bifida). Your chance of having a baby with a neural tube defect may be higher if: you have previously had a pregnancy affected by a neural tube defect you or the baby's biological father have a neural tube defect you or the baby's biological father have a family history of neural tube defects you have diabetes you're very overweight you have sickle cell disease you're taking certain epilepsy medicines you're taking antiretroviral medicines for HIV Folic acid and breastfeeding It's OK to take folic acid while you're breastfeeding. Folic acid is a normal part of breast milk. When taken as a supplement it passes into breast milk in amounts that are too small to harm your baby. Folic acid and fertility There's no evidence that folic acid reduces fertility in either men or women. Folic acid does not help you get pregnant, but it's recommended while you're trying to get pregnant and in the first 12 weeks of pregnancy. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding For more information about how folic acid can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 5 April 2022
+
+Next review due: 5 April 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

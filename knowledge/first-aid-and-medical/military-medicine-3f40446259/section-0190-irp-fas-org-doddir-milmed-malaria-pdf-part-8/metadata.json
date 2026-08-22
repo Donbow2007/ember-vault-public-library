@@ -1,0 +1,25 @@
+{
+  "id": "82fe5b3d-0778-49d2-a816-08df411f3ac5",
+  "slug": "section-0190-irp-fas-org-doddir-milmed-malaria-pdf-part-8",
+  "title": "irp.fas.org/doddir/milmed/malaria.pdf — Part 8",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:43Z",
+  "content_hash": "2d25d2d5d38614a7094285531f6f27d82c9a369cef61f065b2d0e6fb046ad2d9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 190,
+    "content_hash": "31b535f171925bdaedb7b28946882b38ff15e9b16a62a38dd1c3c3cea74107e8",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

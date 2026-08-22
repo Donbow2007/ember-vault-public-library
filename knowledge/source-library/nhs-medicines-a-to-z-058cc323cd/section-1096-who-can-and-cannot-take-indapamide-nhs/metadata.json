@@ -1,0 +1,25 @@
+{
+  "id": "59fae969-c057-4a4a-8efd-0511de5b33e6",
+  "slug": "section-1096-who-can-and-cannot-take-indapamide-nhs",
+  "title": "Who can and cannot take indapamide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "81e5f26e1f57b74dae6accab9c82cd0b53eb36dd2bd4a340dc82aa425416e5ab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1096,
+    "content_hash": "c7eed99bdecc755d747eee5954570387aebdd8d2517991b3e3f10573a926e8f5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

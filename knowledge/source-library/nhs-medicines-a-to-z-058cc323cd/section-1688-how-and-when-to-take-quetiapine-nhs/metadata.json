@@ -1,0 +1,25 @@
+{
+  "id": "83876853-14b6-4f93-920f-48fa2b092016",
+  "slug": "section-1688-how-and-when-to-take-quetiapine-nhs",
+  "title": "How and when to take quetiapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "d6f98e09547fefc73e43732c7e85b6564269b33b19f8d4ec87599e45c83fa1ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1688,
+    "content_hash": "f15f51423fa948f875857f54112dd9db522d01aabf872c948c956aedd9a055d3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f9ff1af8-9a2a-49a9-b12c-f1ea670246fc",
+  "slug": "section-1312-how-and-when-to-take-lymecycline-nhs",
+  "title": "How and when to take lymecycline - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "f3dc73be1b502ecd43fd8a12e98f1ad1ddbb6b16481e93b2b354644d3b84c784",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1312,
+    "content_hash": "65ebf99e6316d32ac480a0bbeffcfee34fc4320dbe98728d81e0a21ef397e2b5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

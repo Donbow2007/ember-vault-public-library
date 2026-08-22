@@ -1,0 +1,25 @@
+{
+  "id": "4b8b685f-67f5-49a3-ab46-31214bca6f21",
+  "slug": "section-0948-haloperidol-a-medicine-for-mental-health-conditions-and-sickness-nhs",
+  "title": "Haloperidol: a medicine for mental health conditions and sickness - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "c0782088135736d1c2fa1ad59cf7dbd70def3acf05907af38aad717aaafd0c82",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 948,
+    "content_hash": "7c7475c360f481de2103a253d1c8b04c450ad8b087518befe770bc33b143a2a3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

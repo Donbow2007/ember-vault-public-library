@@ -1,0 +1,25 @@
+{
+  "id": "61e99597-335f-4185-acfa-be4ebeedef32",
+  "slug": "section-1211-lercanidipine-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Lercanidipine: medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "83cdd599f41fb08e51202577fd9f9114ca7e3dcb1c367da4ba3cf8a71d616aa6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1211,
+    "content_hash": "e2d0bbfde9b0464553a7f8f5664b6c533bea503da65acde35dcd08f3c25c3e0c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

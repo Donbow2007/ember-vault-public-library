@@ -1,0 +1,25 @@
+{
+  "id": "9b4c0452-7b8c-4f9e-bbe9-719dca1f42f0",
+  "slug": "section-0760-side-effects-of-erythromycin-nhs",
+  "title": "Side effects of erythromycin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "0cf405cc3054898cee04e7388b79248be7bb6a99878c412f0d5c7b026ce8f978",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 760,
+    "content_hash": "fd2c8cc29f2c6e8e807af3851596283f7e88e22ad1a808a45aa39f37ed63a34d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

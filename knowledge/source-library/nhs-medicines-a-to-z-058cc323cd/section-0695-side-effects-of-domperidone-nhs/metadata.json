@@ -1,0 +1,25 @@
+{
+  "id": "dd1858e2-c1c4-4f4f-b272-74cec06116ab",
+  "slug": "section-0695-side-effects-of-domperidone-nhs",
+  "title": "Side effects of domperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "f30c353ebfe7858052520937acbd3d39aad7b518e15eca7fd39c90d5b69c8e37",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 695,
+    "content_hash": "06a902e6f7e3c7a3c68df4e45560badcd1c14aa6b51dbb3a4635ba6969f5fe95",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

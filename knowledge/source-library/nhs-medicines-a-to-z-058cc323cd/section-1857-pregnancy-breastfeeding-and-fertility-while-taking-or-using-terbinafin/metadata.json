@@ -1,0 +1,25 @@
+{
+  "id": "cbab5897-2ca9-4087-bece-f6a1b4f6e772",
+  "slug": "section-1857-pregnancy-breastfeeding-and-fertility-while-taking-or-using-terbinafin",
+  "title": "Pregnancy, breastfeeding and fertility while taking or using terbinafine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "649a3a6db5c948d7555e76ff3f21b63a7ad9ede2c58693cbee137ab382a96293",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1857,
+    "content_hash": "226c366fc1d8e0456bf2db7af5894b8983e41205cf23e60728a463d6c773c0e6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

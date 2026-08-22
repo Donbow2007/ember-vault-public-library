@@ -1,0 +1,25 @@
+{
+  "id": "20497bdb-75be-49dd-9c2b-eb35c5f2d5ca",
+  "slug": "section-0339-about-carbamazepine-nhs",
+  "title": "About carbamazepine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "6b3fb2eed81fcb9e025bd724e2fcb138644e34685d18eebe505e23379beb7b22",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 339,
+    "content_hash": "af2f5a579aba62a1769d1ab7bb47dc4aaa5b53991839ba0fb400268a0cdb6db5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3527d411-37ef-4e54-aa8f-382d24bdc1ed",
+  "slug": "section-0904-pregnancy-breastfeeding-and-fertility-while-using-fusidic-acid-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using fusidic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "4ea1d134a80e017eb2781425628a1231ab1e6f6fa517e698783a8cd09eb45060",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 904,
+    "content_hash": "240f233d9ca15b0600ed3920a26c91b2f22e2a8841f09fc2b4d4b4036fd83ae0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

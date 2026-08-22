@@ -1,0 +1,25 @@
+{
+  "id": "37948c91-62d9-4c9b-a5b9-c4693814aa41",
+  "slug": "section-1585-common-questions-about-paracetamol-for-adults-nhs",
+  "title": "Common questions about paracetamol for adults - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "7572ccb593eca428f1beb68a20dadca7ae23e605b4b5b00cefda8bb8769ae6b4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1585,
+    "content_hash": "9259d552302fe737559c604aa8512ce78ba84fcb925c9fd4014acd1e9051fe80",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

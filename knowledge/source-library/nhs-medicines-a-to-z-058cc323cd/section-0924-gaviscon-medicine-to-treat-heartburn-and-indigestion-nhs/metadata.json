@@ -1,0 +1,25 @@
+{
+  "id": "6edf3e51-940a-4195-be23-d9816f49f680",
+  "slug": "section-0924-gaviscon-medicine-to-treat-heartburn-and-indigestion-nhs",
+  "title": "Gaviscon – medicine to treat heartburn and indigestion - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "1b52a7f8c26c6fc9734bba74a93b115886e49eb4045f1bda348e9ab488ec5739",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 924,
+    "content_hash": "28438942ff932f0a31bf1ffcb0da65bc7834651980101042c347e7d2cc2b551b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

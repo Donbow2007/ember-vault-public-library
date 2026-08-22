@@ -1,0 +1,25 @@
+{
+  "id": "239e0d34-ffa5-4c80-86cd-e67c1775941a",
+  "slug": "section-0692-common-questions-about-domperidone-nhs",
+  "title": "Common questions about domperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "593c4558d6a49f0af1506dc5c48cd6e2f7d540d1689329e81a20a7e0601664ad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 692,
+    "content_hash": "7510408834cd4a183b9982307516cfd55d740f5893cb60ed31bfc5f4127ae74c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

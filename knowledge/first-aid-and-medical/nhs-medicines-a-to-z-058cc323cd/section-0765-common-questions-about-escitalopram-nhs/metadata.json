@@ -1,0 +1,25 @@
+{
+  "id": "1073a93a-a1ef-4454-b188-3f97c518eb5f",
+  "slug": "section-0765-common-questions-about-escitalopram-nhs",
+  "title": "Common questions about escitalopram - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "1da724665a08a4f50713288d34422a78889446cae0818bd9eb467edf0852e517",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 765,
+    "content_hash": "a632f306348fd515b046faea9843b3c04d96b1f6523a5f119a250c34b9dfc504",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

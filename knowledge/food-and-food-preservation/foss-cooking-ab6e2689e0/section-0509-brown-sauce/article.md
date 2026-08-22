@@ -1,0 +1,3 @@
+# Brown Sauce
+
+A very basic sauce that can be used for various dishes. ⏲️ Prep time: 5 min 🍳 Cook time: 20 min 🍽️ Servings: 6 Ingredients 1 onion 75g butter 1dl flour 1l bouillon Black pepper freshly grounded Directions Chop and sauté the onions and put the aside for a while Melt the butter on a pan and add the flour to it Brown the flour on medium heat until the mixture is dark brown Add the bouillon in small batches while stirring with a whisker Let the sauce boil and thicken for few minutes Add the onions and ground some pepper in the sauce (optional) Add preferred meat to the sauce or use as is

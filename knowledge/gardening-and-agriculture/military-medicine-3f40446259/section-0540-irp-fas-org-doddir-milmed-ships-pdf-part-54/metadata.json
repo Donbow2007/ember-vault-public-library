@@ -1,0 +1,25 @@
+{
+  "id": "abcdf57f-e9cd-4d71-844e-0ca9023baeb1",
+  "slug": "section-0540-irp-fas-org-doddir-milmed-ships-pdf-part-54",
+  "title": "irp.fas.org/doddir/milmed/ships.pdf — Part 54",
+  "category": "gardening-and-agriculture",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "9fa41ca7e2bc026a58beed31ee42f775c1fc3c1481736058958f3b816ec3f02f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 540,
+    "content_hash": "f0d1839a6c70f658dab4addf0f71fda59309763d84f9dbfae97a4b88d7efe4e0",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

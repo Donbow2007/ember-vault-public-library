@@ -1,0 +1,25 @@
+{
+  "id": "041d63da-85b9-452f-8888-97f02ddb3b0e",
+  "slug": "section-1777-about-sitagliptin-nhs",
+  "title": "About sitagliptin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "400775d82edc935644f3f5f945ca0e8c59b0397388f68039cb5c6440cdcce7d3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1777,
+    "content_hash": "7fbaaca4e3159b732124560cbc7582ce5bbb67331e65b0b609d30f0e340336ae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

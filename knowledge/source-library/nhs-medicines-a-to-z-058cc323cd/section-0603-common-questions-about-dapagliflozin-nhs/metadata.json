@@ -1,0 +1,25 @@
+{
+  "id": "5b5775ec-33e8-4400-a2e1-afe0376dfb35",
+  "slug": "section-0603-common-questions-about-dapagliflozin-nhs",
+  "title": "Common questions about dapagliflozin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "b97dd08ff08cdf632454727aed8e28bcc13d443d34d54a3af03d29e7a38e4712",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 603,
+    "content_hash": "bb7fa4feb1d02c9efaf342e5ce121643f5ff2dfcb04cb9b403c1a98676b8065d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

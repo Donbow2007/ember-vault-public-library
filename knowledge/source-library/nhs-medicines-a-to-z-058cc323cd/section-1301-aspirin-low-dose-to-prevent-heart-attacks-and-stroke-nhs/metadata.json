@@ -1,0 +1,25 @@
+{
+  "id": "972dd275-aa00-4166-bb38-433a8db6599b",
+  "slug": "section-1301-aspirin-low-dose-to-prevent-heart-attacks-and-stroke-nhs",
+  "title": "Aspirin: low dose to prevent heart attacks and stroke - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "9b21fb6e72c38e5c63a3ef3477d7608ab13ae389d8aba07f6cf19ed28d49321b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1301,
+    "content_hash": "865a83660d51e3ab14ce7122f1b1ef9fffcc75cbad9dcdbaf200139c0f1f8f48",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

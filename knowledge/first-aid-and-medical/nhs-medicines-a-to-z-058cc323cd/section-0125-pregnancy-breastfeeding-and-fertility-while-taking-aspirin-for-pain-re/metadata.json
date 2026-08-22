@@ -1,0 +1,25 @@
+{
+  "id": "063ab81c-45bf-4f45-8c18-760034596a5f",
+  "slug": "section-0125-pregnancy-breastfeeding-and-fertility-while-taking-aspirin-for-pain-re",
+  "title": "Pregnancy, breastfeeding and fertility while taking aspirin for pain relief - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "4b09f653c8e3d50536fe61353af4b8791cb9969542db8c1e5de96872c801764f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 125,
+    "content_hash": "8e44d60784f7c787d061df9bc73e084cff514e5f4c236d7f7951d50be0587f68",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9cddf5d3-d411-403f-96ea-f7873f1e2275",
+  "slug": "section-1581-taking-pantoprazole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking pantoprazole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "05c11f2700ae21bb92324cddf175990e478fcfc3c701574cabe8daefe9432743",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1581,
+    "content_hash": "0c2082f77cf1242aa2cabb90deb4a05227aa4e378d4751c5a620e8d7ec233c0d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

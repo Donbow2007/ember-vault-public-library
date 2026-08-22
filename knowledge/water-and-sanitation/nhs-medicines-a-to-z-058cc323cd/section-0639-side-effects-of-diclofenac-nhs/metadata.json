@@ -1,0 +1,25 @@
+{
+  "id": "dfa887a9-d0c1-4bf7-8ad0-c20145def2eb",
+  "slug": "section-0639-side-effects-of-diclofenac-nhs",
+  "title": "Side effects of diclofenac - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "314245bdde4b9b087b5bbcb40ce78a5d504c603dd8f8d15b12bc4ca1baefbeda",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 639,
+    "content_hash": "519dd1d833c94b6e079a5651de95185e24de0552f426f1da2cca7c5e4d134176",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

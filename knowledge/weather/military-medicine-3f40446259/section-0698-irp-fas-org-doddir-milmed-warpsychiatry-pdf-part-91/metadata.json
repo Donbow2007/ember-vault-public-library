@@ -1,0 +1,25 @@
+{
+  "id": "eb8f6a15-5f70-44b4-9791-0f4ea3e3faa7",
+  "slug": "section-0698-irp-fas-org-doddir-milmed-warpsychiatry-pdf-part-91",
+  "title": "irp.fas.org/doddir/milmed/warpsychiatry.pdf — Part 91",
+  "category": "weather",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:47Z",
+  "content_hash": "b8d343e9a5a1f005117825c0abe1630353133b7211b7d73d00d794610f951503",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 698,
+    "content_hash": "fbb117a397b988f3bf978b7135ed0905cd5c13f22528366eed26831a8bc7a439",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

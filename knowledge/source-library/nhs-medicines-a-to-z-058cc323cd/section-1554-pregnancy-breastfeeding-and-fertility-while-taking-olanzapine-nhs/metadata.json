@@ -1,0 +1,25 @@
+{
+  "id": "3be0d42e-f297-4955-8e50-13f2fe992cf0",
+  "slug": "section-1554-pregnancy-breastfeeding-and-fertility-while-taking-olanzapine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking olanzapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "120d73b244087e9da0d47eb3d1ad8dcdbf2d989e3b480bf4249a5e0a0b773a18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1554,
+    "content_hash": "db23614bf8bc2bcf36822cf956e2db4e3aed06d41e678b61c3a196854f707502",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

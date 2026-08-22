@@ -1,0 +1,25 @@
+{
+  "id": "1302caed-5a15-4e2b-943a-ead48c4c56a3",
+  "slug": "section-1081-ibuprofen-for-adults-painkiller-that-also-treats-inflammation-nhs",
+  "title": "Ibuprofen for adults: painkiller that also treats inflammation - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "d7ae9725ea58617b5eff383ddcda89c070404d5461f785d2526a543e59c006ed",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1081,
+    "content_hash": "f852fb735e1fa64436cd696f3dfe066701be65b4f4356d741b68bdbeba849035",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

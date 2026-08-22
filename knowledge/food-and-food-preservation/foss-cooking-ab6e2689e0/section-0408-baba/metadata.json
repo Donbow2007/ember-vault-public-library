@@ -1,0 +1,25 @@
+{
+  "id": "26c60daf-5f76-4614-8e6b-6d08b987a054",
+  "slug": "section-0408-baba",
+  "title": "Baba",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "04b87f159edc2cab57bc29ab031f215944464efc0fb113f771581cad20c1c5be",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 408,
+    "content_hash": "c6e2763111e9e757a81f2a37119ff00cd3a1c6890dbc47ab3eda1f285b203e2d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

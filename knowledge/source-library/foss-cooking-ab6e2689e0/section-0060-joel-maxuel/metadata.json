@@ -1,0 +1,25 @@
+{
+  "id": "f48db9b9-5e94-4b09-8ebc-541f21b98e71",
+  "slug": "section-0060-joel-maxuel",
+  "title": "Joel Maxuel",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "2cb2138f866a70b7f726ecf83e9aada3eadbd46cecf33b1b40304d072134148a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 60,
+    "content_hash": "ef096d33c0ee610830acda712d1ba22e799de404d914a7338ab2448823deffad",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

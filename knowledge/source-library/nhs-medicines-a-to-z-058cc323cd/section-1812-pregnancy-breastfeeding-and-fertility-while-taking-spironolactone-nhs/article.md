@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while taking spironolactone - NHS
+
+Pregnancy, breastfeeding and fertility while taking spironolactone - Brand name: Aldactone Spironolactone and pregnancy Spironolactone is occasionally prescribed in pregnancy, for some medical conditions. If you take spironolactone and are trying to get pregnant or are already pregnant, talk to your doctor about whether continuing it is right for you. Do not stop taking your medicine without speaking to your doctor. Spironolactone and breastfeeding If your doctor or midwife says your baby is healthy, you can take spironolactone while you're breastfeeding. Spironolactone passes into breast milk in very small amounts, and it would not be expected to cause any side effects in your baby. If you notice that your baby is not feeding as well as usual, or seems unusually tired, or if you have any other concerns about your baby, then talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Spironolactone and fertility Spironolactone can affect your menstrual cycle and may cause temporary infertility in women. Your periods and fertility should go back to normal around 2 months after you stop taking it. Talk to your doctor if you're trying to get pregnant. There's no good evidence that spironolactone affects fertility in men. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 6 July 2022
+
+Next review due: 6 July 2025

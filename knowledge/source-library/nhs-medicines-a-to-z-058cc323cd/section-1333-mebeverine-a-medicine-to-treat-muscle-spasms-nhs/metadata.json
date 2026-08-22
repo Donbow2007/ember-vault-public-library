@@ -1,0 +1,25 @@
+{
+  "id": "7b31aba0-ca9a-43cf-b152-ee8f0a0bb933",
+  "slug": "section-1333-mebeverine-a-medicine-to-treat-muscle-spasms-nhs",
+  "title": "Mebeverine: a medicine to treat muscle spasms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "d4a28687dd7c7f526d072a82c9c679ff4b7137cc721362a62739abce2b6fd818",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1333,
+    "content_hash": "26978e3c9cc414fe1cb7ce4fdb638e2fb6afc8c6c64cdb6d5a7021e510c570cd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

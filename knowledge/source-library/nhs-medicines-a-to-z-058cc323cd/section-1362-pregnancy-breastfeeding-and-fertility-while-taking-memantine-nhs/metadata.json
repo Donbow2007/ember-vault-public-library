@@ -1,0 +1,25 @@
+{
+  "id": "51ee89e0-fb6d-49dc-a4a7-2e4dd1d2f303",
+  "slug": "section-1362-pregnancy-breastfeeding-and-fertility-while-taking-memantine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking memantine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "cfe5df75514f4ee461774d9b93448b09429f11540dc2fddb702cfe2e049b13b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1362,
+    "content_hash": "bacc8472cc4c3f6090571bf5116ba25604a70f9bce7d9e49a10d4f92db48c631",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

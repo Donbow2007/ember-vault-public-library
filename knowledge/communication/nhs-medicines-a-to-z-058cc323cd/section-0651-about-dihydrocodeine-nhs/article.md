@@ -1,0 +1,6 @@
+# About dihydrocodeine - NHS
+
+About dihydrocodeine - Brand names: DHC Continus, DF118 Forte Dihydrocodeine is an opioid painkiller. It's used to treat moderate to severe pain, such as after an operation or a serious injury. It's also used for long-term pain if weaker painkillers, such as paracetamol , ibuprofen and aspirin , have not worked. It works by blocking pain signals from the central nervous system and the brain. Dihydrocodeine is only available on prescription. It comes as standard tablets, slow-release tablets and as a liquid that you swallow. It can also be given by an injection into the muscle or under the skin. This is usually done in hospital. Co-dydramol, Paramol, Remedeine and Remedeine Forte are brand names that contain dihydrocodeine and paracetamol. Key facts Standard dihydrocodeine tablets take between 1 and a half and 2 hours to work fully. Slow-release tablets may take longer to work but they last longer. It's possible to become addicted to dihydrocodeine, but your doctor will explain how to reduce the risks of becoming addicted. If you need to take dihydrocodeine for more than a few weeks, your treatment plan may include details of how and when to stop taking this medicine. The most common side effects are feeling or being sick, feeling drowsy, and constipation.
+Page last reviewed: 17 November 2022
+
+Next review due: 17 November 2025

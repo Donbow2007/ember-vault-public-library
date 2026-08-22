@@ -1,0 +1,25 @@
+{
+  "id": "f9b13ea5-0180-463c-88f8-e24807332035",
+  "slug": "section-1850-side-effects-of-tamsulosin-nhs",
+  "title": "Side effects of tamsulosin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "60ab56f2adb0ceb15cc2312b8c25a4a66552cf412bbd431d0a84f7628339b140",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1850,
+    "content_hash": "a2d5a6c99a435cef2e7e127ff5081042fae089f9a7d7a030320039568b1556a4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

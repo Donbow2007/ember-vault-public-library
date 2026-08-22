@@ -1,0 +1,25 @@
+{
+  "id": "346a9930-d32e-47f8-8579-b7d25bbd891a",
+  "slug": "section-0761-taking-erythromycin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking erythromycin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "fc23eadcb3cf02d4c92206cafc2b9f5783f2949ed89e93de383a25575472b9ef",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 761,
+    "content_hash": "552f49e31f22855ee1ec0c934ebf34e57eecf7e4da7fb40899c040aaf5dce0de",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2e68079e-3287-46de-aed6-7189e9569528",
+  "slug": "section-1179-pregnancy-breastfeeding-and-fertility-while-using-ketoconazole-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using ketoconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "5e177e78e8d45e35c98f68f8c99687c552931202a68de141202da9ee66bb8f2c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1179,
+    "content_hash": "a3e18fcc661b16683df0c27ab8cb31eb0c4b6ae0d09d9ada2e01b1e4cd2932e1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

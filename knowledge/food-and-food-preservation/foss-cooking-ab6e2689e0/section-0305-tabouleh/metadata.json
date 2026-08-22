@@ -1,0 +1,25 @@
+{
+  "id": "6c657c80-6908-481b-82df-1594d05d2c3f",
+  "slug": "section-0305-tabouleh",
+  "title": "Tabouleh",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "168c8de3371ff17c6defc31090a4518700f99bfcb450d5a8a92892afe6ba7eba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 305,
+    "content_hash": "8e5f08b71c7f9fee78eeca6925b9ca5bd5d2c3669c597d205260e0a4a543eeb5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

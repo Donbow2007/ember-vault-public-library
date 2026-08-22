@@ -1,0 +1,25 @@
+{
+  "id": "05695d4e-e1ae-4783-9724-5296c0f38b71",
+  "slug": "section-0280-beef-and-broccoli",
+  "title": "Beef and Broccoli",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "95b12b4902d6a49cfcdde005802d899bd56c1cd0255f248ef5a21c86c5d33beb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 280,
+    "content_hash": "fbf260bba4382e2fff23b7280ea79aabd6d0bd42a2e5e69694458d8da298d726",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

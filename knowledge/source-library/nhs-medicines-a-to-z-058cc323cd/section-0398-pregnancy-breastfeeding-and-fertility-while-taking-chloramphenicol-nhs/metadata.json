@@ -1,0 +1,25 @@
+{
+  "id": "a2b3c1ea-4a2d-478f-9b9c-d7db02e69a10",
+  "slug": "section-0398-pregnancy-breastfeeding-and-fertility-while-taking-chloramphenicol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking chloramphenicol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "cde15cb2a628107cc2c84784cdd48d028a95d605e7af22145a629ec29ad3340c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 398,
+    "content_hash": "c0792863521ee10befa8ad763d352a01d86fc90ace2b0fd737366db48058e038",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

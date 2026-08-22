@@ -1,0 +1,25 @@
+{
+  "id": "50b0216f-5221-45ac-b09f-8b841094d002",
+  "slug": "section-0096-octopusonfire",
+  "title": "OctopusOnFire",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "aaff4a8ca12493434de790b2c00d307a0e59e3f82bc4d446ccf3a8f357452c96",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 96,
+    "content_hash": "3b54493a6d1ca867d130b5250f3eabf4ab4bb20433021a994b342a630ff1e7aa",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

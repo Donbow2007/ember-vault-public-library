@@ -1,0 +1,25 @@
+{
+  "id": "f5b53bef-2345-42de-956c-6fcd24ecae0a",
+  "slug": "section-1641-about-pre-exposure-prophylaxis-prep-nhs",
+  "title": "About Pre-Exposure Prophylaxis (PrEP) - NHS",
+  "category": "wilderness-survival",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "ab4a81909bf6996be7fe31e3c31698c0017be3a5e8b429712f73a1166d3eacfb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1641,
+    "content_hash": "9cb2a9baa7dbe96109bf36413ead4278b13c3ed266cf1a144b860c3979a7aef8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

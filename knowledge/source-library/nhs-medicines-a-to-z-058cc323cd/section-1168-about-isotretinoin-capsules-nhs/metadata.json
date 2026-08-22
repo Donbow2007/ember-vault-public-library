@@ -1,0 +1,25 @@
+{
+  "id": "014bd741-1617-411d-bcbf-608120b2a7e3",
+  "slug": "section-1168-about-isotretinoin-capsules-nhs",
+  "title": "About isotretinoin capsules - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "1f19b776b4b33dce077dd3c335581501877798dc291e4ba75921cf157656c747",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1168,
+    "content_hash": "a177b683458d8eb87d4b6d69043e62d963b746ba92a3e9d5692f79282cb813c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

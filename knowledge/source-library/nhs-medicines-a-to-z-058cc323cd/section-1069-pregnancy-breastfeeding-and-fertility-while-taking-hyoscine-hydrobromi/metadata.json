@@ -1,0 +1,25 @@
+{
+  "id": "ea6a3a6d-e6cb-4259-95cf-42240559cbb1",
+  "slug": "section-1069-pregnancy-breastfeeding-and-fertility-while-taking-hyoscine-hydrobromi",
+  "title": "Pregnancy, breastfeeding and fertility while taking hyoscine hydrobromide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "115b87b880431264e2fad4837cbf57100c355524c6a274101dd5b644151752a6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1069,
+    "content_hash": "bb2595651ca9893929e4e26fb8649c7625e6179df25b00a01d05e30beed9b21e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

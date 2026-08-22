@@ -1,0 +1,25 @@
+{
+  "id": "fa81beac-2b32-40b2-9adf-0b8ca5a8712f",
+  "slug": "section-1244-who-can-and-cannot-use-lidocaine-skin-cream-nhs",
+  "title": "Who can and cannot use lidocaine skin cream - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "9eaea25f6f59247037020cc32668d8bf5b33bd7575226c92c27bb572525c2dee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1244,
+    "content_hash": "53e87c8622572e18f168b3cce0c649a64753fc2be7063e2ac73b9ece54723d3b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

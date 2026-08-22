@@ -1,0 +1,25 @@
+{
+  "id": "f4f8aca2-6839-4e11-b5b4-f4dbd48cc410",
+  "slug": "section-0205-pregnancy-breastfeeding-and-fertility-while-using-benzoyl-peroxide-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using benzoyl peroxide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "570e026992043f22bf92a2e2a6868695daaefc8257ecb3ee60e621b453194414",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 205,
+    "content_hash": "e99361424d73da8be059aa047b3f398d8ca80884aaf83180f2a64da508066808",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

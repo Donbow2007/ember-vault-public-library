@@ -1,0 +1,25 @@
+{
+  "id": "9db62c25-8f21-47e9-8ef2-8b687fcc160e",
+  "slug": "section-1851-taking-tamsulosin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking tamsulosin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "84be0543bdc0d4b005c6b9a43cbc372fb1bfcd9541cb0e37933756ebd96d670c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1851,
+    "content_hash": "97bc759b86bf22b4c947e58bbf4a112892dea5af5027fde80c449878a87472eb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

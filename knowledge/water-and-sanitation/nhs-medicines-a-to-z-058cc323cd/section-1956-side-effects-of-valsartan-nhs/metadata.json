@@ -1,0 +1,25 @@
+{
+  "id": "8e278289-36f6-43f4-8c24-da9216458f66",
+  "slug": "section-1956-side-effects-of-valsartan-nhs",
+  "title": "Side effects of valsartan - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "a56f5cf4a544ee7e28f94371094cfd7be2e1739b2fa3eb54c194ce2e27cd698a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1956,
+    "content_hash": "be7ed6865538bf7e2e069bf19d638dd5e9cdbba81437a84470c8582c0e7791a8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

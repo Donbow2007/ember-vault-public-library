@@ -1,0 +1,25 @@
+{
+  "id": "b3aa59ef-2838-4b39-ad0f-faf6a6220ddb",
+  "slug": "section-1587-pregnancy-breastfeeding-and-fertility-while-taking-paracetamol-for-adu",
+  "title": "Pregnancy, breastfeeding and fertility while taking paracetamol for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "cabc2833f8860e83f56924ded7cdc3f22e2a1659bdf77276964c248da034816c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1587,
+    "content_hash": "22f4cf35dd7967f6563aaca6da148c3bbb1b82c4af3a3dc437cd3521792ff53b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

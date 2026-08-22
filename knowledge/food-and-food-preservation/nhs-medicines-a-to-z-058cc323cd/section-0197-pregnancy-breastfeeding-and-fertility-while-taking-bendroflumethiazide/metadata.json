@@ -1,0 +1,25 @@
+{
+  "id": "f550284b-3fd9-43b9-b0a9-73f35d3cd673",
+  "slug": "section-0197-pregnancy-breastfeeding-and-fertility-while-taking-bendroflumethiazide",
+  "title": "Pregnancy, breastfeeding and fertility while taking bendroflumethiazide - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "7966c84b47fbfcc9bd4d74f2feb724d756728eb1bf1f7abffa783421fbf18c3d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 197,
+    "content_hash": "bf801fdb12fab24c86eeb43fb08253ed0fbc9b37bdd8cd28b60dc8fa8b09fd33",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

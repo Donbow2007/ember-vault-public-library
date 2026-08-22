@@ -1,0 +1,25 @@
+{
+  "id": "83f1cd75-5289-4aed-b2f6-efcfb177813f",
+  "slug": "section-0474-irp-fas-org-doddir-milmed-sanitation-pdf-part-24",
+  "title": "irp.fas.org/doddir/milmed/sanitation.pdf — Part 24",
+  "category": "weather",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "81341c0aa0a9d15a5840431685dfd1f5b6213fbe0d485d25e8afc50cd6c9004e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 474,
+    "content_hash": "af5b1bde95c971e792b26fa390fde952fb9eaec328bd6338abbce3e2b4163eef",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

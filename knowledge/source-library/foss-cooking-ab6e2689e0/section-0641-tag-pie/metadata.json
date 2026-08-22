@@ -1,0 +1,25 @@
+{
+  "id": "d6abd491-52a7-4a40-95b0-7f0170317628",
+  "slug": "section-0641-tag-pie",
+  "title": "Tag: pie",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "18b9cf6cdcb990cbcdfa2ff035a60829130499dbd6b5856535152bb2a86180f9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 641,
+    "content_hash": "75ca5a5dc4adda9665a3ddc45c599a5544e820e1bc5bf837a97c058740ee0f2e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

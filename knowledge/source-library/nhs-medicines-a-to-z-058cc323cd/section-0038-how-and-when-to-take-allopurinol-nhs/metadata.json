@@ -1,0 +1,25 @@
+{
+  "id": "3c29d2dd-aef3-4538-b356-7a8406b9ce06",
+  "slug": "section-0038-how-and-when-to-take-allopurinol-nhs",
+  "title": "How and when to take allopurinol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "18580f3603ca24d04bbe9c5cbc71c4cc0db9c0c7f201e7a3b10dd13fa1b6bcff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 38,
+    "content_hash": "979b0855b28654a92fac94d1ab2e36d8da6839b17b2883d65d3ec79e2d4c0250",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "242e5142-e76a-495b-8bc8-4cabb218dbd4",
+  "slug": "section-1832-how-and-when-to-take-or-use-sumatriptan-nhs",
+  "title": "How and when to take or use sumatriptan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "9680330b725555b6ce659ebc57d770e85111d8c7d495d3114f74ada034afafce",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1832,
+    "content_hash": "7f20cccd626d41f0a1cc1089d1be2f9c2999dfdeec99ddd2dde9b22d256eeea9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

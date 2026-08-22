@@ -1,0 +1,25 @@
+{
+  "id": "f5c53241-e24e-4590-8258-1c582cef4f80",
+  "slug": "section-1987-how-and-when-to-take-warfarin-nhs",
+  "title": "How and when to take warfarin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "66f528d849dafd71f61f99f3c37766a13c7e43a4c98335c21e04870b3ffee7b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1987,
+    "content_hash": "befb3094742cae6597868e5f5501031e50f0f50cc820d8f0bed3980bd929a2a2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

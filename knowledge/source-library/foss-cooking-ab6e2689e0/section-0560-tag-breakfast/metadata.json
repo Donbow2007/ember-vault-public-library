@@ -1,0 +1,25 @@
+{
+  "id": "f3d96d4a-979a-4a3d-9359-349f87e0dd63",
+  "slug": "section-0560-tag-breakfast",
+  "title": "Tag: breakfast",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "9e410d6f1b2fd5074d609e62aa72dcd2958d22553ebfdab036382a356912664c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 560,
+    "content_hash": "9dbec8962515a43d7aeba5d1f4a85d051ab6c2a280c63c46dea00c72e24db5cc",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

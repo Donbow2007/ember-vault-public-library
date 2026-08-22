@@ -1,0 +1,25 @@
+{
+  "id": "e6aa3d65-77cf-4b7f-a63c-e431bdc60288",
+  "slug": "section-0517-how-and-when-to-take-co-beneldopa-nhs",
+  "title": "How and when to take co-beneldopa - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "765d91bc3eea335b4fd3d133644f61dab4dc5fc333ee3596a55f20134397b5bd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 517,
+    "content_hash": "684c3db6508be6d98e0a5bf3f2bb8eaf032b52ab650243794f0bcd3a5123bc59",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

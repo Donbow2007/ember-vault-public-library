@@ -1,0 +1,25 @@
+{
+  "id": "6becd85c-5fd9-468d-9a40-5391e01fea65",
+  "slug": "section-0093-nacchofer31",
+  "title": "Nacchofer31",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "89955e06a46399854addddf6d2918982d0f9aca22c0f8a0dec3332b27b62e0aa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 93,
+    "content_hash": "aa063cebb6458d0048b378e9c05f533af8afbe6bd6930ad31827aac86bafe59c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

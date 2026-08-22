@@ -1,0 +1,25 @@
+{
+  "id": "75a82d58-f2bd-4023-859d-fb1403842825",
+  "slug": "section-0328-salsa",
+  "title": "Salsa",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "f2346a405d9e0a711fe59c6de8a42b9c35df876b20a77f9d8214ce3c2db64d21",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 328,
+    "content_hash": "dea69d9d42ba79d48f5bdbb3fc5c2814d2c65a24e4c763cbcfd6fea4a06274c1",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

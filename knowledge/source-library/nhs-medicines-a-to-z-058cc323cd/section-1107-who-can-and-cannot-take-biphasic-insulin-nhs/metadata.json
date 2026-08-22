@@ -1,0 +1,25 @@
+{
+  "id": "6c2b5727-ecc7-4a0e-bb4d-d695077d9bb9",
+  "slug": "section-1107-who-can-and-cannot-take-biphasic-insulin-nhs",
+  "title": "Who can and cannot take biphasic insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "0435f4e682ac0c66603b78f84f1333bd6dd75e7fbb875dee33bcad4df0b018b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1107,
+    "content_hash": "43da53ad93817f5e8556350c5dca98a711ff23c4bd02eba8897ea70862d97e59",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

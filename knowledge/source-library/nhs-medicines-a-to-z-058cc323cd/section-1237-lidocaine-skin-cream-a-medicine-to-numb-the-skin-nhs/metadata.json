@@ -1,0 +1,25 @@
+{
+  "id": "91d026fa-943d-42ed-9e10-d082dd5c7b6e",
+  "slug": "section-1237-lidocaine-skin-cream-a-medicine-to-numb-the-skin-nhs",
+  "title": "Lidocaine skin cream: a medicine to numb the skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "bebf99bc519d4a67168ca303b8499b1a7ee33092f2710d0374e5a18aad76fcd3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1237,
+    "content_hash": "61737fb8603a713047e7dc67f1506f6bf4cde686ad467905b980a90fb8c599cc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

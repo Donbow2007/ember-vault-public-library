@@ -1,0 +1,25 @@
+{
+  "id": "1d82621f-8d77-41ce-a37c-8928a8908518",
+  "slug": "section-0218-rosti",
+  "title": "Rösti",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "3e458801c74f7e93de0966f0490bd2506e5e403eae5320f45cee5e7d6560714e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 218,
+    "content_hash": "1c945e345c237ba64e05c16782dbf375debec0f1bdc6c5a1675ad4d70794fc00",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

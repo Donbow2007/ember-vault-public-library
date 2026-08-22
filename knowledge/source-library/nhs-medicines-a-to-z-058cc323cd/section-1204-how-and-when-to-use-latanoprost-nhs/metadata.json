@@ -1,0 +1,25 @@
+{
+  "id": "d3469ada-9e02-4bad-ac91-558dc0914228",
+  "slug": "section-1204-how-and-when-to-use-latanoprost-nhs",
+  "title": "How and when to use latanoprost - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "1e105918bcaf34b66d772e1861e507613ed61046a3714bdd1f7e530a04b4f354",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1204,
+    "content_hash": "4c05829408ba4529128a973506fab6339aab217709ef7a1e4a73b0f228d6f4f0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

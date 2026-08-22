@@ -1,0 +1,25 @@
+{
+  "id": "40bcb90d-38bc-4be3-b791-405d6718db3c",
+  "slug": "section-1197-taking-lamotrigine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking lamotrigine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "fbbbb5e263d84e3a7740d42a217029986b796913e827c1b6c7e611a5ffb75691",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1197,
+    "content_hash": "e53165b3c011ad9e081b0aa3f83182c5cee74c8040bdfcdf118183a549fa1620",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

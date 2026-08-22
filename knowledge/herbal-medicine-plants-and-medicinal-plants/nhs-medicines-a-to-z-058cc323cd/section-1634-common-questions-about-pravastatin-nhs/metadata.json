@@ -1,0 +1,25 @@
+{
+  "id": "af509ac7-5b3c-4252-945c-e403d233bda6",
+  "slug": "section-1634-common-questions-about-pravastatin-nhs",
+  "title": "Common questions about pravastatin - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "4a1d4d6af85985152e6087934038a2706f3a9f2eb56dbcc0b32f3c8e6619d2f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1634,
+    "content_hash": "00221976def5ca9a42d938783d6dd4ba5100fb9728864a781530111597e8fde2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

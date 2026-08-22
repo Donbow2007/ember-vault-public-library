@@ -1,0 +1,25 @@
+{
+  "id": "ae41c047-93cb-46d5-9b3d-09e19b63bf47",
+  "slug": "section-0715-duloxetine-medicine-to-treat-depression-and-anxiety-nhs",
+  "title": "Duloxetine: medicine to treat depression and anxiety - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "074b37afbe93d8c9f038a41dae54a53d029f389464206b8f40ba80a881df058d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 715,
+    "content_hash": "18e7659e0969ba1331feb76254bf686f01d585a13805fd46b3be587b4ac56cc2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

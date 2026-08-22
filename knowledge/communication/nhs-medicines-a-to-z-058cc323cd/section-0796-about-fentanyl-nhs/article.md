@@ -1,0 +1,9 @@
+# About fentanyl - NHS
+
+About fentanyl
+
+Fentanyl is a strong opioid painkiller. It's used to treat severe pain, for example during or after an operation or a serious injury, or pain from cancer. It's also used for other types of long-term pain when weaker painkillers have stopped working. It works by blocking pain signals between the brain and the rest of the body. It also reduces the anxiety and stress caused by pain. Fentanyl is only available on prescription. It comes as: patches to put on your skin lozenges and tablets that dissolve in your mouth nasal spray injections – usually only given in hospital Fentanyl patches are used for long-lasting pain. Your doctor may also prescribe other types of fentanyl if you need extra pain relief while your regular painkiller wears off. Key facts The most common side effects of fentanyl are constipation, feeling sick and feeling sleepy. It's possible to become addicted to fentanyl, but your doctor will explain how to reduce the risks of becoming addicted. If you need to take fentanyl for more than a few weeks, your treatment plan may include details of how and when to stop taking this medicine. Do not drive a car or ride a bike if fentanyl makes you sleepy, gives you blurred vision or makes you feel dizzy, clumsy or unable to concentrate or make decisions. It's best not to drink alcohol when you first start taking or using fentanyl. You're more likely to get side effects such as feeling sleepy or drowsy. Tell a doctor or nurse about your fentanyl if you're having any treatment or tests. Also, remind your pharmacist about your fentanyl when you collect prescriptions or buy other medicines.
+Page last reviewed: 23 May 2023
+
+Next review due: 23 May 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

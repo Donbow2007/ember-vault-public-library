@@ -1,0 +1,25 @@
+{
+  "id": "1465d6c8-8757-4895-adff-b99739e9852e",
+  "slug": "section-1721-how-and-when-to-take-ropinirole-nhs",
+  "title": "How and when to take ropinirole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "6690bbeff0584c00dc9006f1be7d0bf51183a48afe397198fa57817f584f95af",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1721,
+    "content_hash": "1e7d609943a120a6a293102b3d8124dc229eb34e09e7ccc0c53cd862fa3aecdf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

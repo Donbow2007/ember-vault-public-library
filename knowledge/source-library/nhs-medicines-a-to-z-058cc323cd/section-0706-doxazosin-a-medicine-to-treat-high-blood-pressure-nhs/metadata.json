@@ -1,0 +1,25 @@
+{
+  "id": "99a61209-e167-4766-9d6b-4ee6d280496d",
+  "slug": "section-0706-doxazosin-a-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Doxazosin: a medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "12f889e56599aba0382a54f4d76926d11a18ce98c6b1bffffb3d36724846fd04",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 706,
+    "content_hash": "0ac62e708a1e4a18b450f5802237c797ce2f137616d4eedf59f021a6f96fa835",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

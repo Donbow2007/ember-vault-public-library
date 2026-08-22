@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while using bimatoprost - NHS
+
+Pregnancy, breastfeeding and fertility while using bimatoprost - Brand name: Lumigan Bimatoprost and pregnancy Treating high pressure in the eye or glaucoma is essential and so it's important to keep using bimatoprost while you're pregnant. However, always check with a pharmacist or doctor first. As it is applied to the eye, very little gets into your blood and to your baby. The small amount that might get to your baby is unlikely to harm them. Bimatoprost and breastfeeding You can use bimatoprost while you're breastfeeding. Treating high pressure in the eye or glaucoma is essential and so it's important to keep using bimatoprost while you're breastfeeding. Bimatoprost eye drops are not thought to pass into breast milk or cause any side effects in breastfed babies. Medicines containing bimatoprost may also contain other ingredients. Check with a pharmacist or doctor first if you're breastfeeding. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your midwife, health visitor, pharmacist or doctor as soon as possible. Bimatoprost and fertility There's no evidence that bimatoprost affects fertility in either men or women. However, speak to a pharmacist or your doctor before using it if you're trying to get pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Information: Find out more about treating glaucoma in pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 2 September 2024
+
+Next review due: 2 September 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

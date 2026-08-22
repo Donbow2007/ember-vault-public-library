@@ -1,0 +1,25 @@
+{
+  "id": "2195844f-5b28-46c3-b851-94d0895729fe",
+  "slug": "section-0465-who-can-and-cannot-use-clobetasone-nhs",
+  "title": "Who can and cannot use clobetasone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "df32cad5b59b14eec2fd9f54014efe38e16cb2d2864798684a675b6107ebfcef",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 465,
+    "content_hash": "da8bfae3d8e34e354d2f51aecddc8991802d291a82f622a1f99969162cf3108d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

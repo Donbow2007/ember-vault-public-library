@@ -1,0 +1,25 @@
+{
+  "id": "616edc7a-9bae-4f55-9f4f-e207c0002ed2",
+  "slug": "section-0280-irp-fas-org-doddir-milmed-milderm-pdf-part-81",
+  "title": "irp.fas.org/doddir/milmed/milderm.pdf — Part 81",
+  "category": "food-and-food-preservation",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:43Z",
+  "content_hash": "5a59564e2d009db646da71e8291f2d97bb612f191b55e2c4e714d624762deecf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 280,
+    "content_hash": "7a099a9811984ed542e760496fa1b9c7ca2da9c485797e546c2639f0a00db593",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

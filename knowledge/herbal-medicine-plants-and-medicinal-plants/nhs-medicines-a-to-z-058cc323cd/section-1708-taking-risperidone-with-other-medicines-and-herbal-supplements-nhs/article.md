@@ -1,0 +1,11 @@
+# Taking risperidone with other medicines and herbal supplements - NHS
+
+Taking risperidone with other medicines and herbal supplements
+
+Cautions with other medicines Some medicines may affect the way risperidone works and increase the chances of you having side effects. Check with a pharmacist or doctor if you're taking any other medicines, including: rifampicin (an antibiotic for treating tuberculosis (TB)) carbamazepine or phenytoin (medicines for epilepsy) itraconazole (a medicine for treating fungal infections) medicines that make you feel sleepy such as diazepam (benzodiazepines), morphine or tramadol (opioid painkillers) or chlorphenamine (an antihistamine) – risperidone can increase these sedating effects and make you feel more sleepy medicines that cause a slow heartbeat medicines to treat high blood pressure medicines for Parkinson's disease such as levodopa medicines that stimulate the brain such as methylphenidate medicines that remove extra fluid from your body (diuretics) such as furosemide or chlorothiazide These are not all the medicines that may cause problems if you take them with risperidone. For a full list, see the leaflet inside your medicine packet. Mixing risperidone with herbal remedies and supplements There might be a problem taking some herbal remedies and supplements alongside risperidone, especially ones that make you feel sleepy or dizzy. Ask your pharmacist for advice. While you're taking risperidone, do not take: St John's wort, a herbal remedy for depression – it may stop risperidone working as well as it should ginkgo biloba – this can increase the side effects of risperidone There's not enough information to say that other complementary medicines, herbal remedies and supplements are safe to take with risperidone. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 15 April 2025
+
+Next review due: 15 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

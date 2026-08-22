@@ -1,0 +1,25 @@
+{
+  "id": "89a3598e-35dc-4e5f-95e1-10b64dcddb50",
+  "slug": "section-0693-tag-turkish",
+  "title": "Tag: turkish",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:53Z",
+  "content_hash": "baa26a722be3eee548c19bb0dd7f815545253f9ca8cec87143d2ec4111ba5eaf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 693,
+    "content_hash": "043951b486f3ec9be7f1bf9459b9cab60bda74330fea06d36a25d8c91d037bad",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

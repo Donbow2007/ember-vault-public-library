@@ -1,0 +1,25 @@
+{
+  "id": "e96d9171-aaa8-4060-a274-1d98a5114d67",
+  "slug": "section-1552-common-questions-about-olanzapine-nhs",
+  "title": "Common questions about olanzapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "3576b2c0a4aa8a43fbd98e093587966d5a7908797fa7fdedbbc0d4072672cdd8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1552,
+    "content_hash": "d831e3efe17c832689ed0501c8c98cfccda43302195132ab18ee33597337ed9a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

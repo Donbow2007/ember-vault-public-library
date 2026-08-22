@@ -1,0 +1,25 @@
+{
+  "id": "f0253b73-e042-43c8-88e7-8c71e0f6c17a",
+  "slug": "section-1628-pregnancy-breastfeeding-and-fertility-while-taking-phenoxymethylpenici",
+  "title": "Pregnancy, breastfeeding and fertility while taking phenoxymethylpenicillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "f81364963edbdd27608c01fa30a1bac79fb952a36223230365ecb1d6299d2e18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1628,
+    "content_hash": "04a039a7f79e9a67bde5daf73e65fc5306fef50d06c325da4b73d32b6751aff3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cc5c2f98-b287-4dc8-961a-fd7559af752b",
+  "slug": "section-0232-using-betamethasone-for-eyes-ears-and-nose-with-other-medicines-and-he",
+  "title": "Using betamethasone for eyes, ears and nose with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "dc469d6b35389173d262769a1e84c0a6212010210e02182b6b5aab4c399d6673",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 232,
+    "content_hash": "03dae3693c33f1f7d11ad5cf531407d0e03d88f26a7b3344039a5bde09002dae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

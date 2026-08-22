@@ -1,0 +1,25 @@
+{
+  "id": "57a03f2b-8a5c-466b-b952-7bfdfb7a5586",
+  "slug": "section-1275-taking-loperamide-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking loperamide with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "a523f4b0a0fdfda26ce1b8087965e5223dcad40863ba84b8b86dabc39c559d7f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1275,
+    "content_hash": "97afcecc8420d870c4cd48cce04a5b48fd054064d78425edfbb792cb941e98aa",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

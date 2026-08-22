@@ -1,0 +1,25 @@
+{
+  "id": "996713a4-b3a3-4513-829b-c3467266c7d9",
+  "slug": "section-1897-pregnancy-breastfeeding-and-fertility-while-taking-tolterodine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking tolterodine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "294c0706410ca95ee6c9e4d5610a9ec50469d568af3dee45b9c65e547a820611",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1897,
+    "content_hash": "785a7123e0fe883b5c3454657c2f3fdaab85bd2e42d2f75fea9c2af9446797c9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

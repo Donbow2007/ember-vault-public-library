@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking prednisolone tablets and liquid - NHS
+
+Pregnancy, breastfeeding and fertility while taking prednisolone tablets and liquid
+
+Prednisolone and pregnancy You can take prednisolone while you're pregnant. It has occasionally been linked to problems in the first 12 weeks of pregnancy and possible effects on the baby's growth, however, the benefits of taking it usually outweigh any risks. Only small amounts can cross over the placenta, so your baby is exposed to very little prednisolone in the womb. If you take prednisolone in pregnancy, your baby's growth will be checked regularly. It's important that immune and inflammatory problems are well treated as these can affect you and your baby's wellbeing. Speak to your doctor if you become pregnant. They will discuss the risks and benefits with you and help you decide on the best treatment for you and your baby. Prednisolone and breastfeeding If your doctor or health visitor says that your baby is healthy, it's OK to take prednisolone while breastfeeding. Prednisolone passes into breast milk in small amounts. It has been used for many years in breastfeeding women without side effects in their babies. If you're taking a dose of more than 40mg of prednisolone each day for a long time, your baby may need extra monitoring. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife or doctor as soon as possible. Prednisolone and fertility There's no clear evidence to suggest that taking prednisolone reduces fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding For more information about how steroids such as prednisolone can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 24 February 2022
+
+Next review due: 24 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

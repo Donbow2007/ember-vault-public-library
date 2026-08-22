@@ -1,0 +1,25 @@
+{
+  "id": "16875d38-11d2-4cc8-8009-575ebe336724",
+  "slug": "section-0926-common-questions-about-gaviscon-nhs",
+  "title": "Common questions about gaviscon - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "276a085e0d0b8c51106016a6a1523d498d2083ab1daaaaddd0a921677466f973",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 926,
+    "content_hash": "60d44e50f421871f2502bd4b3a5447724f841b70c607890ad664e46e22fcce0e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking atenolol - NHS
+
+Pregnancy, breastfeeding and fertility while taking atenolol
+
+Atenolol and pregnancy It's important to treat high blood pressure during pregnancy. This will help you and your baby to stay healthy. Although atenolol can be taken in pregnancy, it's more common to take labetalol (a similar medicine that works in the same way). This is because there is more safety information available for labetalol. Talk to your doctor about which blood pressure medicine is best for you. Atenolol can affect the baby's growth in the womb, so you may be offered extra scans to check that your baby is growing OK. There's also a small chance that atenolol can affect a baby's blood sugar levels just after birth. Because of this, your baby may have their blood sugar levels monitored in hospital for the first 24 hours to make sure everything's OK before you go home. Atenolol and breastfeeding If your doctor or health visitor says that your baby is healthy, it might be OK to take atenolol while breastfeeding. Atenolol passes into breast milk in different amounts, and sometimes these have been quite high. If you're breastfeeding or planning to breastfeed, talk to your doctor or pharmacist as other medicines might be better for you. It's important to treat your high blood pressure to keep you well. Breastfeeding will also benefit both you and your baby. If your baby's not feeding as well as usual, seems unusually sleepy, seems much paler than usual, or if you have any other concerns about your baby, talk to your doctor, pharmacist, midwife or health visitor. Atenolol and fertility There is no evidence to suggest that atenolol affects fertility in men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how atenolol can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 5 April 2022
+
+Next review due: 5 April 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

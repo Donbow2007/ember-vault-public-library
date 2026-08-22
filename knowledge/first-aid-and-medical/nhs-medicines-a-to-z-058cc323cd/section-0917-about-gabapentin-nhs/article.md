@@ -1,0 +1,7 @@
+# About gabapentin - NHS
+
+About gabapentin - Brand name: Neurontin Gabapentin is used to treat epilepsy . It's also taken for nerve pain, which can be caused by different conditions, including diabetes and shingles . Nerve pain can also happen after an injury. In epilepsy, it's thought that gabapentin stops seizures by reducing the abnormal electrical activity in the brain. With nerve pain, it's thought to block pain by affecting the pain messages travelling through the brain and down the spine. Gabapentin is available on prescription. It comes as tablets, capsules and a liquid that you swallow. Key facts You'll usually take gabapentin 3 times a day. You can take it with or without food. Most people who take gabapentin do not get any side effects. But some people may feel sleepy, tired and dizzy. Common side effects are usually mild and go away by themselves. It takes at least a few weeks for gabapentin to work. Most people do not have to stay on the same brand of gabapentin as there's very little difference between brands. Some people can become addicted to gabapentin. When stopping gabapentin you'll need to reduce your dose gradually to avoid withdrawal symptoms. If you have epilepsy, you are entitled to free prescriptions for all the medicines you take, not just your epilepsy ones. You can get an application form from your doctor's surgery.
+Page last reviewed: 18 January 2022
+
+Next review due: 18 January 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

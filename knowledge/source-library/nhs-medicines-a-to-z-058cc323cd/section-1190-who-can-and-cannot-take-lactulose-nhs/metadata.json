@@ -1,0 +1,25 @@
+{
+  "id": "49e38762-37e4-44d6-937a-5e5ef4dfa993",
+  "slug": "section-1190-who-can-and-cannot-take-lactulose-nhs",
+  "title": "Who can and cannot take lactulose - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "ab5e451efd6a60bbcdb809dd96b18318d704c87f0de3d8bc5852588c03cb4193",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1190,
+    "content_hash": "cd9ef111c5ef91b168c74451a5f85aae39ccf2d0760f92f384f17e377bb24daf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

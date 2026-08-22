@@ -1,0 +1,25 @@
+{
+  "id": "3343e4e3-cecc-435f-b906-c6d47de67a71",
+  "slug": "section-0523-about-co-careldopa-nhs",
+  "title": "About co-careldopa - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "fcbb236a6a93d67287c59efbf313f8869aedb0cb0febba3aa68e79aa7c7bd039",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 523,
+    "content_hash": "9292fafbd6811878c96a832436046f1f587e1760e48f0e0138ce6c5f63bb0065",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

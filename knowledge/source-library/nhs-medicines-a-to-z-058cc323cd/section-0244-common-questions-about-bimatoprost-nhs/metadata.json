@@ -1,0 +1,25 @@
+{
+  "id": "edff9241-ca99-4298-bc72-39ca9cb69797",
+  "slug": "section-0244-common-questions-about-bimatoprost-nhs",
+  "title": "Common questions about bimatoprost - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "60b4a9cee641a7ddddac5b0c70553d2ac6f6d37927e286ca5d9c206da5b70860",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 244,
+    "content_hash": "bd5eae71b6493dadb476c43c7f6d0d4f9d87467fb79ffbfb93c5fb6723db43c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

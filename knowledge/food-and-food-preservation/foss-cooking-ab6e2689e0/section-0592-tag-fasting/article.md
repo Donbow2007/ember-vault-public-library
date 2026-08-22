@@ -1,0 +1,3 @@
+# Tag: fasting
+
+Stuffed Round Squash Ray Peat's Carrot Salad Bread Sauerkraut Cooked Chickpeas Fajita Seasoning Maque Choux Croutons Pretzels Hummus Peanut Butter Pasta Alla Norma Three Bean Salad Fall Vegetable and Chickpea Curry Gypsy Soup Tofu Stir Fry Italian Bread Banana Muffins with Chocolate Potato and Eggplant (Aubergine) Curry Gnocchi Pasta (store bought) Pasta sauce Rice Lemon juice salad dressing Banana Bread Oats Broccoli with Ginger and Garlic Sauce Naan Bread Dried tomato & plum bread spread Ketchup Ragù Two Ingredient Pancakes Basic Sweet Potato Fries Recipe Lenten Lentil Curry Fried Potatoes Fresh Guacamole Refried Beans Lenten Chili

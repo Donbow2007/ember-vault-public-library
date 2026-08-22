@@ -1,0 +1,25 @@
+{
+  "id": "6b074bcc-29bd-486c-9080-8ee51eb49a01",
+  "slug": "section-1547-side-effects-of-nystatin-nhs",
+  "title": "Side effects of nystatin - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "1007b216b98fe01bc0f5e28c3ff83ddfcd7e64b90666fefdec1d1259657e9d10",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1547,
+    "content_hash": "94f74b5d58bd9e70d112a53cfd0324f4129838e0f542ef0d7d4faafd1b967e15",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

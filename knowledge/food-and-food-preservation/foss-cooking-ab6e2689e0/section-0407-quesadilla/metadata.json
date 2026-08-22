@@ -1,0 +1,25 @@
+{
+  "id": "a9d70b5a-b4af-4953-9b52-22c4ecd6d934",
+  "slug": "section-0407-quesadilla",
+  "title": "Quesadilla",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "c4653e639c7cae2bea2f504744f00923769c28f7eca3e0c6444e1530229bec99",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 407,
+    "content_hash": "6296e0f9c6ab3d81bfb805cfe7aacfc14793e62569ff0e83b5b833b5ae2d00a5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

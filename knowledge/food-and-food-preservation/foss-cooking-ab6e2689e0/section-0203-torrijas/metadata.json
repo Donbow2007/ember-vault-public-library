@@ -1,0 +1,25 @@
+{
+  "id": "db587cd5-9ba4-4a2d-bdd6-5b9e471795b3",
+  "slug": "section-0203-torrijas",
+  "title": "Torrijas",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "aa631e1bf31f4ed41a9c1851ccf672c4f9635c252143280b72773281861661c5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 203,
+    "content_hash": "5a5290291704293ce699f9455e71a157888fe94d0fe58fd4afba69ce3c88d19f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

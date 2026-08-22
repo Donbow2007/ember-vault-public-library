@@ -1,0 +1,25 @@
+{
+  "id": "6a6eeedf-32db-47a7-a97c-e685c2bcbf47",
+  "slug": "section-1354-pregnancy-breastfeeding-and-fertility-while-taking-melatonin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking melatonin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "c9f2d7f64789ce3d1e35e2f9c7e87b97dc3b702f2bf858f904581e80a54844c3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1354,
+    "content_hash": "2538392f3714fad53b6b20e797976b728f6884cb0d9caa980e409141bc999c58",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

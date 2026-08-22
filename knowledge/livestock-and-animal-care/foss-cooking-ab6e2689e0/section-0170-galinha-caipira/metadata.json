@@ -1,0 +1,25 @@
+{
+  "id": "9dd9baa4-7059-4887-8128-8bf78184b58f",
+  "slug": "section-0170-galinha-caipira",
+  "title": "Galinha Caipira",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "dfc1bb76ddecb8ea8eb4feb0a056f2d2cfe98c4937a39824561f19cce4e7af7b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 170,
+    "content_hash": "94f3dc4dfae53f70f7383959fed8971dbcd1112ee38f21064acaf24cd410ec82",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

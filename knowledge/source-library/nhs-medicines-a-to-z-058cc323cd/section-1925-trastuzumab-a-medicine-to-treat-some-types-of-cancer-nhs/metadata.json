@@ -1,0 +1,25 @@
+{
+  "id": "95e66a08-9685-4a54-b037-5e446d4cad77",
+  "slug": "section-1925-trastuzumab-a-medicine-to-treat-some-types-of-cancer-nhs",
+  "title": "Trastuzumab: a medicine to treat some types of cancer - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "722fb4db8bd4809dea604a5b7341337324e5b3615db0bf22c65d87616f5bb722",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1925,
+    "content_hash": "e73719aea5b5bedf079d8ce6b53abf6e8960f75c51b798aebbcac2f2a808b91c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "246bbc75-8228-460e-948c-5473d329c4d9",
+  "slug": "section-0869-about-fluticasone-nasal-spray-and-drops-nhs",
+  "title": "About fluticasone nasal spray and drops - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "201c33deac112166b9972c5614ed2435a926f19f53994435b710aa5c34269a08",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 869,
+    "content_hash": "749b1979c4f233e7f046c5e7cd7ceeb99031c7562880b7dea49b5c869e4b1b04",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

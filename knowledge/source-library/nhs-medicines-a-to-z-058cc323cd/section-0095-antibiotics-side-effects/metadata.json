@@ -1,0 +1,25 @@
+{
+  "id": "0743b443-49d6-4f08-9934-77d7b8d6e472",
+  "slug": "section-0095-antibiotics-side-effects",
+  "title": "Antibiotics - Side effects",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "88c8d9a8d2a0909cab807883479b7d392aa943830d3e4225b3b77ee913d44a3c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 95,
+    "content_hash": "cf86ff5bd68affe56c086b5d253ad9cf5c2a3f961279ea136469f94f93e0fd14",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

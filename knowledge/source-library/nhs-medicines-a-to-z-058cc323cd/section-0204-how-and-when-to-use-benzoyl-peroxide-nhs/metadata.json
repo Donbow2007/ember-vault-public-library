@@ -1,0 +1,25 @@
+{
+  "id": "c5f15f5c-9faa-4156-bd3d-217a1261d83e",
+  "slug": "section-0204-how-and-when-to-use-benzoyl-peroxide-nhs",
+  "title": "How and when to use benzoyl peroxide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "ef0c9b8e362ee3d5fd9ef278d23679289b9254aad0518b9f0c2ed52525fd8e93",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 204,
+    "content_hash": "37a283061198ad1e848485aa59bf8ad7f4485e4678a404a2604e01ba88496171",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

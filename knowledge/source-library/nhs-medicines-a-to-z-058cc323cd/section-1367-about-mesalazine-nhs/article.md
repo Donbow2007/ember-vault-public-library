@@ -1,0 +1,7 @@
+# About mesalazine - NHS
+
+About mesalazine - Brand names: Asacol, Mezavant, Octasa, Pentasa, Salofalk, Zintasa Mesalazine is used to treat ulcerative colitis , Crohn's disease and other types of inflammatory bowel disease . Mesalazine works by helping to reduce swelling (inflammation). It can also help with healing. Some people take mesalazine together with steroids to improve their symptoms. Mesalazine is only available on prescription. It comes as: tablets granules rectal foam suppositories enemas Key facts Different types and brands of mesalazine tablets and granules work on different parts of your gut. Rectal foam, suppositories or enemas are prescribed for the lower part of your gut. If you find one that works for you, it’s usually best to stick to the same one You’ll usually need blood tests, liver tests and kidney tests before you start treatment with mesalazine, and then regular monitoring tests. Mesalazine starts working straight away, but it may take up to a few months to work fully. Common side effects of mesalazine include stomach pain, indigestion, farting (flatulence), and feeling or being sick, Drink plenty of fluids, such as water, while you’re taking or using mesalazine to help prevent kidney problems.
+Page last reviewed: 6 March 2025
+
+Next review due: 6 March 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

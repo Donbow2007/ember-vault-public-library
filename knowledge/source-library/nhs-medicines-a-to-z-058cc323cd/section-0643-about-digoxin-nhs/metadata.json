@@ -1,0 +1,25 @@
+{
+  "id": "94498486-7f45-4071-b2c6-dda10a03e644",
+  "slug": "section-0643-about-digoxin-nhs",
+  "title": "About digoxin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "241d47711e1a1837cede947091e89424fa2ad737f6ca6f78ad719a5d81eca6ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 643,
+    "content_hash": "7dba459dd77a2387011f970bdf1bc615b4b3e153888d2aadef740ca37325ba1b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

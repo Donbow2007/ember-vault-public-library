@@ -1,0 +1,25 @@
+{
+  "id": "7eb8c71e-8c51-4f38-8a46-bb3c2b240f3a",
+  "slug": "section-1993-about-zolpidem-nhs",
+  "title": "About zolpidem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "8236d85c03d8dc7fc94e8bc5eb9e10414413203ba53badc1fc82af1e2491aac6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1993,
+    "content_hash": "6a203f1d9a95ad7c29bbf6c4d798c5a54f70f8fc7edcbcdb6b5e7d828791154b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

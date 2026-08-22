@@ -1,0 +1,25 @@
+{
+  "id": "4140f7ef-94e4-44ee-ace2-64ae17553d46",
+  "slug": "section-0040-side-effects-of-allopurinol-nhs",
+  "title": "Side effects of allopurinol - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "8c946cb7479a0e28d184fa0c26a6cd8f356df624e14bb414cadc87597f7c09fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 40,
+    "content_hash": "cb27829fd6d99eea7d688b1375d9656340e16a7ca20302251a0d088ddaf30b77",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

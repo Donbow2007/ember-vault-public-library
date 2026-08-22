@@ -1,0 +1,25 @@
+{
+  "id": "3a57c6af-0cc9-4f3a-87bc-9985a1d29f27",
+  "slug": "section-1920-how-and-when-to-take-tranexamic-acid-nhs",
+  "title": "How and when to take tranexamic acid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "d1da3daa175165ad639ba558e9096fcc12e4ca733d2d8fa7a998c8d6987753b8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1920,
+    "content_hash": "16d6e6d91da5794ac9e89c2fddf027b5c3e7194da1a1d2523e16f5d83e62af9d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

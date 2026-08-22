@@ -1,0 +1,25 @@
+{
+  "id": "784ad211-827a-424d-95ee-9755f6d21656",
+  "slug": "section-0799-how-and-when-to-use-fentanyl-nhs-part-2",
+  "title": "How and when to use fentanyl - NHS — Part 2",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "f96c8b9a8f4c799e96a8c9200141c030f50ff237289b298d6ea35866c62b0d08",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 799,
+    "content_hash": "a423416980546f2331ee521060cc7e535c42aa16281f8103079f12e3a820e660",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a167c51a-f502-4760-a031-5dfbae74d03c",
+  "slug": "section-0554-about-codeine-nhs",
+  "title": "About codeine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "3849113a0dbd87871edd1d1ac4b814b72aab341717051673eea854da63e0aa97",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 554,
+    "content_hash": "07b0398d9cedba0dce53db5b7448c3de0c713e989941345f913777f6d31d78dc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "83494d6f-1bc5-4acf-a153-bec501d7483c",
+  "slug": "section-1915-taking-tramadol-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking tramadol with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "84a549258b3329600ee2d5716a2a09cdb0915b7afea68be2834f4dfa35dbc546",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1915,
+    "content_hash": "9368ab2982938e831e6c7b1dc78fa7066c9dcfdc54c0305edf82810c31608a13",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

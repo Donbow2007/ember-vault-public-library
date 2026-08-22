@@ -1,0 +1,25 @@
+{
+  "id": "4973b434-dd13-4f7c-b53a-d0c52de5a33d",
+  "slug": "section-0556-tag-belgian",
+  "title": "Tag: belgian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "b1f7ebbadc0590331b690068707bdcd76eb12b70161ad125111f633bb95ea4c6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 556,
+    "content_hash": "e9d5c5ab61d1a55cf5bdb55ac3a377c839894de39db0a1a7592986812376ff84",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

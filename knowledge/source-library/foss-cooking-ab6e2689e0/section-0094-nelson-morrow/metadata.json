@@ -1,0 +1,25 @@
+{
+  "id": "29f067d2-39b0-4bae-9700-4c174f1061fc",
+  "slug": "section-0094-nelson-morrow",
+  "title": "Nelson Morrow",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "ea258e1f7d91d311ce2fc576bb2c0015dadc4bce922dc1c1ae76b74fea72e21c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 94,
+    "content_hash": "d7296470c931e6ca0173eaa0deb0f2a1ad81185aad8d9d458789d3d57400d093",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

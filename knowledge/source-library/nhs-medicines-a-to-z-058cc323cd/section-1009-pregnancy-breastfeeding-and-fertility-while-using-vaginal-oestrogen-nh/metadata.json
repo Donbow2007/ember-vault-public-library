@@ -1,0 +1,25 @@
+{
+  "id": "48f8a500-cd0c-48a6-9144-8a735eb83cd9",
+  "slug": "section-1009-pregnancy-breastfeeding-and-fertility-while-using-vaginal-oestrogen-nh",
+  "title": "Pregnancy, breastfeeding and fertility while using vaginal oestrogen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "f06e6b9ed5edbb64e259d1797281dfcc4585f2b4c982115210d8f7de4c69b9c3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1009,
+    "content_hash": "5a0aedceb8bf29bc123bd68d5a8cbe3b558a10c8a830e326691f7c85cd2d7a92",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "730b77cb-0500-4a04-86c4-38dfa62ef659",
+  "slug": "section-0444-banana-pancakes",
+  "title": "Banana Pancakes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "efe1be0d3fa0675ec7b61f8d54eb9b4623d8fbb9bf5961a6e3017a9ded40df60",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 444,
+    "content_hash": "f5ea1c83ff7c2685e55afc48da2e5504a5501e4ab669e681b5134d1054133908",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

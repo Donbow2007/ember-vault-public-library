@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while using mometasone nasal spray - NHS
+
+Pregnancy, breastfeeding and fertility while using mometasone nasal spray - Brand names: Clarinaze, Nasonex Mometasone nasal spray and pregnancy Mometasone nasal spray can be used during pregnancy. Very little of the medicine gets into your blood and almost none gets to your baby. Even if a small amount does get to your baby, it will not harm them. Mometasone nasal spray and breastfeeding It's OK to use your mometasone nasal spray as normal while you're breastfeeding. Although there's no information about using mometasone nasal spray while breastfeeding, it's unlikely that any of it passes into breast milk or is absorbed by your baby. It's also very unlikely to cause any side effects in your baby. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about them, talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Mometasone nasal spray and fertility There's no evidence to suggest that using mometasone nasal spray reduces fertility in either men or women. Information: Find out more about how using a steroid nasal spray can affect you and your baby during pregnancy, on the Best Use of Medicines in Pregnancy (BUMPs) website .
+Page last reviewed: 24 January 2024
+
+Next review due: 24 January 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

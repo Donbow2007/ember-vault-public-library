@@ -1,0 +1,25 @@
+{
+  "id": "d9f509d2-9a94-4a58-9da9-5d862fef0f4a",
+  "slug": "section-1679-common-questions-about-pseudoephedrine-nhs",
+  "title": "Common questions about pseudoephedrine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "d25d8432796064bf11b36cd28768e73b8d2faa7a0c8f647766c4071cbd51789e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1679,
+    "content_hash": "1eafb56923f48045f7f6c97230912e348fe6028b28d040452b227b15fc380253",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

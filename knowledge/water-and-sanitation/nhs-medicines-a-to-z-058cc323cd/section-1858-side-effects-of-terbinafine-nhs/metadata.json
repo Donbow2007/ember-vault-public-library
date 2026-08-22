@@ -1,0 +1,25 @@
+{
+  "id": "f336ad63-6949-4367-9753-76eab282a050",
+  "slug": "section-1858-side-effects-of-terbinafine-nhs",
+  "title": "Side effects of terbinafine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "4827ea19934ae349e4088cf0213d9b163f1f6523c44c538b87bf17eb41ca8a7b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1858,
+    "content_hash": "5d1f3b4fe75a8fd65bd66e0d249db43fd37fca4c1300a707378ab4ec3b06370f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d0475ec5-3161-4ecb-841a-e259c55a631b",
+  "slug": "section-1406-methylphenidate-for-children-a-medicine-used-to-treat-attention-defici",
+  "title": "Methylphenidate for children: a medicine used to treat attention deficit hyperactivity disorder (ADHD) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "4cba7a5c3bcf3f98f97dba0dd8ea3b5c4d07286efac5d821ef793038719d2726",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1406,
+    "content_hash": "435d714afee9865a1830204a029eb703934da2ba98e70cffe97c315a47de09fe",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

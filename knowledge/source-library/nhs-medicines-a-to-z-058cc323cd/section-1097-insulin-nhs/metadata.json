@@ -1,0 +1,25 @@
+{
+  "id": "493eb016-5a3e-4c07-9ba9-e3ae6046b29a",
+  "slug": "section-1097-insulin-nhs",
+  "title": "Insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "d8413c8ab85f5d0bcfaec145957dba2c972cfedd8b33f19de7b3bdd8ce619952",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1097,
+    "content_hash": "7fb99b5fa6262dd6ab00fd4e6f5d63bb765e4ef25e9dd2676d48cf9dee95f734",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

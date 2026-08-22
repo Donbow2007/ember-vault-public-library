@@ -1,0 +1,25 @@
+{
+  "id": "a7933a5c-0d1c-49ee-bd0a-1b96ac81f376",
+  "slug": "section-1373-who-can-and-cannot-take-mesalazine-nhs",
+  "title": "Who can and cannot take mesalazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "d6ad6056c8f8b7e0e15cd0bc13d76e17aad7255d09f30df5e6b177424eafefc0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1373,
+    "content_hash": "af8be581999c0a5a16d7a0ad0e40bc714b609d496b80859e209c5ac33e3af585",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "153837f1-83b2-475a-820a-e1a27cd91753",
+  "slug": "section-1124-common-questions-about-long-acting-insulin-nhs-part-2",
+  "title": "Common questions about long-acting insulin - NHS — Part 2",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "e2df02020174aa5d84389daab9ac1c7a0d1bd22f2101d5ba9da98ddf48cdc1e2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1124,
+    "content_hash": "2a67398c6e3f2943295633de1f95305e756f91e968e539d37d6fe7d7dcd17702",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

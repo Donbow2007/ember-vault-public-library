@@ -1,0 +1,9 @@
+# Using salbutamol inhalers with other medicines and herbal supplements - NHS
+
+Using salbutamol inhalers with other medicines and herbal supplements - Brand names: Ventolin, Airomir, Asmalal, Easyhaler, Pulvinal, Salamol, Easi-Breathe, Salbulin Cautions with other medicines Salbutamol inhalers can be used with most other medicines. But some medicines may affect your inhaler or increase the chance of having side effects. Check with a pharmacist or your doctor if you're taking any other medicines, including: a beta blocker like bisoprolol , as these can affect the way salbutamol works – your doctor will decide whether the benefits of taking both medicines outweigh the risks medicines to reduce build-up of fluid (diuretics), such as bendroflumethiazide or furosemide , as these may increase the risk of a low potassium level steroids , such as prednisolone , as these may increase the risk of a low potassium level other medicines to treat your breathing problem, such as theophylline or aminophylline, as these may increase the risk of a low potassium level medicines to treat depression These are not all the medicines that may cause problems if you take them with salbutamol. For a full list, see the leaflet inside your medicine packet. Mixing salbutamol with herbal remedies or supplements There's not enough information to say that complementary medicines, herbal remedies and supplements are safe to take with salbutamol. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 13 February 2025
+
+Next review due: 13 February 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

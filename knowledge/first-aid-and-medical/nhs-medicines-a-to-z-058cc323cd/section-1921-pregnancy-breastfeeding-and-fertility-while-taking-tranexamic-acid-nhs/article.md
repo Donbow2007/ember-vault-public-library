@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking tranexamic acid - NHS
+
+Pregnancy, breastfeeding and fertility while taking tranexamic acid - Brand names: Cyklokapron, Evana Heavy Period Relief Tranexamic acid and pregnancy Tranexamic acid is not often recommended in pregnancy but it can be taken if needed. Only take it if it's been prescribed by a doctor. If you're pregnant or trying to get pregnant, speak to your doctor. They may want to review your medicine. You may sometimes be given tranexamic acid after your baby is born. You may need it if you have too much bleeding around the time of the birth, or if you have a problem with your blood that makes you more likely to bleed. Your maternity team will be able to explain this. Tranexamic acid and breastfeeding If your doctor, midwife or health visitor says your baby is healthy, it's OK to take tranexamic acid if you're breastfeeding. There is not much information about taking tranexamic acid while breastfeeding, but it shows that tranexamic acid passes into breast milk in very small amounts, and does not usually cause any side effects in babies. Talk to your health visitor, midwife, doctor or pharmacist as soon as possible if you have any concerns about your baby. This includes if they're: not feeding as well as usual being more restless than usual being sick or have diarrhoea Tranexamic acid and fertility There's no evidence to suggest that taking tranexamic acid reduces fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 9 March 2023
+
+Next review due: 9 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "5fb8dd9f-7a9d-42ec-a04b-5f1c43f9c4b9",
+  "slug": "section-0430-ragu",
+  "title": "Ragù",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "3c6cc4f8122ffe540a3146fd366036edb3c387306bb8ab036503256d7c4f0a30",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 430,
+    "content_hash": "b869f63da321ffafd3f761ce8077ce28324fe26ed3ecae0e4c0a171e20a91b32",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

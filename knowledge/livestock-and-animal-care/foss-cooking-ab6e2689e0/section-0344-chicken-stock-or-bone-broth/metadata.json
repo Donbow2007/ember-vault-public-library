@@ -1,0 +1,25 @@
+{
+  "id": "5b9fba74-c718-439b-be84-a56b139c9231",
+  "slug": "section-0344-chicken-stock-or-bone-broth",
+  "title": "Chicken Stock or Bone Broth",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "8112fc976a54058aadb6d245fad4021b08f8f2bdbc156831997f26204b1f460b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 344,
+    "content_hash": "b25e7dd635572ad58848178665daf3606d3abeb345c2fce3270ca073436693a3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

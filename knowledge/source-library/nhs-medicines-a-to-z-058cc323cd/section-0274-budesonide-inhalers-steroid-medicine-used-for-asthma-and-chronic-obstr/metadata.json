@@ -1,0 +1,25 @@
+{
+  "id": "b3ad160a-20f9-4fc5-9afa-aa2d2487eae1",
+  "slug": "section-0274-budesonide-inhalers-steroid-medicine-used-for-asthma-and-chronic-obstr",
+  "title": "Budesonide inhalers: steroid medicine used for asthma and chronic obstructive pulmonary disease. - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "d5eda56183c72db93ad5d12fa1e816da11b2e81cd118e33015c64b7e8428f3cf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 274,
+    "content_hash": "cc1a26ae3a29e835bcfe037ada4f017639925b6514c47942a74e91058d46102f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

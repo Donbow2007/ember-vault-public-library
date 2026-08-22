@@ -1,0 +1,25 @@
+{
+  "id": "8cf79fa9-ab73-456d-afbb-7ae7026ed5dd",
+  "slug": "section-0835-who-can-and-cannot-take-finasteride-nhs",
+  "title": "Who can and cannot take finasteride - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "84264325218c0189374f0843a2ec4fd7c813cd1071cb38cb2a152ed2d504f6e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 835,
+    "content_hash": "7a1ead6999408e21e44051ee7c56b2a9e5ecf11df4482ad0bc8f274c3d8d91b0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

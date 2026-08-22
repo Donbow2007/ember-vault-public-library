@@ -1,0 +1,25 @@
+{
+  "id": "e0f51c05-489c-49be-844f-a0cd6aac995e",
+  "slug": "section-1483-taking-montelukast-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking montelukast with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "74ad4f13fbd1c1894a0c3e7ed18bce6efce43ab45eb3236dc9c51ab9a3bdb16a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1483,
+    "content_hash": "6b59ffc51fb109b83eecdb1f66a1a6dc073d1306aa807774ac4e9c80f053d8f4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

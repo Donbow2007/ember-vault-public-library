@@ -1,0 +1,25 @@
+{
+  "id": "8e1c2406-5c5a-45c2-b8e6-1dbec0e043fc",
+  "slug": "section-1026-pregnancy-breastfeeding-and-fertility-while-using-hydrocortisone-for-p",
+  "title": "Pregnancy, breastfeeding and fertility while using hydrocortisone for piles and itchy bottom - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "2ce7f6c094704a9e6785760656675f4f9e86540891cfbebc20994c3de55e6fab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1026,
+    "content_hash": "253a0129a536dd3fea826c091866331617f9a3eb25a5f8ed2c262012316d670c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8fbda741-5b4c-40f3-8799-57fcccd8d881",
+  "slug": "section-0822-common-questions-about-fexofenadine-nhs",
+  "title": "Common questions about fexofenadine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "a274556886bc5bf807473cafe19cea57b4cda05d04e67a022ea2eb4a892ae317",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 822,
+    "content_hash": "6b6b828010156811bac3424849a9a0c2dfc8c898a301be92c35029ddf9db1776",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d596a889-4ece-437a-aad2-be01d9bfab6d",
+  "slug": "section-0103-postbellum",
+  "title": "Postbellum",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "7d2f61cd0b67e86b8e27103de503d78b5e920596e1db4f0d8b8c36f3cffe481c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 103,
+    "content_hash": "e9956bb51cffb4c68a7235a3c6e3e67cba3e3b1a65524b6af8f1d745138d5cc7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

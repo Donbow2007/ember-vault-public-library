@@ -1,0 +1,25 @@
+{
+  "id": "dc142179-8d13-4ed9-9369-a78e839cbbb7",
+  "slug": "section-0224-traditional-beef-or-lamb-stew",
+  "title": "Traditional beef or lamb stew",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "16ad7204f02f6cdc362a18988a5ef7d9a133dc81cf45c8df82abe59ac546387c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 224,
+    "content_hash": "bfc3a2d503294ac9ea9c330e3e08f504e3536406346667946fdd75fd58f90182",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

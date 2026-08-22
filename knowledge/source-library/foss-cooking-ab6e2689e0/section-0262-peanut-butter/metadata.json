@@ -1,0 +1,25 @@
+{
+  "id": "70c0a857-13b2-40c4-889f-922518048874",
+  "slug": "section-0262-peanut-butter",
+  "title": "Peanut Butter",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "3de8b25a6129f510c76ded33f5cf46aaf692629c2e2b53be1d29d5a22f30a16f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 262,
+    "content_hash": "8b128ef06e1570f743ee6b61600a47fff4d9184263a38490b6d3e32a57326d3d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

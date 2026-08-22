@@ -1,0 +1,25 @@
+{
+  "id": "257f7bd9-9abc-49af-b565-cb1a7d0eeb08",
+  "slug": "section-0427-nashville-chicken-sandwich",
+  "title": "Nashville Chicken Sandwich",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "e22745b72e0f3d08e66c3442ff64872a76a40a4cd2e7e0c7e16b27dd499278a5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 427,
+    "content_hash": "fa71c3d2cd0ca5db880846c986e43a1b5e0072fe03ea5699fac3aa7addd73eb5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

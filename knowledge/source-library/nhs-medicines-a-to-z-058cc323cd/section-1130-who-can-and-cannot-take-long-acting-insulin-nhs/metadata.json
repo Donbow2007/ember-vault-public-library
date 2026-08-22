@@ -1,0 +1,25 @@
+{
+  "id": "aa1f94e1-901b-4630-91b0-a7998554f754",
+  "slug": "section-1130-who-can-and-cannot-take-long-acting-insulin-nhs",
+  "title": "Who can and cannot take long-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "b45a1b5c23cc1a23cfd585497c9d167277b50dd4ad7e704b0c16346e8b08385f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1130,
+    "content_hash": "9b64e89b4f6e527e229a723b6391898d1cfd56084af47a93b186e4d42987c9c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

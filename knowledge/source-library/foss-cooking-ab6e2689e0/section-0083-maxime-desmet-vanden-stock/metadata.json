@@ -1,0 +1,25 @@
+{
+  "id": "f9c29e02-0516-4a5d-a171-10a02b71fa2c",
+  "slug": "section-0083-maxime-desmet-vanden-stock",
+  "title": "Maxime Desmet Vanden Stock",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "38a6e3b5beeab9e58de21b9312828d5831f415039ae11c878f61ad5971711736",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 83,
+    "content_hash": "325db5495d8598447024fd65847b66093d0c97a7d78e1a2095396d60ac760df8",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

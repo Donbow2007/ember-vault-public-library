@@ -1,0 +1,25 @@
+{
+  "id": "635154bc-530f-4391-9ef8-de1bf0a9170c",
+  "slug": "section-0203-common-questions-about-benzoyl-peroxide-nhs",
+  "title": "Common questions about benzoyl peroxide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "0f1e7ed1250b9f05f43e68e2b383f87e4f07c4676b80aa4781f0615a13a69bed",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 203,
+    "content_hash": "ef44b64e365ae2f2cf37e81114dc7713de3acfd63bed5d8f37b77cbc3cca09ec",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cbbf4f5e-44a3-4e04-a6e3-c3b9d89822b0",
+  "slug": "section-0637-how-and-when-to-take-or-use-diclofenac-nhs",
+  "title": "How and when to take or use diclofenac - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "bf9a09c12df6c543ba8627788be1a5389939520654edc54bc2f6dea88a1fb6e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 637,
+    "content_hash": "cddf9bdd03751cb75b9b532fc8bb29e88bde0e0069400194b045b93cc8225ef4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

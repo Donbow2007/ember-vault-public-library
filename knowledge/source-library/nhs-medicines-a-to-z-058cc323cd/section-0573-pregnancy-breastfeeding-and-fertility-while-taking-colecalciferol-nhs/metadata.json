@@ -1,0 +1,25 @@
+{
+  "id": "102f7c54-47ab-4f30-b78a-3d0267f98deb",
+  "slug": "section-0573-pregnancy-breastfeeding-and-fertility-while-taking-colecalciferol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking colecalciferol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "6519f7c46c0be849226cb7f4082eede0de4c5af5a08c0588179446364bb6fef7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 573,
+    "content_hash": "13df39033a60016757ac0c1f578710b359dfe98a7fd2a4ba1f5e4c9461e536db",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

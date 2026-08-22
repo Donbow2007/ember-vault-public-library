@@ -1,0 +1,25 @@
+{
+  "id": "1e42c48e-fe14-4dbc-a70a-a6a0836bf02a",
+  "slug": "section-1062-side-effects-of-hydroxychloroquine-nhs",
+  "title": "Side effects of hydroxychloroquine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "f81936493ded1c1e513c04c06d2775cdfff4f75d6a1f9da3f9344dfba896e475",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1062,
+    "content_hash": "b563e0e412af58232f97702515b15e1a0ea3897547f205e4ecb1e11dd8a2e4b5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

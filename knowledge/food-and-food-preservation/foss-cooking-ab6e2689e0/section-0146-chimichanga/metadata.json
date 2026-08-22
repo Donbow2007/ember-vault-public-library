@@ -1,0 +1,25 @@
+{
+  "id": "498d15d1-8a41-4552-93b4-05ee58ac08e0",
+  "slug": "section-0146-chimichanga",
+  "title": "Chimichanga",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "b600fab82d2574630fbaa3892745fce839c485258e0fba079188f516751e6614",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 146,
+    "content_hash": "14bba157a9fd46a96e32b7e201637a3a9e07d5bdae889405b2f5cdc17f6969d2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

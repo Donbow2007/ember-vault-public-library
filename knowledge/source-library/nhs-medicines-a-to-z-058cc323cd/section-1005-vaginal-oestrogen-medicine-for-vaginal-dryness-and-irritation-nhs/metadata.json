@@ -1,0 +1,25 @@
+{
+  "id": "2c27fa8b-c6ae-4703-8735-cb35244eadd4",
+  "slug": "section-1005-vaginal-oestrogen-medicine-for-vaginal-dryness-and-irritation-nhs",
+  "title": "Vaginal oestrogen: medicine for vaginal dryness and irritation - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "c9ad829d7ba91a6b8984a72f8e5befb8e9e5b2620e8f4b149e518d9f9314701f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1005,
+    "content_hash": "e5bb28a2f5d39b7a9600467db976618cb7d8d3a4234d8ca349e6e5aed936703a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

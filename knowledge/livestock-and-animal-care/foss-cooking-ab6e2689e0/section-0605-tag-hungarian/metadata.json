@@ -1,0 +1,25 @@
+{
+  "id": "84a91aaf-1129-4611-aa86-d279eb7724c1",
+  "slug": "section-0605-tag-hungarian",
+  "title": "Tag: hungarian",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "f2e24c59b22fec4ad82bebb13ee67997a92fc229cfcccad8e48ce2fd4f9e8218",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 605,
+    "content_hash": "6394672c4404f39c62aa7b1ca28a42bc74abcdb2e964cc48397b6ee15fbf696a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

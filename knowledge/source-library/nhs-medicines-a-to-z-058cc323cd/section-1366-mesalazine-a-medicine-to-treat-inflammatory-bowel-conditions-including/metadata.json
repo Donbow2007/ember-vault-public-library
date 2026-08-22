@@ -1,0 +1,25 @@
+{
+  "id": "c6af5109-01e3-4f42-88bc-516c445bcc23",
+  "slug": "section-1366-mesalazine-a-medicine-to-treat-inflammatory-bowel-conditions-including",
+  "title": "Mesalazine: a medicine to treat inflammatory bowel conditions including ulcerative colitis and Crohn",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "160beb390f4b855cbb26fa8a3491d53725f870643b1d1d2148da65e03cb0c1ab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1366,
+    "content_hash": "482cfb790a80f09dd22ca2f8496917a013b462f11e5b58cf1162781c92387d55",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

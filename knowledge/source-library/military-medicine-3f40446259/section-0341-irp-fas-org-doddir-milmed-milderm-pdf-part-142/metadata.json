@@ -1,0 +1,25 @@
+{
+  "id": "aecd5f5c-269a-4c4e-8e66-1f59b3b83a3f",
+  "slug": "section-0341-irp-fas-org-doddir-milmed-milderm-pdf-part-142",
+  "title": "irp.fas.org/doddir/milmed/milderm.pdf — Part 142",
+  "category": "source-library",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "9b7639eead167f72d5acb1cca505982924ad39633426be386078e6cb0f7900a0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 341,
+    "content_hash": "8dcb95d648326c2f0940ce5a97ff4a0b4321c820e58165abc78c0e44e3b74eb0",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

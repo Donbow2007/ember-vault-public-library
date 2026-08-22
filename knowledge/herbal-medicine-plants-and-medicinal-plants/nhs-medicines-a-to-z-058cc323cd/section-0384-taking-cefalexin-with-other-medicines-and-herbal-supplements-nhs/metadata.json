@@ -1,0 +1,25 @@
+{
+  "id": "66043daf-6fdd-4e2d-836c-45cf5f9a352d",
+  "slug": "section-0384-taking-cefalexin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking cefalexin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "ad7c3b3f86b2c41a866efa8527ea53370e43d35741888df0e412bf07dbe881b5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 384,
+    "content_hash": "06eaa0b5ed3612904807ef6b3d1c66b5225ceded8c643bce096b1853724bde09",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

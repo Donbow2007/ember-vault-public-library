@@ -1,0 +1,25 @@
+{
+  "id": "5399d93e-0039-470e-80ff-c3f8c188da1f",
+  "slug": "section-0258-bisoprolol-medicine-to-treat-high-blood-pressure-hypertension-nhs",
+  "title": "Bisoprolol: medicine to treat high blood pressure (hypertension) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "d3a01544391dd1e9706191594ae2e8458281446e6fcb4ff6f67cab4a459b4412",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 258,
+    "content_hash": "8b7c8c080f218ed0ef9435d9d8ed64711786e6eaf6bcfb5633f300dc4412d404",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

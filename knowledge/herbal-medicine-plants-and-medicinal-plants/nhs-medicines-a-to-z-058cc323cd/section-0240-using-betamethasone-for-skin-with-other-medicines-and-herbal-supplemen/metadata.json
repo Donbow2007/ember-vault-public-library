@@ -1,0 +1,25 @@
+{
+  "id": "b47df27d-515f-4b27-84e8-be07e359285a",
+  "slug": "section-0240-using-betamethasone-for-skin-with-other-medicines-and-herbal-supplemen",
+  "title": "Using betamethasone for skin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "d4463697560e05ec6e506f08ae2c10b9b0649d336c824b4e0c182a8a9a7e277b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 240,
+    "content_hash": "78add8c0a27fdf064ed90e2e31659b63dd6b26e46b1b1ad1841e2fe88f7999f4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking carbocisteine - NHS
+
+Pregnancy, breastfeeding and fertility while taking carbocisteine - Brand name: Mucodyne Carbocisteine and pregnancy Carbocisteine is not generally recommended during the first trimester of pregnancy. This is because there is very little information to say whether it might affect your baby's development. Depending on why you need a mucolytic, your doctor might recommend an alternative medicine. Carbocisteine and breastfeeding If your doctor or health visitor says your baby is healthy, it's usually OK to take carbocisteine while breastfeeding. It's not known how much carbocisteine passes into breast milk, although your baby will not be able to absorb a lot into their body from any that does pass into your breast milk. This means it's unlikely to cause any side effects in your baby. However, depending on why you need a mucolytic, you may be advised to take other treatments instead where more is known about their use in breastfeeding. If you do take carbocisteine while breastfeeding, talk to your midwife, health visitor, pharmacist or doctor if you have any concerns, including if your baby: is not feeding as well as usual has an upset stomach, such as being sick or having diarrhoea has a rash Carbocisteine and fertility There is no evidence that carbocisteine affects fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 3 March 2023
+
+Next review due: 3 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

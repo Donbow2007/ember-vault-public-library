@@ -1,0 +1,25 @@
+{
+  "id": "68964699-9dbf-4074-ac82-c775f300cba8",
+  "slug": "section-0634-tag-palestinian",
+  "title": "Tag: palestinian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6bde36282f36a1a6030bbbd8ab74ab931ecb8583c2a2fa1b340ee2d07c7f7eac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 634,
+    "content_hash": "df72a55f7f4848a4188cd9caf512d7406ba071092d3e2e6001ff571bf4ea8142",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

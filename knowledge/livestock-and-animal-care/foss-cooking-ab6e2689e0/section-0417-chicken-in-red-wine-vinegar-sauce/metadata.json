@@ -1,0 +1,25 @@
+{
+  "id": "982e4960-10a1-41f7-82b1-b424f1ef572b",
+  "slug": "section-0417-chicken-in-red-wine-vinegar-sauce",
+  "title": "Chicken in Red Wine Vinegar Sauce",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "520557f1ea262656c3ccccbdf6dc5a647bd5b576b4aac1ce37181694b28a32b7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 417,
+    "content_hash": "ae0bc5e324d0f018bfedd618c85cbcec0c87cd01119ec2091e7cb56e7f0ede2b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d7a1be9f-61aa-476a-8113-a4c2d0d45d6b",
+  "slug": "section-0363-potato-soup",
+  "title": "Potato Soup",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "a74ebf5644208349f31fbd9aa0787da9e548cfd6aa620b4c93cb72478cc8ec17",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 363,
+    "content_hash": "77e52ff3aaa95020bf5992fbd94ad1f74e29a08d9522a1d66c2df5eafb41bdea",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

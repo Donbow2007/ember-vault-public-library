@@ -1,0 +1,25 @@
+{
+  "id": "08d23f49-5d1f-4cb2-8f4c-15d46de2f4bd",
+  "slug": "section-0005-common-questions-about-aciclovir-nhs",
+  "title": "Common questions about aciclovir - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "ff43a7b403fda85d0e8b0bf854c77c44c06b4483bcb677b1306ac8d8e154218e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 5,
+    "content_hash": "8f1b07ae4ef24eee2dda37a88592d667206c3e359eed0b4b9b632168b8f11047",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "26b8260a-ca3b-4ab5-bb7d-3f7608b50278",
+  "slug": "section-0245-how-and-when-to-use-bimatoprost-nhs",
+  "title": "How and when to use bimatoprost - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "1e9fcbc5033b385206561b4ad4bbe618103ef7cf12410eeccfb59b5d9a13a302",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 245,
+    "content_hash": "72b9480ae52a6e786a956ea2fc6eb891d68fd9ec7cad5f2e6a2053d0b65ac467",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

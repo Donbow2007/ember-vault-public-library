@@ -1,0 +1,25 @@
+{
+  "id": "a5d1f809-cd22-4ef1-9a6f-5a7055e16ccf",
+  "slug": "section-1143-common-questions-about-short-acting-insulin-nhs-part-1",
+  "title": "Common questions about short-acting insulin - NHS — Part 1",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "8c94959a08f924aaaa392a9ed915f89d25d2b5577361e7603a94830a15f23695",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1143,
+    "content_hash": "4b3a1efa70653bcf8efdd48b9a819d6db6a8b80fe04e5c42ef1a41238ec1bcc5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

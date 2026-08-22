@@ -1,0 +1,29 @@
+# Common questions about trastuzumab - NHS
+
+Common questions about trastuzumab - Brand names: Herceptin, Herzuma, Kanjinti, Ontruzant, Trazimera, Zercepac
+How does trastuzumab work?
+Trastuzumab is a targeted cancer treatment. It's called immunotherapy or immune-targeted therapy because of the way it works with your own immune system. This means it works in a different way to chemotherapy medicines, although it may be used in combination with chemotherapy medicines. Some types of breast and stomach cancers have large amounts of human epidermal growth factor receptor 2 (HER2). HER2 helps the cancer cells grow and multiply. Trastuzumab works by attaching to HER2 on the surface of the cancer cells and this stops the cancer cells from growing or multiplying. Trastuzumab also tells your immune system to destroy the cancer cells it's attached to.
+When will I feel better?
+Trastuzumab might not make you feel better although it can help reduce the size of your cancer. Trastuzumab works best for early breast cancer if you have treatment for a year and this helps to stop the cancer coming back. For stomach cancer or breast cancer that has spread you may continue to have trastuzumab for as long as it's helping to keep the cancer under control. You may feel worse when you start to have trastuzumab if you get any side effects. Some of these should wear off as your body gets used to the treatment. Trastuzumab may work more quickly for some people than others. You'll have regular check-ups while you're having treatment to make sure it's working well for you. Your doctor or nurse will also check whether any side effects are bothering you.
+How well does trastuzumab work?
+The success of trastuzumab depends on whether it's being used to treat early breast cancer, stomach cancer or breast cancer that has spread. Trastuzumab is sometimes used on its own and sometimes with other chemotherapy medicines. In early breast cancer, clinical trials have shown that trastuzumab reduces the risk of cancer coming back. In stomach cancer and breast cancer that has spread, clinical trials have shown that trastuzumab increases the time before the cancer progresses.
+What if trastuzumab does not work?
+You'll have regular check-ups with your doctor or nurse while you're on trastuzumab to make sure it's working well for you. If trastuzumab is not working well then you and your doctor can talk about other treatment options. The choice of treatments will depend on which medicines you've already tried and whether you've been having trastuzumab with other chemotherapy.
+Are there other cancer treatments like trastuzumab?
+There are other treatments that are similar to trastuzumab. The choice of treatment depends on which type of cancer you have and whether it's spread. It also depends on which treatments you've already tried and whether you had any problems with them. Your doctor can talk to you about which treatments will work best for your condition.
+Are there any long-term side effects?
+Most of the side effects of trastuzumab are likely to improve after you stop having treatment. Trastuzumab can cause heart problems in some people. Contact your doctor or 111 now if you notice that: your ankles or legs look swollen you have shortness of breath or a cough you've gained weight quickly Go to 111.nhs.uk or call 111 . Your doctor will monitor your heart. You'll have a heart trace test called an ECG and a heart scan before you start your treatment. You'll have heart tests every few months while you're having trastuzumab and for some time after you've stopped. Trastuzumab can cause lung problems in some people. If you have a cough or shortness of breath, this may be an infection. In rare cases, it may be due to swelling (inflammation) or scarring in the lungs.
+Will I lose or put on weight?
+You may lose your appetite while on trastuzumab as it can affect your taste or make you feel sick. This may cause you to lose weight. Try to choose foods you normally enjoy but avoid rich or spicy food. Try eating smaller meals but more often. Talk to your doctor if your symptoms do not improve or get worse. If you gain weight quickly or have swollen legs or ankles this may be a sign of fluid build-up and it's important to talk to your doctor or nurse straight away.
+Will it affect my contraception?
+Trastuzumab is not known to stop any type of contraception from working, including the combined pill or emergency contraception . However, if you're being sick or have severe diarrhoea, your contraception pills may not protect you from pregnancy. Find out more: what to do if you're sick or have diarrhoea when taking the combined pill what to do if you're sick or have diarrhoea when taking the progestogen-only pill
+Can I drive or ride a bike?
+You may feel sleepy or dizzy when you first start having trastuzumab. If this happens to you, do not drive, ride a bike or use tools or machinery until you feel better. It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive. Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while having trastuzumab. GOV.UK has more information on the law on drugs and driving .
+Can I drink alcohol while having trastuzumab?
+Yes, you can drink alcohol with trastuzumab, but it may make you feel sleepy or tired. During the first few weeks of having trastuzumab it might be best to stop drinking alcohol until you see how the medicine affects you.
+Is there any food or drink I need to avoid?
+There is no food or drink you need to avoid before or after having trastuzumab.
+Page last reviewed: 19 April 2023
+
+Next review due: 19 April 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "fe17d2b6-48b4-4007-afae-85766a1b5d69",
+  "slug": "section-0371-chocolate-chip-cookies",
+  "title": "Chocolate Chip Cookies",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "d1371072f4727f1a41d5e2c2149ed6310642368ad8d739f6ae6d576e2e444cc4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 371,
+    "content_hash": "1eb28bbb8caf85e0a53b21690460b78fd1a27715509259188606abe2b600a963",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

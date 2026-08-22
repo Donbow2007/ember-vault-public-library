@@ -1,0 +1,25 @@
+{
+  "id": "e3963297-8a40-4aa1-a365-a0e37b9fe3ee",
+  "slug": "section-0843-who-can-and-cannot-take-flucloxacillin-nhs",
+  "title": "Who can and cannot take flucloxacillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "d61deb5b6551998e9a559ea8476c480442bf3e1d27cdd5fb32e3ece56da82b51",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 843,
+    "content_hash": "16894ca2578261361544d3385a85769a53d8afad56ff2617b03508c58e3b5752",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c86839e6-bd43-4300-8a47-7682d78ead7c",
+  "slug": "section-0585-tag-dumpling",
+  "title": "Tag: dumpling",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "99dd5acac9dcc639ff1beced09da9f9524b7b73f971bf11685c79bd536955131",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 585,
+    "content_hash": "bca202e1f4a4a3f6a4d56403515c4b4433c8dc49641d509b53a0e2db84a7f95a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

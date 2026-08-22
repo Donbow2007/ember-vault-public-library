@@ -1,0 +1,25 @@
+{
+  "id": "81186161-a608-46ad-816f-56536ffddab0",
+  "slug": "section-0263-stir-fried-chicken-with-an-orange-sauce",
+  "title": "Stir Fried Chicken with an Orange Sauce",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "fbbf1a1415a69754b5faabb35b58ad942bfd8729c01c94e04513da7e04312169",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 263,
+    "content_hash": "5d1798502d15b6c6838998068378daf61d6427a1caf17cbcb2e291972bf0bda0",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

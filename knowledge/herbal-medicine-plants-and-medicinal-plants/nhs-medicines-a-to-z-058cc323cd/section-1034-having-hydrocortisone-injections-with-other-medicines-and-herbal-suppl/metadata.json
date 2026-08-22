@@ -1,0 +1,25 @@
+{
+  "id": "dcd414b0-680a-48d9-87a2-164b542841cb",
+  "slug": "section-1034-having-hydrocortisone-injections-with-other-medicines-and-herbal-suppl",
+  "title": "Having hydrocortisone injections with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "3797f0aef04a92dd490da6fbd2b1e3f3c2fc4d0f534b91bbe078462fafa6f36f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1034,
+    "content_hash": "067c3ba5e7dbb9ea8625d60c4c1572ccec2550c99c7a45638cc6797c7c741211",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

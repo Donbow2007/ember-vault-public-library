@@ -1,0 +1,25 @@
+{
+  "id": "f1dd2d92-85cf-4048-85b8-59cdb822c4ba",
+  "slug": "section-1135-how-and-when-to-take-rapid-acting-insulin-nhs",
+  "title": "How and when to take rapid-acting insulin - NHS",
+  "category": "weather",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "1eb93ad654ec74ca3d70560505ab5ac6ac585bb2f72f2ade3e3ae935f3191fc5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1135,
+    "content_hash": "89e05ea202f82b0d4a99f90c841f69086d1ef342170c9cbda963f4d5a0c8476f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

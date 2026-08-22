@@ -1,0 +1,25 @@
+{
+  "id": "c72cc267-1920-44dc-9a7a-bbf96d3298d1",
+  "slug": "section-0863-how-and-when-to-use-inhaled-fluticasone-nhs",
+  "title": "How and when to use inhaled fluticasone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "86f8d3ff120a7f73be34c844172873e0c4c8a13b7084d1919fe1e68cbb68ca45",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 863,
+    "content_hash": "f233378f874d46345337cdfe5469e9fd5f703a0e6aff99d3655e86386dee711f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

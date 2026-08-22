@@ -1,0 +1,25 @@
+{
+  "id": "d61a562c-32b2-4ca4-844e-67bcd31e6cf3",
+  "slug": "section-1469-mometasone-nasal-spray-a-medicine-to-treat-allergic-rhinitis-and-hay-f",
+  "title": "Mometasone nasal spray: a medicine to treat allergic rhinitis and hay fever - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "1da682d6121bfa9d1395271f6ef85a0145a1ac07466462a3b56ab1e8fad787bf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1469,
+    "content_hash": "3e27fac5bb855420ee91d0eb900cc8dfe820fe5fce58f80e271fd987770c7690",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

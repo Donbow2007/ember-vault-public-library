@@ -1,0 +1,25 @@
+{
+  "id": "05d8ca78-6925-4248-917b-b4226b3acf8f",
+  "slug": "section-0814-common-questions-about-ferrous-sulfate-nhs",
+  "title": "Common questions about ferrous sulfate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "b83e1d8f2296a7f667b4ac8739f88ce1e4387bd161c55b3d84ced3ec20e03dd5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 814,
+    "content_hash": "2e06312698519c8ae52c640c7373acbc14b3a5cae55b26af41cbce07ab2af443",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

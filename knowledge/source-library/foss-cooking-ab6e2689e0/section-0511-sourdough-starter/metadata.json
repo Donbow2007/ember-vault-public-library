@@ -1,0 +1,25 @@
+{
+  "id": "77aa86f7-6c05-4e9e-8970-6e6358cffd9f",
+  "slug": "section-0511-sourdough-starter",
+  "title": "Sourdough starter",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "e2383f734bdda38f3ff2525236f71c46c3d9fcf4ad7b18138e01bccd77b42b36",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 511,
+    "content_hash": "136b52ec4805562be486e6015c7d86b51b7b5307493c8ed39a8e4076b7276291",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

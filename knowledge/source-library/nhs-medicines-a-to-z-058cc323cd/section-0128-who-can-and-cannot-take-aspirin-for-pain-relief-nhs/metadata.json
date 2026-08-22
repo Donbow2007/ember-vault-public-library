@@ -1,0 +1,25 @@
+{
+  "id": "eaad55ad-f4d2-4223-8c1b-677b6a5bc452",
+  "slug": "section-0128-who-can-and-cannot-take-aspirin-for-pain-relief-nhs",
+  "title": "Who can and cannot take aspirin for pain relief - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "cfa3fc0af90c0ad111e1da821587702dceba1e53c19694358d02310d0c9aa8b3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 128,
+    "content_hash": "5dc8fd41f3bbe8403aff715c07689faebf18c1d7e168f162942034f2371668e3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

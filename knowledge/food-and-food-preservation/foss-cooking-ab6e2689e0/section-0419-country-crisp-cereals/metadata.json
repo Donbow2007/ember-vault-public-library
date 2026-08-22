@@ -1,0 +1,25 @@
+{
+  "id": "be0f8816-7d40-49b2-a074-24867229cdcc",
+  "slug": "section-0419-country-crisp-cereals",
+  "title": "Country Crisp Cereals",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "31513a3505f266bd7960ca4f700dfd10d77600da7869c230556f23cbf582e592",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 419,
+    "content_hash": "e83a029fe4a7efa76dc9693e198ba5ec35f6df905a5f0a1fa889fd7c81a02b94",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

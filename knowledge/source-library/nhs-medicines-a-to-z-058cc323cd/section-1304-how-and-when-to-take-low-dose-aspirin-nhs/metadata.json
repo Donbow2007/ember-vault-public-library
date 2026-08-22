@@ -1,0 +1,25 @@
+{
+  "id": "0470e201-2c48-46be-8dfd-8637bba5da65",
+  "slug": "section-1304-how-and-when-to-take-low-dose-aspirin-nhs",
+  "title": "How and when to take low-dose aspirin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "fb003e4768c3a7f31ee3949889a67d99489ce54389fad52a5c409878cc225263",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1304,
+    "content_hash": "d35fecbfcf590a3a114b992b90d07fc4b1316023b9a292cf93f926918653f3d2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

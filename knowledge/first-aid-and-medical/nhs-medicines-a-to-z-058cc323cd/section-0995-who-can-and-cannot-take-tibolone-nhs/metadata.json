@@ -1,0 +1,25 @@
+{
+  "id": "3dcf450e-9c54-4d3c-a34b-1b477e381d2f",
+  "slug": "section-0995-who-can-and-cannot-take-tibolone-nhs",
+  "title": "Who can and cannot take tibolone - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "46153affbfbf2427df3ba7bdc86a0d6614e1fe59fd1086fb7d51bc1dbbbf388f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 995,
+    "content_hash": "582414a5b76482ade5b20568d8bcbc7287c1d743a456c51335dc6a07c53db368",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

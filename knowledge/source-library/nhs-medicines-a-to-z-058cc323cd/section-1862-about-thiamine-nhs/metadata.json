@@ -1,0 +1,25 @@
+{
+  "id": "23d3efb9-e897-40c5-82ba-2245ba744c6b",
+  "slug": "section-1862-about-thiamine-nhs",
+  "title": "About thiamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "d094830e114f3726c75f85d6233189ba43b988b72250c1fa86ee4f2f44e8d8d5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1862,
+    "content_hash": "ca540d8b648b68e54289e00c869def4e96cdb6376b895cb29a2f0dac14f65223",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "90c91f6a-c963-4b07-b770-beed966d9112",
+  "slug": "section-0476-common-questions-about-clonidine-nhs",
+  "title": "Common questions about clonidine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "8126e2a7b64ecf3b5797ac583c63a3654a103269b53788307d178b683bd3f9fd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 476,
+    "content_hash": "7f1f77efd79c4226ac0c4b95792b49608a039db92163cd072c5ae2587f6cdcf7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

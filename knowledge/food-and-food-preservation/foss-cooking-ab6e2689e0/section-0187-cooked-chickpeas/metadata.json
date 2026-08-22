@@ -1,0 +1,25 @@
+{
+  "id": "50fb9e39-0bf6-45ff-baff-4539255b8b27",
+  "slug": "section-0187-cooked-chickpeas",
+  "title": "Cooked Chickpeas",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "ad89824807d21f3ca51be1ed18787d8698e5b85733f06826a8c01a8134dbadc7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 187,
+    "content_hash": "c500b4af737e829aa167ecb0a89124af0471a13135decffbe5341ce057555ca4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

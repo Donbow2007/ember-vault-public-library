@@ -1,0 +1,25 @@
+{
+  "id": "b21ecb5e-d3ec-4c33-a8d5-9cf4a217d50d",
+  "slug": "section-0131-tufek-yamero",
+  "title": "TuFeK Yamero",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "941f84eb156b24488d247061cebad821a02cd61ea88440d3f9a9696e13842069",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 131,
+    "content_hash": "21d77d2965a5646b4b0779887640096ca3696949a13b7818cf74c933dee44c07",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

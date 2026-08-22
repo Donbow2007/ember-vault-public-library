@@ -1,0 +1,25 @@
+{
+  "id": "e13ebc9e-9f4d-4981-a5fd-a5ddba50cbec",
+  "slug": "section-0097-anticoagulant-medicines",
+  "title": "Anticoagulant medicines",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "1eb1877ffeb6a48ec246d0ada8524c2e8012756704fa4838395157e549e4c832",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 97,
+    "content_hash": "993eb89f101979db3a7fd0fbed726c442ab3b6fc1553536f5facc7cde3cb160a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

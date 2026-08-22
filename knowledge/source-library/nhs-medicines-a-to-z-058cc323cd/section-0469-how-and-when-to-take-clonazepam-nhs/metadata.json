@@ -1,0 +1,25 @@
+{
+  "id": "85ca501f-ccd5-4754-b1e8-4f61e480b350",
+  "slug": "section-0469-how-and-when-to-take-clonazepam-nhs",
+  "title": "How and when to take clonazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "8c865402fde819a6c9f55c129a29228d1d954a52a19c368d89a92b47310b58d0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 469,
+    "content_hash": "7b46235d437162be7dd462a239331e3b9bc67c325f1567707943d408eda39d28",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

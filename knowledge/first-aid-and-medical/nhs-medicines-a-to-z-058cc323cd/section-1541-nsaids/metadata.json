@@ -1,0 +1,25 @@
+{
+  "id": "7420d524-dae1-4195-95f8-eec9821d23d9",
+  "slug": "section-1541-nsaids",
+  "title": "NSAIDs",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "093fc8348c66b2183ce13874b5801f6db18ebcfb828217ad22f90f1b659e8fbc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1541,
+    "content_hash": "d8c9db6dcea03445975657943298a57343ab762a40b892d20f4d5dffd3324dbf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

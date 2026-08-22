@@ -1,0 +1,25 @@
+{
+  "id": "d07cd128-5a7c-441b-aad9-bfb4fbbb9202",
+  "slug": "section-1653-side-effects-of-prednisolone-tablets-and-liquid-nhs",
+  "title": "Side effects of prednisolone tablets and liquid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "9250e4e6b72be676590e04340319f0e63d648c15bc4de40460ed77e4d59763f2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1653,
+    "content_hash": "580eacccf045c30585f50b14748483be342b01a4b838404b22d2f76388d50a3e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

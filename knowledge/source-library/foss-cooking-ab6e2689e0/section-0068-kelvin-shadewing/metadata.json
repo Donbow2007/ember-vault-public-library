@@ -1,0 +1,25 @@
+{
+  "id": "e34e18b5-c272-4569-9188-8db3e4e09eb3",
+  "slug": "section-0068-kelvin-shadewing",
+  "title": "Kelvin Shadewing",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "e636420b6ca7f4bec9ee3377ce409c15890124bf69a5ad1aa0d7439ccd5a638f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 68,
+    "content_hash": "5f03a15c192aeedcf0835bdd2da32c518419174d02df3f0c9b2650193a414b5e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

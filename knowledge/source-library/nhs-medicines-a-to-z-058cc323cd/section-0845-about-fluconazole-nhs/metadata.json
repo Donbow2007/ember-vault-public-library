@@ -1,0 +1,25 @@
+{
+  "id": "b25f948a-f333-420a-b6b1-9ccf7bd0c02c",
+  "slug": "section-0845-about-fluconazole-nhs",
+  "title": "About fluconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "11d9b267d8c65b854c2a0061d7d29933019b45a062408323fbe8747c8406f940",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 845,
+    "content_hash": "487ff12a4d2ec8a8b204fa358ccb61bc9961a3e2148ee5ba9ef185b71904de31",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

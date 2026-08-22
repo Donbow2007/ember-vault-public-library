@@ -1,0 +1,25 @@
+{
+  "id": "77b28818-9972-462c-a9a6-76a15a62ecd0",
+  "slug": "section-1885-tiotropium-inhalers-a-medicine-to-treat-asthma-and-copd-nhs",
+  "title": "Tiotropium inhalers: a medicine to treat asthma and COPD - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "ae3d1dd5882a319ce26835c8142cd7b35dac8ad1607c9b82c18d7b10b949580f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1885,
+    "content_hash": "80b2fcfe295c603f784d78c1ec7e6881a41f348d20e66876aa70bd6deb351ecc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

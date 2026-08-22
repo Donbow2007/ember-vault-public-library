@@ -1,0 +1,25 @@
+{
+  "id": "983f2c2d-f44f-40c4-88f2-9d38cf72563b",
+  "slug": "section-0308-irp-fas-org-doddir-milmed-milderm-pdf-part-109",
+  "title": "irp.fas.org/doddir/milmed/milderm.pdf — Part 109",
+  "category": "gardening-and-agriculture",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "204ab9d41b1a85943b7371177978b8f2359396f16a666265ced7c5f6b51cac2a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 308,
+    "content_hash": "6d1c90bd1dea63858f2e8e43c63ffaae222cd63698937a046896f1fdf3b005d4",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

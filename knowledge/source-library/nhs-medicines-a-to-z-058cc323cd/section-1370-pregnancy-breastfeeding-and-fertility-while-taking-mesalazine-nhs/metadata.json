@@ -1,0 +1,25 @@
+{
+  "id": "8ac914d6-2806-40fe-82df-4f1c34b5111a",
+  "slug": "section-1370-pregnancy-breastfeeding-and-fertility-while-taking-mesalazine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking mesalazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "a843ffe6c68d9f75f51a134810dd04c183dc45034f970590a8416250b00eab23",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1370,
+    "content_hash": "1580a1ca9ca2940df2c299a2748aadde20d23c48ac835346acd5b19832b0bec4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

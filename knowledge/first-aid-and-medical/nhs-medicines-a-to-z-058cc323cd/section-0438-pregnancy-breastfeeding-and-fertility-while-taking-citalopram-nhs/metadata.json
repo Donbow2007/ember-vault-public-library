@@ -1,0 +1,25 @@
+{
+  "id": "2796399f-e01a-4847-8a91-b035094fd25d",
+  "slug": "section-0438-pregnancy-breastfeeding-and-fertility-while-taking-citalopram-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking citalopram - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "6d099fdd4840b00d6e07942130fe3b9ed3928d35c0b13dae8f7842609970cb18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 438,
+    "content_hash": "5c1d8d997646f272abb975f0ffb90f68c241809d0fc336aeadf5ae6ab47967cf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

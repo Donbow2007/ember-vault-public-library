@@ -1,0 +1,25 @@
+{
+  "id": "661ad444-63c2-49b5-ab93-29da2435998d",
+  "slug": "section-0518-pregnancy-breastfeeding-and-fertility-while-taking-co-beneldopa-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking co-beneldopa - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "53a972affdad3e10000620ca424e1039a12d8805c3c7fc2574aa1849869bb7f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 518,
+    "content_hash": "27ca4684db577be592b730634b94d464cf6b90820471d6e5313a8e65a6bbd549",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

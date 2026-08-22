@@ -1,0 +1,25 @@
+{
+  "id": "5d300f07-96ee-4514-9247-1ff737ba411d",
+  "slug": "section-0361-who-can-and-cannot-take-carbocisteine-nhs",
+  "title": "Who can and cannot take carbocisteine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "b6e7a55f5c21466de800cc306eee9ded8333921bda66fe4a9b87162e473d1264",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 361,
+    "content_hash": "df139c9b05cee3413c732c078b27af30deb88e490b7209930139b5f9e7538b78",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

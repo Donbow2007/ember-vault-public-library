@@ -1,0 +1,25 @@
+{
+  "id": "236d33a3-4ac3-4a90-869c-65bdcdc48d6b",
+  "slug": "section-0861-about-inhaled-fluticasone-nhs",
+  "title": "About inhaled fluticasone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "af11af765360abadd5070e018055507ac2fb41d97d92684066a59dcc19708158",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 861,
+    "content_hash": "904212034f6957b3b302d3e2cb9d8d590f818931d1e463960324dfda0365b04c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8573b8c6-31b7-4354-8c25-4f58cfd72adb",
+  "slug": "section-0815-how-and-when-to-take-ferrous-sulfate-nhs",
+  "title": "How and when to take ferrous sulfate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "b06a481de0c6642ca1247a8532234a2c0e2d3698df0dc2d019d48722cabedaa4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 815,
+    "content_hash": "1a6fda1ac6617fe4a90b05ecc48612d5197ba905d5d4d03de869f00d22a453dd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

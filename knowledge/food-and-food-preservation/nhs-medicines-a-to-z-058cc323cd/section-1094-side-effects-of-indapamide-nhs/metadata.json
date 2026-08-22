@@ -1,0 +1,25 @@
+{
+  "id": "95672fe7-7756-4833-934b-5a6c0be8e4c7",
+  "slug": "section-1094-side-effects-of-indapamide-nhs",
+  "title": "Side effects of indapamide - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "492ea0a3eab2a950af35f858e299643b0ccb26e20e676a4f54aa58093a4d8eca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1094,
+    "content_hash": "32af8d1d362fa2b593b216d42fcf1c37662853b675a3b12eeab81217c68cdae2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

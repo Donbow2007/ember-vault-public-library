@@ -1,0 +1,13 @@
+# How and when to take azithromycin - NHS
+
+How and when to take azithromycin
+
+Dosage and strength Azithromycin tablets come as either 250mg or 500mg strengths. The capsules are 250mg. The liquid comes as 200mg in 5ml. The usual dose is 500mg a day for 3 to 10 days depending on the infection being treated. For some infections, you'll be given a one-off higher dose of 1g or 2g. The dose may be lower for children or if you have liver or kidney problems. Azithromycin is sometimes prescribed long-term to prevent chest infections if you keep getting them. In this case you will usually need to take it 3 times a week, often on a Monday, Wednesday and Friday.
+
+Important
+
+Carry on taking this medicine until the course is completed, even if you feel better. If you stop your treatment early, your infection could come back. How to take it You'll usually take azithromycin once a day. Try to take your medicine at the same time each day. Swallow tablets and capsules whole with a drink of water. If you are taking azithromycin capsules, take them at least 1 hour before food or 2 hours after eating. If you have tablets or liquid, you can take them with or without food. The liquid can have a bitter aftertaste, so it can be a good idea to offer children a drink of fruit juice afterwards. Do not take medicines for indigestion 2 hours before or after you take this medicine. Azithromycin liquid is available for children and people who find it difficult to swallow tablets. If you, or your child, are taking azithromycin as a liquid, your pharmacist will usually make it up for you. The medicine will come with a syringe or spoon to help you measure the right amount. If you do not have one, ask your pharmacist for one. Do not use a kitchen teaspoon as it will not measure the right amount. If you forget to take it If you forget to take a dose, take it as soon as you remember, unless it's nearly time for your next one. In this case, just leave out the missed dose and take your next dose at the usual time. Never take 2 doses at the same time. Never take an extra dose to make up for a forgotten one. If you often forget doses, it may help to set an alarm to remind you. You could also ask your pharmacist for other ways to help you remember to take your medicine. If you take too much Taking an extra dose of azithromycin is unlikely to harm you or your child. It may, however, increase the chance of temporary side effects, such as feeling or being sick or diarrhoea. Talk to your pharmacist or doctor if you're worried, or if you or your child take more than 1 extra dose.
+Page last reviewed: 20 January 2022
+
+Next review due: 20 January 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

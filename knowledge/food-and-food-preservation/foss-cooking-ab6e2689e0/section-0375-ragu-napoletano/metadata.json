@@ -1,0 +1,25 @@
+{
+  "id": "7f1a18a9-ead2-426f-8eb3-b898dbe98221",
+  "slug": "section-0375-ragu-napoletano",
+  "title": "Ragu Napoletano",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "52f11f1a7a16472f1d056af706b8c6b6758ffdfeb11548c7de830c5859b5c4da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 375,
+    "content_hash": "81cf7e7efa42032582ce7094ea13db92d80b6b02035b65b2ebe685e8e2b4a205",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

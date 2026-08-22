@@ -1,0 +1,25 @@
+{
+  "id": "5345904f-90cb-476a-913d-9ddc18f2d372",
+  "slug": "section-0971-oestrogen-an-hrt-medicine-to-treat-menopause-symptoms-nhs",
+  "title": "Oestrogen: an HRT medicine to treat menopause symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "195481a36231ca8bfae15f4cc773d90529fae4556d05bc662d84402831c5b48a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 971,
+    "content_hash": "33fbf31109b4c0c279930c3bd3afb7208b9d0eb5fe966d81bd79582cc9433da9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "47e559ff-14a7-49f3-a26e-69995d30d9f3",
+  "slug": "section-0271-bread-pudding",
+  "title": "Bread Pudding",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "15558e00abad89b36772556f431d11084635205944476ce70f2adc0f8fdb4613",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 271,
+    "content_hash": "51286855283eb9062ccd9b290fbd48295581fac5c0bdc10b57370937853ef479",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ced005c2-53f8-43ae-bba6-c2f41029caa3",
+  "slug": "section-1652-pregnancy-breastfeeding-and-fertility-while-taking-prednisolone-tablet",
+  "title": "Pregnancy, breastfeeding and fertility while taking prednisolone tablets and liquid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "d15e26731add9bc2c0300ed8b27fbb4d9703e10fc8bfbcd9be3a7c38caafcd63",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1652,
+    "content_hash": "abe5f5942c6f7ab45028cef9552c88091fb68b72bcd49946664271e2e8d47d4c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

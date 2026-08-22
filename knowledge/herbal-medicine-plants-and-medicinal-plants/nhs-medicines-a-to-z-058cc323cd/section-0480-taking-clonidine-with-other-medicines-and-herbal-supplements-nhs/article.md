@@ -1,0 +1,9 @@
+# Taking clonidine with other medicines and herbal supplements - NHS
+
+Taking clonidine with other medicines and herbal supplements - Brand name: Catapres Cautions with other medicines There are some medicines that may increase the risk of side effects with clonidine or affect how well it works. Tell your doctor or pharmacist if you're taking: other vasodilator medicines such as diazoxide or sodium nitroprusside medicines used to treat high blood pressure or heart problems, including diclofenac , digoxin , beta blockers such as propranolol , atenolol , bisoprolol or carvedilol , or calcium channel blockers such as diltiazem or verapamil – taking clonidine with these can sometimes lower your blood pressure or slow your heartbeat (pulse) too much medicines for an enlarged prostate medicines that make you pee more (diuretics) medicines for mental health problems, including antidepressants or antipsychotics medicines for Parkinson’s disease such as levodopa muscle relaxants such as baclofen or tizanidine medicines that make you sleepy such as anti-anxiety medicines or sleeping tablets non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen , naproxen , diclofenac, celecoxib or etoricoxib methylphenidate , for attention deficit hyperactivity disorder (ADHD) Mixing clonidine with herbal remedies and supplements There's not enough information to say that complementary medicines and herbal remedies are safe to take with clonidine. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 10 February 2023
+
+Next review due: 10 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

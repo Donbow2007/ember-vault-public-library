@@ -1,0 +1,25 @@
+{
+  "id": "b511a65c-06a8-42bd-abe1-04bec21c4ffc",
+  "slug": "section-1604-pregnancy-breastfeeding-and-fertility-while-taking-peppermint-oil-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking peppermint oil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "6f2c79862e21f0536db73b168e9fa867c4b7daf8c777b136027893d376c38006",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1604,
+    "content_hash": "66c03173aba920a96c9ad336f7eb21c528cad7b0b6a2401921ac0de395cff371",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

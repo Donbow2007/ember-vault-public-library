@@ -1,0 +1,25 @@
+{
+  "id": "b4b3cba9-334e-4554-9bb1-f95be4a3bb67",
+  "slug": "section-0629-tag-mushrooms",
+  "title": "Tag: mushrooms",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "c95fda7234588716a29a4796229f5222897dd596bd5ac5dd805e1ab069cced50",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 629,
+    "content_hash": "fcd6fdf9cbd63137522b3fb6a0e7ab7d07f55bd88bb27d1bab5eaa44bbef417e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

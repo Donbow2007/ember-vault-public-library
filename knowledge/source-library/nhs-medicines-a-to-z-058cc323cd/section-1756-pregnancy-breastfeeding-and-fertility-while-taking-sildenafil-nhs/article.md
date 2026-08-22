@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking sildenafil - NHS
+
+Pregnancy, breastfeeding and fertility while taking sildenafil
+
+Sildenafil and pregnancy Pulmonary hypertension is an extremely serious condition in pregnancy. If you have pulmonary hypertension, it's important to use reliable contraception (for example a contraceptive implant or a coil ). Talk to your doctor before trying for a baby as your heart condition will need to be assessed and you will need to be advised on the risks of pregnancy. If you do become pregnant while taking sildenafil then it is recommended that you continue to take it throughout pregnancy. This is because the risks from pulmonary hypertension are potentially life threatening without treatment. It's important that you let your doctors know that you are pregnant as early as possible, as you will need to be reviewed in a specialist pregnancy and heart clinic throughout your pregnancy. You will be considered a very high risk pregnancy and will have additional care. Sildenafil and breastfeeding If your doctor or health visitor says that your baby is healthy, it's OK to take sildenafil for pulmonary hypertension while you're breastfeeding. Sildenafil only passes into breast milk in tiny amounts, and is unlikely to cause any side effects in your baby. It is important to keep taking sildenafil to keep you well. Breastfeeding will also benefit both you and your baby. If you notice that your baby is not feeding as well as usual, is unusually sleepy, much paler than usual, or flushed, or if you have any other concerns about your baby, talk to your health visitor, midwife or doctor as soon as possible. Sildenafil and fertility There's no clear evidence to suggest that taking sildenafil reduces fertility in either women or men. Speak to your doctor before taking it if you're trying to get pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 2 March 2022
+
+Next review due: 2 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

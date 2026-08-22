@@ -1,0 +1,25 @@
+{
+  "id": "927baf59-57c4-4c01-9c7e-a7f9295d99ec",
+  "slug": "section-0967-pregnancy-breastfeeding-and-fertility-while-taking-continuous-combined",
+  "title": "Pregnancy, breastfeeding and fertility while taking continuous combined HRT - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "74e668c14adffa76afe84cdb8274da58081b43d2d6019852af69f28c697dce88",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 967,
+    "content_hash": "8797ddbe28d68e8bb88a76703a4fa6578face752e055f012bdb256d859aeac4d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

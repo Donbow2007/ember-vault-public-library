@@ -1,0 +1,25 @@
+{
+  "id": "e0619872-7fc1-47ff-908f-c925eb7a7717",
+  "slug": "section-0069-kirill-schmidt",
+  "title": "Kirill Schmidt",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9648ad568021b282a8d3371128ba4ad2bdf1c39a942b9e32d3d1e05318a6757d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 69,
+    "content_hash": "c3d45f58b3e6bb210c5354263a39bdd622c2ec1f8912aebfe5f3a70ed45a68e5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

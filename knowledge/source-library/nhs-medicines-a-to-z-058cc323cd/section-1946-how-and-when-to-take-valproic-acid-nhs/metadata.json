@@ -1,0 +1,25 @@
+{
+  "id": "0a6691b0-8370-4cc3-8560-1104db101a5e",
+  "slug": "section-1946-how-and-when-to-take-valproic-acid-nhs",
+  "title": "How and when to take valproic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "bfbc8fb7104a41933284b9bcfd66b3fcb81efe52d3ab08028c691f484b48718d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1946,
+    "content_hash": "d0e3cac340cf9f2dcc08a08cb3b5a3fccbed9d7ec8345cd736b8188204774df0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

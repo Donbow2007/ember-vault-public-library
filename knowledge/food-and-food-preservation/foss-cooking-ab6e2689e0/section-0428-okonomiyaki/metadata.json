@@ -1,0 +1,25 @@
+{
+  "id": "bbf0ff1a-31f8-411b-826d-07bfa2580fa1",
+  "slug": "section-0428-okonomiyaki",
+  "title": "Okonomiyaki",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "91366bc99f699462b66616e1175c0e539b66332855344619818bf3c8dd47128c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 428,
+    "content_hash": "1136e0e5991029d2d58bb796f7eb41b354ecdcea0b9b4d7b4f6a2a51b3255018",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

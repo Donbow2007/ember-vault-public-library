@@ -1,0 +1,9 @@
+# About irbesartan - NHS
+
+About irbesartan
+
+Irbesartan is an angiotensin receptor blocker (ARB) medicine widely used to treat high blood pressure (hypertension). It relaxes and widens your blood vessels. This lowers your blood pressure and makes it easier for your heart to pump blood around your body. It also helps to prevent future strokes , heart attacks and diabetic kidney disease. If you have diabetic kidney disease, it helps to protect your kidneys and slows down the disease. It reduces high blood pressure and the amount of protein you lose through your kidneys. Irbesartan is only available on prescription. It comes as tablets. Key facts Irbesartan is often used as a second-choice treatment. Your doctor may prescribe it if you had to stop taking a similar medicine because it gave you a dry, irritating cough. The main side effects of irbesartan are feeling dizzy, headaches, feeling or being sick and low blood pressure (hypotension) – but they're usually mild and only last for a short time. Tell your doctor if you get severe diarrhoea or vomiting from a stomach bug or illness. You may need to stop taking irbesartan for a while until you feel better. Irbesartan is not recommended in pregnancy. Talk to your doctor if you're trying to get pregnant or you're already pregnant. Irbesartan can make some people feel dizzy – especially when you first start taking it or after taking a bigger dose. If this happens to you, do not drive a car, ride a bike, or use tools or machinery. Drinking alcohol can increase the blood pressure-lowering effect of irbesartan, which can make you feel dizzy or light-headed. Do not drink alcohol if it makes you feel dizzy.
+Page last reviewed: 14 February 2022
+
+Next review due: 14 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

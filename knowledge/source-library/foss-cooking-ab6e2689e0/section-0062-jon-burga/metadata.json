@@ -1,0 +1,25 @@
+{
+  "id": "7c102489-6fd1-4d42-9857-8f7e8dd63e4f",
+  "slug": "section-0062-jon-burga",
+  "title": "Jon Burga",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "5169bf1e3b01b7ca60d777db6428ec6fd30d9d37b9f9bda031d99d1bbe8e43ff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 62,
+    "content_hash": "f31068bdee4fb97c34818176ef4dd1456bd3594630121a03f98fea96596350e2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

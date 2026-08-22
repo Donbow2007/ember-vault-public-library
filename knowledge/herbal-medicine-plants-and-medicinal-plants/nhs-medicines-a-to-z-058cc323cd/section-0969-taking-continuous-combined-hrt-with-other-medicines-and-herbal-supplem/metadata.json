@@ -1,0 +1,25 @@
+{
+  "id": "dc6fc0a8-a465-45e9-8e70-1e2610d6e8eb",
+  "slug": "section-0969-taking-continuous-combined-hrt-with-other-medicines-and-herbal-supplem",
+  "title": "Taking continuous combined HRT with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "d77292ee1bde8897fa75ae097335f10fac3f03e78d6c99064087c407dec7740e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 969,
+    "content_hash": "c054c09d188eeef8568663b02cda119345bc7a93fbf47d3b66a7159f55a8e798",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

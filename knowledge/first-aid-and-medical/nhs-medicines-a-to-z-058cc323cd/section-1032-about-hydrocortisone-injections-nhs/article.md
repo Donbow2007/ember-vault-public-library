@@ -1,0 +1,9 @@
+# About hydrocortisone injections - NHS
+
+About hydrocortisone injections
+
+Hydrocortisone injections, also called corticosteroid injections, are used to treat swollen or painful joints, or muscle pain. You may get this type of pain after an injury. They're also used to treat painful tendons and bursitis (when the fluid-filled sacs that cushion a joint become swollen). Hydrocortisone injections usually help relieve pain and swelling to make movement easier. The benefits can last for 2 to 3 months. Hydrocortisone is a type of medicine known as a steroid (or corticosteroid). Corticosteroids are not the same as anabolic steroids . Hydrocortisone injections are only available on prescription. They're usually given by a specially trained doctor in a GP surgery or hospital clinic. There are different types of hydrocortisone. These include: skin creams tablets sprays, ointments and suppositories Find out more about other ways you can use hydrocortisone for different health conditions . Key facts After a hydrocortisone injection, your pain may feel better for several months, sometimes up to a year. Your pain and swelling may immediately feel worse after an injection. This pain usually goes away after a few days. Hydrocortisone injections can affect your immune system, so you're more likely to get infections. Tell your doctor if you get an infection, such as COVID-19, or if you come into contact with chickenpox , shingles or measles as these infections could make you very ill. If you or your child have been having hydrocortisone injections for a long time, you may need a red steroid emergency card (for adults) or an adrenal insufficiency card (for children). Ask your pharmacist or doctor if you do not have one.
+Page last reviewed: 22 January 2024
+
+Next review due: 22 January 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

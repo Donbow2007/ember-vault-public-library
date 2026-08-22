@@ -1,0 +1,25 @@
+{
+  "id": "eb7ccf13-c96a-48d3-9466-711312764fd5",
+  "slug": "section-1345-how-and-when-to-take-medroxyprogesterone-tablets-nhs",
+  "title": "How and when to take medroxyprogesterone tablets - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "5e0e211e9779efbee0dd693c8c0268d02b651cc711c898d972f10a9a68190f49",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1345,
+    "content_hash": "b17dd8f9a0762e8703fc722a0aaec8cb350e92b7ff66f9f66e858335c78ef2dc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

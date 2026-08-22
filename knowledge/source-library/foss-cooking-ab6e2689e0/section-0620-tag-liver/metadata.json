@@ -1,0 +1,25 @@
+{
+  "id": "3f4f9ec5-0352-4074-92bf-7c5b9b9f3462",
+  "slug": "section-0620-tag-liver",
+  "title": "Tag: liver",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "45ce5f8389b39d360885b589959139473d39ed6b618c3aa1af0b3b5df2c69a0b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 620,
+    "content_hash": "b136efd24ad4208a4d909ff3e40338c88d7e173940da01e922ba7b6e02e87425",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

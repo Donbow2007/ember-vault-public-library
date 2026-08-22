@@ -1,0 +1,25 @@
+{
+  "id": "4b89beae-3465-4724-baf7-850616a98e3c",
+  "slug": "section-0606-side-effects-of-dapagliflozin-nhs",
+  "title": "Side effects of dapagliflozin - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "9f16397a0b801e9bc3ebb49cc7fe508f81616a2b6c046d38d9a56024363f6d7d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 606,
+    "content_hash": "55b2087003fd7c61ed6d2904638796e7b3b1485a241b897145291c522ec8dfe1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

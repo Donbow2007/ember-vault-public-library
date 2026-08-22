@@ -1,0 +1,7 @@
+# About beclometasone nasal spray - NHS
+
+About beclometasone nasal spray - Brand names: Beconase, Nasobec, Pollenase Beclometasone nasal (nose) spray is used to treat cold-like symptoms caused by allergic rhinitis . This is swelling (inflammation) of the inside of your nose that can be brought on by allergies like hay fever . Beclometasone (also called "beclomethasone") is a type of medicine known as a steroid (or corticosteroid). Corticosteroids are a copy of a substance the body makes naturally. They’re not the same as  anabolic steroids . Beclometasone nasal spray is available on prescription for adults and children aged 6 years old and over. You can also buy it from pharmacies and shops for adults aged 18 years old and over. Beclometasone also comes as: an inhaler – for asthma and chronic obstructive pulmonary disease (COPD) cream and ointment – for skin conditions such as eczema and psoriasis tablets – for ulcerative colitis Key facts You need to use beclometasone nasal spray regularly for it to work. Beclometasone nasal spray takes a few days to work fully. For some people it can take 2 weeks or more to get the maximum benefits. The most common side effects are an unpleasant taste or smell, and a dry or sore throat. If your doctor has prescribed high doses of beclometasone to control your symptoms, you may need to carry a steroid emergency card. Ask your pharmacist or doctor.
+Page last reviewed: 16 March 2023
+
+Next review due: 16 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

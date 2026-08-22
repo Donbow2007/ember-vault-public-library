@@ -1,0 +1,25 @@
+{
+  "id": "cf0d78c2-e07a-4c66-9c08-a53dc762da17",
+  "slug": "section-1578-how-and-when-to-take-pantoprazole-nhs",
+  "title": "How and when to take pantoprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "4ec7a2a7cc4670eaa9a2de90d99fe8306430b77828c718527fd89963ddf5f032",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1578,
+    "content_hash": "951dbc25a2eaaef929158b71834f1cbdb13395ea920ca045e8e3585d300e2eb9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

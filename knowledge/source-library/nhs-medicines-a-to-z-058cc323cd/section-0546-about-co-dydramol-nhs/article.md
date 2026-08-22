@@ -1,0 +1,7 @@
+# About co-dydramol - NHS
+
+About co-dydramol - Brand names: Paramol, Remedeine, Remedeine Forte Co-dydramol is a mixture of 2 different painkillers: paracetamol and dihydrocodeine . Dihydrocodeine belongs to a group of medicines called opiates. It's used to treat aches and pains, including headaches , migraines , muscle and joint pain , period pain and toothache . Paracetamol and dihydrocodeine work by blocking messengers in the nerves and brain that tell your body that you're in pain. You'll usually take co-dydramol when everyday painkillers such as aspirin , ibuprofen and paracetamol have not worked on their own. Co-dydramol comes in 4 different strengths. You can buy lower-strength tablets from pharmacies. Higher-strength tablets are only available on prescription. Co-dydramol usually comes as tablets. Key facts Co-dydramol takes up to 1 hour to work and keeps working for about 5 hours. The most common side effects of co-dydramol are constipation and feeling sick or sleepy. If you've bought co-dydramol from a pharmacy, do not use it for more than 3 days without talking to your doctor. It's possible to become addicted to the dihydrocodeine in co-dydramol, but your doctor will explain how to reduce the risks of becoming addicted. If you need to take co-dydramol for more than a few weeks, your treatment plan may include details of how and when to stop taking this medicine.
+Page last reviewed: 9 August 2023
+
+Next review due: 9 August 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

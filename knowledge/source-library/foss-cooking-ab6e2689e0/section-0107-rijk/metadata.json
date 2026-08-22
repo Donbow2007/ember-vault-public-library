@@ -1,0 +1,25 @@
+{
+  "id": "dc71538c-42e6-4ea5-9324-59546732374e",
+  "slug": "section-0107-rijk",
+  "title": "Rijk",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "663523c12e4b6151a387c6cebdb5c3a1ec6f7359de8f82cb8d92a5e9efe9346c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 107,
+    "content_hash": "0ef18fd5f04cf0c57fa882a54dd273d5890d7c3f6a3aacf3e7fcb60175ca657e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

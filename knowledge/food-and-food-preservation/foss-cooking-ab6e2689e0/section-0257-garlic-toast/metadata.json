@@ -1,0 +1,25 @@
+{
+  "id": "97590f5c-cd35-431f-a6a7-6782eee3db43",
+  "slug": "section-0257-garlic-toast",
+  "title": "Garlic Toast",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "420d7b1679e0faf60cdce37e1ae2d2e67c0a50278b15d84160423c8c8d51ac1b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 257,
+    "content_hash": "99fd139e5e5c7a91259de21af8e1514edd953e47ed22b2eb89574915dbfe01bf",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

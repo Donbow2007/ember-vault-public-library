@@ -1,0 +1,25 @@
+{
+  "id": "7e9aa67e-1710-4f5a-949a-13c53e1c2f22",
+  "slug": "section-0126-the-birchmen",
+  "title": "the-birchmen",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "d1e0bda44c5f6fc9983fbc66eeb63a6eb00e2bcfb71038b1a4320ad624564147",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 126,
+    "content_hash": "29703ed77290d81c3153ef582512724edae3972d66ff68434629dd58da9c2444",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

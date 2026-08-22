@@ -1,0 +1,25 @@
+{
+  "id": "4892d697-9d8f-45bf-9710-ea7d33fb40e9",
+  "slug": "section-0549-tag-baltic",
+  "title": "Tag: baltic",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "5ab1939f227e1c1a2bbe02481add9da01b47d95a18c0aceb834b2fad64d16270",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 549,
+    "content_hash": "91239550ae9e87f07f16da821ff61cb41f4a6fc8c2af05a1a4fdd2eff0a4ae50",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

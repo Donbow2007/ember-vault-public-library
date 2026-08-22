@@ -1,0 +1,25 @@
+{
+  "id": "96e3db47-9c64-49d4-ab9e-cbc2ce3fe6f3",
+  "slug": "section-0456-tomato-flavored-hamburger-and-macaroni",
+  "title": "Tomato Flavored Hamburger and Macaroni",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "f395e939374be08f4d9c9c7330d45f5f7c50e16ca1a6dff7fa3934798c594dfa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 456,
+    "content_hash": "11cbc2ba231873890748cbd89e04e1c4533f735731036340971c0dd56729826e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

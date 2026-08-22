@@ -1,0 +1,25 @@
+{
+  "id": "bcaefa62-e30b-4009-9e41-a06a3419d17f",
+  "slug": "section-1963-pregnancy-breastfeeding-and-fertility-while-taking-varenicline-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking varenicline - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "2aae0b73c4bb67e80c9a3000667bc6347c237dab9229ee14c632cf7936954115",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1963,
+    "content_hash": "c5bafd744ca5c1db78f319604fe0736575e8d38a589cb52b3592a8dd4691b42f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

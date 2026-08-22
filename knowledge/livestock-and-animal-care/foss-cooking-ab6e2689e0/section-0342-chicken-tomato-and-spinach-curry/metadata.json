@@ -1,0 +1,25 @@
+{
+  "id": "6f4cb2cd-f174-4a2a-bcaa-6301d2f79f16",
+  "slug": "section-0342-chicken-tomato-and-spinach-curry",
+  "title": "Chicken, Tomato and Spinach Curry",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "a1afed237696008b595d8ca3049ff18bab0d16a5fd4c999b1d2b487754da0ff5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 342,
+    "content_hash": "7fc82bfce342c17a632324f6faaac7bdf92bc8905c24fe6d96b11a5ef62b5a81",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

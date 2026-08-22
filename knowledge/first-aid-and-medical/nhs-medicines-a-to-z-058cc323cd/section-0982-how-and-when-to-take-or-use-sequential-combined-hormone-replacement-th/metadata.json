@@ -1,0 +1,25 @@
+{
+  "id": "007fa356-8109-4164-a8e9-eb4bb8712f12",
+  "slug": "section-0982-how-and-when-to-take-or-use-sequential-combined-hormone-replacement-th",
+  "title": "How and when to take or use sequential combined hormone replacement therapy (HRT) - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "48ab1e2f3b03c853384b413cb2db6a265fee5c2bbdbcb969593ed798cd1ab9b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 982,
+    "content_hash": "a14d464ac4da05dc9644155aed9d776b83802c68191ea8e275f684d2e6b9e164",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

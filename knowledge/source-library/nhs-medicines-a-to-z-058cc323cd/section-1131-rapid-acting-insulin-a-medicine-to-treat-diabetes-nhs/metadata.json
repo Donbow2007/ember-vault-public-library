@@ -1,0 +1,25 @@
+{
+  "id": "96cf8242-838b-4495-8141-579a503611a4",
+  "slug": "section-1131-rapid-acting-insulin-a-medicine-to-treat-diabetes-nhs",
+  "title": "Rapid-acting insulin: a medicine to treat diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "cab53712ff45efbe0d60c9cf8b922da7ae18b4a6f4f84548ef7433487bc0c3d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1131,
+    "content_hash": "f5aafe9c586eb2bda836af39a3adb85281d0987a5cb684ac6405c5c3c6ad4337",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

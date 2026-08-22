@@ -1,0 +1,9 @@
+# Pregnancy, breastfeeding and fertility while taking colchicine - NHS
+
+Pregnancy, breastfeeding and fertility while taking colchicine
+
+Colchicine and pregnancy Colchicine can be taken in pregnancy, although it is not prescribed very often. It's generally thought to be OK to take in pregnancy but there is very little information available about its use. If you are taking colchicine for gout or familial Mediterranean fever (FMF), contact your doctor for advice. They will be able to explain the risks and benefits of taking colchicine and help you decide what's best for you and your baby. Colchicine and breastfeeding Colchicine is not usually used to treat gout while you're breastfeeding. Your doctor may recommend a non-steroidal anti-inflammatory drug (NSAID) like ibuprofen , instead. For familial Mediterranean fever (FMF), your doctor may prescribe colchicine while you're breastfeeding. Although the amount of colchicine found in breast milk can vary it has not been linked with any side effects in breastfed babies. If your baby is not feeding as well as usual, or they're vomiting or have diarrhoea, or if you have any other concerns about your baby, talk to a health visitor, midwife, pharmacist or doctor as soon as possible. Colchicine and fertility There have been some reports that colchicine can cause reduced sperm count in men if taken long-term. This is usually reversible when you stop treatment. There's no evidence to suggest that taking colchicine reduces fertility in women. Talk to your doctor if you think you may be pregnant, or you're trying for a baby. They may want to review your medicine to help decide if colchicine is the best treatment. They may decide that another treatment is better for you in pregnancy. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 2 December 2022
+
+Next review due: 2 December 2025

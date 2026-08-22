@@ -1,0 +1,25 @@
+{
+  "id": "6f59e8ab-61a4-4499-b6e9-f9f21b3bacf5",
+  "slug": "section-0563-tag-cajun",
+  "title": "Tag: cajun",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "f3b59283aee9b885d7c39955b27902da95469a6d09df20abbf384aaa770e2a5e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 563,
+    "content_hash": "3a3edf31c55cb3ed0060d02b9f1eb8b11501158b21ac99c2d9304754624b3d57",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

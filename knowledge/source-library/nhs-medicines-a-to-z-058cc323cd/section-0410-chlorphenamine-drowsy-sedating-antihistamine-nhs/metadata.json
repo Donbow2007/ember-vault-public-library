@@ -1,0 +1,25 @@
+{
+  "id": "37605942-85a2-44fc-8a4e-d6f8c71633f9",
+  "slug": "section-0410-chlorphenamine-drowsy-sedating-antihistamine-nhs",
+  "title": "Chlorphenamine: drowsy (sedating) antihistamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "1eb254d75eda61db4380141cccbec1620f635ea726559d6ca2dddaddfaaf5ca1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 410,
+    "content_hash": "a1283c99d9d0963aed33e2d67cb2634b73e5c1e03a4b9114f403fafeb95addf3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

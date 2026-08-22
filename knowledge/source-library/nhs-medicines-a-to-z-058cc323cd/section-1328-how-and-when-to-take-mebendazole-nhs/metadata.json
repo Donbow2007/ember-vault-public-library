@@ -1,0 +1,25 @@
+{
+  "id": "9003ffb8-c8f8-497b-b349-b33ac70cbc97",
+  "slug": "section-1328-how-and-when-to-take-mebendazole-nhs",
+  "title": "How and when to take mebendazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "c3a74d652290da70b3bcc7d6c6c49664eb45158e362eabecd053c4025dde1e98",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1328,
+    "content_hash": "d11a6265838e1bdc1b35c50c69d573622d4c666d1ddb7279d345642976caa445",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

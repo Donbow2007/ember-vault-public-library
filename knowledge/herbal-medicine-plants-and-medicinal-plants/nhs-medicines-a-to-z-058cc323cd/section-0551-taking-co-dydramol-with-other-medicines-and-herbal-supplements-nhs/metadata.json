@@ -1,0 +1,25 @@
+{
+  "id": "6e24b3a0-2e83-4d66-aa27-fd7b50da86be",
+  "slug": "section-0551-taking-co-dydramol-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking co-dydramol with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "2edf8199287fe8b945ec78a4a8ff8bacc396c73c5a2670827c0a41e9685e3aee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 551,
+    "content_hash": "0309df1b608f0ff1bfa438cc3cfe81b304709ca74d3f22999117a25fe500780e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

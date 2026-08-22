@@ -1,0 +1,25 @@
+{
+  "id": "40b6f029-5b8b-4a73-8968-7cf031a2fbac",
+  "slug": "section-1319-common-questions-about-macrogol-nhs",
+  "title": "Common questions about macrogol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "4c493b9e5691f35c993ff54bec19388451f120153f367a1dcd6dde156285165d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1319,
+    "content_hash": "c5a2c2e02b1471ca01a74344e9aee17fb759d0654d93fdef07950a8a435b31ec",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

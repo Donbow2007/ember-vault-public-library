@@ -1,0 +1,25 @@
+{
+  "id": "e3d10557-8718-4fc1-80b7-cefa497130ef",
+  "slug": "section-0140-how-and-when-to-take-atorvastatin-nhs",
+  "title": "How and when to take atorvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "1a95b870f57c9f15cd117f806d66c38b81329caba857aedf98ac354de36294d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 140,
+    "content_hash": "f9994bcfb71a263d835fbf302c7731c1d4fd8b6077675207e169c37492bb47bd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

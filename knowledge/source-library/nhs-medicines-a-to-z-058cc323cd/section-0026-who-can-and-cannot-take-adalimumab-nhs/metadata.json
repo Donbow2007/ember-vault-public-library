@@ -1,0 +1,25 @@
+{
+  "id": "84950dd6-56cb-48d8-99c4-2cbea75298d3",
+  "slug": "section-0026-who-can-and-cannot-take-adalimumab-nhs",
+  "title": "Who can and cannot take adalimumab - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "5b9e11cf9739366300afd4e95c0af794223003b793670e8e214843e2ec35c8b8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 26,
+    "content_hash": "06c813282bc6d23beffaf91eb5a345b6baac30a4888d66bfad239fd4574cb821",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

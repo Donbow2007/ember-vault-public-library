@@ -1,0 +1,25 @@
+{
+  "id": "d39fc47b-ca12-4080-b8f3-19f03b30b21a",
+  "slug": "section-1921-pregnancy-breastfeeding-and-fertility-while-taking-tranexamic-acid-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking tranexamic acid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "9158c481f6557c9f2bf79f3f231dcab821d69b5a12dd7642341cb30ec79a0dab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1921,
+    "content_hash": "2a6cbb3e612c21852fa4bf8f7ea499ad016d7f525f8bb462a58d0034aee13cf8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c985eab7-9290-4c83-a1dd-692cea838853",
+  "slug": "section-0667-about-diphenhydramine-nhs",
+  "title": "About diphenhydramine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "a37137f175f0ab4b36b83c49e1a4a27183020ad1d4800313aeed9be94e9a6277",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 667,
+    "content_hash": "fb8774e81230716362dee75dd2a7a7ee0fde331584addc273661fd009b7e58b6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

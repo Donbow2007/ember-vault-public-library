@@ -1,0 +1,25 @@
+{
+  "id": "3a5a1a5e-96eb-465c-8544-fdf25136d9c6",
+  "slug": "section-0388-oven-asado",
+  "title": "Oven Asado",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "14de67d26268cdc26a53477c1f5bae8b7f5fbd281d87e66f29b23d2777184f58",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 388,
+    "content_hash": "0a0b19ec5f93c09c808c373d5d36cdec08315fa2d5e49847eb64ed97a823825f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

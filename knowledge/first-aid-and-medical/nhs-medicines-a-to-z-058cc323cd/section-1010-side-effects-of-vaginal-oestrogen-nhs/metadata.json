@@ -1,0 +1,25 @@
+{
+  "id": "14cab111-d773-441a-813e-d0ff40753d60",
+  "slug": "section-1010-side-effects-of-vaginal-oestrogen-nhs",
+  "title": "Side effects of vaginal oestrogen - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "cbad1022276e85080b542ec04482c31fa55339bfc85a01d092ab6c439bd2b3eb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1010,
+    "content_hash": "92d662a3e6f0ba1fd8c299af441d0e7c0a93ac58195b5017b3f3fbfef15d80dd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

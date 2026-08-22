@@ -1,0 +1,25 @@
+{
+  "id": "12064e44-48c9-4486-9474-f7aa27fc5ae7",
+  "slug": "section-1702-risperidone-nhs",
+  "title": "Risperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "b7b44da737e58c54b8a0286ad15ca5d8e33d0ca9c8a8ebbff0918201647dc6f0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1702,
+    "content_hash": "1cf1b67da90571519a2a20c12a4c3ad9ecbd54a3692d946b784c42b0dc029254",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

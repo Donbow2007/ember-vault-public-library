@@ -1,0 +1,25 @@
+{
+  "id": "7e71b63c-678a-4dfb-b784-248117927237",
+  "slug": "section-1882-side-effects-of-timolol-eye-drops-nhs",
+  "title": "Side effects of timolol eye drops - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "259bc8f49bbdd3eaa7ce69bf0c378f7e62f164748d26f08bc35fcc18c5f641ae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1882,
+    "content_hash": "ba9f58a3ef1438f0ee807a4e4c1d5e4c12e39013019677c7314fd570ff98b5dc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

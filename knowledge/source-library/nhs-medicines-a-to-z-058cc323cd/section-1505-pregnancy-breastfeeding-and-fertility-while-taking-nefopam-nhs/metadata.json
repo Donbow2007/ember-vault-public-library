@@ -1,0 +1,25 @@
+{
+  "id": "25bd7913-ad0d-4790-8803-817a2fe3a59e",
+  "slug": "section-1505-pregnancy-breastfeeding-and-fertility-while-taking-nefopam-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking nefopam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "9ff185e2aaf296d7a90f77d269b55cf929bc25d89243d5430bbf8a58da13c28d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1505,
+    "content_hash": "94b001f7bce7962b4a5397669c8ba2b97223ce438865a5c2d2878139d4d0b771",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

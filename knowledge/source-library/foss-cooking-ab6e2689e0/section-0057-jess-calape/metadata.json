@@ -1,0 +1,25 @@
+{
+  "id": "5f134ed5-64a7-447d-8bf0-455d5bb733d0",
+  "slug": "section-0057-jess-calape",
+  "title": "Jess Calape",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "c094f8fad38c028091fe6891ca65ed94c3c1294ca12c67565f304e5e62b1d90f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 57,
+    "content_hash": "a2d75d2b3465253285b37cb887f4516cec594131ecc32e450ca1261551844e76",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

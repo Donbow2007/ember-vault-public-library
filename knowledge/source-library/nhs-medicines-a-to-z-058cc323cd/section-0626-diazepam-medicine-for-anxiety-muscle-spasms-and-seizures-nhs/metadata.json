@@ -1,0 +1,25 @@
+{
+  "id": "eb36cb8b-15ec-4f4d-a34c-1114e22e70b2",
+  "slug": "section-0626-diazepam-medicine-for-anxiety-muscle-spasms-and-seizures-nhs",
+  "title": "Diazepam: medicine for anxiety, muscle spasms and seizures - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "485ac3cd88bb7ae4143cc6b2d57a67a86dcda6aa1645bbb19043aaadc38f98a3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 626,
+    "content_hash": "f93b90b3534d9813d2019837caa598c936d8cbc26e843c51a0b53a9b7bbf10ed",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

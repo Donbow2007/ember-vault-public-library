@@ -1,0 +1,25 @@
+{
+  "id": "fa0d0510-8dee-46ab-b3e2-be115f270553",
+  "slug": "section-0570-about-colecalciferol-nhs",
+  "title": "About colecalciferol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "8fb37907fb6c3a83936621e7c63dca0449ecac62d6d553bdeb2ba543e6c0627e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 570,
+    "content_hash": "a7d436c945b1dd02a47d71e1bc4ed59a5cf48c5e1fee699446f7016297bb4ba6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

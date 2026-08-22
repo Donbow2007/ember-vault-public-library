@@ -1,0 +1,25 @@
+{
+  "id": "55a595c9-f816-4fec-bd57-cf704dc80dd2",
+  "slug": "section-0594-tag-filipino",
+  "title": "Tag: filipino",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "1c138baca0bf67c34dfb702ba5d19e36a11f37f065087c82c4d793ecfb07211d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 594,
+    "content_hash": "ca2b23c0a52be8484a803616894e4140aa1050e44d45722f1363c4f99b914a33",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

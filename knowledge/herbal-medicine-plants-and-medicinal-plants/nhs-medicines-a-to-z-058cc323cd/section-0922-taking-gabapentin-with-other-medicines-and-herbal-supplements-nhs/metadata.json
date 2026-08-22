@@ -1,0 +1,25 @@
+{
+  "id": "4e413285-01b9-45b6-8a94-570232d52255",
+  "slug": "section-0922-taking-gabapentin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking gabapentin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "356e2b08bd8d1cd9238fedc8194167bac3c90f2986f542ab22312cc5883c822b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 922,
+    "content_hash": "6484c5b49f806c7f2f15963d20e0b0d45d66c61006de80a3626d83c3fccd8cc1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

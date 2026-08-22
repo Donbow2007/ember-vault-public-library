@@ -1,0 +1,25 @@
+{
+  "id": "65d8ac43-ec67-4560-9901-74be30830abb",
+  "slug": "section-0057-taking-amitriptyline-for-depression-with-other-medicines-and-herbal-su",
+  "title": "Taking amitriptyline for depression with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "836ea49815070bf800e8dc2607c7d41d49002119c8ca419bb6f0a60cfb8a9e1d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 57,
+    "content_hash": "977ff1884b5ab185e073cfb29a4a596e0cd28507a0860b452b3e5d3180affa9b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

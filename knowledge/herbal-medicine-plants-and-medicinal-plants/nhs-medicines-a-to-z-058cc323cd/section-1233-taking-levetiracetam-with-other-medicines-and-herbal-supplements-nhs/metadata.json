@@ -1,0 +1,25 @@
+{
+  "id": "d4f51d73-93e9-456e-8a0a-36c7d1d283f6",
+  "slug": "section-1233-taking-levetiracetam-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking levetiracetam with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "5ecfd57164baa7613d35911e2dfb83c1e0206d71b2a82225165ddf7320d7ef56",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1233,
+    "content_hash": "edae348100b6451dc7ca518820e33961c3eab750eea45c994107f5092800e1a5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

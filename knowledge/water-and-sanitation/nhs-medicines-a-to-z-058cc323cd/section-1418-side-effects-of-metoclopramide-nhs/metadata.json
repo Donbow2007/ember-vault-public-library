@@ -1,0 +1,25 @@
+{
+  "id": "84a80f51-ddd2-4a8e-b775-ab9cfb4c130c",
+  "slug": "section-1418-side-effects-of-metoclopramide-nhs",
+  "title": "Side effects of metoclopramide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "932579f458c91931c167ed298cad868c2b4622e08595fd520a9ba63fb0914b66",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1418,
+    "content_hash": "26d83119e976ee30b196efff35f6cdf4effab11091553dd610b3287914989213",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

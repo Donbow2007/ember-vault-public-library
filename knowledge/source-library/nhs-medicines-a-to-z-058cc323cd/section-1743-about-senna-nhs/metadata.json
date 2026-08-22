@@ -1,0 +1,25 @@
+{
+  "id": "f19af5bd-e984-4a67-9624-109524f8860f",
+  "slug": "section-1743-about-senna-nhs",
+  "title": "About senna - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "9f6f419f497c558556c244547ee69bae74512f4f4f47a5cf63a5deaaa7ec913a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1743,
+    "content_hash": "3c070e49f7960875a8578a956f1093a730312bb96ad89dd19a3477702b03f79f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# Side effects of docusate - NHS
+
+Side effects of docusate - Brand names: Dulcoease, Dioctyl, Docusol, Norgalax Like all medicines, docusate can cause side effects in some people, but most people have no side effects or only minor ones. Common side effects There are things you can do to help cope with these common side effects of docusate:
+Feeling sick (nausea)
+Stick to simple meals. Do not eat rich or spicy food.
+Diarrhoea
+If you're using docusate for mild constipation and get diarrhoea, stop taking docusate. Your bowels will usually return to normal in a few days. Drink lots of fluids, such as water, to avoid dehydration and stop the constipation returning. If your doctor has prescribed docusate for severe or long-term constipation and you get diarrhoea, ask them for advice about what to do. Do not take any other medicines to treat diarrhoea without speaking to a pharmacist or doctor. If you take the combined contraceptive pill or the progestogen-only pill and you have severe diarrhoea, your contraception may not protect you from pregnancy. Check the pill packet for advice.
+Stomach cramp
+If you get stomach cramps, reduce your dose of docusate until this goes away. Try to rest and relax. It can help to eat and drink slowly and have smaller and more frequent meals. Putting a heat pad or covered hot water bottle on your stomach may also help. If you're in a lot of pain, speak to your pharmacist or doctor.
+Burning feeling or pain around the bottom
+Using a docusate enema can sometimes cause a burning feeling or pain around your bottom (anus) or bleeding. This usually goes away quickly. If the pain or bleeding carries on, or you're worried, talk to your doctor or pharmacist.
+Burning feeling in the mouth and throat
+This may happen after taking the liquid. Drink plenty of water or flavoured drink afterwards. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to docusate. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of docusate. For a full list, see the leaflet inside your medicine packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 10 May 2024
+
+Next review due: 10 May 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

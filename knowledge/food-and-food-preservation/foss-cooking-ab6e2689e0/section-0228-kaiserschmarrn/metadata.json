@@ -1,0 +1,25 @@
+{
+  "id": "c4547cc6-9ce0-4a0a-8a6d-73482a4d544a",
+  "slug": "section-0228-kaiserschmarrn",
+  "title": "Kaiserschmarrn",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "596930adc2991eaa2ba1c713fc3407de14078167d0acf826c96f4d4fe980d5b1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 228,
+    "content_hash": "de8f2c0c79c99ab4d629d539796198e41d990d242227b60707efd7ac5b6085bb",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

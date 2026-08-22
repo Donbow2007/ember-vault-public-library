@@ -1,0 +1,25 @@
+{
+  "id": "67169667-dac6-4276-90bc-e6dd45cc746b",
+  "slug": "section-0011-andy-rufasto",
+  "title": "Andy Rufasto",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "f11ed033de26419c5cb3b43d1e08007aa09db39bdd68526b506e7e690ec61884",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 11,
+    "content_hash": "897489abcab6d5b4bb8c85c60ae5248f73f69e7682e18a5c341dedd27ca49884",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

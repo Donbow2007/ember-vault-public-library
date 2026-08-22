@@ -1,0 +1,25 @@
+{
+  "id": "0b4279f2-26af-407e-8099-77ae5ede34fb",
+  "slug": "section-0784-side-effects-of-ezetimibe-nhs",
+  "title": "Side effects of ezetimibe - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "cfc8bab6787816abccf25430f0a57ae7dbd23afa3106318dce2a7df0311deac6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 784,
+    "content_hash": "54418b63a22cbd6429b72f7467ed11f94827c230a71f73d0f0b86dc5d0179ef4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

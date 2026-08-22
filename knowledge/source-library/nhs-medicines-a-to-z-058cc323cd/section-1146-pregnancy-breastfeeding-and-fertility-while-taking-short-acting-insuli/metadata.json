@@ -1,0 +1,25 @@
+{
+  "id": "1e3b0850-50a9-4932-9bec-38741cb4e839",
+  "slug": "section-1146-pregnancy-breastfeeding-and-fertility-while-taking-short-acting-insuli",
+  "title": "Pregnancy, breastfeeding and fertility while taking short-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "813e0e7ad2c240422d05785033ce85dc1720558421ec905678e652c697290714",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1146,
+    "content_hash": "81b91f0f0aefc87caa8eefefa901da267ac2ad51aa11559c67307aef9ac7d440",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

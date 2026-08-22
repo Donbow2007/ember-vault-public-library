@@ -1,0 +1,25 @@
+{
+  "id": "4b512711-af27-4794-a389-3421ccd26d16",
+  "slug": "section-1559-oxybutynin-a-medicine-to-treat-symptoms-of-an-overactive-bladder-nhs",
+  "title": "Oxybutynin: a medicine to treat symptoms of an overactive bladder - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "989e96a1edeab674f4c0bd68371c2b5f81644687ad81a297dfd924edf21b9eab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1559,
+    "content_hash": "c3601d176d0cd1debb3bc2c25513fd1a2cc4c6b3d7b6693c7ae06c4e4d2856b9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

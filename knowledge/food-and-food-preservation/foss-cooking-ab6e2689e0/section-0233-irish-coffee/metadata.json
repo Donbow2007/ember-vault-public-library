@@ -1,0 +1,25 @@
+{
+  "id": "4c6b1d49-1bea-4aa6-a074-5ee6a1efa7ac",
+  "slug": "section-0233-irish-coffee",
+  "title": "Irish Coffee",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "4a375de2d94b7fca990ce43f409e1fd896a5c6916afe00e112130d041d5b8c3f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 233,
+    "content_hash": "2e343f25fb6f8a438a87883b068dfea7caf33ac15913a96423404deb414976ac",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

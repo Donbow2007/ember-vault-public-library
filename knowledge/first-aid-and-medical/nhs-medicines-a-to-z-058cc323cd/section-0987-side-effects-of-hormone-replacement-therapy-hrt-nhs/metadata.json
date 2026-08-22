@@ -1,0 +1,25 @@
+{
+  "id": "ddd09bec-d2ef-41ff-bf7e-dd1564c4c5e1",
+  "slug": "section-0987-side-effects-of-hormone-replacement-therapy-hrt-nhs",
+  "title": "Side effects of hormone replacement therapy (HRT) - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "70d7d29d80eec0e9060bcf13fe135da2dfbafc03f4e751b947244040e9ee9259",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 987,
+    "content_hash": "24b52cd8eeb24009d9c5c161ab2c94da4aaea55435f52c9b56a51592ed72cbc6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

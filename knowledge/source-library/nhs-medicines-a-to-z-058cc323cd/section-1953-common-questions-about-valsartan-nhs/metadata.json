@@ -1,0 +1,25 @@
+{
+  "id": "9743f4ba-c6b6-4148-bc68-69f443214c1b",
+  "slug": "section-1953-common-questions-about-valsartan-nhs",
+  "title": "Common questions about valsartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "93d1a0e392ca0de86fbd390c61b0866ef9aeee39c990709f874f9bf310213595",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1953,
+    "content_hash": "d195e663543107a08a778370f8376f6ac6e447838d3e701736ee26a5772c5471",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

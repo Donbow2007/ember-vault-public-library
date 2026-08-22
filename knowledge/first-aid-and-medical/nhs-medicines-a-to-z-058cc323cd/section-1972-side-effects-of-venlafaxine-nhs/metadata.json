@@ -1,0 +1,25 @@
+{
+  "id": "35fc9d4f-aa13-4e3d-9dd0-a93bd8f1c774",
+  "slug": "section-1972-side-effects-of-venlafaxine-nhs",
+  "title": "Side effects of venlafaxine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "3a2a3bceba5b29cb9d9bd6b776459c03cc95e5e408c17052b1f6a8c3064cdc78",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1972,
+    "content_hash": "d6b1d161c2f0a57fa6ba40eae18467921ea03e95b5ec53ac310c7c4552a45120",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

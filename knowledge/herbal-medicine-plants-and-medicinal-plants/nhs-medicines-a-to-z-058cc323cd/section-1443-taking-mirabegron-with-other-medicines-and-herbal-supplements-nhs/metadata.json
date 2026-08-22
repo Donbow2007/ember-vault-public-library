@@ -1,0 +1,25 @@
+{
+  "id": "0048c9ef-f0f6-415c-9e42-add3e88754d7",
+  "slug": "section-1443-taking-mirabegron-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking mirabegron with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "70c398f93e5eddb6b9a4054034954e212dfbfe150696d50fd6c1256976550413",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1443,
+    "content_hash": "7da8c1041084bc75cf0a1e13184a98cf8c3c34d7f47535c1d8a80ff1324d9025",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

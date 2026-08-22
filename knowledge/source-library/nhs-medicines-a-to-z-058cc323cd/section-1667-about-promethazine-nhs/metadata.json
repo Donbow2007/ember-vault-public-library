@@ -1,0 +1,25 @@
+{
+  "id": "a8f99993-a112-4da5-95b3-0ce3f1f40cf1",
+  "slug": "section-1667-about-promethazine-nhs",
+  "title": "About promethazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "a1819f0d50f9b8eba2f27a4f6e855e335aaaf3aa8701c53569270348cf1a8ece",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1667,
+    "content_hash": "6fde07820fd5da6c588882188751ad368a33a9a421251296e66706ee5df7777b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

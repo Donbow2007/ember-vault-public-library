@@ -1,0 +1,25 @@
+{
+  "id": "6a1afaea-5b55-40c5-b472-4da757ef47d5",
+  "slug": "section-0633-tag-oven",
+  "title": "Tag: oven",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "8907b9a77a60954bfe1f34de329439db81d63fc00c2cc6b77823edac1d360b0f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 633,
+    "content_hash": "30dc2f8f10841b0b5e70ed412d4d85c91970c924a7800249a4d20576f7e495ff",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

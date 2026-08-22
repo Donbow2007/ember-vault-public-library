@@ -1,0 +1,25 @@
+{
+  "id": "d7d508ee-0464-4333-848d-b3f734e8f59e",
+  "slug": "section-0278-autumn-soup",
+  "title": "Autumn Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "08535c4f25c0173e89caca20610a2c612c0a928153de78220664466d8c4359ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 278,
+    "content_hash": "db0c2480db9765dbddb8a83b3230f0886905c31d66938bc2b5100ab0f2f46431",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

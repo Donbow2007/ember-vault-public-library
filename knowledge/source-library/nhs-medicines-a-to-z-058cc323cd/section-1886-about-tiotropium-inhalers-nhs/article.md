@@ -1,0 +1,7 @@
+# About tiotropium inhalers - NHS
+
+About tiotropium inhalers - Brand names: Braltus, Spiriva, Spiriva Respimat Tiotropium inhalers are used to prevent symptoms of chronic obstructive pulmonary disease (COPD) and sometimes asthma , such as coughing, wheezing and feeling breathless. Tiotropium belongs to a group of medicines called anticholinergic bronchodilators. It works by relaxing muscles in your lungs and widening your airways. This makes it easier for you to breathe. Tiotropium inhalers (sometimes called "puffers") are known as preventer inhalers. If you have COPD or asthma, you'll use your inhaler regularly to help prevent you from getting symptoms. Tiotropium inhalers are available on prescription only. Some inhalers contain tiotropium mixed with other medicines that help your breathing, such as olodaterol. Brand names of tiotropium mixed with olodaterol are Spiolto Respimat and Yanimo Respimat. Key facts Tiotropium is a long-acting medicine. You'll usually use your tiotropium inhaler just once a day. You'll usually start to find it easier to breathe after using a tiotropium inhaler for 3 to 7 days. You need to use it every day for it to work, even if you do not have symptoms. Tiotropium comes as different types of inhaler that work with either capsules or cartridges. Check the instructions for the inhaler you're using. The most common side effect of tiotropium is a dry mouth.
+Page last reviewed: 31 October 2023
+
+Next review due: 31 October 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "0b352232-dc6c-44bd-ab44-8c690a14e6ae",
+  "slug": "section-1659-about-prochlorperazine-nhs",
+  "title": "About prochlorperazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "376d3f9815108b323ef04d522141ef52c3f7ea1e5b97d59b50967df7384338fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1659,
+    "content_hash": "4aaa8f6a89756aa75f3f455f925bbfcba7a3e303a80d0fd7ac3f5490c84b81c1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

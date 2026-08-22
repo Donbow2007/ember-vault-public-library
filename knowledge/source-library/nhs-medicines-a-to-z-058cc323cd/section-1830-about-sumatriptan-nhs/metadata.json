@@ -1,0 +1,25 @@
+{
+  "id": "5be227b4-f441-4f2d-b002-6742bd837916",
+  "slug": "section-1830-about-sumatriptan-nhs",
+  "title": "About sumatriptan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "52b38ff0765809f5c7e52d12571cd7fda4c6a9eefce6cc6297522dd0cb77f6c8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1830,
+    "content_hash": "02ce47cbcf7ce0b4ee41a0245938a59db3ddfa4d412feda7935d6249eca8b851",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

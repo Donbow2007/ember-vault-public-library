@@ -1,0 +1,25 @@
+{
+  "id": "8812ae42-45e7-4596-8d27-d280fe27fb16",
+  "slug": "section-0669-tag-spanish",
+  "title": "Tag: spanish",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6d669077a3496321eeb75207c96da2d0645088579ab0f40f36bc0e7fdf4b0ed0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 669,
+    "content_hash": "e68bff3cf9d5a6c4be2419f9c615fc41a5eb1c54288adb9e263c28902179604f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

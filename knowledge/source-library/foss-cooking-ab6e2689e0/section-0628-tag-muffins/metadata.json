@@ -1,0 +1,25 @@
+{
+  "id": "3a7c3a26-926f-462d-96b9-d334c78b6dd2",
+  "slug": "section-0628-tag-muffins",
+  "title": "Tag: muffins",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "8d8a4e53e10e6a9a7c7bbf1c0ae03b72f9a61fa2f7b39072c57526355892ad6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 628,
+    "content_hash": "8e5bd0711f267861a493938b00ca50d137abf6cafa047e1ff5c3c224c42a5f6e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

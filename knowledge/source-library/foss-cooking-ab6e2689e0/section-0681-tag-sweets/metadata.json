@@ -1,0 +1,25 @@
+{
+  "id": "4ef934fd-4b38-42d3-87ed-ed5366356b11",
+  "slug": "section-0681-tag-sweets",
+  "title": "Tag: sweets",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "ae1edf0df827ca2f9194cf9e0df079642d0b7ee06588800f0ff9ed3dce7be443",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 681,
+    "content_hash": "9f5f936ea6103c589592e50fe3ab8c39846d0c590d9a833be9dda8bc600b51b2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

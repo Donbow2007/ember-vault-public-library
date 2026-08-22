@@ -1,0 +1,25 @@
+{
+  "id": "1acc10db-c8ca-4b9f-bba5-87e91dbc6a8a",
+  "slug": "section-1813-side-effects-of-spironolactone-nhs",
+  "title": "Side effects of spironolactone - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "591f3e926a8bee11d6db6f46a6433a47be6f3e19e5e1056cf874e84abda155ab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1813,
+    "content_hash": "e33fac1e6146c87e4e9ec302da032c24bc26c0b0b0d3fe7d10a0c8d72a3b6b02",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

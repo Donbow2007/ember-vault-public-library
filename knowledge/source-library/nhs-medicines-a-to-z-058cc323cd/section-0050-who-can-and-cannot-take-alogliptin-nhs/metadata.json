@@ -1,0 +1,25 @@
+{
+  "id": "8d78d8da-c280-4e31-bdf1-c99624a85e7e",
+  "slug": "section-0050-who-can-and-cannot-take-alogliptin-nhs",
+  "title": "Who can and cannot take alogliptin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "dfd3886c38011cce1534ce38454d5f061d6a5f64be88297611fcbe93c93ada95",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 50,
+    "content_hash": "9b09b211bef8e8a955892f478a064c84ca007e3f97f43c4e75d51c23c3c5f8f0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

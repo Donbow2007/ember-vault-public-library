@@ -1,0 +1,6 @@
+# About mebendazole - NHS
+
+About mebendazole - Brand names: Ovex, Vermox Mebendazole is a type of medicine for treating worms. It's used mainly for infections of the gut such as threadworms (sometimes known as pinworms) and other less common worm infections (whipworm, roundworm and hookworm). It works by stopping worms from using sugar (glucose) to live. This kills the worms. You can buy mebendazole from a pharmacy for adults and children aged 2 years and over. It's also available on prescription for children aged 6 months and over. It comes as chewable tablets or a liquid that you swallow. Key facts You'll usually take mebendazole as a single dose to treat threadworms, but you might need to take it for around 3 days for some other types of worm infection. It starts to work straight away but it may take several days to kill all the worms. Mebendazole kills worms but not their eggs. You may need to take a second dose after 2 weeks. It's also important to have good personal hygiene to help stop the worms coming back. The most common side effect is stomach pain. A doctor or pharmacist may also advise that everyone in your house is treated with mebendazole.
+Page last reviewed: 4 August 2022
+
+Next review due: 4 August 2025

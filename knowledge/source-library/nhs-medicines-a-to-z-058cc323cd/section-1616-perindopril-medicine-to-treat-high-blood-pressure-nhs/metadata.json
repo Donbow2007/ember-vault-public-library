@@ -1,0 +1,25 @@
+{
+  "id": "437bbafc-a356-42e2-807c-568cd3496cac",
+  "slug": "section-1616-perindopril-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Perindopril: medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "7756cf90fc7dcf725c01035a89ff64af884f23c69da21b2507b4118b05da9679",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1616,
+    "content_hash": "acd2a0970d594725f9aadf6e7e890dcb7beda0ee7dca5cc342bf9a27eeb652b8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

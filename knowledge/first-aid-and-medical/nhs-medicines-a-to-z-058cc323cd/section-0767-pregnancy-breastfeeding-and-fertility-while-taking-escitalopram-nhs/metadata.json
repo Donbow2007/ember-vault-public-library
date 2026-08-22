@@ -1,0 +1,25 @@
+{
+  "id": "97df15a5-86c5-4d2e-852e-e5166c4ec2c1",
+  "slug": "section-0767-pregnancy-breastfeeding-and-fertility-while-taking-escitalopram-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking escitalopram - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "9a1d5892e865c16e220acebf8052e1bf71716264538317b8285549cdd90d54bb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 767,
+    "content_hash": "6e3cc256c5413fe1491ea0a1fc4b31af0d9ca3baa7f53cac50401a45b6cf74b6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

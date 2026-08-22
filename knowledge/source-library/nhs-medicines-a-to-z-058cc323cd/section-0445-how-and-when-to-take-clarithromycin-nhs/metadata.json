@@ -1,0 +1,25 @@
+{
+  "id": "3ef0d454-c270-4000-a6f2-7b797132a409",
+  "slug": "section-0445-how-and-when-to-take-clarithromycin-nhs",
+  "title": "How and when to take clarithromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "72710bf1cf5ec517bc18ef1a7e5681e5fb7a4ca272e7a0e386c8e498a3175200",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 445,
+    "content_hash": "08adaaa1d09a10f00acd517b9a5aaa153b1f03bef412947bc953221f0df908e0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

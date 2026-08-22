@@ -1,0 +1,25 @@
+{
+  "id": "68863ed8-81ab-4c5a-93f6-96609f51232f",
+  "slug": "section-0762-who-can-and-cannot-take-erythromycin-nhs",
+  "title": "Who can and cannot take erythromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "6136b274b022b75100379ded162c98a8bbad05301e614bad8d7ad209f1bd9373",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 762,
+    "content_hash": "a1ef1a5c3b5e3dd0a718b203909aed0d58968a452172433fde96fc471c0250e2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

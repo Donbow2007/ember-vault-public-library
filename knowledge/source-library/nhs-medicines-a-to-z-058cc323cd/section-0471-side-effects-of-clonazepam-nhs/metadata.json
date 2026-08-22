@@ -1,0 +1,25 @@
+{
+  "id": "0717dede-ec7e-4dbd-a427-f3a524aaeb3d",
+  "slug": "section-0471-side-effects-of-clonazepam-nhs",
+  "title": "Side effects of clonazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "eb161029b2a133e229885717584502dfd58c81e592783313aa7a3e8e7a464e26",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 471,
+    "content_hash": "a0367d805ca9b501a66e287e23c71da5c15db8edc5ff9332dabd0318a13a4c5a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2f05963f-9f2f-4abc-88db-e31c18b84b40",
+  "slug": "section-0795-fentanyl-a-medicine-to-treat-severe-pain-nhs",
+  "title": "Fentanyl: a medicine to treat severe pain - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "f2057e78a2896ba9114c42dced8e5eeea05d5abd035f79b251babd1db750e529",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 795,
+    "content_hash": "400b99e2806f0b767e83f58d038a67c095a54c72a2fe423193c33e8f350bec35",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

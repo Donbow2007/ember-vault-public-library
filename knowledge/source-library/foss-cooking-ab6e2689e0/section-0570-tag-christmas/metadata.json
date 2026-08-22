@@ -1,0 +1,25 @@
+{
+  "id": "717b0f5d-e40d-4f93-b2b7-08109d247b56",
+  "slug": "section-0570-tag-christmas",
+  "title": "Tag: christmas",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "c32c962802dac8f08c3f39acfa92ae647af99371e7537f451ddbe205c2a75fa1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 570,
+    "content_hash": "ff08df28c4427f64674d26961c726985d9c900aa55575930f4aa65dd217baee8",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

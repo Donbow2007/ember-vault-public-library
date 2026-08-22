@@ -1,0 +1,25 @@
+{
+  "id": "89141197-2a08-4530-9116-6560f36fc084",
+  "slug": "section-0668-tag-southwest",
+  "title": "Tag: southwest",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "566b30ba55b9ff540afb7d885c5ffc6b00d0fbb4dbc01111dd8098ee40d006de",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 668,
+    "content_hash": "c4364df3e5907a87db625866959280f6fd1b247a0b0641203ffff8fff0896ed5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

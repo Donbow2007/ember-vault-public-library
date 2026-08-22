@@ -1,0 +1,25 @@
+{
+  "id": "71602b6b-8245-42db-ab8a-eba2028ec781",
+  "slug": "section-0256-taking-bisacodyl-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking bisacodyl with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "afd91e8a9b82022e0de6a9462f50dfd7f6b00baff4879042b9498ad91a6efc09",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 256,
+    "content_hash": "4b477940701e94dd01d8ea8505b0128f9033223db4440b4ad8f6d7a0db083b8a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

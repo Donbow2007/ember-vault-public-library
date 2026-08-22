@@ -1,0 +1,25 @@
+{
+  "id": "3eb57980-bb15-476d-9501-5896d8e05a05",
+  "slug": "section-0893-about-furosemide-nhs",
+  "title": "About furosemide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "3d42a8c1bdc17bd5546d9c2d5f1575650498d9b85b7991e340177efe66a2a27d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 893,
+    "content_hash": "b9504e8b33d82308be6f05d4d228c71918e5c7b83050ca429649589ffb03dd98",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "59bd73e5-a66b-4b8a-867b-d6450d178fc2",
+  "slug": "section-0318-pate-chinois-quebec-style-shepherd-s-pie",
+  "title": "Pâté Chinois (Quebec Style Shepherd’s Pie)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "39227150151e03f7a7ac7073e149267d19141002491476a7d212a364246383ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 318,
+    "content_hash": "6e18d988c4e621357c36e35e35e139face9a38d6e3e120f1d1dd2c6332a943ca",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

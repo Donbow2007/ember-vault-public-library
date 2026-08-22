@@ -1,0 +1,25 @@
+{
+  "id": "e972936a-506c-44fc-a478-ce8bf8b885a2",
+  "slug": "section-1297-pregnancy-breastfeeding-and-fertility-while-taking-losartan-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking losartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "fa6b1d88d495028a801f2fa141e2f8c5f33af574b9cd28e87674e4c503dd4eda",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1297,
+    "content_hash": "eda690b7baff5165b67dd93c0fa1632c2dff9989461304fedc9a299cadc1c50d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

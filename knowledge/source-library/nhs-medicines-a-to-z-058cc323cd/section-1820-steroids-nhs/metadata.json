@@ -1,0 +1,25 @@
+{
+  "id": "5a0ddb8d-8fb4-47a3-b48d-47faedad2d36",
+  "slug": "section-1820-steroids-nhs",
+  "title": "Steroids - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "2c5c4d0db7338af7ab468e4d75a380e6a4e0c18778f9c606c0db47b81354015b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1820,
+    "content_hash": "52f62e1d996b3044ab9acedaedd55e1b340a49cc96ce694978e7f8802b5a8135",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

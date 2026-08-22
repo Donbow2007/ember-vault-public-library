@@ -1,0 +1,25 @@
+{
+  "id": "7a817b55-b5f5-4ea5-83af-b1e786e7dbdb",
+  "slug": "section-0897-side-effects-of-furosemide-nhs",
+  "title": "Side effects of furosemide - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "6af04735dede8cf787e73307fc95258422e39b7e3e45fe534c2d347884c9dc70",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 897,
+    "content_hash": "e932e54e378a92824030cfc9730084f6ee0fa78debeb66c85c567017093aaeaf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

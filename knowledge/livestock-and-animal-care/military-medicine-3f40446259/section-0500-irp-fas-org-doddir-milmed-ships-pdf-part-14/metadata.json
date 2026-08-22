@@ -1,0 +1,25 @@
+{
+  "id": "368b0e0a-3d27-4b0a-9888-1434f36f7cac",
+  "slug": "section-0500-irp-fas-org-doddir-milmed-ships-pdf-part-14",
+  "title": "irp.fas.org/doddir/milmed/ships.pdf — Part 14",
+  "category": "livestock-and-animal-care",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "099ffd5c0e45f7aec687c5aff90bdc934af0a1cdc3b81252e991b6a27aa91947",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 500,
+    "content_hash": "0cc1e3110e146c084314b8d3bbcd34136bcef97bc8bfd5a51bd4c6fd589d3580",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

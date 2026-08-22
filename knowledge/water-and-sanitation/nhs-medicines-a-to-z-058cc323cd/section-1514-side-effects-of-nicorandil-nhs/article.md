@@ -1,0 +1,18 @@
+# Side effects of nicorandil - NHS
+
+Side effects of nicorandil
+
+Common side effects These common side effects of nicorandil happen in more than 1 in 100 people. There are things you can do to help cope with them:
+Headaches
+Make sure you rest and drink plenty of fluids. Try not to drink too much alcohol. Ask your pharmacist to recommend a painkiller. Headaches usually go away after the first week of taking nicorandil. Talk to your doctor if the headaches last longer than a week or are severe.
+Feeling dizzy or weak
+If nicorandil makes you feel dizzy or weak, stop what you're doing and sit or lie down until you feel better. Do not drive, cycle or use tools or machinery if you're feeling dizzy. Do not drink alcohol, as it will make you feel worse. Speak to your doctor if you still feel dizzy after a week.
+Feeling or being sick (nausea or vomiting)
+Stick to simple meals and do not eat rich or spicy food. It might help to take your nicorandil after you have eaten. If you're being sick, try small, frequent sips of water to avoid dehydration . Talk to your doctor straight away if you feel sick or start being sick. If you take the combined pill or progestogen-only pill and nicorandil makes you sick, your contraception may not protect you from pregnancy. Check the pill packet to find out what to do.
+Flushing
+Try cutting down on coffee, tea and alcohol. It might help to keep the room cool and use a fan. You could also spray your face with cool water or sip cold or iced drinks. The redness should go away after a few days. If it does not stop or is bothering you, talk to your pharmacist or doctor. If this advice does not help and any of these side effects continue to bother you, keep taking the medicine, but tell your doctor or pharmacist. Serious side effects Call your doctor or call 111 now if you get: red, itchy or watery eyes – these can be signs of conjunctivitis or a corneal ulcer painful sores (ulcers) on the eyes, skin or the lining of your mouth stomach pain, feeling or being sick, loss of appetite, or blood in your poo – these are signs of stomach ulcers Serious allergic reaction In rare cases, nicorandil may cause a serious allergic reaction ( anaphylaxis ). Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of nicorandil. For a full list, see the leaflet inside your medicine packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 4 April 2022
+
+Next review due: 4 April 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

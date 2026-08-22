@@ -1,0 +1,25 @@
+{
+  "id": "a553cda5-6089-4e90-ac45-512ecaec04c1",
+  "slug": "section-1596-pregnancy-breastfeeding-and-fertility-while-taking-paroxetine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking paroxetine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "ef85e74163a33dabd1514770b716553cc151752715bfac3d495c9cc9993ba4b7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1596,
+    "content_hash": "06e4f8b4c929219a01d84e080caf5684283c912c954833e695aea407a83313a0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

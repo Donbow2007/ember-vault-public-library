@@ -1,0 +1,25 @@
+{
+  "id": "563ebd66-380a-4e86-8b60-3fe4bfd7d4ba",
+  "slug": "section-0777-taking-esomeprazole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking esomeprazole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "bb695eef0c4199ac2258f933eeb7da63773a6e5f3fbf863846e44a47dfb70d23",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 777,
+    "content_hash": "155a071cf7b68bdb42b959f02c814d2cf31d84624bb41d2c9e330cca85334e52",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

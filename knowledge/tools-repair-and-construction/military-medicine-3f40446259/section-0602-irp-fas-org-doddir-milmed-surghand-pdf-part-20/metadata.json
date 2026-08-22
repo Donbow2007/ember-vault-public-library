@@ -1,0 +1,25 @@
+{
+  "id": "902c98e1-10c8-493f-a80e-223b028dd856",
+  "slug": "section-0602-irp-fas-org-doddir-milmed-surghand-pdf-part-20",
+  "title": "irp.fas.org/doddir/milmed/surghand.pdf — Part 20",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "5eb2f2cef59ddd7247cc55a7589731f28af0c5be6bca3be640afaf62c16b100b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 602,
+    "content_hash": "6121b58352aa1c882f8576aa3e03f459844bdc6693133de05541f36ccc04e280",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

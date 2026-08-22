@@ -1,0 +1,25 @@
+{
+  "id": "e1746a78-2454-4f62-abb2-119e318d476c",
+  "slug": "section-1090-about-indapamide-nhs",
+  "title": "About indapamide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "6f686f9342b35c9c1c4c3e2edc87950e8eaf4f040e353fdceaacb41b2dd85b66",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1090,
+    "content_hash": "f2990a362241d8f59e01a93f4de7e7091eb4452addeefdce7611faeaf8ebf6a0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

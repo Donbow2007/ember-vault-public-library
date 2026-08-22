@@ -1,0 +1,25 @@
+{
+  "id": "e13ace40-c999-4179-a33c-a5878797826b",
+  "slug": "section-0700-tag-wholemeal",
+  "title": "Tag: wholemeal",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:53Z",
+  "content_hash": "93f851f8b4dd3b1009b311b3cab81e63087fb3c7638aa7638f7404e961b21812",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 700,
+    "content_hash": "8740874683dbb695112646bd2211d89b4bd4ca4416a977f78f642bae0adbcf6e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

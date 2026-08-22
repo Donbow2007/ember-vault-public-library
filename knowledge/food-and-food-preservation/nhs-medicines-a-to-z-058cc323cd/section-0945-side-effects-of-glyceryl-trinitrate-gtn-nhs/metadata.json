@@ -1,0 +1,25 @@
+{
+  "id": "5c20f903-16b6-418f-a734-ecc6dcb903f3",
+  "slug": "section-0945-side-effects-of-glyceryl-trinitrate-gtn-nhs",
+  "title": "Side effects of glyceryl trinitrate (GTN) - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "37a34a1ef10c6f5f202883f7915fb61e966f1b495ee10010f2b2232cc8f13bb7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 945,
+    "content_hash": "c292a1e3d4a37df4fcc0b4b9f8913cd84a4a62d414ebde184192a21f16aecacd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

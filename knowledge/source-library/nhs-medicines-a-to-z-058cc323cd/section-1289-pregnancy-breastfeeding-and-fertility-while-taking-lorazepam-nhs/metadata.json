@@ -1,0 +1,25 @@
+{
+  "id": "8c866efb-0a30-420d-9194-3996a1691764",
+  "slug": "section-1289-pregnancy-breastfeeding-and-fertility-while-taking-lorazepam-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking lorazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "eaf88bbef0a12abade680d2769feff7c142525256d64500108eab55bee3a11e1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1289,
+    "content_hash": "5f0672b53f74f7c261391c847fd97f1c1a8a5153b6bc6f1f9d905ea40c5d0fc9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

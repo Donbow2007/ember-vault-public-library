@@ -1,0 +1,25 @@
+{
+  "id": "41e2c797-6e45-43a1-90c5-ef40bc1acdc8",
+  "slug": "section-0407-side-effects-of-chlorhexidine-nhs",
+  "title": "Side effects of chlorhexidine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "ec5f894dce272631edf036b611c05b031b9cf1543ddbb6937163b13ab3a9ae4b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 407,
+    "content_hash": "5a78c412433a66ac31c7d452edcfa5721412318c231631651cd563798eae8222",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

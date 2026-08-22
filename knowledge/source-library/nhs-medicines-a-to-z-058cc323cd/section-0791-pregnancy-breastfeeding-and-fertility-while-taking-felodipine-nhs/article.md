@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking felodipine - NHS
+
+Pregnancy, breastfeeding and fertility while taking felodipine
+
+Felodipine and pregnancy Felodipine can be taken during pregnancy, although it's not commonly used. If you're taking felodipine to treat high blood pressure you will usually be switched to a different medicine if you are pregnant. If you are taking felodipine for angina or heart rhythm problems then you should have a review within an antenatal clinic with a pregnancy specialist (obstetrician) and heart specialist (cardiologist). Keep taking felodipine until you have had your review. Felodipine and breastfeeding If your doctor or midwife says your baby is healthy you can take felodipine while you are breastfeeding. It's not known how much felodipine gets into breast milk, but it's likely to be a small amount which is unlikely to harm your baby. If you are breastfeeding, or planning to breastfeed, talk to your doctor or pharmacist as other medicines might be better, but it's important you take the medicine that works for you. If you notice that your baby is not feeding as well as usual, seems unusually sleepy, or seems much paler than usual, or if you have any other concerns about your baby, then talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Felodipine and fertility There's no evidence to suggest that taking felodipine reduces fertility in either men or women. However, speak to a pharmacist or your doctor if you're trying for a baby as they may wish to change your medicine before you become pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out about how calcium channel blockers such as felodipine can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website.
+Page last reviewed: 4 February 2022
+
+Next review due: 4 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

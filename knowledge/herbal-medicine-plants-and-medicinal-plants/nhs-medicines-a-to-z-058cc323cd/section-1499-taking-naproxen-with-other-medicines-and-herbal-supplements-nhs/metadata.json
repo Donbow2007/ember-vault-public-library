@@ -1,0 +1,25 @@
+{
+  "id": "087c200e-1217-4154-b4cb-d6d129acf5c6",
+  "slug": "section-1499-taking-naproxen-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking naproxen with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "1b2aea70190e89abaee15d5135153d13ab64500e2e06ead3050147031e1d9ba6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1499,
+    "content_hash": "86f7759e75fd9141c8637b124325cba8c9518eaf17704bdd135135f28fa64f67",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

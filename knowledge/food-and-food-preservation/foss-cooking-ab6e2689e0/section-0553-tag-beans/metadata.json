@@ -1,0 +1,25 @@
+{
+  "id": "8c807341-a05d-4905-9f0e-ca06abfe3739",
+  "slug": "section-0553-tag-beans",
+  "title": "Tag: beans",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "7e71e089c7b11bbf0da4725da550d42a91ae0e1823762806ab1b77d95a3d4348",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 553,
+    "content_hash": "78c894893e86d3270c2eeccf888059ea0985ac657181550f9fe3b563ffe31184",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

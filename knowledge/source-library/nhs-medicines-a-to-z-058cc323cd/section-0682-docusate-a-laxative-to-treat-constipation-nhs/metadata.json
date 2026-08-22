@@ -1,0 +1,25 @@
+{
+  "id": "963034ec-a34b-490b-b788-dca5d77997b6",
+  "slug": "section-0682-docusate-a-laxative-to-treat-constipation-nhs",
+  "title": "Docusate: a laxative to treat constipation - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "51f2d6169308152cd221db45ea3c3b58ff4236e8dbbc3959e9e40087f04fb780",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 682,
+    "content_hash": "72e027c1eebfc3cb9081feaff1a995b1b2e8ae293b80d55bcbc38c2151e057f0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

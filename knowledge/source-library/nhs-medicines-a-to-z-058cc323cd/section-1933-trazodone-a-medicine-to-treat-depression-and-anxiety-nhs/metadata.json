@@ -1,0 +1,25 @@
+{
+  "id": "e2a3fd3e-8905-4a98-bd07-5e7c4846b241",
+  "slug": "section-1933-trazodone-a-medicine-to-treat-depression-and-anxiety-nhs",
+  "title": "Trazodone: a medicine to treat depression and anxiety - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "312809f59d16d7a5842fa4f228599d34f9eeea8cec6bb96a0aaaed74b33b4397",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1933,
+    "content_hash": "8c77b7e046b2747b177919f9a974ba061309db114047612ad56ee2b8eb844008",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

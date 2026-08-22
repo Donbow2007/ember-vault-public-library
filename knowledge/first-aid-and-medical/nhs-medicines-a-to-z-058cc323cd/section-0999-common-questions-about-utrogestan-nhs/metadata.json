@@ -1,0 +1,25 @@
+{
+  "id": "11c5a428-7a52-432d-907d-3b04b9e0faf1",
+  "slug": "section-0999-common-questions-about-utrogestan-nhs",
+  "title": "Common questions about Utrogestan - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "a78c0ef2dea218fc3078af7b412b9ab87a80967ebb0e3e2cba050044bf35441e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 999,
+    "content_hash": "2582859442f679bc9eb72da0e5cc1624145013b134e0ec18cfe2d58e376e0c66",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

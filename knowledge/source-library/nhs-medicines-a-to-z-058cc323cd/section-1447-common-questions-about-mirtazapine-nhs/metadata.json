@@ -1,0 +1,25 @@
+{
+  "id": "7a9a1ff2-5bc5-4bcf-8b35-3a72f97ad35e",
+  "slug": "section-1447-common-questions-about-mirtazapine-nhs",
+  "title": "Common questions about mirtazapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "fcf5d8c31945094ba8f7739ba0356d5946a52fb49395c0e2152e129554a48007",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1447,
+    "content_hash": "1e1ea253d728ebc77952db652f369b0dc0cb831e4fa322a7026853b06839e5e1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

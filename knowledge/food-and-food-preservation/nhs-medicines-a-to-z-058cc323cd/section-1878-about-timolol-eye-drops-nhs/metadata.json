@@ -1,0 +1,25 @@
+{
+  "id": "c977321c-6876-4694-83d0-1c2aa23807c0",
+  "slug": "section-1878-about-timolol-eye-drops-nhs",
+  "title": "About timolol eye drops - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "cc1a13f3e9c47d80ffc14b15e44ba20916a3d0546418ebd72db4751572e57c14",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1878,
+    "content_hash": "313b08791b3ef2ea88038f3cc77b5e69f44d919f95e4691a446f728d933a36c7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

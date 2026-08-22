@@ -1,0 +1,25 @@
+{
+  "id": "3d6dfa21-51bb-4aea-873a-2b802c826a71",
+  "slug": "section-1210-laxatives-considerations",
+  "title": "Laxatives - Considerations",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "c0026a957b581a8213fee8de93e0a5b020d36d09e93a593fa5d5aa83a984a095",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1210,
+    "content_hash": "6d067429317bbdf92039918d7af886a106318a875e34a96076b099a167f7f7fb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

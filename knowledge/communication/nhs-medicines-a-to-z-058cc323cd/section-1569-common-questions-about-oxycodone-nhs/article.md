@@ -1,0 +1,26 @@
+# Common questions about oxycodone - NHS
+
+Common questions about oxycodone - Brand names: Oxycontin, Oxypro, Longtec, Shortec
+How does oxycodone work?
+Oxycodone is one of a group of medicines called opioids, or narcotics. It works by blocking pain signals from the central nervous system and the brain to the rest of the body. It also reduces the anxiety and stress caused by pain.
+How long does it take to work?
+This depends on whether you are taking standard oxycodone capsules, tablets or liquid, or slow-release tablets. Standard oxycodone takes 30 to 60 minutes to work, but this wears off after 4 to 6 hours. Slow-release oxycodone can take 1 to 2 days to work fully, but the pain relief will last longer.
+Are there any long-term side effects?
+Some people who need long-term pain relief may need to take oxycodone for a long time. If you need to take it for a long time, your body can become used to it (known as tolerance). That means you need higher doses to control your pain over time. Some people can become more sensitive to pain (hyperalgesia). If this happens, your doctor will reduce your dose gradually to help these symptoms. It is possible to become addicted to oxycodone. For this reason, your dose will be reviewed to make sure you're only taking the amount you need to control your pain. Your treatment plan may include details of how and when you'll stop taking oxycodone. If you are having treatment for cancer pain or other severe pain, your pain control will be carefully monitored. Speak to your doctor if you're worried about tolerance, hyperalgesia or becoming addicted.
+How will I know if I'm addicted?
+If you're addicted to oxycodone, you may find it difficult to stop taking it or feel you need to take it more often than necessary. If you stop taking it suddenly you may get withdrawal symptoms. These can include: feeling agitated, anxious or nervous panic attacks feeling your heartbeat (palpitations) difficulty sleeping shaking sweating body aches feeling restless Talk to your doctor if you: are worried about addiction need help with addiction want to stop taking oxycodone
+How does it compare with other opioids?
+Oxycodone acts on different pain signals in the brain to some other opioids. This does not mean it's better for certain conditions. The pain relief and side effects which you can get from oxycodone will be different for individual people. A doctor may prescribe oxycodone if you have had side effects from other opioids.
+Will it affect my contraception?
+Oxycodone does not affect any type of contraception including the combined pill , progestogen-only pill or emergency contraception . If oxycodone makes you vomit, your contraceptive pills may not protect you from pregnancy. Look on the pill packet to find out what to do. Find out more: What to do if you're sick or have diarrhoea when taking the combined pill What to do if you're sick or have diarrhoea when taking the progestogen-only pill
+Can I drive or ride a bike?
+Do not drive a car, ride a bike or operate machinery if oxycodone gives you blurred vision, or makes you feel dizzy, sleepy, clumsy or unable to concentrate or make decisions. This may be more likely when you first start taking oxycodone but could happen at any time, for example when starting another medicine or if a doctor increases your dose. Even if your ability to drive is not affected, police have the right to request a saliva sample to check how much oxycodone is in your body. It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive. Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking oxycodone. GOV.UK has more information on the law on drugs and driving .
+Can I drink alcohol while taking oxycodone?
+It's best to stop drinking alcohol during the first few days of treatment, or if a doctor increases your dose, until you see how oxycodone affects you. Drinking alcohol while you're taking oxycodone may make you feel more sleepy or increase the risk of serious side effects.
+Is there any food or drink I need to avoid?
+Grapefruit juice can affect the strength of the oxycodone in your body and cause more serious side effects. Oxycodone is not generally affected by any other food or drink, except alcohol. Drinking alcohol while you're taking oxycodone may make you feel more sleepy, or increase the risk of serious side effects.
+Will recreational drugs affect it?
+If you take recreational drugs, such as cannabis, cocaine or heroin, while you're taking oxycodone, you're more likely to get the serious side effects of oxycodone including breathing difficulties, muscle stiffness, low blood pressure and seizures or fits. Some recreational drugs, such as cannabis, will also increase oxycodone side effects and make you feel sleepy and dizzy. Taking heroin while you're taking prescribed oxycodone is especially dangerous. You're more likely to get all the side effects of oxycodone, including addiction. Tell your doctor if you take recreational drugs while you're taking oxycodone. Find out more about the side effects of recreational drugs on the Frank website
+Page last reviewed: 17 November 2022
+
+Next review due: 17 November 2025

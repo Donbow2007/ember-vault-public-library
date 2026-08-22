@@ -1,0 +1,25 @@
+{
+  "id": "f76ed626-8ea4-4680-85be-69f8b91f9a67",
+  "slug": "section-0764-about-escitalopram-nhs",
+  "title": "About escitalopram - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "41c0e13ee1ff99eb151f1ec1ec4dbaa1021735a70a242fa2111e805e4e99aba5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 764,
+    "content_hash": "5fcc84932c1f3255d441c7574d1150e184b8cd925c8a602515bc091c097506a4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

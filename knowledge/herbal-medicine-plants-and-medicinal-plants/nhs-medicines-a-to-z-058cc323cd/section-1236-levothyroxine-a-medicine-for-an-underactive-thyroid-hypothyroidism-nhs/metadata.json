@@ -1,0 +1,25 @@
+{
+  "id": "8bb89547-4f2b-4706-931f-622ae27e4d0d",
+  "slug": "section-1236-levothyroxine-a-medicine-for-an-underactive-thyroid-hypothyroidism-nhs",
+  "title": "Levothyroxine: a medicine for an underactive thyroid (hypothyroidism) - NHS — Part 2",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "18e3bbcbd14d4224c79f4b2ff0c711fb0f5e0ffd0f9d6a43cb1f1a9f7c2b9dc2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1236,
+    "content_hash": "40b0dba32cf9c376d7b7e3edad93663ca0fea91a2c2666b3746e12258bf693ea",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

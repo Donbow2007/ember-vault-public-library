@@ -1,0 +1,25 @@
+{
+  "id": "2b7840c4-9a7c-47f6-a712-cf567e991b23",
+  "slug": "section-0428-common-questions-about-ciprofloxacin-nhs",
+  "title": "Common questions about ciprofloxacin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "583740ea921e2b83934834b102e1e0b3750b3f19def9d2a02165edd5434b5c5a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 428,
+    "content_hash": "0e499f2b6c38cfd9b4bd03b9b6813bc25a38f34e9267dc5d6ad1f9793dcb8a13",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

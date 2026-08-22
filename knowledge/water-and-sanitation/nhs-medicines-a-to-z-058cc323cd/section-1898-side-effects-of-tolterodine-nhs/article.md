@@ -1,0 +1,29 @@
+# Side effects of tolterodine - NHS
+
+Side effects of tolterodine - Brand names: Neditol, Detrusitol, Mariosea Like all medicines, tolterodine can cause side effects, but not everyone gets them. Common side effects of tolterodine These common side effects of tolterodine happen in more than 1 in 100 people. There are things you can do to help cope with them:
+Dry mouth
+Try chewing sugar-free gum or sucking sugar-free sweets. Having a dry mouth can cause tooth decay or a fungal infection. It also might stop medicine that you put under your tongue from dissolving properly, such as medicine for angina .
+Headaches
+Make sure you rest and drink plenty of fluids. Avoid drinking alcohol. Ask your pharmacist to recommend a painkiller. Talk to your doctor if your headache is severe or does not go away.
+Feeling dizzy, sleepy, or a spinning sensation (vertigo)
+Do not drive, cycle, use tools, or operate machinery. Avoid drinking alcohol, as this may make your symptoms worse.
+Diarrhoea
+Drink lots of fluids, such as water or squash, to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat diarrhoea without speaking to a pharmacist or doctor. If you take the combined contraceptive pill or progestogen-only pill and you have severe, watery diarrhoea or any diarrhoea that lasts for more than 24 hours, your contraception may not protect you from pregnancy. Look on the pill packet to find out what to do. Speak to a pharmacist or doctor if diarrhoea lasts more than 1 or 2 days.
+Being sick (vomiting)
+Try small frequent sips of water to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. If you take the combined pill or progestogen-only pill and you're being sick, your contraception may not protect you from pregnancy. Check the pill packet for advice. Speak to a pharmacist or doctor if you're being sick for more than 1 to 2 days.
+Farting and burping (wind)
+Eat less foods that cause wind, like lentils, peas, beans and onions. It might also help to eat smaller and more frequent meals, eat and drink slowly, and exercise regularly. Ask your pharmacist about remedies you can buy to help with trapped wind.
+Stomach pain
+Try to rest and relax. It can help to eat and drink slowly and have smaller and more frequent meals. Putting a heat pad or a covered hot water bottle on your stomach may also help. If you're in a lot of sudden severe pain, speak to your pharmacist or doctor.
+Dry eyes
+Ask your pharmacist or optician to recommend some eye drops. If you wear contact lenses and these become uncomfortable, you might want to wear glasses instead while you're taking tolterodine.
+Blurred vision
+Do not drive or ride a bike until you can see clearly again. Do not take your next dose of tolterodine. Speak to your doctor or pharmacist if your blurred vision does not go away.
+Problems or pain when peeing, and not being able to empty your bladder
+Try to relax when you pee. Do not try to force the flow of pee. If it does not happen, try again later. Talk to a doctor urgently if you cannot pee at all. Talk to your doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects Call your doctor or call 111 straight away if you have: stomach pain (especially after meals), feeling sick or being sick, a long-lasting urge to poo, not being able to poo or you have runny poos – these are all signs of faecal impaction, where large, hardened poo gets stuck and you cannot push it out difficulty fully emptying your bladder, or difficulty in starting to pee – these are signs of urinary retention, where pee builds up in your bladder because you're unable to pee a high temperature or chills, a burning feeling when peeing, pain in your back or side, or bloody or cloudy pee – these can be signs of a severe urinary tract infection (UTI) swollen ankles, feet or legs (oedema) – where fluid builds up in your legs Immediate action required: Call 999 if:
+you have chest pain or severe difficulty breathing Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to tolterodine. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of tolterodine. For a full list, see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 25 March 2025
+
+Next review due: 25 March 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

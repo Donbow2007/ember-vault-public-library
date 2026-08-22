@@ -1,0 +1,25 @@
+{
+  "id": "9f6a9613-ecdc-410b-b928-91db1bd1f8f2",
+  "slug": "section-1270-about-loperamide-nhs",
+  "title": "About loperamide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "b149b071f8f86f7886f762457e0a1175433b018d43fd45e33ffe66a0f687c1f7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1270,
+    "content_hash": "da9dd3c788629d575d7af135eccf70f0ac4e937a459f92d607b4f28355f18812",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

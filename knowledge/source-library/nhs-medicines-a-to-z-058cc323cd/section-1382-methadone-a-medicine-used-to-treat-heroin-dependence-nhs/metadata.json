@@ -1,0 +1,25 @@
+{
+  "id": "fa3098c4-8c1b-4827-8557-0a64a5755e9a",
+  "slug": "section-1382-methadone-a-medicine-used-to-treat-heroin-dependence-nhs",
+  "title": "Methadone: a medicine used to treat heroin dependence - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "468b6559422d78302c843ffe1476b1e69d942069f5fb7e1a7ed5f64513de3ff7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1382,
+    "content_hash": "9ce4ace4f1ad31b0dbaf070807127780ef10c5b8c24d72b9c8de031266a4d3d2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4c1ff1e8-cb5c-4138-8e24-ce03878f6b4a",
+  "slug": "section-1166-who-can-and-cannot-take-isosorbide-mononitrate-and-isosorbide-dinitrat",
+  "title": "Who can and cannot take isosorbide mononitrate and isosorbide dinitrate - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "fde4cf4fb157dc9a7fa6e95dfac145068fe9f7966700ba6958bc60026d2a5e37",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1166,
+    "content_hash": "adb0ab493b499395d2eb4ce274a56238c4d2bf03a72b1f0836c6083091762627",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "860902d5-55ca-4352-a74e-224d498c5d68",
+  "slug": "section-0084-mental-outlaw",
+  "title": "Mental Outlaw",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "6c41fda33d1ddfc157b94a831d07a15c54a8d9647376023ea3039fc9f2ad59df",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 84,
+    "content_hash": "623dc5c83a0855f8f40ddcebe17b8882a493fcd81c865947298c4db8417ac770",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

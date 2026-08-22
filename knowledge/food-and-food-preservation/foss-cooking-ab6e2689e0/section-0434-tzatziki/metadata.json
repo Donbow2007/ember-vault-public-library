@@ -1,0 +1,25 @@
+{
+  "id": "f2f30cb5-adc0-4401-a605-9c93790d3be2",
+  "slug": "section-0434-tzatziki",
+  "title": "Tzatziki",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "c1b6945a35a343ec87c15ae1323337e81c7e681c0547f3fc5dab8b7da09bba18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 434,
+    "content_hash": "5cdd10f669d2c58a654b9ece66d3bd7df1be41821fde6644e6dbe1ee69162a07",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "beeea43b-d185-475f-a8ed-7532425dadcc",
+  "slug": "section-1798-taking-solifenacin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking solifenacin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "04a16490bcf7cdaf5872efa4c32b1cfe6f79eab69d2555f4e31e71c238679575",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1798,
+    "content_hash": "7fa2ec792f381dd2597e18d57ec996dd01d0ec01388519706ee655e1bf49a65a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

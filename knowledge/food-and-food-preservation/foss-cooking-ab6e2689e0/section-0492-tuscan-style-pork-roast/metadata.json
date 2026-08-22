@@ -1,0 +1,25 @@
+{
+  "id": "5c665115-71d0-457b-8e79-83a28724df9d",
+  "slug": "section-0492-tuscan-style-pork-roast",
+  "title": "Tuscan Style Pork Roast",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "8859f8f0b3a80e87542a6b3b268e438abb660f5b93135924ec2d3a7463099ef0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 492,
+    "content_hash": "b3cdc0734f45584922ba680e23784510ee18c7a66370c08f616b2319e435edae",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

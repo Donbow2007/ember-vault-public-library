@@ -1,0 +1,25 @@
+{
+  "id": "06ba40b1-953e-432d-919b-5731149d7bff",
+  "slug": "section-0834-taking-finasteride-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking finasteride with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "36306ea618c089ec47d69c972d58af03a208f95a959204d1a04a80237323b85c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 834,
+    "content_hash": "58f4576f6c4d1de192f81a4e24896c5c7d4436bf7aad4f9013e9566d7d15c97e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

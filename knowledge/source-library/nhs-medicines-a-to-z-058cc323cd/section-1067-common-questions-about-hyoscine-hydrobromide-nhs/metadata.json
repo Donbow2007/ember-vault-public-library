@@ -1,0 +1,25 @@
+{
+  "id": "1999096a-08c9-4bd8-ae97-ba3e69a5f94a",
+  "slug": "section-1067-common-questions-about-hyoscine-hydrobromide-nhs",
+  "title": "Common questions about hyoscine hydrobromide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "441e336b748c4261690da0a7b0548fa8f851a5264b9e4efce38c9b32968a7f7c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1067,
+    "content_hash": "7f7ad991c381ff5fa364d5ed49a65d230a16999da1118a2b568d1907cd511ed1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

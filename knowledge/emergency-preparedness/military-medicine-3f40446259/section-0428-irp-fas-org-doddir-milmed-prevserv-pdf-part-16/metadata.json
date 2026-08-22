@@ -1,0 +1,25 @@
+{
+  "id": "39841e7a-1720-4d00-94e0-b95054e8ae7d",
+  "slug": "section-0428-irp-fas-org-doddir-milmed-prevserv-pdf-part-16",
+  "title": "irp.fas.org/doddir/milmed/prevserv.pdf — Part 16",
+  "category": "emergency-preparedness",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "4525e995967a1149229ef798af0bd3a2e5349e74457bf932b0d65499865adc94",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 428,
+    "content_hash": "f1aaf50c7815278b393ab279a7b85782f72d8bf415f0ce5bd838117b224c9077",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

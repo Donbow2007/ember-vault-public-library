@@ -1,0 +1,25 @@
+{
+  "id": "0b0d2681-64de-4266-9a6b-48ccaf675c8b",
+  "slug": "section-0059-amitriptyline-a-medicine-to-treat-pain-and-prevent-migraine-nhs",
+  "title": "Amitriptyline: a medicine to treat pain and prevent migraine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "12f61e666bace2205fbe6f9ef5f1f51558a3a01f8e497d9313c7ad348ae8bae8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 59,
+    "content_hash": "1ab8ff8bde69332b8a68ac17b1cc0e1e6638505ac05e74aaedc354c332955882",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

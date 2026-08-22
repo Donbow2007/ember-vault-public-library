@@ -1,0 +1,25 @@
+{
+  "id": "daaf8093-76be-403e-bdf9-ac85078aa779",
+  "slug": "section-0602-tag-german",
+  "title": "Tag: german",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "912c24b3fd352b0bca84f0224899b30cda4cb1f7bb56f803dad8d7541dd5cfac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 602,
+    "content_hash": "196dd567778ea52dc401100ad97a8994df8a5c40460d654d17cb59a3ec8f269b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

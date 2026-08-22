@@ -1,0 +1,25 @@
+{
+  "id": "0558203f-16d9-498c-89f7-702cf4fe43ed",
+  "slug": "section-0621-how-and-when-to-take-dexamethasone-tablets-and-liquid-nhs",
+  "title": "How and when to take dexamethasone tablets and liquid - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "47a001204148a11f0c4288e9f1d0d242a93b794087a64f4b0bab22df818d8d87",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 621,
+    "content_hash": "9de167738da0dd99a78abc77ee1dfe42c1e188d693d60ae78f8f78360db73611",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

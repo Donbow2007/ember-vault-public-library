@@ -1,0 +1,25 @@
+{
+  "id": "d907b2ca-d97e-4e91-bef1-5d1314c745a4",
+  "slug": "section-0823-how-and-when-to-take-fexofenadine-nhs",
+  "title": "How and when to take fexofenadine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "b9ed9170e159c1040ffd1a7e2a4c6f01f50e92f4bdfe90dee8ea92e95f4c8523",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 823,
+    "content_hash": "0420dbe1c823f49d352c716de2c1ca237f744c50f208bb0ea7bf170859a1b66f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9e999a40-40f0-4e10-ab83-ca740d862a8d",
+  "slug": "section-1729-how-and-when-to-take-rosuvastatin-nhs",
+  "title": "How and when to take rosuvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c5949eaa4585743e3a22c0736c534504408b5a1013577e948cb8ca439b62891b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1729,
+    "content_hash": "b72f0e3989f951a6455948d5c52729526b1b7589bed3eba53af7d12c5703eed4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

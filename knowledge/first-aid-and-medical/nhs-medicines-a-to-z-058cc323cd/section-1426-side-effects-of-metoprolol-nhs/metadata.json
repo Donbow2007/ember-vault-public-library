@@ -1,0 +1,25 @@
+{
+  "id": "d5b01a7d-3c65-405e-b1df-86d03329decd",
+  "slug": "section-1426-side-effects-of-metoprolol-nhs",
+  "title": "Side effects of metoprolol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "3861c271c5ec99406dc071a2c0cc49fdb8b6ad3260a0e4cd807ee140a8fae824",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1426,
+    "content_hash": "7d77d6943a67b5b03eceff447be5e06a32cdefa8ebdad1d8883e7f1422e7c873",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

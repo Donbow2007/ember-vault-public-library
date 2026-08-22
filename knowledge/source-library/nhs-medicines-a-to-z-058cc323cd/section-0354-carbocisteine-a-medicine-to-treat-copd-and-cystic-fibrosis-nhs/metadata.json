@@ -1,0 +1,25 @@
+{
+  "id": "92424d9e-8a86-4c83-9f43-6c48c8b28cbe",
+  "slug": "section-0354-carbocisteine-a-medicine-to-treat-copd-and-cystic-fibrosis-nhs",
+  "title": "Carbocisteine: a medicine to treat COPD and cystic fibrosis - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "5729fb8e870cf49ed931702deec6003d1a62734bb363a4d38ca9f7a59974acfb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 354,
+    "content_hash": "7eb6501aa676f2a15ed27df66b23a8d5cdecd0b11a44dac8ea9baf57fbe864bb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

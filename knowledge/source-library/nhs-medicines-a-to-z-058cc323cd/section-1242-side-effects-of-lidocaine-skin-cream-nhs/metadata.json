@@ -1,0 +1,25 @@
+{
+  "id": "2d0ff05e-c86b-4482-9379-06d57073d693",
+  "slug": "section-1242-side-effects-of-lidocaine-skin-cream-nhs",
+  "title": "Side effects of lidocaine skin cream - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "8b8ac3a45315cf1b5fbbcee46db3a01e6c72b1e3f5c16391cec36384853f25b5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1242,
+    "content_hash": "9d29161e35583ef782ed0d0ec480f07eaad7defda17128997f83af7a41f1b57c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

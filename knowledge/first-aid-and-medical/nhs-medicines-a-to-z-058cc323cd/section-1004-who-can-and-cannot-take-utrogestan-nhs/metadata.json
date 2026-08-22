@@ -1,0 +1,25 @@
+{
+  "id": "8fa71ce5-41be-465f-9bf4-1421d91d2dc2",
+  "slug": "section-1004-who-can-and-cannot-take-utrogestan-nhs",
+  "title": "Who can and cannot take Utrogestan - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "8c76cc9f0c570ee6641b0719ae63259f1b2c98b20dd9c249eed50e5951c7a8c4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1004,
+    "content_hash": "afb51b54e9f9a92f65bc1ff10f54dd7cbc59ada6c07bc83024c99a796a6789e7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

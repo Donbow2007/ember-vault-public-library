@@ -1,0 +1,25 @@
+{
+  "id": "f2811d65-5737-436e-a6de-bb7bfcd138a2",
+  "slug": "section-0211-steak-tartare",
+  "title": "Steak Tartare",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "1d5072305157b55ae27011b2210a68cf8f7106e840c8a070bf7289123bbe127e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 211,
+    "content_hash": "45eaf2e00f71c8c061c6c0b1bcfb1ea833987e8755d66c5f0a298b605e6f8be3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

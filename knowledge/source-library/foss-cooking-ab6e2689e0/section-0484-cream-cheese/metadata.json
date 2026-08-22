@@ -1,0 +1,25 @@
+{
+  "id": "c6a32454-0619-4e59-b368-56dfdca28091",
+  "slug": "section-0484-cream-cheese",
+  "title": "Cream Cheese",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "fce5aece425fcd3d77d9abe29bb898449df35abe61bd9950acf99e14e98da7f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 484,
+    "content_hash": "ddf7e2fb7d0608cbed937887ecf32c0741d2ea17bb44919fb9fdf9f616b6b7a1",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f656bc5a-09fc-467f-96f0-2319568a71ea",
+  "slug": "section-1912-how-and-when-to-take-tramadol-nhs",
+  "title": "How and when to take tramadol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "208606dfdb3c55685d331b9aa98b5e7e74ecb1c80ff3678ca34f51ba5b91ec84",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1912,
+    "content_hash": "29a987875f57a05e57ca7a32a7f89705957551e33e8bdf9959577cdda41c1a4f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

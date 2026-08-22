@@ -1,0 +1,25 @@
+{
+  "id": "9c60dc9a-4a4f-463b-b3c1-9d1707891593",
+  "slug": "section-0555-common-questions-about-codeine-nhs",
+  "title": "Common questions about codeine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "3c0f9c7c4725a3c5ef3ed5387634896f64b219d840ffa19a9f9a4b33c2ca8f44",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 555,
+    "content_hash": "9073bd5668336f9461296aaef020ef36d384f6fab1c0da497d774710102b2a53",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

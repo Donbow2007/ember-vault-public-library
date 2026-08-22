@@ -1,0 +1,25 @@
+{
+  "id": "da2072df-7778-4fc4-9b5a-ec91b07ec5ec",
+  "slug": "section-0267-about-brinzolamide-nhs",
+  "title": "About brinzolamide - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "2ef566dba8604487aa601b9077e561351b29c3993043d855fbd8132056374a95",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 267,
+    "content_hash": "75bf0696268caa73127856c51183d1d1bc27d8f52faef7dd30523f83a1b33a16",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

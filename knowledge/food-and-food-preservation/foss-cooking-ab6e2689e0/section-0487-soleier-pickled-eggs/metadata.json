@@ -1,0 +1,25 @@
+{
+  "id": "60a32752-83b7-4ad5-b713-d8807b0fb9aa",
+  "slug": "section-0487-soleier-pickled-eggs",
+  "title": "Soleier (pickled eggs)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "f1008f7b15adaca13fbc6d9310136f518b74720d6b009575a5d9185b74b3b237",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 487,
+    "content_hash": "533928e12799cfb6390f4538b86569e4653c01c0bf353015b9e08e3edc49a353",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

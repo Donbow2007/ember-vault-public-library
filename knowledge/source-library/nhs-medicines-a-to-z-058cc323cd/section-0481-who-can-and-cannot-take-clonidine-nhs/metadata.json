@@ -1,0 +1,25 @@
+{
+  "id": "38a840c3-6a1b-491c-8d9d-624bd60ec239",
+  "slug": "section-0481-who-can-and-cannot-take-clonidine-nhs",
+  "title": "Who can and cannot take clonidine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "b73abc12359296c8140e7020815c9a56847f3d5777b27c87f50c7a36f6740201",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 481,
+    "content_hash": "1e30cd8864c13f40c532ee3d563f9f1746a7d491ba7acd49abdb73639eaa31c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

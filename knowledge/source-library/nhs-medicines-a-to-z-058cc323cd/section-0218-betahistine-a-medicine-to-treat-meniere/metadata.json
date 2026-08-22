@@ -1,0 +1,25 @@
+{
+  "id": "e5fdde9f-7677-4e65-864c-f00e42fc28a8",
+  "slug": "section-0218-betahistine-a-medicine-to-treat-meniere",
+  "title": "Betahistine: a medicine to treat Ménière",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "5797f3bf78dcb3c7e076717afedc2ee7cf02188f8b8495049cd5d768c45a40de",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 218,
+    "content_hash": "d3aa7aa02fb73326a4e38b8b1a768560be48f05b3f3e7042fa8d675d683779e0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f4ed4611-6a84-4449-9252-1755122817cc",
+  "slug": "section-0227-about-betamethasone-for-eyes-ears-and-nose-nhs",
+  "title": "About betamethasone for eyes, ears and nose - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "e6249b88bae7d848f7d2f6cdc50602695c534304a5efb6ceb23afc2041bf2744",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 227,
+    "content_hash": "c1fea911f397b6e0baacdf79f1628c7d101c58c3e8fae2f0b37bc791f9e9e727",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

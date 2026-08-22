@@ -1,0 +1,25 @@
+{
+  "id": "1a3ff80f-65fa-4a6a-aefe-d02a34286c22",
+  "slug": "section-0503-side-effects-of-clotrimazole-cream-spray-and-solution-nhs",
+  "title": "Side effects of clotrimazole cream, spray and solution - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "07f9c6651fdab2ecb4cf334fb5707a3a04aa98c7ee6d0fe6ab5cd6d7cd542559",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 503,
+    "content_hash": "d5349332d2b21ddd4561623db2a84a17230566988e0dfdd75fcbc5d9c55c674a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

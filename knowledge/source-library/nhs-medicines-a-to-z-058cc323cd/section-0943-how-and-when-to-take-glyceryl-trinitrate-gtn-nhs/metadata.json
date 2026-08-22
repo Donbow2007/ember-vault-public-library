@@ -1,0 +1,25 @@
+{
+  "id": "57bd3b1c-b53f-4773-a427-34ed4b7c0f55",
+  "slug": "section-0943-how-and-when-to-take-glyceryl-trinitrate-gtn-nhs",
+  "title": "How and when to take glyceryl trinitrate (GTN) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "8ef15f2dea2e90f9338630e377d143ac53d23f69689e5afb510ae8ec2cd3804a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 943,
+    "content_hash": "074a722247a93c9646a924ec07584af0827cb9b905add6f2cd27ad2827d66135",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "695807de-4d09-44ac-8bd9-16dc6dc1f18d",
+  "slug": "section-0671-tag-spicy",
+  "title": "Tag: spicy",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "711b9d41bbf60cd65919a60fb4572455e525e264b803b9909661dddd35ee976f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 671,
+    "content_hash": "f387af5502b7fb34b273faebe1df8bca87e59ba915b43e0a321eb3f44c88a3fb",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

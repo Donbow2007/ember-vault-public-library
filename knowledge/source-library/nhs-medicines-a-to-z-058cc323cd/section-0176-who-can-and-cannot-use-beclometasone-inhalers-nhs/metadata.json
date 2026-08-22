@@ -1,0 +1,25 @@
+{
+  "id": "a96879ad-f56d-420e-8a70-f383d23d9118",
+  "slug": "section-0176-who-can-and-cannot-use-beclometasone-inhalers-nhs",
+  "title": "Who can and cannot use beclometasone inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "dd62284d4b3a355524afea892f8fdcf2ef0b225bb80e8e6c76b2494589e6e993",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 176,
+    "content_hash": "f4b71c10ea6ff824bab50c954c5c0c2728b376323cdf3fce764c50b3a3e13fce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

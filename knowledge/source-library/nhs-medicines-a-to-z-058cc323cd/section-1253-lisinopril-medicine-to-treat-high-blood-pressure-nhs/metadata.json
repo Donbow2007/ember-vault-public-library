@@ -1,0 +1,25 @@
+{
+  "id": "86ebd081-4983-4aba-9a07-ec6eb95eba20",
+  "slug": "section-1253-lisinopril-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Lisinopril: medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "04af8378b5ddc7e6b022fe31d755b2fb36640b529df53aa9a3b9d026de66d0f5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1253,
+    "content_hash": "7440ae4bf20ca4e93d572e408b24b581bac80cba03dd58589025c2bd6b1e506b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

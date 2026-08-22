@@ -1,0 +1,25 @@
+{
+  "id": "9d3ff089-d8bb-4d9b-b653-09b3de34a776",
+  "slug": "section-0375-side-effects-of-carvedilol-nhs",
+  "title": "Side effects of carvedilol - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "6f7256cdf7a2d8ed0e9c596cf9f1076e840542ba98aa766e2ccf3eaddad023fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 375,
+    "content_hash": "477b8940e0aa5104312607effe1dbe1b2461d14f50b36f04ffccaea8853eb7df",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

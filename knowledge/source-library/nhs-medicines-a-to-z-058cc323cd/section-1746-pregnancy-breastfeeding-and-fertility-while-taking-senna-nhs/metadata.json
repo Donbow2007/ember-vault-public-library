@@ -1,0 +1,25 @@
+{
+  "id": "14c85cca-aa1d-4f6a-b082-aa73db8b40c8",
+  "slug": "section-1746-pregnancy-breastfeeding-and-fertility-while-taking-senna-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking senna - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "0e523d2458a551fd403c66497a73011efd1183cf19db2e88425ffa63b30c8156",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1746,
+    "content_hash": "661e5fe487523356236d5a43331e4dd817af6a6ad17c74163817aac58e8b8e17",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

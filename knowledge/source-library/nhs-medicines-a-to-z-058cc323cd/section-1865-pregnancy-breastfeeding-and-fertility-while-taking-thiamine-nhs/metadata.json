@@ -1,0 +1,25 @@
+{
+  "id": "9b09652e-baa4-4927-a859-22507e661461",
+  "slug": "section-1865-pregnancy-breastfeeding-and-fertility-while-taking-thiamine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking thiamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "d58409a42e6900b7ebd1e28a40f7af9dc08796aed03a06f21f925d1456d37c6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1865,
+    "content_hash": "7c44819c1b20492e1325a1e10e90b6cd3e19ca87b39f3090cd385bfd75e6e930",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

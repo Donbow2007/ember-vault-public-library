@@ -1,0 +1,25 @@
+{
+  "id": "551ec572-26c0-4b3c-ad31-d5c4098bb499",
+  "slug": "section-0234-betamethasone-for-skin-steroid-treatment-for-skin-conditions-nhs",
+  "title": "Betamethasone for skin: steroid treatment for skin conditions - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "022cd4429fa1b6b2471ee9ffa2bdb67d00a8a039648932dd137ca9c8a64ace6c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 234,
+    "content_hash": "b5b1d4e5ccc8418d8525a887a6d58d535b8154a953fc89cedf3b03c56b6114e3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "52a294f7-7e30-4da1-a139-9a6fb212384e",
+  "slug": "section-0179-common-questions-about-beclometasone-nasal-spray-nhs",
+  "title": "Common questions about beclometasone nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "4c08056df821767046808adda05df6254e3fab40126dcd5e6cfab4f06b1491c1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 179,
+    "content_hash": "ee5d90e05e914723a003057ff75adf00711c36850e8ab6c22393c7e60bff84f3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

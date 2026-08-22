@@ -1,0 +1,25 @@
+{
+  "id": "ccc31e92-a2e3-4612-bbaf-ea2ed1bd903f",
+  "slug": "section-1736-common-questions-about-salbutamol-inhalers-nhs",
+  "title": "Common questions about salbutamol inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "02bbb0f80343d93d94b7e60f1376fba33d3e732d6b9e01c065feae8cb3621c04",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1736,
+    "content_hash": "11f7ff8ed48ead5f249bdfc182568d92336584a6e7f9338f15e3cf17b088b67a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

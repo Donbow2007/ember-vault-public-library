@@ -1,0 +1,25 @@
+{
+  "id": "3454cf13-733c-4b7b-a2bd-0b6581eec686",
+  "slug": "section-0294-pregnancy-breastfeeding-and-fertility-while-using-budesonide-rectal-fo",
+  "title": "Pregnancy, breastfeeding and fertility while using budesonide rectal foam and enemas - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "b3fe41bd6f94c65c2fbabedfe6675a49b57016378f894032871fe6633839ac21",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 294,
+    "content_hash": "3eef9bed44b98bffe710f16b7f5b8487486c0a243a5fa9b9aa96aca9cf44dce5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

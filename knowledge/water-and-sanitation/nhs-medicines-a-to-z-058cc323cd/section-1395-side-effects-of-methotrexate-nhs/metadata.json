@@ -1,0 +1,25 @@
+{
+  "id": "43be44d2-b550-4036-a4ec-a7d691cf2216",
+  "slug": "section-1395-side-effects-of-methotrexate-nhs",
+  "title": "Side effects of methotrexate - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "9ac83e3003822f66ea713718dba5010bf709e6046e127ae7ed9434f2e0710c19",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1395,
+    "content_hash": "7f4c395dd0eb9c3ef968480eb518011b1c8afe0cc5ce80209e9fef8bd5af893e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

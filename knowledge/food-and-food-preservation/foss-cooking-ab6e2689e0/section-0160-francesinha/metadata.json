@@ -1,0 +1,25 @@
+{
+  "id": "49992fa9-fb48-4d38-867f-ca2a6e2417d8",
+  "slug": "section-0160-francesinha",
+  "title": "Francesinha",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "fc70f76410bafc031c0e91d79ea233313fa41dff89bfcab2660e6d2b7dd30488",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 160,
+    "content_hash": "a33c774f99439bdee7f8cb50f40a65b3df896e118640c814730524011f4e411b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8ea20d6e-d4b6-4e43-9ba0-8b14cc91a20c",
+  "slug": "section-1176-about-ketoconazole-nhs",
+  "title": "About ketoconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "aa93c11faed1d57d05d8b21dbd8216374ee21b630700045dcd117e8398199577",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1176,
+    "content_hash": "18a1df8bc9a6fee997086871fba784b542977767f9b88c42a22ad6016e78ea56",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

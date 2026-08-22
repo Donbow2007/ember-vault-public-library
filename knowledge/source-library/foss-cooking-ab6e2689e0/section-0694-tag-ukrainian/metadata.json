@@ -1,0 +1,25 @@
+{
+  "id": "123d7e61-e7e0-4f6d-8069-906400e6b61b",
+  "slug": "section-0694-tag-ukrainian",
+  "title": "Tag: ukrainian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:53Z",
+  "content_hash": "a9a4c45bd32c0812c61063311015ed80fc2ce7061cac33dbfe56759b856b393d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 694,
+    "content_hash": "7b2cae757694668f1df83ef4033f3e7bdb5a2bca7afd114b25f720f2e0d9b24e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

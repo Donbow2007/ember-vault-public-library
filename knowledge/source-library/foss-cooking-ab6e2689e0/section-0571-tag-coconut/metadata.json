@@ -1,0 +1,25 @@
+{
+  "id": "6f255d29-fdf2-4664-bcec-1c7af783ab69",
+  "slug": "section-0571-tag-coconut",
+  "title": "Tag: coconut",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "4274cf7306eb5922350a0e44d3cb68869cae09e99d262b4ebc44623a6b709fad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 571,
+    "content_hash": "81f9e1464ff0b97061e95f92d629adc7caa5b797a9dfa7989d6c1bff2de87145",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4be6059c-f74c-464c-83b3-a52b583a19ad",
+  "slug": "section-0913-side-effects-of-fybogel-nhs",
+  "title": "Side effects of Fybogel - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "5b0a8c66e1ca9227618b576266dfadffde5fecee180a02362b415cea8938458a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 913,
+    "content_hash": "d07ad49fce6a24cbb2d1c7fe33db2efedf33a4e0d2cac8b9b4beb4d4aa5fdd01",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

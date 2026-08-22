@@ -1,0 +1,25 @@
+{
+  "id": "9160b85f-172e-45e5-a5ec-8a1868dcd70e",
+  "slug": "section-1403-side-effects-of-methylphenidate-for-adults-nhs",
+  "title": "Side effects of methylphenidate for adults - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "fb9252b7462a010857e043434d0344b3c1732dd32b2b27eab14cf04ab55921b6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1403,
+    "content_hash": "733d850be65eeb70bbe66b7140192c4d5b8e02ddff69331f19bcfadf81b050e0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

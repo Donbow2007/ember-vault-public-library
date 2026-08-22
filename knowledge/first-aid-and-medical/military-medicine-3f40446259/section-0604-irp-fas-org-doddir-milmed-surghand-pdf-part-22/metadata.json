@@ -1,0 +1,25 @@
+{
+  "id": "973827d8-a226-4169-9fce-4f5fabf27af0",
+  "slug": "section-0604-irp-fas-org-doddir-milmed-surghand-pdf-part-22",
+  "title": "irp.fas.org/doddir/milmed/surghand.pdf — Part 22",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "353e89a70c231ffbb3a7f115a64f11a4a3eb4e104e022d203dcc136df56dba8f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 604,
+    "content_hash": "a83f9db4ba6b559414a0a94a5d75565586682a767e7f93eb9055b28fc668640c",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

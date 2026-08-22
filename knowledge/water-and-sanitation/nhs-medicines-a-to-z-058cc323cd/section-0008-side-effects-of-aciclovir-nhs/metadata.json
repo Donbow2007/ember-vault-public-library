@@ -1,0 +1,25 @@
+{
+  "id": "cdf947fa-dae7-4049-9995-14f8edd3493c",
+  "slug": "section-0008-side-effects-of-aciclovir-nhs",
+  "title": "Side effects of aciclovir - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "47ebac16b61c121261582337c71bd34c9906c5ecc74549760b2408c1afc083b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 8,
+    "content_hash": "0e7a02ec70227a6f4dd50d70fc2126ea6465db158ea233bb5a4bc83ca4058354",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

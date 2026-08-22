@@ -1,0 +1,25 @@
+{
+  "id": "a5bfb601-a78b-4744-b33d-7c036bd0d3ca",
+  "slug": "section-0181-pan-pizza",
+  "title": "Pan pizza",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "dc3b4d21c3f1afffa3f95cffc246b78ffcfce0ce4c982c395b3bc870e58ba0d3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 181,
+    "content_hash": "17ea7adf3dfca257df49cdba6a3f08f1ddd4e4b51f69715d448d1c13381e07c2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

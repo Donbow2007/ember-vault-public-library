@@ -1,0 +1,25 @@
+{
+  "id": "bf3453f6-8d48-42bd-93a3-e41a103d983b",
+  "slug": "section-1623-who-can-and-cannot-take-perindopril-nhs",
+  "title": "Who can and cannot take perindopril - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "5dd06b7c5c306e8775cf49b67074212ad9b5e1d17b76f33e4cf4bda304adf056",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1623,
+    "content_hash": "8e624c6ebdcb91c4e727e8ecaf91e08e70e4e3d70c65bfc46863937cc224752f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

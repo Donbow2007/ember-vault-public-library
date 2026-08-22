@@ -1,0 +1,25 @@
+{
+  "id": "d1eb32db-1830-45bb-b3d6-987f70f31bef",
+  "slug": "section-1188-side-effects-of-lactulose-nhs",
+  "title": "Side effects of lactulose - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "f2c9894d25a36ff4a5463f0705249174011dd1c530a11639b29a0d5f1801f94b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1188,
+    "content_hash": "064f8377fe9758c48d5d8d5e55b17325e094306ce301f3d661727bfa88ebc932",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

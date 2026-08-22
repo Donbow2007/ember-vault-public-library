@@ -1,0 +1,25 @@
+{
+  "id": "40c09af0-e680-4910-a650-0f2cb7832250",
+  "slug": "section-1014-hydrocortisone-buccal-tablets-steroid-medicine-for-treating-mouth-ulce",
+  "title": "Hydrocortisone buccal tablets: steroid medicine for treating mouth ulcers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "d8b1ef83ec093c225c561fe25b82587c37d52357152b4d0e8924cc84addbe762",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1014,
+    "content_hash": "05d6773d12c983f8ec6f788714222f47efeef1bc32eb93eeacf9d69d716569d6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

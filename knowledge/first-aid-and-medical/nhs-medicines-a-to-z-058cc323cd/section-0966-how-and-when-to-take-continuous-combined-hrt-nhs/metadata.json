@@ -1,0 +1,25 @@
+{
+  "id": "58aa8a92-c84c-4628-9617-5987f09fea2c",
+  "slug": "section-0966-how-and-when-to-take-continuous-combined-hrt-nhs",
+  "title": "How and when to take continuous combined HRT - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "c117796d6d619153c4462f228e6d18d31bea291e2d86db5eeedc8694f2bbde0f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 966,
+    "content_hash": "d1ebad0af98ec0351696a45d2692ad4bfcd43a34bd61d60cb68b5a2f5388289d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

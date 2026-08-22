@@ -1,0 +1,25 @@
+{
+  "id": "8aa22aa4-7a2c-4e34-b051-ae7981afcede",
+  "slug": "section-1178-how-and-when-to-use-ketoconazole-nhs",
+  "title": "How and when to use ketoconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "089677e126fbe4205842f473e49db93ce7192850cfd958efb07d24ae841aad2e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1178,
+    "content_hash": "ec94128de9f828879ca0a063e91a2eee89d56db74a36aa845825127b89773fc7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

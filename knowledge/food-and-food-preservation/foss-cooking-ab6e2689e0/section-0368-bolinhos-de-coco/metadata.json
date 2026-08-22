@@ -1,0 +1,25 @@
+{
+  "id": "e108d79a-cc0f-4862-afa0-0e871ba71e03",
+  "slug": "section-0368-bolinhos-de-coco",
+  "title": "Bolinhos de Coco",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "02d66a69796093fd3fee32965e549cdc4118f791fc034e3f920ede00a13c2d41",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 368,
+    "content_hash": "57c5b9eea53fa9bf4e3721b7d7c705a9887159175e15e975d1fe27eb479ec866",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5394505e-a6f8-45df-8423-7e640e377981",
+  "slug": "section-0463-two-ingredient-pancakes",
+  "title": "Two Ingredient Pancakes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "deb139dd5be342e291753b69bf37cd8f547dd822353bd035d690f9e918a7803d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 463,
+    "content_hash": "b4b8105ba9e57973e0eb7489bebf513319628354e69e7c561f6c8774c83f535a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

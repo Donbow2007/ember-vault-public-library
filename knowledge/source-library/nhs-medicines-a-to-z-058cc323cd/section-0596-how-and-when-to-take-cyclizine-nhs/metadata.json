@@ -1,0 +1,25 @@
+{
+  "id": "87218625-8736-4fec-aa30-3d63e4813fd8",
+  "slug": "section-0596-how-and-when-to-take-cyclizine-nhs",
+  "title": "How and when to take cyclizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "d88b99aec42e18ceffd3c97c64c97f3dad42d122d360bfaab8cdac3b8dacb99d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 596,
+    "content_hash": "679ec7025ca6d974b9c6aaa91c143ac69c0d6ffcee14deb65a0f09a2c13df2e5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

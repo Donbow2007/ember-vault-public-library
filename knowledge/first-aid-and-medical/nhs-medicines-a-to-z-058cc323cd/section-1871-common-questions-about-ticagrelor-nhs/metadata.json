@@ -1,0 +1,25 @@
+{
+  "id": "c017f772-8408-473e-ab9e-35145c240ef3",
+  "slug": "section-1871-common-questions-about-ticagrelor-nhs",
+  "title": "Common questions about ticagrelor - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "73c6fa1c2c839d592c03ddf18ee659217398fabe0eae4076f14fb410541cc7a6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1871,
+    "content_hash": "503010a360366d03a02a72292762f43dc8be330ebfce2fe9e3e59479bbd9cece",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

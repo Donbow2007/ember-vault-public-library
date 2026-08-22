@@ -1,0 +1,25 @@
+{
+  "id": "11c77e0c-b6bb-4425-8b08-645437c44df4",
+  "slug": "section-0094-antibiotics-interactions",
+  "title": "Antibiotics - Interactions",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "e651fd08f08f483458d8a08ed8ae1c51e52c061dbbf3ee36c31918876018a02c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 94,
+    "content_hash": "66c117e0e4b741421b79f6eef174a6c4902a77e1450724efda7df84989d3dffc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

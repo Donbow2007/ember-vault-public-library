@@ -1,0 +1,25 @@
+{
+  "id": "0e7857c6-24a5-4cb7-8b38-958be7650c18",
+  "slug": "section-1787-how-and-when-to-take-sodium-valproate-nhs",
+  "title": "How and when to take sodium valproate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "564338d434e461713c1374a41b88d32c4da4b0804e17fd93d2fa22a27bc51661",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1787,
+    "content_hash": "ff6f6a169cfb0cd56f78a609fa77e7032b6b08a35f7320c88a1a8a762effe68d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

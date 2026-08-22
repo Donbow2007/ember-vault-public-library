@@ -1,0 +1,25 @@
+{
+  "id": "4d7366ab-e599-4f89-932f-213c82c93319",
+  "slug": "section-0988-tibolone-an-hrt-medicine-to-treat-menopause-symptoms-nhs",
+  "title": "Tibolone: an HRT medicine to treat menopause symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "1afb68cd4ab9a59968a25be504f31a59599c9ab746a5f56bac09128de56265c1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 988,
+    "content_hash": "4d72d0b76eff566f2f60aafa6e32e4ea6dfcb8d72302aeef4be8caaa5ddf376b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

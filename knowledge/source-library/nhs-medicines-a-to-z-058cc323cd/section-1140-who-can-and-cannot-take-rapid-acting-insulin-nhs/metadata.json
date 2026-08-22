@@ -1,0 +1,25 @@
+{
+  "id": "55dd0720-9e3d-426a-85a4-d91466b16136",
+  "slug": "section-1140-who-can-and-cannot-take-rapid-acting-insulin-nhs",
+  "title": "Who can and cannot take rapid-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "9fb76ea63021292960e2a691f14f7002a2ca7e07080d598331e53e6090ee0e5a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1140,
+    "content_hash": "a44d47cf341d8d50104166c9935dee97bd3e0db1fd8e664c7ee421acc06c3450",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

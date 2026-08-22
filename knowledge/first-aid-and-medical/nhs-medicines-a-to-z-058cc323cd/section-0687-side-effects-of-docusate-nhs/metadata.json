@@ -1,0 +1,25 @@
+{
+  "id": "74896b62-838b-47b4-8ae8-4919214be2c6",
+  "slug": "section-0687-side-effects-of-docusate-nhs",
+  "title": "Side effects of docusate - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "e5ebdd491fd3f90ef8822bf5711c2e54838949f7f0fea77e5d0f175a1c169647",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 687,
+    "content_hash": "b9b667609d271a4bdd2e2869b89fd2baf5215b1c6b49eca739539c3a0d5812d0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

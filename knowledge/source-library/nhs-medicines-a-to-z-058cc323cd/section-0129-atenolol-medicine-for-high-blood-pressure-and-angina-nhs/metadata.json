@@ -1,0 +1,25 @@
+{
+  "id": "40c8f7da-fdf5-45ec-82d9-6608531f0380",
+  "slug": "section-0129-atenolol-medicine-for-high-blood-pressure-and-angina-nhs",
+  "title": "Atenolol: medicine for high blood pressure and angina - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "39462f0f463b689e045c8743d17a3e1fd6c2a990afcea9da971db7bac006a42a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 129,
+    "content_hash": "a436e362bd5eba753b9e18ac36db98bfc47223a821d937a48fc84b77bc3a79fd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

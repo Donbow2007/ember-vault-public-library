@@ -1,0 +1,25 @@
+{
+  "id": "f842cc87-90d9-4299-a168-88ac60602270",
+  "slug": "section-0591-taking-cyanocobalamin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking cyanocobalamin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "a7a2b1eaa55b1e3abfe758d6591653736e847618865b90530ed2c0dd76dae3e1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 591,
+    "content_hash": "7ee8f5e1acea30c68bc3579ba72771a0933d5eea8ff9132d596336da2d86ee96",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

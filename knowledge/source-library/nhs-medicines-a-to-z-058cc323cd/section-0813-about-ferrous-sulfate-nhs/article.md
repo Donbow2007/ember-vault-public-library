@@ -1,0 +1,7 @@
+# About ferrous sulfate - NHS
+
+About ferrous sulfate - Brand name: Ironorm Drops Ferrous sulfate (or sulphate) is a type of iron that's used as a medicine to treat and prevent iron deficiency anaemia . Iron helps the body to make healthy red blood cells, which carry oxygen around the body. Some things such as blood loss, pregnancy or too little iron in your diet can make your iron supply drop too low, leading to anaemia. Ferrous sulfate comes as tablets, or as drops that you swallow. It is available on prescription and to buy from pharmacies. Key facts Ferrous sulfate works best when you take it on an empty stomach. If you can, take it 30 minutes before eating, or 2 hours after eating. But if it upsets your stomach, you can take it with or after food. Most people begin to feel better after taking ferrous sulfate for 3 to 4 weeks, but it may take up to 2 to 4 months to work fully. Common side effects include feeling or being sick, constipation and diarrhoea. You may need to leave a gap between taking ferrous sulfate and your other medicines. Check with your doctor or pharmacist. Leave a 2 hour gap before having tea or coffee, dairy products or eggs. This is because they can stop your body absorbing iron. Your doctor or pharmacist may recommend taking ferrous sulfate with orange juice or a vitamin C supplement, to help your body absorb the iron.
+Page last reviewed: 9 February 2023
+
+Next review due: 9 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

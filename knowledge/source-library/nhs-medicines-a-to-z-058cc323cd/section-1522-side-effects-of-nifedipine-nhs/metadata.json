@@ -1,0 +1,25 @@
+{
+  "id": "3580b5ac-6109-4972-af11-a00a1aa4f346",
+  "slug": "section-1522-side-effects-of-nifedipine-nhs",
+  "title": "Side effects of nifedipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "2e04dbc4c9e24712edba14e06a5ea3013ea24689cca941220139d1c5965a4e14",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1522,
+    "content_hash": "ecdac952c9651183e674a6182b71d2bc43d8a5cade8b0582271aea04a80bdc22",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "423ac1da-b673-4913-98f5-1df82e00c87b",
+  "slug": "section-1487-common-questions-about-morphine-nhs",
+  "title": "Common questions about morphine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "ca3cfb1a2f88a64ede555921e0e9eee7606e433c0bd3d1227a78b62168c05442",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1487,
+    "content_hash": "bb907c637994998dd7754a739d9db0ba5da2501569892fcffb080a82c4e3b7d7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

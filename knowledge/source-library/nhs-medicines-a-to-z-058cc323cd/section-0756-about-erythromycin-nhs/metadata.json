@@ -1,0 +1,25 @@
+{
+  "id": "5a6bee5e-2261-4448-b54a-1eb8932ec327",
+  "slug": "section-0756-about-erythromycin-nhs",
+  "title": "About erythromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "b545dfdffd926b21bbc6a36c04327379b209140c5e4642cc40edc8f06499890c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 756,
+    "content_hash": "4ff52ba49bc5056cb4595b1b1c93c71f22403f506fceb6a3ddea2eb61a6ed3d9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

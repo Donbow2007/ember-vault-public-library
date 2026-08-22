@@ -1,0 +1,25 @@
+{
+  "id": "89e8e7dc-29a1-469d-9d86-1f540b8a4b2b",
+  "slug": "section-0514-co-beneldopa-a-medicine-for-symptoms-of-parkinson",
+  "title": "Co-beneldopa – a medicine for symptoms of Parkinson",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "2f7a1070e5c8968754133b0841942f89663516889eb06ab8f9371c55361dada3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 514,
+    "content_hash": "8f2d6a27a0e94ab4a016a20d0bf55b2784861a92b53b7acf60407e125a472c1d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

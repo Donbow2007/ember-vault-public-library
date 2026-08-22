@@ -1,0 +1,25 @@
+{
+  "id": "5228a837-1620-4bca-a9c8-9acb4dac89a4",
+  "slug": "section-0220-grilled-mackerel-with-miso-soup-and-squash",
+  "title": "Grilled Mackerel with Miso Soup and Squash",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "724b490d703fa799eae444c91098c97c8748df0010ed3cf135a31efbd836e6e5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 220,
+    "content_hash": "264e807e0844960f516892ede7e3b5a79723a9b8167a1041e317fa29179f1a80",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f95fa439-d52d-4084-950c-e3418a870a02",
+  "slug": "section-0453-how-and-when-to-use-clobetasol-nhs",
+  "title": "How and when to use clobetasol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "9ed0a823370f3e84747fe835e59b70384557b4828d847bd7053e88c4687f3381",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 453,
+    "content_hash": "5c683a704456eddad55ab869fac3a6a5723085bfaab1466b9b9a45c7038a608a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b34ce632-84f9-42c4-b32a-e60e20ea95e6",
+  "slug": "section-1165-taking-isosorbide-mononitrate-and-isosorbide-dinitrate-with-other-medi",
+  "title": "Taking isosorbide mononitrate and isosorbide dinitrate with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "1c142973d567bfadd0ea82cd4db7898970f11564a9b6c6aefbd22500da4e5f68",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1165,
+    "content_hash": "51216dbb2199b64e0a0471b8ba90f63a1b06a978cc5aaab0a4bbeb2650b6b899",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

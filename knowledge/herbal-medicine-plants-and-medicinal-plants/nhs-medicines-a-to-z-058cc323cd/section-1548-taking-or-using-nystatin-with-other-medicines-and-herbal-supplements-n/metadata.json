@@ -1,0 +1,25 @@
+{
+  "id": "bba7c62b-9930-4378-a7b7-22186a5f9563",
+  "slug": "section-1548-taking-or-using-nystatin-with-other-medicines-and-herbal-supplements-n",
+  "title": "Taking or using nystatin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "9035d653f4ec045e0cb8796c3cc7400425f934ae8ce1d692ed32951f02803fe0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1548,
+    "content_hash": "5de637b9a44b9a77a1ae2cf5bba894eff075da6831df5d93d5e07573eedaa399",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

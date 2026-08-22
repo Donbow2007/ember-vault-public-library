@@ -1,0 +1,25 @@
+{
+  "id": "3fe6469e-b35a-4694-9b3d-45de8d3f4b27",
+  "slug": "section-1044-pregnancy-breastfeeding-and-fertility-while-taking-hydrocortisone-tabl",
+  "title": "Pregnancy, breastfeeding and fertility while taking hydrocortisone tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "c29c6b369d02e287a19eb0c02bbec1b0cbdef35483489977274dff1efbbe5030",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1044,
+    "content_hash": "9c13ef357c850a0cdddc5eec959653f3836837d98dde6fe03e3e71eb59b76664",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

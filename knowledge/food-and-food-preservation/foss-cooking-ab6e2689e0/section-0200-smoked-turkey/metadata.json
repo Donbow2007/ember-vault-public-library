@@ -1,0 +1,25 @@
+{
+  "id": "ddd02fef-8d08-40e4-abdb-52f4ef9bd398",
+  "slug": "section-0200-smoked-turkey",
+  "title": "Smoked Turkey",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "293be3c81c87b6e19f73830b8e561d4cf4017a2f0a9bce3097800ab7dac2e5f9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 200,
+    "content_hash": "3017fa761ae073e59f6562d2c0d59cc906a82d2749930ae804bdf155c4c2843f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

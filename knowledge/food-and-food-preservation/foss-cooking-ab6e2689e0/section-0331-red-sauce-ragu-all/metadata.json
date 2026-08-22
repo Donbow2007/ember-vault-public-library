@@ -1,0 +1,25 @@
+{
+  "id": "e87dba29-5159-4129-ae88-a1a06417b450",
+  "slug": "section-0331-red-sauce-ragu-all",
+  "title": "Red Sauce (Ragu all",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "dc4f3812eae65fddb4884f591455e4f46797ce05cdf9a54fb2aeaa01e6a0c5bd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 331,
+    "content_hash": "12ac108156c420e10917f9daf833c287876a8e0861bb28a827a30ec49e000383",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

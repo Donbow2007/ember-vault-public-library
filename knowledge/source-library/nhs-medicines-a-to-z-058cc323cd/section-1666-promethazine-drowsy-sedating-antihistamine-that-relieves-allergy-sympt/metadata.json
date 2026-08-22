@@ -1,0 +1,25 @@
+{
+  "id": "b35a6fd5-f22c-4ded-b7ee-382fec1bb5dc",
+  "slug": "section-1666-promethazine-drowsy-sedating-antihistamine-that-relieves-allergy-sympt",
+  "title": "Promethazine: drowsy (sedating) antihistamine that relieves allergy symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "d266e6f89739a4e60981c14139c646ed78be780fb72e86925c2f84e6929135ae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1666,
+    "content_hash": "2e9fa43b771a3c12ab12e009b2fb70a4698f7815afda519ebb62fbb5009cd1ae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

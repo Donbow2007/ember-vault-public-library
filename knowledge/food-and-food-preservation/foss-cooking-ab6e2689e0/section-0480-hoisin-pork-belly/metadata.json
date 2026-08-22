@@ -1,0 +1,25 @@
+{
+  "id": "6ef3f69a-30fa-475d-a2cd-f50805df14ec",
+  "slug": "section-0480-hoisin-pork-belly",
+  "title": "Hoisin Pork Belly",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "bf4ab98112917a02045c11094d72eacecf73f860afe87b14c8a8e4e23621e37f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 480,
+    "content_hash": "66908f0c12b33402e96faabd2c9a36c3236e06e62e6227ead44e9ac4a9fe67ee",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

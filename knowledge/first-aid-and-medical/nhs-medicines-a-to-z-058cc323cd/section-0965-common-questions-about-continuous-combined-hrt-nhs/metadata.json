@@ -1,0 +1,25 @@
+{
+  "id": "374883ae-2886-4ddc-a9fe-d7e7326c9d91",
+  "slug": "section-0965-common-questions-about-continuous-combined-hrt-nhs",
+  "title": "Common questions about continuous combined HRT - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "1cfdcf5aff0b558374521ebc99ee46fd58278c3a8bb8020a5c24dd310001ff6d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 965,
+    "content_hash": "ffaefb157b27f181136ab2b78ab7f2a36762e164873ae0c18371f3390d6ee750",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

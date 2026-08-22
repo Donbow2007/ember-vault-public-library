@@ -1,0 +1,25 @@
+{
+  "id": "3a128f8d-149a-467f-96e4-3e29afc834c0",
+  "slug": "section-0246-pregnancy-breastfeeding-and-fertility-while-using-bimatoprost-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using bimatoprost - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "39dd48e7d01416fa020b56568459ff3642bc6ee44954fc4679f883158d0d677c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 246,
+    "content_hash": "0c728ae4d44dfe21e0d1a946c767d388b34331a1b5e178828be7ab470cbf0548",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

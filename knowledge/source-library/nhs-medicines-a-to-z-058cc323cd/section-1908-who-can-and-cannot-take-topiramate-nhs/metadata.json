@@ -1,0 +1,25 @@
+{
+  "id": "7d53d142-8002-4ef8-8cc8-f125dd490e6e",
+  "slug": "section-1908-who-can-and-cannot-take-topiramate-nhs",
+  "title": "Who can and cannot take topiramate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "efd4a62bb9e1cb27c2fd15c2641f0a9ac5af459ebe30ccad4e5ae43e2918131f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1908,
+    "content_hash": "07a728d747e9a88aee35e745b6e497701546151469527194ce2c18668e8792f7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

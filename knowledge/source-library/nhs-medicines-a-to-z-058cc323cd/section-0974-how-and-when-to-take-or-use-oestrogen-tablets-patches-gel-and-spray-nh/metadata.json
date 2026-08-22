@@ -1,0 +1,25 @@
+{
+  "id": "6cd6f2c6-66db-4286-84b2-25a4880bda25",
+  "slug": "section-0974-how-and-when-to-take-or-use-oestrogen-tablets-patches-gel-and-spray-nh",
+  "title": "How and when to take or use oestrogen tablets, patches, gel and spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "c26277962d510348f8972eba8a4888014438e31d43d67429b605082b4a72d7f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 974,
+    "content_hash": "605688f68ce1d03cc26e4c10d1b9ecdd5346a17d9b5538f112dc04164f5203f9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

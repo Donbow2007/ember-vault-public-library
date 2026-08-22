@@ -1,0 +1,25 @@
+{
+  "id": "807fb6e3-6792-4c7c-be74-9138748e6642",
+  "slug": "section-1313-pregnancy-breastfeeding-and-fertility-while-taking-lymecycline-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking lymecycline - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "e2ddafd31f2c7f9ab6c787fd68a5e3d261097eef79eaa2a67e87aee4e2eaf705",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1313,
+    "content_hash": "155154421a01f8ec27b8dc4d3d5243dc4e9e7ebe4ae0a11752719da1febc42ec",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "42002fa3-afbc-4555-859c-d9f5139f750b",
+  "slug": "section-0415-aussie-snags-sausage-sizzle",
+  "title": "Aussie Snags (sausage sizzle)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "95de321d2c152842aebec588adef597e08d84f7c46aa96058299303e608725ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 415,
+    "content_hash": "bd786f7b6e5c951e6d9ba6ad34ef9bd112050fd12e1194de3079290c4bf8bc0a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

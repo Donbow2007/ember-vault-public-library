@@ -1,0 +1,25 @@
+{
+  "id": "1b1f7e43-7221-4729-a537-a1b96847d8b1",
+  "slug": "section-0847-how-and-when-to-take-fluconazole-nhs",
+  "title": "How and when to take fluconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "531cd3ed1208cb454c4d243e72fa41a00e756eafb16d0e94b186fd07ac481ed5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 847,
+    "content_hash": "24f3362494cb92c542a41b067dfe4cc028287f096e4e6cca16da6deb9f98fd79",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

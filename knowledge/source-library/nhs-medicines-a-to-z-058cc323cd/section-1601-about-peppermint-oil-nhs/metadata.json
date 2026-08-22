@@ -1,0 +1,25 @@
+{
+  "id": "2f162246-912e-43a7-a19c-2f9c433ee48c",
+  "slug": "section-1601-about-peppermint-oil-nhs",
+  "title": "About peppermint oil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "8fd6046d81f5dc382ec6d9033e1d2a2c25b1289063704cc21e9970886cca42d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1601,
+    "content_hash": "eac8ec9b2be8bf1f2a0c2f3590e8910167e1163e96b5b24ab1e26c33ce3104e6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

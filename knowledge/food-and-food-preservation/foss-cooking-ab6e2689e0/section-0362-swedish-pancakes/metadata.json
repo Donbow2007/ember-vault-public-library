@@ -1,0 +1,25 @@
+{
+  "id": "cc74e295-dc1d-464d-9c01-9b1974bfb48c",
+  "slug": "section-0362-swedish-pancakes",
+  "title": "Swedish Pancakes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "df1d547f9bdf1088203c5c3058842b1b8d5dde67f017e36f9291e2d1e5ef7794",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 362,
+    "content_hash": "8ad0cb7701a47a0b8394d8aaaff267c439749992b21f44e64cfa3a5ab01c70b8",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

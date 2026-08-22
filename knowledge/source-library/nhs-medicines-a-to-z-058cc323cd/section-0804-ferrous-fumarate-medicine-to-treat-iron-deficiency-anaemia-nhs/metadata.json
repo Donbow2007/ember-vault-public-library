@@ -1,0 +1,25 @@
+{
+  "id": "b4ea2f98-b8c5-4345-b262-7b729bcea995",
+  "slug": "section-0804-ferrous-fumarate-medicine-to-treat-iron-deficiency-anaemia-nhs",
+  "title": "Ferrous fumarate: medicine to treat iron deficiency anaemia - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "50264b79c93ae169803468c4c0fe08fa8e8d8dd8b24b31df65840b6fcc143ba1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 804,
+    "content_hash": "814d83750de2a7bf052b63c7c3ea0b63b315e9c24492b6bc03f1ebd93d4ecd39",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

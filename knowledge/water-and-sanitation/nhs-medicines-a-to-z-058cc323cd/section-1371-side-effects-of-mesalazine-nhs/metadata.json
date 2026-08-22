@@ -1,0 +1,25 @@
+{
+  "id": "49e99f5c-b7bf-4427-9ab6-7f1a668e6870",
+  "slug": "section-1371-side-effects-of-mesalazine-nhs",
+  "title": "Side effects of mesalazine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "17532a6c1934fca6ee5d96822f063abf01dbec8481d6be2dc4a565d5e31023f9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1371,
+    "content_hash": "f4ee5b54b8c4274c17eee1fa411889e796a3dd3bf639c7ec8d15168c16efea96",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

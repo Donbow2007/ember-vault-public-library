@@ -1,0 +1,25 @@
+{
+  "id": "536f3527-8ae4-4757-ada6-9309cd68b879",
+  "slug": "section-0654-pregnancy-breastfeeding-and-fertility-while-taking-dihydrocodeine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking dihydrocodeine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "05399b70b38e227ddbbbd294b568ae12b5cdb33ceb53c3e91d0d53a09cbe4e04",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 654,
+    "content_hash": "1a3c0bf715af1d07cc29a75c4bff925cbde35e7939c78278e7f6cb9331abcdee",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

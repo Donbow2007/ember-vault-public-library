@@ -1,0 +1,25 @@
+{
+  "id": "6a7c58b3-f40f-49b4-b50a-13916349cb8d",
+  "slug": "section-0753-irp-fas-org-doddir-milmed-warpsychiatry-pdf-part-146",
+  "title": "irp.fas.org/doddir/milmed/warpsychiatry.pdf — Part 146",
+  "category": "wilderness-survival",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:47Z",
+  "content_hash": "4d470b2b4e545bce2be301413bcd5a96f653b4080de3a1ab82f1df720a4af3ae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 753,
+    "content_hash": "abe2107ace3fb19d550c1d2da43a631b962b4c6590aaabb126312b87c4e3af9f",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

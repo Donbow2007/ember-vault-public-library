@@ -1,0 +1,25 @@
+{
+  "id": "fc6cc74c-ae5b-4600-80f7-dd09b6cbc58a",
+  "slug": "section-0077-luke-chadwick",
+  "title": "Luke Chadwick",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "01ebb3afb13c27b5478ca84aef2e0175f1397758777f3420a2f6b44a577ad77c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 77,
+    "content_hash": "81d101a639d2cd94bb0cd40a2022dc4c54918ce6254ed95387d7e376f7c8eb34",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

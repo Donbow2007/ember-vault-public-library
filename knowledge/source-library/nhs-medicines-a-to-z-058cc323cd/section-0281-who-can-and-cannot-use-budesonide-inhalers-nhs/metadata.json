@@ -1,0 +1,25 @@
+{
+  "id": "31268d3a-b370-4afe-942c-79d8d50ccb2a",
+  "slug": "section-0281-who-can-and-cannot-use-budesonide-inhalers-nhs",
+  "title": "Who can and cannot use budesonide inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "5a011d71cce112d45a05ce64ac915a6958bfcde5c6e1a17ea0c7adc91cff6753",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 281,
+    "content_hash": "193e5f4642b9165a6c07758505e8143639791ddf82feed7d757bde23149e86c5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

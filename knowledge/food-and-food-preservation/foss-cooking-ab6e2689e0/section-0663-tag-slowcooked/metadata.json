@@ -1,0 +1,25 @@
+{
+  "id": "aa47841b-adb4-4f8b-ac2b-d3aa96f34515",
+  "slug": "section-0663-tag-slowcooked",
+  "title": "Tag: slowcooked",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e3217e179651216ec31a4ee5c34bd622a7834b76be9a95868f9f401a010c325d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 663,
+    "content_hash": "cf1b77e430bb7130f82772ea80a968af8418137da38d8002494ea624c6803f75",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

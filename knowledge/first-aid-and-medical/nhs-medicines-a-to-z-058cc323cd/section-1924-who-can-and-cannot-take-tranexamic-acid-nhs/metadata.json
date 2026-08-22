@@ -1,0 +1,25 @@
+{
+  "id": "2186c15a-e3fe-425e-8c93-10121baaf5c4",
+  "slug": "section-1924-who-can-and-cannot-take-tranexamic-acid-nhs",
+  "title": "Who can and cannot take tranexamic acid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "ff93ff120f31311661370fcb0c9e07abe6da0eab85bf4a9acf82b6bbb678d503",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1924,
+    "content_hash": "ba30d313629f8850bf7b68dfc0fe86387fd4e49accfef4aac9dafec0a56e34a8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

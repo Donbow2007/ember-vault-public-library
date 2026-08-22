@@ -1,0 +1,25 @@
+{
+  "id": "7c852841-effb-453c-9cab-2033b7b114aa",
+  "slug": "section-0348-pasta-store-bought",
+  "title": "Pasta (store bought)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "a44ffb8efabdd3848d705139ed5ac3f81fd1d43a8508af42011e1d7dd598cc63",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 348,
+    "content_hash": "43e9374ddd16705ffea67efd2f6834a214b957c788bce9fa3b8239d29fda624d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

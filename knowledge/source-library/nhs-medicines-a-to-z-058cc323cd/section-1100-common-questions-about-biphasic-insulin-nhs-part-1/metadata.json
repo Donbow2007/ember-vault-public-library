@@ -1,0 +1,25 @@
+{
+  "id": "9edaec44-c848-43ce-8111-b1214198c8b7",
+  "slug": "section-1100-common-questions-about-biphasic-insulin-nhs-part-1",
+  "title": "Common questions about biphasic insulin - NHS — Part 1",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "1e888502827593d9176bc5967c8c3bf553c5f245a409d26adc30db4bc328de26",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1100,
+    "content_hash": "4bd5e78c9d33f06613b885c993f44eb04868a15ce566a7023012cb95047f3607",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

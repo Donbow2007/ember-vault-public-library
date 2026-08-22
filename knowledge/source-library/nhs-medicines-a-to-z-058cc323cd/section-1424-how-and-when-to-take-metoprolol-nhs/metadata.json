@@ -1,0 +1,25 @@
+{
+  "id": "61c6c49d-574a-4e7a-8856-a2951103a9b6",
+  "slug": "section-1424-how-and-when-to-take-metoprolol-nhs",
+  "title": "How and when to take metoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "8eb5d848667fd632212ac1e7e847d35fc7b66dc6be92ec0be76459af7e54ab15",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1424,
+    "content_hash": "bc82f75f586a93beb1a7ae7917b19e29779d73065f10e82920ecb9e17d8b690b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

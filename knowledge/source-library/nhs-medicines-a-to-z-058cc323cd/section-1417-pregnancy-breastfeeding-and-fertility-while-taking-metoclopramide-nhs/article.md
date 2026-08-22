@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking metoclopramide - NHS
+
+Pregnancy, breastfeeding and fertility while taking metoclopramide - Brand name: Maxolon Metoclopramide and pregnancy Metoclopramide can be taken in pregnancy as there is no evidence that it will harm your baby. However, there are other anti-sickness medicines that have fewer side effects and may be more suitable. Talk to your doctor or pharmacist about which medicine would be best for you. Metoclopramide and breastfeeding If your doctor or health visitor says your baby is healthy, you can take metoclopramide while breastfeeding but it's best to only use it for a short time. Other medicines may be more suitable while you're breastfeeding but your doctor will help you decide. Metoclopramide passes into breast milk in small amounts. It rarely affects babies, but it can occasionally cause mild side effects such as trapped wind. Metoclopramide can also be used to help increase your breast milk supply. Although it is not made for this purpose, it may be offered on specialist advice. If you notice your baby is not feeding as well as usual, seems unusually sleepy, has trapped wind or diarrhoea, or you have any other concerns about your baby, talk to a midwife, health visitor, pharmacist, or doctor as soon as possible. Metoclopramide and fertility There's no evidence that metoclopramide affects fertility. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about treating morning sickness on the Bumps (Best Use of Medicines in Pregnancy) website .
+Page last reviewed: 9 March 2023
+
+Next review due: 9 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "7af8538e-2cbe-401a-8cab-23a752ef6d08",
+  "slug": "section-1951-valsartan-medicine-to-treat-high-blood-pressure-and-heart-failure-nhs",
+  "title": "Valsartan: medicine to treat high blood pressure and heart failure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "ac357488f9309e875aea51f0f64378c4cdd2ca052e66f9fb371c5d9f2cf25d6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1951,
+    "content_hash": "87d7c4983112add0a66ccf50af71a35a88f121ccc4e093d154db48b0e8a41ab8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

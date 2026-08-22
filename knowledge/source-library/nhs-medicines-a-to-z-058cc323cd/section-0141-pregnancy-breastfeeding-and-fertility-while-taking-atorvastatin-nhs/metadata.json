@@ -1,0 +1,25 @@
+{
+  "id": "03c933e8-5976-4cb9-9d8e-0b0c943c3eaa",
+  "slug": "section-0141-pregnancy-breastfeeding-and-fertility-while-taking-atorvastatin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking atorvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "003854c2acccb032951ca1cd4721a331924327f001943ca3741bfc3e4925cb9c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 141,
+    "content_hash": "347cba9c547563233db2523d8de6414247ed76693b016803802317f2ffd9cb64",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

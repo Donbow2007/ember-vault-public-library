@@ -1,0 +1,25 @@
+{
+  "id": "3e4d0cc9-cd01-4946-9c4a-75e603f8f328",
+  "slug": "section-1232-side-effects-of-levetiracetam-nhs",
+  "title": "Side effects of levetiracetam - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "e711e4d8e189573249a817989dd78f4521664e5b41786a40ecf4ffd02add4ac1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1232,
+    "content_hash": "9e07a4265fbbd8ccde05a4f4a0082bedcd8d9143ab7ed3c8377a306ed382c12a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b8da6d40-4804-49a3-857f-9722742cc218",
+  "slug": "section-0372-italian-mulled-wine",
+  "title": "Italian Mulled Wine",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "ac555307530ea73f37b8c3cfa5b54213dc27eb77e173141dcb708e9526139876",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 372,
+    "content_hash": "197d8bdb68b5aa33900c7cf7440bb84cd20cef7f0182c5b10009f884231e70be",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

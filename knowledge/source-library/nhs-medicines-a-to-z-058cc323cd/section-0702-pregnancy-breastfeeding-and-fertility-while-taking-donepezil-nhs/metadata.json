@@ -1,0 +1,25 @@
+{
+  "id": "51af1190-4f6c-41a7-8773-7c062b06db76",
+  "slug": "section-0702-pregnancy-breastfeeding-and-fertility-while-taking-donepezil-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking donepezil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "1a1885aebb21b54423554c245df6b2f9599cc17ac74570ddfc240f2d65615491",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 702,
+    "content_hash": "db6c81ffbd5538cade8e1a080410ac7a67317c75ac67c074f2a641af361940c8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

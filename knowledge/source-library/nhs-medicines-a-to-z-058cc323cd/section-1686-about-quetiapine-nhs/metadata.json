@@ -1,0 +1,25 @@
+{
+  "id": "cd4549b3-5e77-4dd2-99da-bff94896e808",
+  "slug": "section-1686-about-quetiapine-nhs",
+  "title": "About quetiapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "578d5bddf6be3472b112c3474d01d3b86605337a3a3dc63b8193ea482c15548f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1686,
+    "content_hash": "cc49d7df87219e711df23ff9f796d6df466f462fa1cf2b4c69b120ab18c48dd6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

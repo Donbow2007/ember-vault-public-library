@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking clonazepam - NHS
+
+Pregnancy, breastfeeding and fertility while taking clonazepam
+
+Clonazepam and pregnancy Clonazepam can be taken during pregnancy, particularly if you need it to control your epilepsy. Speak to your doctor if you take clonazepam and are pregnant or are planning to get pregnant. They'll help you weigh up the risks and benefits of taking clonazepam and make sure that treatment is right for you. Taking clonazepam in late pregnancy might affect your baby, making them more drowsy and sleepy. The baby will be monitored for these effects after they're born. Clonazepam and breastfeeding If your doctor, health visitor or midwife says your baby is healthy, you can usually take clonazepam if you are breastfeeding. There is not much information about taking clonazepam while breastfeeding, but it is thought that it passes into breast milk in very small amounts. It does not usually cause side effects in breastfed babies. If you take clonazepam for a long time, in high doses, or with other medicines, your baby may be more likely to get side effects, although this is still rare. This can make your baby drowsy or tired and can make it difficult for them to feed. Talk to your health visitor, midwife, doctor or pharmacist as soon as possible if you have any concerns, or if your baby: is not feeding as well as usual seems unusually sleepy has unusual breathing It's important not to share a bed with your baby while you're taking clonazepam. Clonazepam and fertility There's no evidence that clonazepam will affect fertility in either men or women. If you're trying to get pregnant, or you're having problems getting pregnant while on clonazepam, speak to a doctor. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 27 January 2023
+
+Next review due: 27 January 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "a908966a-445f-4f3e-a29f-ee4b1d91e96c",
+  "slug": "section-1707-side-effects-of-risperidone-nhs",
+  "title": "Side effects of risperidone - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "f6c170e69b93931fb8b953f0935f0e4a079486ad4fa4c984fb6ba64fc365b731",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1707,
+    "content_hash": "877bd3633472f31b14f0d89331f57858d53413585f0deeb94bebeba0d0bf1a46",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

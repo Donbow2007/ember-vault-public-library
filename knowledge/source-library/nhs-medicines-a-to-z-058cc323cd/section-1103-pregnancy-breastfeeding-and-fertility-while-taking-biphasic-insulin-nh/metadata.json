@@ -1,0 +1,25 @@
+{
+  "id": "315e3bac-c59d-42f5-af73-1e7120d1b62f",
+  "slug": "section-1103-pregnancy-breastfeeding-and-fertility-while-taking-biphasic-insulin-nh",
+  "title": "Pregnancy, breastfeeding and fertility while taking biphasic insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "242ec9debe2bd0b4aaa80d1da5b7742ab92b875d0713addd76d85866a2498d3e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1103,
+    "content_hash": "5b931f3f3cba6f0f36f385f0a1308e0ed86db9bdbdb54a89a2675dda9194cddf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

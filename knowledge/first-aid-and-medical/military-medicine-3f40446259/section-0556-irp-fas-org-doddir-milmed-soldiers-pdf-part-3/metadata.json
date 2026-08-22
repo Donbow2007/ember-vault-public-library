@@ -1,0 +1,25 @@
+{
+  "id": "00311d77-6137-4ae9-8594-91b314a47479",
+  "slug": "section-0556-irp-fas-org-doddir-milmed-soldiers-pdf-part-3",
+  "title": "irp.fas.org/doddir/milmed/soldiers.pdf — Part 3",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "4111cde1edf54c97b1a8341c45205039ad467fa586a3cafa99e7d4d8ceb4cf7a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 556,
+    "content_hash": "8cae413d5ce201df63a1730b05b19a2fb5ce1718631627f0b1fd73c1c9257590",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

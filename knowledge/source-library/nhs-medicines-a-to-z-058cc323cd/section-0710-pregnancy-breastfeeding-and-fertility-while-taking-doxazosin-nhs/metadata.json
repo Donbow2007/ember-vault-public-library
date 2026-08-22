@@ -1,0 +1,25 @@
+{
+  "id": "d6e5cd23-e2ae-4725-acef-25c16093809a",
+  "slug": "section-0710-pregnancy-breastfeeding-and-fertility-while-taking-doxazosin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking doxazosin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "3871c98885b32e061d30c4c08a76ca59d1c08e947bf0a02db5104e1dda96e6b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 710,
+    "content_hash": "c392e54933b84b250f9b52d836ca0404ff8b4d4fb6adb7f6eabaed539a8861a7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

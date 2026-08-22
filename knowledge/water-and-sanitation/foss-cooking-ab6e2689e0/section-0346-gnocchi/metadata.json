@@ -1,0 +1,25 @@
+{
+  "id": "0ec9eba7-497c-4bde-8a83-e15b487f7904",
+  "slug": "section-0346-gnocchi",
+  "title": "Gnocchi",
+  "category": "water-and-sanitation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "d7176e48a2e2dd467ac558de702d1f538739cbd302a66fbfc10aeec45e4c5cf9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 346,
+    "content_hash": "46a18320f576a390a7a8e2176d1d156480179d586b2ed6ad2fcd219d805192c9",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

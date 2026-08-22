@@ -1,0 +1,25 @@
+{
+  "id": "206ba980-8466-47ee-ab81-055c3aa99db1",
+  "slug": "section-1771-how-and-when-to-take-simvastatin-nhs",
+  "title": "How and when to take simvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "957ac6d8fe871ec887b5689e079ba96b3f8832052d386c595c9f0c28dab137a1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1771,
+    "content_hash": "a82c44759c2aa9cdb15f63b8d7be4610a8376b9cf37ea2050af2eedde9a62cdb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

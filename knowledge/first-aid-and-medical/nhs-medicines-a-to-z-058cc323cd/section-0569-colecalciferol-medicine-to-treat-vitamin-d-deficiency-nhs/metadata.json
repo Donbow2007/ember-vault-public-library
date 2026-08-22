@@ -1,0 +1,25 @@
+{
+  "id": "61fb1b18-7974-436e-a6ea-953ec1a4b8b7",
+  "slug": "section-0569-colecalciferol-medicine-to-treat-vitamin-d-deficiency-nhs",
+  "title": "Colecalciferol: medicine to treat vitamin D deficiency - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "0d3b0de2b0093473db0a6956857c50de632b5da7dac62a2540e6ed39f0df7457",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 569,
+    "content_hash": "f652ea7186b43f19d789c07f422babc812fe8d9c394a4d69fd3e94862760ff32",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

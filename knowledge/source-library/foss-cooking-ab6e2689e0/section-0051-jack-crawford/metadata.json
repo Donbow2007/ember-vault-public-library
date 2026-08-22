@@ -1,0 +1,25 @@
+{
+  "id": "f31f1c18-d241-4b89-8d7c-8eb17823be37",
+  "slug": "section-0051-jack-crawford",
+  "title": "Jack Crawford",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "63880962712cce24d49308a1f9f345c6fbcc03663669599c73749c07bc20c155",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 51,
+    "content_hash": "2259947fd12d68783c15ea0ea104984941524bb832460341f8ee5895ae88747f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

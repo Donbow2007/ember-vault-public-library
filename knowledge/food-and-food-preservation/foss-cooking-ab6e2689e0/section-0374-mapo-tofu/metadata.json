@@ -1,0 +1,25 @@
+{
+  "id": "42e615c6-abab-4692-8415-ac25feadfd5f",
+  "slug": "section-0374-mapo-tofu",
+  "title": "Mapo Tofu (麻婆豆腐)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "4b90d9ed435ad140ec35915dd710c717717c73df9c766636ebc895f1b3344c09",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 374,
+    "content_hash": "832b94811bfb252aac3894dc44ce0971c4c4fa23d99cb96680ecc5da85f4d340",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

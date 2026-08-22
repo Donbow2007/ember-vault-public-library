@@ -1,0 +1,25 @@
+{
+  "id": "38df2eb1-936b-4dfe-8924-39fad26e4c31",
+  "slug": "section-1779-how-and-when-to-take-sitagliptin-nhs",
+  "title": "How and when to take sitagliptin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "d63f016a1ffaaca3a51071c724b10f9d7cc520aa4233cd844710465532a9e485",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1779,
+    "content_hash": "2621e1e4670cb540b3a46ea74dba9d613edf636f15122724aa6cfe3283f34748",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f110d9dd-9618-448c-b3e6-9c9716182c50",
+  "slug": "section-1099-about-biphasic-insulin-nhs",
+  "title": "About biphasic insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "20b7fcfccafdc611d250bfdd0772e007f54fbe2a556c5d0ef9edd269a521e923",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1099,
+    "content_hash": "baa2c38efb075286b56d19a4bc54a89bc0d45e8557af7c1774d91bc52fd3480d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

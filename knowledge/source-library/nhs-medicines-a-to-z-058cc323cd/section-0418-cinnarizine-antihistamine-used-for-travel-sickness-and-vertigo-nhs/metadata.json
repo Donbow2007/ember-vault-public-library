@@ -1,0 +1,25 @@
+{
+  "id": "577e8ca8-f1ea-49e2-9a6e-3c44f3820c73",
+  "slug": "section-0418-cinnarizine-antihistamine-used-for-travel-sickness-and-vertigo-nhs",
+  "title": "Cinnarizine: antihistamine used for travel sickness and vertigo - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "f0714784627fb69f807d38cb88d1c605c870a47d2adf0d98952a6c4ec1acf981",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 418,
+    "content_hash": "55ce6c971b5210fa2aea98c7d78ca936c71f4ab03956a906251d73821cdb61d8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

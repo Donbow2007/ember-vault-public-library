@@ -1,0 +1,25 @@
+{
+  "id": "c22ce134-438c-4b97-b67c-b71f664458b7",
+  "slug": "section-0561-colchicine-medicine-used-to-treat-gout-nhs",
+  "title": "Colchicine: medicine used to treat gout - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "6f6c533e1964c6d15dee2d52b44c13c6174afd6586e46d7303285c20a9ed6d13",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 561,
+    "content_hash": "93e49a8aba711b27bae3718729c2cc56bc2ada19af7208bc0cb78306e12b5a20",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

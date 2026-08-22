@@ -1,0 +1,25 @@
+{
+  "id": "f1ac4c15-2311-4bc5-b864-f94b6d9f447b",
+  "slug": "section-0474-clonidine-a-medicine-to-treat-hot-flushes-and-prevent-migraines-nhs",
+  "title": "Clonidine: a medicine to treat hot flushes and prevent migraines - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "11e590f19b2cbde558b85e87856fa722c7a13f9938a59d6d3225bee10ffe7674",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 474,
+    "content_hash": "af777c0063d0459f4735efffa7f44054db080edbb6ba75d2564fca5e280dc389",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

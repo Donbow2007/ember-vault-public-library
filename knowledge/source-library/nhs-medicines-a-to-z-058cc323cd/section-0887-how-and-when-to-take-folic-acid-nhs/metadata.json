@@ -1,0 +1,25 @@
+{
+  "id": "034276f5-c058-4e25-a209-85243466d9ac",
+  "slug": "section-0887-how-and-when-to-take-folic-acid-nhs",
+  "title": "How and when to take folic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "cf25cac9dc91e10c6efa7a6211c7a72c3e27b9b6cdb1f9924a20e3b6a4c47207",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 887,
+    "content_hash": "719b44e3df1bcb1c6f7d3ce43f22b62e4fcb7a542a3db78b3954c85f3561fcbf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

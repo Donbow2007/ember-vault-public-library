@@ -1,0 +1,25 @@
+{
+  "id": "b29e3ba0-1439-4b4e-9a63-d590506a6a23",
+  "slug": "section-0477-how-and-when-to-take-clonidine-nhs",
+  "title": "How and when to take clonidine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "5748af0f39281588d17dce76b6d33a95afa069dd1612b70922569a105efb7f68",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 477,
+    "content_hash": "a7727418e328c85e04f835a646e9481eb85aaca952d59deaebab721320dbbe92",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

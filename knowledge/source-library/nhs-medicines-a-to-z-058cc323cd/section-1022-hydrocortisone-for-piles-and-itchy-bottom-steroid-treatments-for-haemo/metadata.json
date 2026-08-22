@@ -1,0 +1,25 @@
+{
+  "id": "b5fb8071-b7eb-4611-bbab-0b3744122eb4",
+  "slug": "section-1022-hydrocortisone-for-piles-and-itchy-bottom-steroid-treatments-for-haemo",
+  "title": "Hydrocortisone for piles and itchy bottom: steroid treatments for haemorrhoids - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "a16dc4ca88551caa79fe7381c283c9407def60c79be21a5e15fc132e1c1e51a0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1022,
+    "content_hash": "cc371045739f179e36ce53e438c53e30d1443ae5c6f61cd5b0afca2c80c516e1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

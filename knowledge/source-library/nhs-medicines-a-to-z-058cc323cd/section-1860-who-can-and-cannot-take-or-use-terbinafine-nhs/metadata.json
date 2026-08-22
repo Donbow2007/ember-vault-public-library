@@ -1,0 +1,25 @@
+{
+  "id": "fab14bf7-4d5d-4595-b875-71909b09d9f4",
+  "slug": "section-1860-who-can-and-cannot-take-or-use-terbinafine-nhs",
+  "title": "Who can and cannot take or use terbinafine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "6942b8312cc5bae9f092928e8bbad3e15a9e87d8dc7bfb2962a5e06886068ff7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1860,
+    "content_hash": "c1ed09b22fd480adf752cc9d68124f87836e9021ce84ff033fb3fc7b45d66aae",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

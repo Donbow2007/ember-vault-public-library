@@ -1,0 +1,25 @@
+{
+  "id": "9535975b-131a-4c6e-b7d5-7fec055eda1c",
+  "slug": "section-0088-side-effects-of-anastrozole-nhs",
+  "title": "Side effects of anastrozole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "6cf4dccc95949562ffc771cd1fad9acda9b42d7c3e6c976c26e0df0762fa1757",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 88,
+    "content_hash": "760e687f0fd6f2575ed9fe7e4ecfa9df2cd82523da325b00406f5ba7125932f3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

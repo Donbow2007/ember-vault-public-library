@@ -1,0 +1,25 @@
+{
+  "id": "33642474-ca7a-49db-9888-f3d0d9e6c4cf",
+  "slug": "section-0180-no-knead-pizza-dough",
+  "title": "No-knead pizza dough",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "47935807860702464926d588e687f96dd53077ef10876f850d5c453087e7121f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 180,
+    "content_hash": "b804e6d38aaee50046108988f756976c5ff3e7b57931da9f0aed581891de5d3e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

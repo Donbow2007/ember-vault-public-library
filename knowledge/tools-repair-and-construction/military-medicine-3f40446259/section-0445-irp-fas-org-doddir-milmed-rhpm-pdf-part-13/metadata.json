@@ -1,0 +1,25 @@
+{
+  "id": "05c0a942-5033-4866-8cfa-5a10622f4746",
+  "slug": "section-0445-irp-fas-org-doddir-milmed-rhpm-pdf-part-13",
+  "title": "irp.fas.org/doddir/milmed/rhpm.pdf — Part 13",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "a09a0642d5ef6e9febaa0cbd1fb379852d7143f306a9a683988532b8b57e3392",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 445,
+    "content_hash": "758ca8aba0a17573e6db110632ceac649c02da4dba159b118519df633ddcc7ab",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

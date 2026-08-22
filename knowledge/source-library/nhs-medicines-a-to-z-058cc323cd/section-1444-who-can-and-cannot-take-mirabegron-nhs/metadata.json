@@ -1,0 +1,25 @@
+{
+  "id": "5f5b9f1e-6eb0-4cdb-8c53-7eba9ac8ae71",
+  "slug": "section-1444-who-can-and-cannot-take-mirabegron-nhs",
+  "title": "Who can and cannot take mirabegron - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "2017d9bab748a81d3ff199a16aaa9d4a4a3296860869162739f22d5ef59c2930",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1444,
+    "content_hash": "e92dbef74b42fd7eaaf180a444d1b60266af8edbe3e3dacf0c9b551a9e7c0441",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

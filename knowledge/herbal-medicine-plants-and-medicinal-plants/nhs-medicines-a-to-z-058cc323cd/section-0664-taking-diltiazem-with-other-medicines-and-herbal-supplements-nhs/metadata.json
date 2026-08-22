@@ -1,0 +1,25 @@
+{
+  "id": "a53bd02a-0c3f-4c1b-a018-488bc4a158dc",
+  "slug": "section-0664-taking-diltiazem-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking diltiazem with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "ea96b2a19459ec54b193701da1dc75618233ee3f298684fd406c1c3fcaf3bbf1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 664,
+    "content_hash": "49d5502b7a7bfc51d13f5ed191c4847910a15b8678c52ef87b07c5d394aeace4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

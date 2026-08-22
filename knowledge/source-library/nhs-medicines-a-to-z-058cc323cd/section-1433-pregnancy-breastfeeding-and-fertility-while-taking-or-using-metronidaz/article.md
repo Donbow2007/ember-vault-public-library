@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking or using metronidazole - NHS
+
+Pregnancy, breastfeeding and fertility while taking or using metronidazole
+
+Metronidazole and pregnancy You can use metronidazole while you're pregnant. Metronidazole and breastfeeding It's OK to take metronidazole while you're breastfeeding. When metronidazole is taken by mouth, as suppositories, or injected, it passes into breast milk in fairly small amounts. It's unlikely to cause side effects in your baby, but a few babies have had diarrhoea. Metronidazole might make your milk taste metallic, but if this happens it will not harm your baby. It's best to take metronidazole only for a short time. If you need to take it for longer than a few weeks, talk to your doctor or pharmacist. When metronidazole is used on your skin, or as a vaginal gel, it is not likely to get into your breast milk, and you can use it for longer than a few weeks if you need to. When using the cream or gel, be careful that your baby does not come into contact with the areas of your body you have put it on. When using the cream, gel or vaginal gel, wash your hands after you have applied it and before picking up your baby. If your baby is not feeding as well as usual, has a stomach upset, or has oral thrush (a fungal infection in their mouth), or if you have any other concerns about your baby, talk to your doctor, pharmacist, health visitor or midwife. Metronidazole and fertility There's no clear evidence to suggest that taking metronidazole reduces fertility in either men or women. However, speak to a pharmacist or doctor before taking it if you're trying to get pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding For more information about how metronidazole can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 17 November 2021
+
+Next review due: 17 November 2024
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,6 @@
+# About ferrous fumarate - NHS
+
+About ferrous fumarate - Brand names: Fersamal, Galfer Ferrous fumarate is a type of iron that's used as a medicine to treat and prevent iron deficiency anaemia. Iron helps the body to make healthy red blood cells which carry oxygen around the body. Some things such as blood loss, pregnancy or too little iron in your diet can make your iron supply drop too low, leading to anaemia. Ferrous fumarate comes as tablets, capsules or as a liquid that you swallow. It's available on prescription and to buy from pharmacies. Key facts Ferrous fumarate works best when taken on an empty stomach, at least an hour before eating, and 2 hours after eating. Most people feel better after taking ferrous fumarate for 1 week, but it may take up to 4 weeks to work fully. You may need to leave a gap between taking ferrous fumarate and your regular medicines – check with your doctor or pharmacist. Common side effects include feeling or being sick, dark poo and diarrhoea. Leave a 2 hour gap before having tea or coffee, dairy products, eggs or soybean products. This is because they can stop your body absorbing iron. Your doctor or pharmacist may recommend taking ferrous fumarate with orange juice or a vitamin C supplement, to help your body absorb the iron.
+Page last reviewed: 8 August 2022
+
+Next review due: 8 August 2025

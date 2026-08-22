@@ -1,0 +1,25 @@
+{
+  "id": "2cf75e05-ed3c-4d9a-8e95-0d64a572f6d4",
+  "slug": "section-1199-lansoprazole-medicine-to-lower-stomach-acid-nhs-part-1",
+  "title": "Lansoprazole: medicine to lower stomach acid - NHS — Part 1",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "149c364b71e6643d3954fabb09f6aac886b0395b9d2b3adf110c3d7e8224de9f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1199,
+    "content_hash": "13384d4c27648bea27ce28871e7785c3047bba44d96fede60072ec4437677c57",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

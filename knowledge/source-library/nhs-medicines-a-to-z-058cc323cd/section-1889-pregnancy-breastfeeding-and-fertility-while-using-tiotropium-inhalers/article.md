@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while using tiotropium inhalers - NHS
+
+Pregnancy, breastfeeding and fertility while using tiotropium inhalers - Brand names: Braltus, Spiriva, Spiriva Respimat Tiotropium inhalers and pregnancy You can use tiotropium inhalers during pregnancy. It's important to manage your asthma or chronic obstructive pulmonary disease (COPD) while you're pregnant. Problems with breathing can be dangerous for you and your baby. Speak to your doctor if you become pregnant while you're using tiotropium. They may want to review your medicine to check that you're on the best treatment for your asthma or COPD. Tiotropium inhalers and breastfeeding It's OK to use your tiotropium inhaler as normal while you're breastfeeding. This includes tiotropium inhalers that also contain olodaterol. Although there is not much information about using tiotropium inhalers while breastfeeding, only tiny amounts are thought to pass into breast milk. Your baby will not be able to absorb a lot into their body, so it's very unlikely to cause them any side effects. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Tiotropium inhalers and fertility There's no evidence to suggest that using tiotropium inhalers will reduce fertility in either men or women. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 31 October 2023
+
+Next review due: 31 October 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

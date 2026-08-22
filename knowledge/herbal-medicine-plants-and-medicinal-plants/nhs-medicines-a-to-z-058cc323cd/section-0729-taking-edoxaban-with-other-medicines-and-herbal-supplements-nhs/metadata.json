@@ -1,0 +1,25 @@
+{
+  "id": "305a4258-aca6-4200-b004-e2504e588441",
+  "slug": "section-0729-taking-edoxaban-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking edoxaban with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "4f0073c1a559f20f15f1652a0259908cce7a864f48ffdec8033ab8777b259fe9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 729,
+    "content_hash": "e1dc936bfd34c7fa3b11d7592d1c4a362f5a8a0957e6971d1498ec82579a7e2d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

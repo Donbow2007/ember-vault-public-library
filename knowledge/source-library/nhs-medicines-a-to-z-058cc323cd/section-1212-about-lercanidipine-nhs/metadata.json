@@ -1,0 +1,25 @@
+{
+  "id": "6f97c569-eb1f-4e68-8973-8febd3acebc8",
+  "slug": "section-1212-about-lercanidipine-nhs",
+  "title": "About lercanidipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "6b5ae3b808a7e21b227ef493307de2fbcb13e11b8afdfe722c1152e30628772f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1212,
+    "content_hash": "15261567b848fb980251923b873f145c1e25b66611bbf219d5c56d74b432480d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0f460797-92a8-4b69-8807-1bf7e8f51ba1",
+  "slug": "section-1271-common-questions-about-loperamide-nhs",
+  "title": "Common questions about loperamide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "ee658b160311e1a8314e9015d559bc7f74c5733626140c1fd88866e7ba068f50",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1271,
+    "content_hash": "5ed3224076ecccbbee549bab013fff9741d489d463737e43a034208cd33f7908",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

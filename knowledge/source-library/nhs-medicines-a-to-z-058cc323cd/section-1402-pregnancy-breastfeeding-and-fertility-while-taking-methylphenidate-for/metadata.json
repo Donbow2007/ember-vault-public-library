@@ -1,0 +1,25 @@
+{
+  "id": "c967a49f-1672-45e0-a7af-f14aeb2cd940",
+  "slug": "section-1402-pregnancy-breastfeeding-and-fertility-while-taking-methylphenidate-for",
+  "title": "Pregnancy, breastfeeding and fertility while taking methylphenidate for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "14b1c34985bc36a3b914d048f9ef60b327ab0303f70b86a87033ab75e5fd9375",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1402,
+    "content_hash": "b127c2fbd1719439c05d4c02d2c6a64f51955ad6f9c9643b36d810018f7dc534",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

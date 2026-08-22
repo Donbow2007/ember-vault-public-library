@@ -1,0 +1,25 @@
+{
+  "id": "20bb020f-4fbc-4792-b862-709c67f5026d",
+  "slug": "section-1638-taking-pravastatin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking pravastatin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "bb19937f6b0e27f4ea3076bc387980c7261e39c76ec0fad0cc3160154ab0f9c4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1638,
+    "content_hash": "e9c8f137478a405300611394d4de3fc694890b1b39c7e6c23fd23f01283b78a4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e95802af-f8a1-4895-94b4-9859d8bcccbe",
+  "slug": "section-0468-cacio-e-pepe",
+  "title": "Cacio e Pepe",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "022cd115357a9e8ec5eab7fe69a094c5abfbe0dc2019226e237f0036c84c6590",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 468,
+    "content_hash": "c100fe68701ce0cd8789d1b8dd05e7b4800a5642dc09ccd012ca828696212a51",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

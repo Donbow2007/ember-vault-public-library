@@ -1,0 +1,25 @@
+{
+  "id": "3a270b11-e6df-4e89-8955-407a22814457",
+  "slug": "section-0474-lenten-lentil-curry",
+  "title": "Lenten Lentil Curry",
+  "category": "water-and-sanitation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "ae674415fa3aeb083cc578102b551d44d4c4b643aac4674ce691f0a6500caadb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 474,
+    "content_hash": "5a4f6101d81f9aa2265cb002041e26332d75101baedc9bf8a8868979aed9aee8",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "03e832f1-6c39-4b85-ab26-8b84aa05eea9",
+  "slug": "section-0156-butter-based-biscuit-and-cookies",
+  "title": "Butter-based biscuit and cookies",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "a04c1506660a754cf5d1690bb2ab68cbe672c28980a5da8f0ab05e3749aa34b2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 156,
+    "content_hash": "9d6284f80bd390fa13ffb483a72d9b29e22719595844bfcf1a655da016cb1396",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

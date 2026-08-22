@@ -1,0 +1,25 @@
+# Common questions about isotretinoin capsules - NHS
+
+Common questions about isotretinoin capsules
+
+How do isotretinoin capsules work?
+Isotretinoin is a retinoid medicine that is related to vitamin A. Isotretinoin capsules are only for severe acne , such as acne with deep or multiple pus-filled spots, nodules or cysts that may affect the back, chest and limbs, as well as the face, and acne where there is a risk of permanent scarring. It's not clear exactly how they work, but isotretinoin capsules seem to help severe acne by stopping the sebaceous glands found near the surface of your skin from producing too much sebum (the oily substance made naturally by your skin). This means that blocked pores are less likely. Having less sebum also helps to reduce bacteria in your pores. Isotretinoin has an anti-inflammatory effect, helping to relieve redness and soreness.
+How long does it take to work?
+Your acne may get worse when you first start treatment with isotretinoin capsules, but it will then normally start to improve after 7 to 10 days.
+Are there other treatments for acne?
+There are various other medicines that your doctor might try before you are referred to a specialist. For mild acne, there are a range of medicines that can be applied to your skin. These include other retinoid creams and gels or benzoyl peroxide cream and gel. If these do not work then your doctor may prescribe a treatment that has an antibiotic and a retinoid or benzoyl peroxide. They might also choose another gel called azelaic acid. For some women, using a combined oral contraceptive may help. For more severe acne, your doctor may try antibiotic tablets with a gel or cream before you are referred to a specialist, or while you are waiting for an appointment with a specialist. It can take 2 to 3 months for many of these treatments to work. Isotretinoin capsules are usually only prescribed by a specialist to people with severe acne whose acne does not improve with other treatments. Other options for people with severe acne include treatment that use lasers or lamps to provide light therapy ( photodynamic therapy ), and steroids given by mouth or injected into the lesions.
+Why is isotretinoin no longer available as a gel?
+Isotretinoin used to also come as a gel to be applied to the skin, known by the brand names Isotrex and Isotrexin. These medicines are no longer available in the UK. However, there are other medicines to be applied to the skin (gels or creams) that contain a retinoid, such as adapalene or tretinoin. These work in a similar way to isotretinoin gel. Ask your doctor or a pharmacist for advice about suitable alternatives and the best treatment for your condition.
+Can I donate blood while taking isotretinoin?
+Do not donate blood while taking isotretinoin capsules and for at least 1 month after stopping. If your blood is given to a pregnant woman, it may harm her baby.
+Can I drive or ride a bike?
+Isotretinoin capsules can make you feel sleepy and dizzy and affect your vision. In particular isotretinoin can affect your vision at night, which can happen suddenly. If this happens to you, do not drive, cycle, or use machinery or tools until these effects wear off. It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive. Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking isotretinoin. GOV.UK has more information on the law on drugs and driving .
+Can I drink alcohol while taking isotretinoin capsules?
+It's best not to drink alcohol while taking isotretinoin capsules, or at least keep the amount you drink to a minimum. This is because there's a risk of damage to your liver and that your cholesterol levels will increase.
+Is there any food or drink I need to avoid?
+Apart from stopping or limiting alcohol, you can eat and drink normally while taking isotretinoin capsules.
+Can lifestyle changes help my acne?
+These lifestyle changes may help with your acne : try not to wash affected areas of skin more than twice a day – too much washing can irritate your skin and make spots worse wash spotty skin with a mild soap or cleanser and lukewarm water – very hot or cold water can make acne worse never "clean out" blackheads or squeeze spots – this can make them worse and cause permanent scars do not use too much make-up or cosmetics – use water-based products described as non-comedogenic (this means the product is less likely to block the pores in your skin) remove make-up before going to bed use a fragrance-free moisturiser if dry skin is a problem shower as soon as possible after exercising, as sweat can irritate acne wash your hair regularly, and try to stop letting your hair fall across your face use a high protection factor (SPF 15 or above) sunscreen if the treatments you are using make your skin more sensitive to sunlight
+Page last reviewed: 25 February 2022
+
+Next review due: 25 February 2025

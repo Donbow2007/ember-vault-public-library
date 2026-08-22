@@ -1,0 +1,25 @@
+{
+  "id": "667556f7-3803-4d83-9daf-398b080cae02",
+  "slug": "section-0727-pregnancy-breastfeeding-and-fertility-while-taking-edoxaban-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking edoxaban - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "4e0d3af2bc7ad1bf1901f0b84ca8a5222e8628a8ca4b922495c16736af43504d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 727,
+    "content_hash": "6d861b53218651964c325d67eae0bcbe8e9b8d7e81dc452fe25c6b1f97271d6d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

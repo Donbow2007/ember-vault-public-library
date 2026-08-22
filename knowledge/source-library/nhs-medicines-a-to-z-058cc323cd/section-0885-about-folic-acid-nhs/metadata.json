@@ -1,0 +1,25 @@
+{
+  "id": "b39409c3-9795-4ba1-b31b-ff0963f4fb65",
+  "slug": "section-0885-about-folic-acid-nhs",
+  "title": "About folic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "8d0b3e321d7c1aaefaaac850074813cf95a92620bbb1cc6b1d2ab6750f2fe9c5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 885,
+    "content_hash": "ca0f131a5e1b4d23286054449de377bfe6a127eca2b361718e34e9375c9395da",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

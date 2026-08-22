@@ -1,0 +1,25 @@
+{
+  "id": "879c1dde-cc6c-4cb5-8555-e90cd2cd6a55",
+  "slug": "section-0688-tag-traditional",
+  "title": "Tag: traditional",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "0a3d9df8691ca890129648a10ba078a2d005318a7a92f354c40ceb58473e4c8a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 688,
+    "content_hash": "41359e213be0c89c39d217f1ef1a25657268800b19dcd70be22eb01acfc278ab",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

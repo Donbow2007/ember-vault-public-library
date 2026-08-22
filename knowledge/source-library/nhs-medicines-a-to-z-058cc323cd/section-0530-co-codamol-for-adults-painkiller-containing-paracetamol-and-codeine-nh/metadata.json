@@ -1,0 +1,25 @@
+{
+  "id": "1042c922-f2fd-45bf-98df-2bb02e83ccbc",
+  "slug": "section-0530-co-codamol-for-adults-painkiller-containing-paracetamol-and-codeine-nh",
+  "title": "Co-codamol for adults: painkiller containing paracetamol and codeine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "a5351c6387b173ad6cc585c7f09d0032c08cf9e431b6e09855141a7061658041",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 530,
+    "content_hash": "ea85010bfdcb595b3818aaf52bda2ebd16efbd721e26be5971d540331a78301d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

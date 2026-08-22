@@ -1,0 +1,25 @@
+{
+  "id": "db8c1c26-ed4e-4cfd-a417-98e4455bdb27",
+  "slug": "section-0262-pregnancy-breastfeeding-and-fertility-while-taking-bisoprolol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking bisoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "6984bd9e4d50907755582afbe077eb45efa8860ca111745b7a302225f8a43c42",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 262,
+    "content_hash": "d9a49c78e9a781a0db0790b4b9f5ff42fb5231b38b0c25e23c36d1317342944c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

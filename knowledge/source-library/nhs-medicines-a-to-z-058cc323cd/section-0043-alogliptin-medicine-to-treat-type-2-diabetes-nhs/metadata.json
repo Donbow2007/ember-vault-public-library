@@ -1,0 +1,25 @@
+{
+  "id": "39d8ed66-814c-4042-9d81-d6e8b1b7a486",
+  "slug": "section-0043-alogliptin-medicine-to-treat-type-2-diabetes-nhs",
+  "title": "Alogliptin: medicine to treat type 2 diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "9aa08f790518bdba13801a959fe93d075143f038d520d10627dce6d054a36c32",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 43,
+    "content_hash": "6467a4d832b5816a4e22888c151ad3ee0a03b7dbc108f40ccae718997f623ddb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

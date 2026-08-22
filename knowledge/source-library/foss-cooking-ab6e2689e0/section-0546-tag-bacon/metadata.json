@@ -1,0 +1,25 @@
+{
+  "id": "c47dd93e-fa06-4fa7-90b7-bd3c43189581",
+  "slug": "section-0546-tag-bacon",
+  "title": "Tag: bacon",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "5e97429ee19562bb944d0d9dabbd0c7f4d29514e156ed8bb832bc26f37ef1f08",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 546,
+    "content_hash": "12de99a12a7c6d0b00c94d3db25ca5db802bd8b31c8c2f420a0c17f325ce0810",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

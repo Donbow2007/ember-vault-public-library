@@ -1,0 +1,25 @@
+{
+  "id": "a50c179a-82d6-4bb7-ad55-68e9e523e4b2",
+  "slug": "section-1396-taking-methotrexate-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking methotrexate with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "d653cb7babe01a78532204319277801f4041b6b1f7d23024fd2ad9e2e829ad30",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1396,
+    "content_hash": "eddd6044387b77eda34e164db27261fde2c0cf0ad2f08fd928412154c174c5cb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

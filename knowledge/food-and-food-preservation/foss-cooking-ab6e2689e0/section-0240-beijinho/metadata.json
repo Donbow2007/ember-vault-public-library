@@ -1,0 +1,25 @@
+{
+  "id": "cca42479-c3ef-43de-b12f-163f7cbcc031",
+  "slug": "section-0240-beijinho",
+  "title": "Beijinho",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "1cb0b885bdeeff00c348aeec9d38ff9aa87f23d20902f07cc2422057b4309980",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 240,
+    "content_hash": "0c471954ae7ef9d95ef1964876d6567d560c6a9489a0bdbd0230ba2e7b511f4f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

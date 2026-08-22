@@ -1,0 +1,25 @@
+{
+  "id": "389916f4-eaba-4323-bcef-2c77f7e3d6c6",
+  "slug": "section-0019-bianca-purin",
+  "title": "Bianca Purin",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "b7a9d4e1cd3d317b6c58a80eaf92f69c240bd4d69e5f565de0253e155bff4180",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 19,
+    "content_hash": "13c8a1e70d999621cfc4746e6639ac203c367dbf8cd0d9daa691f6cfab5449fc",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

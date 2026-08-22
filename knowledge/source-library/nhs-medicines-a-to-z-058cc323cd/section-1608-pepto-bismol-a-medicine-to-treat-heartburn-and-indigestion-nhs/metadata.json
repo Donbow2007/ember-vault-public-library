@@ -1,0 +1,25 @@
+{
+  "id": "22c50681-ee28-4a5d-9d42-f96ca7228065",
+  "slug": "section-1608-pepto-bismol-a-medicine-to-treat-heartburn-and-indigestion-nhs",
+  "title": "Pepto-Bismol: a medicine to treat heartburn and indigestion - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "46494e88414622fd9f0b1f970cdc598625ecbe1b78e5e47751cd6589c7ac49b7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1608,
+    "content_hash": "8356010fdfb28da5b7c79c9237b9c2f3faaf90de19b07b22783606c664d3da70",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

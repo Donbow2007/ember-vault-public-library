@@ -1,0 +1,25 @@
+{
+  "id": "91fccc2a-00f6-42dc-b006-77ca56a2d006",
+  "slug": "section-1544-common-questions-about-nystatin-nhs",
+  "title": "Common questions about nystatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "3e875486f7f11194fe8f67980dda0c33bcef372a3495704eaa311ec6d3db05c9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1544,
+    "content_hash": "8a4d80d80347086816f7973cadba634e54cbe00a6b4c75515c46094fd34bfa8b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

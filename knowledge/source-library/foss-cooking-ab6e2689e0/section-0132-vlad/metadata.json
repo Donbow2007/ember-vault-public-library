@@ -1,0 +1,25 @@
+{
+  "id": "e9499e45-83ab-4f61-ad85-8a5af9eabe8c",
+  "slug": "section-0132-vlad",
+  "title": "Vlad",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "dceaef43d8ccc6132f9badbd64660e23b2d4b4cfe0a7969f04b296e8f2a29754",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 132,
+    "content_hash": "1b81ff3c5ba211df6fda534a042aff989c556f9891ce34fc587a68385650c9f4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

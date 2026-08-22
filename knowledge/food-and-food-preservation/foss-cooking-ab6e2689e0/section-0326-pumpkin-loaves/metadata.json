@@ -1,0 +1,25 @@
+{
+  "id": "dd72eecc-d7c0-4fe0-a521-039a5a24aa8f",
+  "slug": "section-0326-pumpkin-loaves",
+  "title": "Pumpkin Loaves",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "5f755fad148b729ceb034e0f80fe516f57b3afa3885b560672c57d9fb140d16b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 326,
+    "content_hash": "28b5cbc33e531c3ad2a2157b7ab87e12a4cc076323cb117525712eea6cc40aa5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

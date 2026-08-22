@@ -1,0 +1,25 @@
+{
+  "id": "4619d651-06ad-49c0-abe2-99e18f3336ec",
+  "slug": "section-1852-who-can-and-cannot-take-tamsulosin-nhs",
+  "title": "Who can and cannot take tamsulosin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "b9b24436eafb473f038c348b402fe9bfd51f1898151878e54d613096a8b8188b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1852,
+    "content_hash": "12cdddd46aa1214caff6c8e15e4d47cb584d8dab6d8e4e78ba69ff738e0dd256",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

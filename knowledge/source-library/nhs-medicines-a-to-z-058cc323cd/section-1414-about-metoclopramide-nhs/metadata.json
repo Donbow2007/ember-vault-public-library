@@ -1,0 +1,25 @@
+{
+  "id": "eb20331c-c1d3-4a61-8b9a-d7a9344600c3",
+  "slug": "section-1414-about-metoclopramide-nhs",
+  "title": "About metoclopramide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "75750872f2daca946bb7b4fd226708e8d9b29c57da46c651f3cd25cff9f53e35",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1414,
+    "content_hash": "4803197fbb47f2fb26fd457e8d824d9a5be8bfa4c88a4f826bc7fe8a18b30d29",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

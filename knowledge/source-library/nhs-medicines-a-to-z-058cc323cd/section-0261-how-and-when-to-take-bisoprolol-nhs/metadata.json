@@ -1,0 +1,25 @@
+{
+  "id": "e8f37253-b2bc-4b89-895a-db04c98df677",
+  "slug": "section-0261-how-and-when-to-take-bisoprolol-nhs",
+  "title": "How and when to take bisoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "7c335c71d65fdc2cf523ef8d5e8f9ef1533c8a6137e2083536faa1cbeb5e824f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 261,
+    "content_hash": "2cfa87ba40c9bcd94e89f47798fa5d6cda3f8227669d10e170f4edd84c2b2f5a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

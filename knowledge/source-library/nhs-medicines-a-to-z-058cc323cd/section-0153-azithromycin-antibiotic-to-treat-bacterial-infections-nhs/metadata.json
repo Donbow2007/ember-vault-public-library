@@ -1,0 +1,25 @@
+{
+  "id": "19ac3828-2998-4fee-8f17-64a5b5217ec7",
+  "slug": "section-0153-azithromycin-antibiotic-to-treat-bacterial-infections-nhs",
+  "title": "Azithromycin: antibiotic to treat bacterial infections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "a75c6cde89e9592dbad5facf753ba8a0b9bde1c418bcbbbdafea6e9ab84cc2b4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 153,
+    "content_hash": "f30b7156580b4e09845cdaa64fefb0899d3b7049b0bd9e22889ac61396b5e7a8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "291d79ab-2ff6-4e45-9f9b-7393b5b7ae7e",
+  "slug": "section-1823-common-questions-about-sulfasalazine-nhs",
+  "title": "Common questions about sulfasalazine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "d4cfeebcc06f083ea36061adbf8f8c27c044216a7ffe28c2b6aa9fc29dda76b8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1823,
+    "content_hash": "44694e4c39a47bb6b936a175933e5f09f018f734238b14ff3d1b5120b41023b4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

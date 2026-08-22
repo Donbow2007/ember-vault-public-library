@@ -1,0 +1,25 @@
+{
+  "id": "1659d141-5350-4435-8077-844b6c0a5a7c",
+  "slug": "section-0322-calcipotriol-a-medicine-to-treat-plaque-psoriasis-nhs",
+  "title": "Calcipotriol: a medicine to treat plaque psoriasis - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "aa8f6ae641f80b982a262ff179a6a82e74b6e9281a98531d075fb7d56c8d1503",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 322,
+    "content_hash": "ca47823f174cf587bc7efc1cbfa8dd3159ad3a1a36bcf0057bea3e9d5a2f0dd6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

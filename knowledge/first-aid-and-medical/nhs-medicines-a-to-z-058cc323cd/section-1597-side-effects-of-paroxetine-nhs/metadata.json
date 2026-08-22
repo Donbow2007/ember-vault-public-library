@@ -1,0 +1,25 @@
+{
+  "id": "b1f0cce5-61a8-4ed8-97fb-4c6e581b76b1",
+  "slug": "section-1597-side-effects-of-paroxetine-nhs",
+  "title": "Side effects of paroxetine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "47bbc93f48fa7a7550b565a3bfe2a901cf57949943f591d3aecc2a5e9fed54cd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1597,
+    "content_hash": "1d1fe432e9b3467350584a8ee4799b2e9716d33105be7851552a92abb47f3a7a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

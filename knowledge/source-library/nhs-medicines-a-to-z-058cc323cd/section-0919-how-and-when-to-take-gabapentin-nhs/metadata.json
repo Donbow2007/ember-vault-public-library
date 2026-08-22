@@ -1,0 +1,25 @@
+{
+  "id": "ccb91a95-af84-4e7f-a33a-b1a4093e7776",
+  "slug": "section-0919-how-and-when-to-take-gabapentin-nhs",
+  "title": "How and when to take gabapentin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "e7eb0d28bedfc01f59a8f678b50909fbbd6aa99891716eed7d2a61b3515849f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 919,
+    "content_hash": "b27fb124f8674235c84e55cb63d1f5bba0adefc4b271dfdb713396bf27d7ca1a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

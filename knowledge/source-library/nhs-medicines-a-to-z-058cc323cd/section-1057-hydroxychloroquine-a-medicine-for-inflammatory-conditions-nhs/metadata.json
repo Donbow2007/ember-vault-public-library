@@ -1,0 +1,25 @@
+{
+  "id": "c636b5db-a656-466b-97f9-82c69341be39",
+  "slug": "section-1057-hydroxychloroquine-a-medicine-for-inflammatory-conditions-nhs",
+  "title": "Hydroxychloroquine: a medicine for inflammatory conditions - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "8f075c42585ae5e8a61107b5f88dc651b5f6dc305f87ecfc77e5b7affc8aaccb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1057,
+    "content_hash": "02a0fafee200e4c536496cc75c94324dc977cf19e9d7b0a53c3e5317d3d5a802",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

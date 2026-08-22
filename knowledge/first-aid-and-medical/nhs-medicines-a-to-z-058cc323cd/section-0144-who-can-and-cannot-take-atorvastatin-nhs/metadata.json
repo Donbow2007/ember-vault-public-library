@@ -1,0 +1,25 @@
+{
+  "id": "6442593f-1b1e-4855-b8e1-aa474c7158f4",
+  "slug": "section-0144-who-can-and-cannot-take-atorvastatin-nhs",
+  "title": "Who can and cannot take atorvastatin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "d6c473b0ae07c7e41120d699f9f2e6013a1601c3c2d726fa8176c1ac882b100c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 144,
+    "content_hash": "7418fbff212bf242c8fe2adf238e459c92744425860f5b35a6e363467658b0a1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

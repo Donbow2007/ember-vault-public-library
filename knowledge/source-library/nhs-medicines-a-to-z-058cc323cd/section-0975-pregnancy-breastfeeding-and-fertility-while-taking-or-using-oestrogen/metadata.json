@@ -1,0 +1,25 @@
+{
+  "id": "4d05acdf-5656-43d2-8220-5578e4379239",
+  "slug": "section-0975-pregnancy-breastfeeding-and-fertility-while-taking-or-using-oestrogen",
+  "title": "Pregnancy, breastfeeding and fertility while taking or using oestrogen tablets, patches, gel and spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "00e131fe09541502e3f49e6cd7c82e8ac7cc63aa4939be8b594ac6077148f8ee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 975,
+    "content_hash": "fc6994adce937d00323b24ace38208ce562c9b9e7ad18bbd897479c42511107b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

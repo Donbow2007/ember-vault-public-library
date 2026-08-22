@@ -1,0 +1,25 @@
+{
+  "id": "d4223062-b9a2-4576-b0a1-ff610ea27816",
+  "slug": "section-1308-who-can-and-cannot-take-low-dose-aspirin-nhs",
+  "title": "Who can and cannot take low-dose aspirin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "5be3805c59cdd858c54134111d90e77a9b5c9bda3aa7a72061e26e7a7185c374",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1308,
+    "content_hash": "d147e1c3dbf9c8fbd34b98c7bfce8c68e1f198e1ec0b52e4c40f2ae17884fcfe",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

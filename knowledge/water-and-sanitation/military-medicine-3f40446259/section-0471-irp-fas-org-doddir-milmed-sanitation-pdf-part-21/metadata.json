@@ -1,0 +1,25 @@
+{
+  "id": "ab481407-d4a4-421e-a2fd-585e34033c55",
+  "slug": "section-0471-irp-fas-org-doddir-milmed-sanitation-pdf-part-21",
+  "title": "irp.fas.org/doddir/milmed/sanitation.pdf — Part 21",
+  "category": "water-and-sanitation",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "115fa77d1c8d2336e0784d17fd5d804ed38c2540fdc71bc27bdc8beb8f9655e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 471,
+    "content_hash": "4f153ac81d13014c8250196e2042a39412f382c4fec770e8d8098c1be6d14f90",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

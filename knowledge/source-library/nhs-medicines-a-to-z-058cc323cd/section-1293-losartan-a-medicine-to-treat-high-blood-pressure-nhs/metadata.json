@@ -1,0 +1,25 @@
+{
+  "id": "726265be-bfea-4438-b3d0-1b2ae3bf99c0",
+  "slug": "section-1293-losartan-a-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Losartan: a medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "1ea10422c7d610458d7910d3c25575e051079c0c131240b9bcfeef31efa6f0e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1293,
+    "content_hash": "46b228364c5a1752c401a815ed68ca02ac99013803d3a22b86f3e9591b358808",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0adb273a-62c3-4476-b92e-739e566b7668",
+  "slug": "section-1894-about-tolterodine-nhs",
+  "title": "About tolterodine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "61ead9d7a63b7fb3106b1795b18ba4624c61b2e60f1704df6dacb136465209f8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1894,
+    "content_hash": "3390d651cd29c51c1bd218f430df823ad21010dbef36287a02ecd905a7abe9ce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

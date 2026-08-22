@@ -1,0 +1,25 @@
+{
+  "id": "f0d3ac30-974a-4218-ba70-b58ec3e4f50b",
+  "slug": "section-0930-taking-gaviscon-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking Gaviscon with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "cba836c11ea263c60ac96a1e9d3d952a58406e0a25fdb59f451bee40225cd26c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 930,
+    "content_hash": "4d852686de9902daf6cc7adc83abdd5a96a4e06dde807ff2b76ba90269749e3f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

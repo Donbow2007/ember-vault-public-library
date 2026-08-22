@@ -1,0 +1,3 @@
+# Tag: pasta
+
+Spaghetti all'amatriciana Carbonara Mushroom Stroganov Älplermagronen (Alpine macaroni) Shrimp Fettuccine Alfredo Dominican Spaghetti Spaghetti and Meatballs Baked pasta with broccoli, boiled eggs and scamorza cheese Cinque Pi Simple Creamy Pasta Sauce Pasta Alla Norma Egyptian Lentils One-Pot Chicken Tetrazzini Smoked Salmon Pasta Primavera Pasta (store bought) Ravioli Chicken Pasta Casserole Garlic Butter Seafood Pasta Baba's Feta Pasta Spaghetti alla puttanesca Ragù Pastítsio Spaghetti aglio e olio Tomato Flavored Hamburger and Macaroni Quick Breakfast Spaghetti Cacio e Pepe Bolognese Sauce Cheesy Pasta Bake Tortellini Spicy Sausage Pasta Pasta Navy Style Lasagna Baked Mostaccioli

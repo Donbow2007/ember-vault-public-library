@@ -1,0 +1,25 @@
+{
+  "id": "ace88b3b-130d-42db-b902-c24037d1633f",
+  "slug": "section-1042-common-questions-about-hydrocortisone-tablets-nhs",
+  "title": "Common questions about hydrocortisone tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "3a204c5e7b0f0eb69338a64943742f6559850bca3272ebfde37c2f95a224a762",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1042,
+    "content_hash": "5ca0e130d8e55c187d0de46736cd9f50d86565b63d87734434218d34c1568c86",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

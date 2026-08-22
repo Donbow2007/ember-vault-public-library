@@ -1,0 +1,25 @@
+{
+  "id": "5bd39e70-f6bd-4759-a0f4-1af4ab571b76",
+  "slug": "section-0150-bread",
+  "title": "Bread",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "37130c140cf1bb3c24854b309620fbbc9352a52e29724194c0317da079de0f61",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 150,
+    "content_hash": "08bd5fa98f20a5720f82c7cf232b2b9129bc544c722a083762c5b2610ffadfc7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

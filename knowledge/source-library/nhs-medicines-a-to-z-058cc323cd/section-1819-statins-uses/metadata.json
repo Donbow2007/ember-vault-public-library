@@ -1,0 +1,25 @@
+{
+  "id": "86694ae2-f4e9-4cad-9f00-80bb26efc78c",
+  "slug": "section-1819-statins-uses",
+  "title": "Statins - Uses",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "02a0d1b3182dbb4d13ed5307b10ef7ca876ddfc20f024e7c0f24de63caa02ef3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1819,
+    "content_hash": "b185d2278972c1b75b6c170cc61ab529c98b1c31e7168c320e40ce48625ff55d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

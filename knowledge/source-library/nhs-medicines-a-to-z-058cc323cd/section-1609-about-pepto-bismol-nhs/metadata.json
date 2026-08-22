@@ -1,0 +1,25 @@
+{
+  "id": "8f5ee90f-25ac-4fa2-b039-d7f5fee3ff6d",
+  "slug": "section-1609-about-pepto-bismol-nhs",
+  "title": "About Pepto-Bismol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "ad1a7e8a9f65214dcd9ce12508e484886d41426a11e87d5b773cafc54b3dc279",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1609,
+    "content_hash": "ca99fbfd03ccf74f291bfe23636064801240af82e641fea8dc0031f61002cdd4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

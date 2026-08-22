@@ -1,0 +1,25 @@
+{
+  "id": "4b649cbf-27aa-4b1c-87c0-4fbb6bdcdedc",
+  "slug": "section-0216-cinque-pi",
+  "title": "Cinque Pi",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "d7189d2652b65ceb22eab50c09437a813fb0456c202c020cc3f17807dee34c18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 216,
+    "content_hash": "d1db78454c8047d05b68eb5e337773d440e275d9c867d5145f76a50c40559a64",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

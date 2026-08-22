@@ -1,0 +1,25 @@
+{
+  "id": "07c17039-e6a6-4c53-8b6e-78e521d37b0f",
+  "slug": "section-0066-joao-freitas",
+  "title": "João Freitas",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "6734b585369b634406f176ae2c1e8757ebbc15b285c4dc2b21cac1a46d5dbc31",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 66,
+    "content_hash": "f2ee44e21b09cc3472a3e68d3c9694dcc41b3b77222eb194c142f5a4c8f8db89",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3843d852-4c61-4d4c-b0f9-cb4d330cb8b9",
+  "slug": "section-0143-taking-atorvastatin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking atorvastatin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "7b91b39fcd22ec4e1d38da8c3f093f07817b468c43313d2978b1c1660c197f1b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 143,
+    "content_hash": "d0d44cbc480602f490aa2612cb42c5a2fbe19b35d0db1e34c11650ea56635539",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

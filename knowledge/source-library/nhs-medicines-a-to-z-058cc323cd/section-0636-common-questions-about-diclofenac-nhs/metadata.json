@@ -1,0 +1,25 @@
+{
+  "id": "b2c80255-fefc-4cee-bacf-0baae0c97a07",
+  "slug": "section-0636-common-questions-about-diclofenac-nhs",
+  "title": "Common questions about diclofenac - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "4a3fe1495f8815b339dcc1f1f8f797666301459e205ae2baed17a18a5bba61bb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 636,
+    "content_hash": "90140962acc81df8a26d86f956cb0bd4823d7b8cbc1c427e309f862c92f70593",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

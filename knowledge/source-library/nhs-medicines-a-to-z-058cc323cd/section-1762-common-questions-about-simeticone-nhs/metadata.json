@@ -1,0 +1,25 @@
+{
+  "id": "b8622b08-3d50-4668-b880-1c7e1e5fa4b4",
+  "slug": "section-1762-common-questions-about-simeticone-nhs",
+  "title": "Common questions about simeticone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "f588627986fba4c26f0dee8efb5229969ef6886e4ae34887a8c09ea828ef6011",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1762,
+    "content_hash": "a17f856082bdca9c718c846a70416b46afc13a6b4c3d759cc9901254de4ead0b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6f7c58bf-23e8-4ac3-91ef-457335332f76",
+  "slug": "section-1387-side-effects-of-methadone-nhs",
+  "title": "Side effects of methadone - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "5471e8953bcac0d71cb9af2f0ac154f1f9acf412bcc7605eaeac93bd726bb005",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1387,
+    "content_hash": "c8f67727267a63b6c061afb58b1102ac30c3ac808efdc4e01e808282845b670d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

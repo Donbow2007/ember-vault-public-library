@@ -1,0 +1,25 @@
+{
+  "id": "8779de08-3cc5-4014-8020-c844b6bb0e30",
+  "slug": "section-0520-irp-fas-org-doddir-milmed-ships-pdf-part-34",
+  "title": "irp.fas.org/doddir/milmed/ships.pdf — Part 34",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:46Z",
+  "content_hash": "db8c48bc68410a27f6f50b29a2c5e988f4492d313d29b6ac3c06d0810db5c4d3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 520,
+    "content_hash": "cfac74107be82c99f9e75d835eeddc3a27c841c225f72ea42958bf66218e98ad",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

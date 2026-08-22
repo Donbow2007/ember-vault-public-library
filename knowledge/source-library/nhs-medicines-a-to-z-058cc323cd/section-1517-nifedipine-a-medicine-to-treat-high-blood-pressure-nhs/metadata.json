@@ -1,0 +1,25 @@
+{
+  "id": "be414b06-bfa5-4a96-84d5-bc621521e708",
+  "slug": "section-1517-nifedipine-a-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Nifedipine: a medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "de3710c56a3a65ca03b98efbd540066dde7bb98def266812da142121c79c37f5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1517,
+    "content_hash": "3aeff72e0dd737614ab4cedc33c2c92858f765438c0da8e5632e122278a4be08",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

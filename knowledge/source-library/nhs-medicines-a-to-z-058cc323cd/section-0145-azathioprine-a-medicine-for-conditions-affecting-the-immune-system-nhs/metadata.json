@@ -1,0 +1,25 @@
+{
+  "id": "7548a68a-f1b1-4f70-8917-80eb45a81898",
+  "slug": "section-0145-azathioprine-a-medicine-for-conditions-affecting-the-immune-system-nhs",
+  "title": "Azathioprine: a medicine for conditions affecting the immune system - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "9eae3ba2c0ba88b5d24990434cf9ad01eca65ac49544e6860549727596df1102",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 145,
+    "content_hash": "df4da9c5e697caea07350f987dfa6fb06a74711b2681289e7661509b261f9720",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

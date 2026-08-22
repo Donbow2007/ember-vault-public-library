@@ -1,0 +1,25 @@
+{
+  "id": "76c59da5-a73b-42a9-9a43-47edc237bd95",
+  "slug": "section-0386-cetirizine-antihistamine-that-relieves-allergy-symptoms-nhs",
+  "title": "Cetirizine: antihistamine that relieves allergy symptoms - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "6bf98cd4b255bce5e03b6f8633a7ed80890305d72a989d3120ab9926c7ecd8e0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 386,
+    "content_hash": "16ce88ce52565767658c4c7e5e025dda1a968b2acb8584a9bbed0a5d49f86c4a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

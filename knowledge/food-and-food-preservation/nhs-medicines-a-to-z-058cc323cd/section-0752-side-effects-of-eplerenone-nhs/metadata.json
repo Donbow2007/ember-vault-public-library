@@ -1,0 +1,25 @@
+{
+  "id": "a8adbacd-6178-4e23-abd5-06841b29086b",
+  "slug": "section-0752-side-effects-of-eplerenone-nhs",
+  "title": "Side effects of eplerenone - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "dfd261a96a5da9b94c23303f88aaf07046e95c8ebd35f0dd24c841c2e134d24c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 752,
+    "content_hash": "87b8f79eafbd7bffe5cf2dcd2e0201aa4be4ddcb3a14545f1fbe631c98c00f5a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ab238e63-5cb2-4d87-a452-8287b660b8c9",
+  "slug": "section-1231-pregnancy-breastfeeding-and-fertility-while-taking-levetiracetam-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking levetiracetam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "962ac7fa27154c467e44d0f2ca178dcdb83debb595ddbbe51d0d2a448caee9c0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1231,
+    "content_hash": "bd8a76faa2982581e11dd3e9fa3a0f75e62402eb907629c3f2958e4f8b42a34c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "73a49150-d11b-4687-8057-055db9f393a8",
+  "slug": "section-1567-oxycodone-medicine-for-severe-pain-nhs",
+  "title": "Oxycodone: medicine for severe pain - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "dbef39d63b556951beffee944d70f3f519b415587dcf59eac9295e6ba12ee294",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1567,
+    "content_hash": "89041ec34b83689422b3be7aa3a35101143d40de42089d11f63e788d29098e74",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

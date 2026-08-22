@@ -1,0 +1,25 @@
+{
+  "id": "b4192543-dbeb-4159-85c7-c14577c01113",
+  "slug": "section-0379-about-cefalexin-nhs",
+  "title": "About cefalexin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "d671ec714e189bb08243c176ff161dbfd358f4869b7636c1056c968dc6669d1c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 379,
+    "content_hash": "57fae23ec75c970c6ecaa13ffd2838f044179b8982fb056f8d2b6c19f39b22c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

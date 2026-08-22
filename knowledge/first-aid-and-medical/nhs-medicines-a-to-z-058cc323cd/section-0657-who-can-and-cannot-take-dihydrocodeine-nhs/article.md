@@ -1,0 +1,6 @@
+# Who can and cannot take dihydrocodeine - NHS
+
+Who can and cannot take dihydrocodeine - Brand names: DHC Continus, DF118 Forte Who can take dihydrocodeine Most adults can take dihydrocodeine. Although it can be given to children from the age of 1 year, it is usually only given to children aged 4 and over. Who may not be able to take dihydrocodeine Dihydrocodeine is not suitable for some people. To make sure it's safe for you, tell a pharmacist or doctor before taking the medicine if you: have ever had an allergic reaction to dihydrocodeine or any other medicine have any stomach problems, such as irritable bowel syndrome (IBS) or Crohn's disease , or if you're taking medicines for these conditions have lung problems, asthma , breathing difficulties or allergies have a head injury or a condition that causes seizures or fits have an underactive thyroid gland (hypothyroidism) have an addiction to alcohol have liver or kidney problems have myasthenia gravis , a rare illness that causes muscle weakness are trying to become pregnant, are already pregnant or are breastfeeding are under 18 years and have had your tonsils or adenoids taken out to treat obstructive sleep apnoea have a rare condition causing problems with galactose intolerance
+Page last reviewed: 17 November 2022
+
+Next review due: 17 November 2025

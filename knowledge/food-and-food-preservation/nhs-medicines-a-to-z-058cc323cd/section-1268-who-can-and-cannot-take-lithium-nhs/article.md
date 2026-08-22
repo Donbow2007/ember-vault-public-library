@@ -1,0 +1,7 @@
+# Who can and cannot take lithium - NHS
+
+Who can and cannot take lithium - Brand names: Priadel, Camcolit, Liskonum, Li-Liquid Who can take lithium Most adults and children aged 12 years old and over can take lithium. Who may not be able to take lithium Lithium may not be suitable for some people. To make sure it's safe for you, tell your doctor before starting to take it if you: have ever had an allergic reaction to lithium or other medicine have heart disease have severe kidney problems have an underactive thyroid gland (hypothyroidism) that is not being treated have low levels of sodium in your body – this can happen if you're dehydrated or if you're on a low-sodium (low-salt) diet have Addison's disease , a rare disorder of the adrenal glands have a rare heart condition called Brugada syndrome , or someone in your family has this condition need to have surgery are trying to get pregnant, or are already pregnant or breastfeeding Before prescribing lithium, your doctor will do some blood tests to check your kidneys and thyroid are OK. They'll also check your weight and continue to check it throughout your treatment. If you have a heart condition, the doctor may also do a test that measures the electrical activity of your heart (electrocardiogram).
+Page last reviewed: 9 August 2023
+
+Next review due: 9 August 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

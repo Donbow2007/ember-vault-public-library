@@ -1,0 +1,25 @@
+{
+  "id": "f9345d5b-5fcf-43ba-b63d-9a3fed656b13",
+  "slug": "section-0650-dihydrocodeine-medicine-for-treating-moderate-to-severe-pain-nhs",
+  "title": "Dihydrocodeine: medicine for treating moderate to severe pain - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "d4312241b32dc9062cc622d36904017e145a0fa7a8194a0b1108011c3e52787a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 650,
+    "content_hash": "f6a100284367ecd2becbeb985522016714971ead09e1289eefe78aa06c2f7d38",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

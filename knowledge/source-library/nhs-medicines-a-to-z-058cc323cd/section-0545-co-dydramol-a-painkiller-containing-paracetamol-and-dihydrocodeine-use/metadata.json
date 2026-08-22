@@ -1,0 +1,25 @@
+{
+  "id": "8a6392fe-bd5d-40e4-8fa1-ff6af4aeb4e6",
+  "slug": "section-0545-co-dydramol-a-painkiller-containing-paracetamol-and-dihydrocodeine-use",
+  "title": "Co-dydramol: a painkiller containing paracetamol and dihydrocodeine, used to treat headaches, joint pain and other aches",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "3a820d36c8522c4b64e4d4e7b740f7cc65d159a3cee869035d6217e14fa9f77d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 545,
+    "content_hash": "5fefc2f0702b7b1e1d77d7b04c73c7cc43b4616b7176724438de237915a3ead3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

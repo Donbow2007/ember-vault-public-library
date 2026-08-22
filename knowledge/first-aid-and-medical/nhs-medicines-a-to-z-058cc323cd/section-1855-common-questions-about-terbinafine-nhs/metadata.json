@@ -1,0 +1,25 @@
+{
+  "id": "dafc23a0-89ee-4e00-928c-e5de9a0052ce",
+  "slug": "section-1855-common-questions-about-terbinafine-nhs",
+  "title": "Common questions about terbinafine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "1fcdeb5b53dac559cd51c45355aca762dcc6c271b7c304538edb00e0297b36db",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1855,
+    "content_hash": "2c4a9a973d44663683fc4709fd2113c35760564ca36178a065d04357db8912c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

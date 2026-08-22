@@ -1,0 +1,25 @@
+{
+  "id": "b08d2bd7-d9c1-49bc-abc2-0d88dd968f58",
+  "slug": "section-0586-about-cyanocobalamin-nhs",
+  "title": "About cyanocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "176e06c892089885e0019dab51c00cf26c705b961a120b40a2c0debc09081b08",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 586,
+    "content_hash": "676c70f302fc23c1d24bf8f3ea2b9659779fc070ececb862e17cb4ce41669822",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

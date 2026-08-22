@@ -1,0 +1,25 @@
+{
+  "id": "8e45e98d-b101-4000-a357-21dee0419403",
+  "slug": "section-1926-about-trastuzumab-nhs",
+  "title": "About trastuzumab - NHS",
+  "category": "tools-repair-and-construction",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "d0a9d0dbdcd240f5fc272af87fbc232451c84ff46a4bb53bb4c9db6f9e34fa49",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1926,
+    "content_hash": "4e987ddfa7e7773495d4fe1225bf9e493e729dc15c9d3ac8c4ca73d17613e1c0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

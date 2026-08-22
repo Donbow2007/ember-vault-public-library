@@ -1,0 +1,22 @@
+# Common questions about Pepto-Bismol - NHS
+
+Common questions about Pepto-Bismol - Other brand names: Pepti-Calm
+How does Pepto-Bismol work?
+It's not fully understood how Pepto-Bismol works. The medicine forms a protective coating over the lower part of your food pipe (oesophagus), and in your stomach and gut. This helps protect them from stomach acid and eases feelings of pain and discomfort.
+When will I feel better?
+Pepto-Bismol should work within 30 to 60 minutes. You can have another dose after 30 to 60 minutes, if you need to. You can take up to 8 doses in 24 hours.
+Are there other indigestion medicines?
+There are a number of different medicines for indigestion and heartburn . Antacids contain ingredients like calcium carbonate (Tums), magnesium hydroxide (Milk of Magnesia), aluminium hydroxide or sodium alginate. Some contain combinations of these ingredients (for example Maalox, Rennies and Gaviscon ). Antacids relieve indigestion and heartburn by counteracting (neutralising) the reducing the damage of acid in your stomach. They work quickly and make you feel better for a few hours. They're ideal if you occasionally get stomach acid problems. You can get antacids from pharmacies and supermarkets. Proton pump inhibitors (PPIs) reduce the amount of acid your stomach makes. Most PPIs are available on prescription only. They include omeprazole , esomeprazole and lansoprazole . You can buy the lowest-strength omeprazole and esomeprazole from pharmacies. H2 blockers (histamine antagonists) reduce the amount of acid made in your stomach, but they do this in a different way to PPIs. For example, your doctor might prescribe cimetidine (Tagamet), famotidine (Pepcid) or nizatidine (Axid). You can also buy famotidine from pharmacies.
+Will it affect my contraception?
+Pepto-Bismol does not affect any type of contraception, including the combined pill , progestogen-only pill and emergency contraception . But if Pepto-Bismol is not working for you and you're being sick, your contraceptive pills may not protect you from pregnancy. Check the pill packet to find out what to do. Find out more: What to do if you're sick or have diarrhoea when taking the combined pill What to do if you're sick or have diarrhoea when taking the progestogen-only pill
+Can I drive or ride a bike?
+Taking Pepto-Bismol will not usually affect your ability to drive a car or ride a bike. However, taking too much Pepto-Bismol can make you feel confused, tired or dizzy. It can also affect your hearing or cause ringing or buzzing in your ears. If you have any of these symptoms, do not drive or ride a bike until you feel OK again. It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive. Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking Pepto-Bismol. GOV.UK has more information on the law on drugs and driving .
+Can I drink alcohol while taking Pepto-Bismol?
+Alcohol does not affect the way Pepto-Bismol works. However, drinking alcohol makes your stomach produce more acid than normal. This can irritate your stomach lining and make your symptoms worse. If you have diarrhoea, drinking alcohol may make you more dehydrated. It's best to avoid alcohol until your symptoms are better.
+Is there any food or drink I need to avoid?
+You can eat and drink normally while taking Pepto-Bismol. However, it's best to avoid foods that seem to make your indigestion worse, like rich, spicy and fatty foods. Try to cut down on caffeinated drinks, such as tea, coffee, cola and energy drinks. Reduce or try to avoid alcohol.
+Can lifestyle changes help ease stomach acid?
+Making a few changes to your diet and lifestyle may help if you have problems caused by too much stomach acid. It can help if you: keep to a healthy weight or lose weight if you need to – extra weight can put pressure on your stomach and make acid reflux worse do not eat foods that can make your symptoms worse, including rich, spicy and fatty foods, and acidic foods like tomatoes, citrus fruits, salad dressings and fizzy drinks cut down on caffeinated drinks, such as tea, coffee, cola and energy drinks cut down on alcohol try not to eat for at least 3 hours before you go to bed prop your head and shoulders up when you go to bed – this can stop stomach acid coming up while you sleep quit smoking – you can call the NHS Stop Smoking Helpline on 0300 123 1044
+Page last reviewed: 3 August 2022
+
+Next review due: 3 August 2025

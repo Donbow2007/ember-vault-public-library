@@ -1,0 +1,25 @@
+{
+  "id": "57310be8-e11b-4c2f-824b-4dbb8a6936e1",
+  "slug": "section-0295-side-effects-of-budesonide-rectal-foam-and-enemas-nhs",
+  "title": "Side effects of budesonide rectal foam and enemas - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "ad85d98d40a21e9d33aa46496a4c5e67b516bcbecd890d723c17d7da5803cfdf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 295,
+    "content_hash": "aa2625dece5a6b25584cfee41397ade56cf9f22cc2fe51e99172a2f1d940132c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5d1d8bf8-3449-46c8-acc3-c80c856507da",
+  "slug": "section-0732-about-empagliflozin-nhs",
+  "title": "About empagliflozin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "48359996496afbf4649daef1fa4585db285cfe2878708694f1b0a2c3aee5398f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 732,
+    "content_hash": "5715e7c4626f3f05f02b5883ce04ea9e8a3560a1053cfed32f5031c1946152eb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

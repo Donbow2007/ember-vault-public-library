@@ -1,0 +1,25 @@
+{
+  "id": "731f9c48-857a-4c7a-b913-b1404a80e519",
+  "slug": "section-0130-about-atenolol-nhs",
+  "title": "About atenolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "887ab6d86452a83f0239d04ffcb5720676dd4c73e043676c2c9e1f1f95dff73a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 130,
+    "content_hash": "cbb3d5ca542a553f7730ffa3c2d6d68c359ae41f1e8ca6dedfe370537115180c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

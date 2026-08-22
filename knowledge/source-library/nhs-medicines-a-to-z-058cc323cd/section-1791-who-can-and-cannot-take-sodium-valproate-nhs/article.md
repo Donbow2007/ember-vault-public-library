@@ -1,0 +1,7 @@
+# Who can and cannot take sodium valproate - NHS
+
+Who can and cannot take sodium valproate - Brand names: Dyzantil, Epilim, Episenta, Epival Who can take sodium valproate Most adults can take sodium valproate to treat epilepsy or bipolar disorder or help prevent migraine . Most children can take sodium valproate to treat epilepsy. Who may not be able to take sodium valproate Girls and women who need to take sodium valproate must be enrolled on Prevent, the valproate pregnancy prevention programme. Speak to your doctor about this. Sodium valproate may affect fertility in men. There may also be a small chance of learning or behavioural problems in the baby if you are taking sodium valproate and your partner becomes pregnant. For these reasons, doctors may recommend different treatments for men who could possibly have children, or in those planning to try for a baby. To make sure sodium valproate is safe for you, tell your doctor if you: have ever had an allergic reaction to sodium valproate or any other medicine have liver problems have a rare metabolic or genetic condition such as porphyria, urea cycle disorder, mitochondrial disorder or primary carnitine deficiency Information: Find out more Valproate guide for women (PDF only, 495 KB) Valproate guide for men (PDF only, 222 KB)
+Page last reviewed: 11 March 2025
+
+Next review due: 11 March 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "746858f9-2e63-4930-8a09-738f10123203",
+  "slug": "section-1113-common-questions-about-intermediate-acting-insulin-nhs-part-1",
+  "title": "Common questions about intermediate-acting insulin - NHS — Part 1",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "3c02813703c33cd99879e3b0fe50dacc5dea2f30f6cf4c3b83435b1bbd2b4062",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1113,
+    "content_hash": "c23bc5c0df61aa864967b5da7fbecd1a9ea44c82eb9d69c7c55fd1594d1fda64",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

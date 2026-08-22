@@ -1,0 +1,25 @@
+{
+  "id": "c1547031-0cd3-4bf9-bbf3-bea125e3b27a",
+  "slug": "section-0882-using-fluticasone-skin-creams-with-other-medicines-and-herbal-suppleme",
+  "title": "Using fluticasone skin creams with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "672ee045325e3b4ee39d05cde73643e497a2bad4ab48a3a6caeafee2130de0fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 882,
+    "content_hash": "d9712a66340babe8e570bc6f07ada4547babd6b620439788ed983a4d8238d33c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

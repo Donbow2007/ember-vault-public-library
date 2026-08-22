@@ -1,0 +1,25 @@
+{
+  "id": "8ea6c417-7d01-4ce7-b013-a173444e1f8d",
+  "slug": "section-1038-who-can-and-cannot-have-hydrocortisone-injections-nhs",
+  "title": "Who can and cannot have hydrocortisone injections - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "56ded77ec754d8d84fd69eb346ed4baffdcb036efac51e1c7808fe95bb60424d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1038,
+    "content_hash": "76080e4c46d99983a5ee3516513e3e086c65376c6bff8fc4d7fb8c609357d66f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

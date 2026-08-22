@@ -1,0 +1,25 @@
+{
+  "id": "892e5293-f758-4f12-9214-15c451c7533f",
+  "slug": "section-0791-pregnancy-breastfeeding-and-fertility-while-taking-felodipine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking felodipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "6a62785726cdebfbaad20d631973a11064d1ef01c40af2e6f991b96715100840",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 791,
+    "content_hash": "8eca43e18a6b02747b1caa49458d8cfda7e0c8da40ddef2cbccf09d7285f1697",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5de79bc4-aea7-4631-a2f6-884afd60b571",
+  "slug": "section-0287-fall-vegetable-and-chickpea-curry",
+  "title": "Fall Vegetable and Chickpea Curry",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "1edfd8d22a47236bf9d7f7a34c10b3f679358171093448c1e8059119c460ef79",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 287,
+    "content_hash": "b2bb4a8adbe54a4fef2226835c21a9eabd269644e8c673e6cbd26caf516b76cc",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

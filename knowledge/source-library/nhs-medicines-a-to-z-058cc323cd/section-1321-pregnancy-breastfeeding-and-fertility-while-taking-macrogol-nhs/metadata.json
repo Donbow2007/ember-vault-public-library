@@ -1,0 +1,25 @@
+{
+  "id": "267eab2b-3de2-49c3-91c5-909f42ca6bb4",
+  "slug": "section-1321-pregnancy-breastfeeding-and-fertility-while-taking-macrogol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking macrogol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "80fc01aed73ed4d844daa95d25c1bda3c36bb21aa93dac2c020535515187958e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1321,
+    "content_hash": "2fcf8c32716cb1f3ae20e74c92c76a84354cf9b7e2f2dada7bcee01a3c752b7d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

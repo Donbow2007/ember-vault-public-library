@@ -1,0 +1,25 @@
+{
+  "id": "353dec7f-85cd-4e1e-a55d-55cd178c0eb0",
+  "slug": "section-1476-who-can-and-cannot-use-mometasone-nasal-spray-nhs",
+  "title": "Who can and cannot use mometasone nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "50945758b83e6d687d500a5622511660ab81d7b3af0853d4f59631ffc7cb66aa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1476,
+    "content_hash": "15a963d85d81d9dd1b3c3ed247abf085cfc03d418c33a4b596197e836af2eec9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

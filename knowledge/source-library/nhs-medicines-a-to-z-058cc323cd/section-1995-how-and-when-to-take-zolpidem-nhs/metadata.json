@@ -1,0 +1,25 @@
+{
+  "id": "a63cba05-68d9-4879-9372-f8a3fc503f60",
+  "slug": "section-1995-how-and-when-to-take-zolpidem-nhs",
+  "title": "How and when to take zolpidem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "64f6b47c697e20558c7ad1b50b9191a6ef8ac829a7f9bf8ad44c328a20be7817",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1995,
+    "content_hash": "fe466e4797d1696ed2fccbd8f4784af783f04895025fe14d40b76178eb4e66a1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

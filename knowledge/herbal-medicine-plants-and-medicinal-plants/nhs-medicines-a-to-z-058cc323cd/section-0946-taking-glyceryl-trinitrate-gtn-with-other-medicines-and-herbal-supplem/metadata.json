@@ -1,0 +1,25 @@
+{
+  "id": "69383dc9-aafb-4e30-961b-b359feaaffd4",
+  "slug": "section-0946-taking-glyceryl-trinitrate-gtn-with-other-medicines-and-herbal-supplem",
+  "title": "Taking glyceryl trinitrate (GTN) with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "2a1cdce4564f1b9d7bef381bff41d12a0f49a2e34bbb275be21f0b4f2b8045da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 946,
+    "content_hash": "60d61658fc6a955d6248beef1fe256de78fef02b19bb8a2cffa1b82a1825e190",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

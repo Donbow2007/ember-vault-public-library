@@ -1,0 +1,25 @@
+{
+  "id": "d98a5d83-7a6d-49df-8686-580fd1ad0626",
+  "slug": "section-1073-ibuprofen-and-codeine-combination-painkiller-that-treats-different-typ",
+  "title": "Ibuprofen and codeine: combination painkiller that treats different types of aches and pains - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "73ad35ff185a483918ffcf03c4f8c240c5f857b1419550d24c872b650ee8473b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1073,
+    "content_hash": "bc93637e6c275579fb04d879c2f9a0358d90f70770d2e84005168166b7aec401",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

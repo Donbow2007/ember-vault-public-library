@@ -1,0 +1,25 @@
+{
+  "id": "84258d1c-a680-41a4-a808-1c03b88c685a",
+  "slug": "section-0775-pregnancy-breastfeeding-and-fertility-while-taking-esomeprazole-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking esomeprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "1e9591a8826202638ef406bcb29a5f25cfe90af7dd7c16c4e7aadefd595183bc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 775,
+    "content_hash": "950431a6e661d7d8331c4919d1f48daa43f9e3797141cec971e867158305cc44",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

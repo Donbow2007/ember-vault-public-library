@@ -1,0 +1,25 @@
+{
+  "id": "effddfb0-1c3e-4252-9aa7-a030f841d63a",
+  "slug": "section-0653-tag-roast",
+  "title": "Tag: roast",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6e839810a256ba2393c9105173551aa0ffe76f2ded1883f372e475b1a3e766fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 653,
+    "content_hash": "a6845207c9263c827608d3db38ecd111a06f9da34fe698a08a3f0033c7e3ddf7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

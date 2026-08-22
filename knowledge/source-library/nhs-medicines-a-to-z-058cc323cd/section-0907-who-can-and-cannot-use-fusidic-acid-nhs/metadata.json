@@ -1,0 +1,25 @@
+{
+  "id": "fdddc07a-5517-44e4-baa9-0380b247aea6",
+  "slug": "section-0907-who-can-and-cannot-use-fusidic-acid-nhs",
+  "title": "Who can and cannot use fusidic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "93cf2024b432c37cd3475117a927ea7e068ba796bc82e27acbbfa81ef26f8393",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 907,
+    "content_hash": "d86479adb028715aee7276c58a9212880e3d35d703d5e8ef081b0d6704abeeee",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

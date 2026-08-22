@@ -1,0 +1,25 @@
+{
+  "id": "3318e4f7-689b-4320-99c3-4da1f84792d0",
+  "slug": "section-0501-zopf",
+  "title": "Zopf",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "925864b62a7d565dfc644bf10c9744711a94344b24529c633fbab933c62dcd69",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 501,
+    "content_hash": "38734c32f8b0b052443a7347fd917575134f419a0b97a90b0a6ab4d4608ee883",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

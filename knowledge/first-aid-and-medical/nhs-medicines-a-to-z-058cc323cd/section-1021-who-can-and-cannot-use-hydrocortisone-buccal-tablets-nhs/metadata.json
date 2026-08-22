@@ -1,0 +1,25 @@
+{
+  "id": "232afd95-0a7b-4677-836a-08b13266cbf1",
+  "slug": "section-1021-who-can-and-cannot-use-hydrocortisone-buccal-tablets-nhs",
+  "title": "Who can and cannot use hydrocortisone buccal tablets - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "65659dbfcaa5c477235414248ca9dd53fbcbac2d122a758005fe2d37aa6fda51",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1021,
+    "content_hash": "6aadcaadc4212e99706f0f0d097f2036ec491c574323c30079ca5a7171c44180",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

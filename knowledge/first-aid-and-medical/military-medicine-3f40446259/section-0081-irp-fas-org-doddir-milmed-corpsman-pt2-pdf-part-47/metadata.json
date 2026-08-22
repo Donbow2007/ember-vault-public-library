@@ -1,0 +1,25 @@
+{
+  "id": "db1eafbc-6cc8-4c29-a231-1f3387675a9b",
+  "slug": "section-0081-irp-fas-org-doddir-milmed-corpsman-pt2-pdf-part-47",
+  "title": "irp.fas.org/doddir/milmed/corpsman-pt2.pdf — Part 47",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "37ff2fd0382b4f0a4b3692ee753dfba68c89ebe574996b64dee52d6af2efe54f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 81,
+    "content_hash": "e0c3266282403f6c03314ab7d894fb47e893d91089fb47dd42ae6a5163f74cc2",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

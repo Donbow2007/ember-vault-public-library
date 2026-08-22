@@ -1,0 +1,25 @@
+{
+  "id": "66e8fe5c-692b-4f4e-83b9-83c9e1292ec3",
+  "slug": "section-0172-torta-frita-criolla-argentinian-frybread",
+  "title": "Torta Frita Criolla (Argentinian frybread)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "8fef3557fd7b1b6155ab0c2b891c41f03c724fc6caa3316e578fcad4a648aa8c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 172,
+    "content_hash": "7a9fd7a93e894b7574ea2e42f763772d23f34f0f9c9f6990a0dd9af032ec8df3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

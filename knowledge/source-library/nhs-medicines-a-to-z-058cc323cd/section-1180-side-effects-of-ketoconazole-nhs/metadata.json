@@ -1,0 +1,25 @@
+{
+  "id": "b7618084-0852-44cf-8592-f3805d8038ee",
+  "slug": "section-1180-side-effects-of-ketoconazole-nhs",
+  "title": "Side effects of ketoconazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "0502c5ef9ce4aa5b1f9c4d68b79b1a2e756d1e7ef913fa9b29dda4db0b51f854",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1180,
+    "content_hash": "5905e16693b5adef577439b5d2c315b6cfec26f81608e6c52cbb97303b8b771f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

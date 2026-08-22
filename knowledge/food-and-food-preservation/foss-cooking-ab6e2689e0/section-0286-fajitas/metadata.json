@@ -1,0 +1,25 @@
+{
+  "id": "ecb13c80-3657-478f-b065-5518048c35c2",
+  "slug": "section-0286-fajitas",
+  "title": "Fajitas",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "b962021279167bf4de3995f00dc42ae2e6671de3f6e5387ada88415824eea6bd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 286,
+    "content_hash": "863d3f99f658fd77a0c97c7e5acf93b35b2b786f0a43cc42c40a9db0316f6746",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f2092a96-bc5d-4da4-946d-5652cfea616f",
+  "slug": "section-0024-side-effects-of-adalimumab-nhs",
+  "title": "Side effects of adalimumab - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "8e62f6ffc0faafd4742b570f16b8f820325c7f3c4f6837cdf21b03672e81f35c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 24,
+    "content_hash": "2b7d1c5f3751c81180ba988e2997569e3f4f926a4766d29b51485fa25445e1b2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6c6a86c0-bd36-4d27-952d-bee54053da18",
+  "slug": "section-1478-about-montelukast-nhs",
+  "title": "About montelukast - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "8e3b66b8a6d8b80d9ab6525b31f2a0998a3023b2fb1dc9b6b71e09ec65d02337",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1478,
+    "content_hash": "ee3a89b84e8dbed540684c5472e64b1433d52ecde9358eea0541d5b0ae15a9f2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

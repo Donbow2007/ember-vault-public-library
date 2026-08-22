@@ -1,0 +1,25 @@
+{
+  "id": "fa1628cd-f7fa-4046-955a-33afa29ef38a",
+  "slug": "section-0878-common-questions-about-fluticasone-skin-creams-nhs",
+  "title": "Common questions about fluticasone skin creams - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "b25da3c37f9b88af15cf1fc913a4048ae7d2ed79eb860cccd862d03a16ce4855",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 878,
+    "content_hash": "49763bb96f8429cbaa7e294bd0bbe34c67df3da7b1cc9d43b6da304c987644a1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

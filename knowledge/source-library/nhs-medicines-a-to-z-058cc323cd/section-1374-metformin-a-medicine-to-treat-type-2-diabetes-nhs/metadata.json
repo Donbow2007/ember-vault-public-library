@@ -1,0 +1,25 @@
+{
+  "id": "fda66256-3f7f-4399-bf2b-a885a7967992",
+  "slug": "section-1374-metformin-a-medicine-to-treat-type-2-diabetes-nhs",
+  "title": "Metformin: a medicine to treat type 2 diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "43b698345a87ddf0625731d439e08e59567d768d6e495eadb4ccdcbc65245ec5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1374,
+    "content_hash": "88f5c4543eb45ef8e7812ed6e55a3d0c8713f18e14d85679d48c956f35b02037",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

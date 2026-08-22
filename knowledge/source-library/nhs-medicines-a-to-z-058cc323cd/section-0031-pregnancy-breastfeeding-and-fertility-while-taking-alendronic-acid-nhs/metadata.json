@@ -1,0 +1,25 @@
+{
+  "id": "dad9a0b7-8fd7-43a7-96b3-c85b5790803c",
+  "slug": "section-0031-pregnancy-breastfeeding-and-fertility-while-taking-alendronic-acid-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking alendronic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "ab82f0f1d4c3e0c1bf93d9804e50ce1e41acf8885857fecc4e37de2c6a1b23e3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 31,
+    "content_hash": "1f6ec2ed89b6f89f60999f032814a48aca5944c7e2664c4a7e784f72fecf9f8f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

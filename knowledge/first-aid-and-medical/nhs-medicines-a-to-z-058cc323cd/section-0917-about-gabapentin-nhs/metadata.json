@@ -1,0 +1,25 @@
+{
+  "id": "7a116e15-bceb-4b04-aa8a-043a999ebd9c",
+  "slug": "section-0917-about-gabapentin-nhs",
+  "title": "About gabapentin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "dcff371a409cf39f57b361fa135f93b74caf2875e99506d90e0707753a2580fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 917,
+    "content_hash": "6250717c0418d874cd3cfe099c92ac537821e9a23636847697514f75e6e1c555",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

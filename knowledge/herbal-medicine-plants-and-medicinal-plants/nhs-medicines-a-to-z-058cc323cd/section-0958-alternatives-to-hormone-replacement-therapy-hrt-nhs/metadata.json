@@ -1,0 +1,25 @@
+{
+  "id": "d2dd40e9-5b13-487a-b5a4-9295bd440ad0",
+  "slug": "section-0958-alternatives-to-hormone-replacement-therapy-hrt-nhs",
+  "title": "Alternatives to hormone replacement therapy (HRT) - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "073a3d2f632b5b49b53369993242caa2153a0c17a9bd83826df0a5eed3592371",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 958,
+    "content_hash": "3ac8de035cc6d8621e9be50bed3dd7aee5b3be45e960fecf93e04c10375ea45d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

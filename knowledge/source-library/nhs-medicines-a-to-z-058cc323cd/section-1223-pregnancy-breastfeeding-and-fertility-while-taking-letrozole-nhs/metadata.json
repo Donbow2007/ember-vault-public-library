@@ -1,0 +1,25 @@
+{
+  "id": "5a6427ba-0398-4fc9-abc6-dfeeef2b693b",
+  "slug": "section-1223-pregnancy-breastfeeding-and-fertility-while-taking-letrozole-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking letrozole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "d945387de1bcd133db161a2156a6b75460f1cfa7d07fb7ced359f485225563e2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1223,
+    "content_hash": "50357023f61e5e256fe2dafaf2201b62ee3961897a5274b887db748060201d11",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

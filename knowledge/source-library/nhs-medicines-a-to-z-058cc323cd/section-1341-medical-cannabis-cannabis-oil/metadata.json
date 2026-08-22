@@ -1,0 +1,25 @@
+{
+  "id": "271aaba0-93eb-4472-af2a-9e3fd2271782",
+  "slug": "section-1341-medical-cannabis-cannabis-oil",
+  "title": "Medical cannabis (cannabis oil)",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "35f9c374d222be758e5d08553580e644ea24b0ce381ff078b1b594ac849bd02d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1341,
+    "content_hash": "ec8cb4a4f76bed2e4835079f90ebb8936ed05229d8ab187ab4b759c4155fc9d5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

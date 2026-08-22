@@ -1,0 +1,25 @@
+{
+  "id": "da1813fa-6429-434c-b9f0-2cd3f2ba779e",
+  "slug": "section-0237-how-and-when-to-use-betamethasone-for-skin-nhs",
+  "title": "How and when to use betamethasone for skin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "0689f0051ade23595fa9e38bcc746d5313900b54d7b737fdb22bbcb5b44cc95b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 237,
+    "content_hash": "150e13732550ee09b6fffedf1a6b874095b0b69422c000e01f727df126390dfb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

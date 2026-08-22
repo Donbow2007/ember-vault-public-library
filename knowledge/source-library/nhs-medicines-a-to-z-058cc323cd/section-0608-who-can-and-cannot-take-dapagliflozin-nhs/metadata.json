@@ -1,0 +1,25 @@
+{
+  "id": "29c6c4bd-06f3-408e-86e5-d3a93ada7c5e",
+  "slug": "section-0608-who-can-and-cannot-take-dapagliflozin-nhs",
+  "title": "Who can and cannot take dapagliflozin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "99704d720890f4e7d86db92779efc2c12949e878b437c7c3c356cb8e780ea2eb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 608,
+    "content_hash": "b5bdf444c8b558cbdedf5dc2ba8a41ca07cbe105e5e952259d688d41fa99108b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

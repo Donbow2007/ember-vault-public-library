@@ -1,0 +1,25 @@
+{
+  "id": "a7aa9434-6399-4cfd-a057-6b995cf9fe7e",
+  "slug": "section-0291-ham-and-lentil-soup",
+  "title": "Ham and Lentil Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "d424369b9b62e4ed8683c0ee45cf7fc7cf3ae9299c111ed1eddc584bd0d9184e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 291,
+    "content_hash": "e45ff64f8b328a9c863e7a34bdd358e9bfbde7a43256c1ba6f1df6480ce89490",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

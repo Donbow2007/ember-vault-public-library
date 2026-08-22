@@ -1,0 +1,25 @@
+{
+  "id": "c329eb03-0b55-4451-8a10-0b7ac37e5ffa",
+  "slug": "section-0090-who-can-and-cannot-take-anastrozole-nhs",
+  "title": "Who can and cannot take anastrozole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "b61f281723631281023ac16202d88638facaeaf1236c7885915f0def359af2ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 90,
+    "content_hash": "3f8d0d4b6190913156c4dc68ebf1bdba571650ae8b8676f59e2c1848b5c93b3e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

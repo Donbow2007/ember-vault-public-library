@@ -1,0 +1,25 @@
+{
+  "id": "b9b422ea-8907-408b-8221-9175f53dc602",
+  "slug": "section-1258-side-effects-of-lisinopril-nhs",
+  "title": "Side effects of lisinopril - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "43a2933a0e297451f32903314f0e1f9bd84ff94e4b4ea7c2afbf4729510a53a9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1258,
+    "content_hash": "a63667efca9dad4029e2b9ae30528669628ab675ef69ad87fea408f6d78f6a4b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

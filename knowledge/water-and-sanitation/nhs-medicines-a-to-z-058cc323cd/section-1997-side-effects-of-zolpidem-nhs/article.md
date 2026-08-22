@@ -1,0 +1,24 @@
+# Side effects of zolpidem - NHS
+
+Side effects of zolpidem
+
+Like all medicines, zolpidem can cause side effects in some people, although not everyone gets them. Common side effects These common side effects of zolpidem happen in more than 1 in 100 people. There are things you can do to help cope with them:
+A bitter or metallic taste in your mouth or a dry mouth
+Using a mouthwash before bedtime may help. Ask a pharmacist to recommend one that's good for a dry mouth, as some can make a dry mouth worse. You can also try taking sips of water and keep some water by your bed at night.
+Feeling sleepy or tired the next day
+Do not drive, cycle or use tools or machinery if you're feeling this way. Do not drink any alcohol as it will make you feel more tired.
+Headaches
+Make sure you rest and drink plenty of fluids. Do not drink alcohol. Ask your pharmacist to recommend a painkiller. Talk to your doctor if headaches last longer than a week or are severe.
+Feeling dizzy
+Stop what you're doing and sit or lie down until you feel better. Drink plenty of fluids, especially water. Do not drink alcohol. Avoid coffee, cigarettes and drugs. Do not drive, cycle or use tools or machinery until you feel better.
+Feeling or being sick (nausea or vomiting)
+Stick to simple meals and do not eat rich or spicy food. Get plenty of fresh air and take regular sips of a cold drink such as water. Speak to a pharmacist if you have signs of dehydration , such as peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat vomiting without speaking to a pharmacist or doctor. If you take contraceptive pills and you're being sick your contraception may not protect you from pregnancy. Check the pill packet for advice.
+Diarrhoea
+Drink lots of fluids, such as water or squash, to avoid dehydration . Speak to a pharmacist if you have signs of dehydration, such as peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat diarrhoea without speaking to a pharmacist or doctor. If you the combined pill or the progestogen-only pill and you have severe diarrhoea for more than 24 hours, your contraception may not protect you from pregnancy. Check the pill packet for advice.
+Back pain
+Try to stay active and continue with your daily activities. Do not stay in bed for long periods of time. Try doing some exercises and stretches for back pain. Ask your pharmacist to recommend a painkiller. Talk to your doctor if the back pain is severe, or stopping you from doing your day-to-day activities, or if it does not get better after a few weeks, or it's getting worse over time. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects Some people can get serious side effects with zolpidem. Stop taking zolpidem and call a doctor or call 111 as soon as possible if you: develop memory loss (amnesia) see or hear things that are not real ( hallucinations ) fall over – particularly if you're over the age of 65 think things that are not true – these are called delusions feel low or sad – this could be a sign of depression Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to zolpidem. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of zolpidem. For a full list, see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 10 January 2023
+
+Next review due: 10 January 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

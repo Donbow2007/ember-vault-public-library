@@ -1,0 +1,25 @@
+{
+  "id": "4a2193f4-549a-4a0f-922e-92efadef5e66",
+  "slug": "section-0583-tag-drink",
+  "title": "Tag: drink",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "708694ca6290f1add7fc5a9504dde9d3af378b06377c6a6ab71168ee7dc96572",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 583,
+    "content_hash": "c690253508280f5bec9eb2216a7e88aae2ac956ec832a5839495363d51bee1f3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

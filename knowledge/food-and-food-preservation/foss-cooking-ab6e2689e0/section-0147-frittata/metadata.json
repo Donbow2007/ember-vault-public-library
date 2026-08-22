@@ -1,0 +1,25 @@
+{
+  "id": "5969e381-1f8e-482c-9b29-96c88fe4cfb1",
+  "slug": "section-0147-frittata",
+  "title": "Frittata",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "77c84ecb3fafed96fdcf42688366de4606fa7c220c0f8861422f5e7e73a23549",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 147,
+    "content_hash": "0d776a4e19bb2ec5df915aae3e78fc20138b5a257c8193186b5b44bff73d7d60",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c547c29f-5a15-4972-8214-32c4f6386393",
+  "slug": "section-1913-pregnancy-breastfeeding-and-fertility-while-taking-tramadol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking tramadol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "4a7cde3715c611d4a917eed026867141f6347ad4d5b06699c68d7ce24a0f1fbd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1913,
+    "content_hash": "3e9d32fa3f618a88aa68920d64d9be620ed564cc8339ee6f960cee828bd2ae65",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

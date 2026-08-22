@@ -1,0 +1,25 @@
+{
+  "id": "ad40c7c1-4871-404f-af2a-4d685a72b855",
+  "slug": "section-0001-home",
+  "title": "Home",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "e9c5ff57f41efb5e4fb97e9dbca4467845335e8c0a6b5194b641269998fd52b7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 1,
+    "content_hash": "76922d445b4c74b79c0b3a940d8cf081eebf2b5e288a62696dada7009d4fad69",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1b318d17-da7c-4f07-af6d-46a3ac3b1354",
+  "slug": "section-1163-pregnancy-breastfeeding-and-fertility-while-taking-isosorbide-mononitr",
+  "title": "Pregnancy, breastfeeding and fertility while taking isosorbide mononitrate and isosorbide dinitrate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "3fc4281660ecc40019e6dbb3aa28a7497fb2f7382d9799ecdde8aaaf48ca3427",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1163,
+    "content_hash": "5aab75739d424b1b0f7b604a906e85f749481de878e0a6ed28aea38a40552554",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

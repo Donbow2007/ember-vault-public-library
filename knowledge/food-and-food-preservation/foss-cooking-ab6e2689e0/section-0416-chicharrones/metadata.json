@@ -1,0 +1,25 @@
+{
+  "id": "8a91c810-6e02-4186-881b-465d54710c84",
+  "slug": "section-0416-chicharrones",
+  "title": "Chicharrones",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "2bc67de6c9683a81171515191c47979c962711ff094ff6bfb900507857e9a6ac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 416,
+    "content_hash": "78273ef2d8d886bde7e1845e4c6dfb6bfe6b51b76d4a08ab1b7daa534e529fe7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

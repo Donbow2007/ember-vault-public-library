@@ -1,0 +1,25 @@
+{
+  "id": "0fcdd786-a6b4-4dde-80aa-7a546c45e938",
+  "slug": "section-1902-about-topiramate-nhs",
+  "title": "About topiramate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "09efb8c3576de5e2579dfd396673f0b6e781829fe625a0ee4f4ffd87d1680cbe",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1902,
+    "content_hash": "db8319a6f58ea4d49f6544b9f629a3dc43ee7a33819b6af1022db630d3194c03",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

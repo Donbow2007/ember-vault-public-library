@@ -1,0 +1,25 @@
+{
+  "id": "913e88d2-79a9-4260-b7f7-edd9607d71f5",
+  "slug": "section-0753-taking-eplerenone-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking eplerenone with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "00703e14c8f6ac7114cbc24f9b86c4ae0538c1131ec8ecc9d112da9ceb4ecbfd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 753,
+    "content_hash": "f765ea81f8baef9242a2e30bf3d3988e1f371be1a91943cf9df78794d26f07a7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0b5f624c-61eb-4a17-9795-21610cd3f2bd",
+  "slug": "section-0439-lamb-biriyani",
+  "title": "Lamb Biriyani",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "27b5feeefb077711d5920f4a0b25d02bf17965173879358ece856dde2be09c18",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 439,
+    "content_hash": "74dbe6e1b6a647e5bb235400a68dccab7f08ca8f35a92d2d045a1cb7246826dd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2c3dd99d-30e1-4fd1-8e6b-34a66dab62dd",
+  "slug": "section-1574-who-can-and-cannot-take-oxycodone-nhs",
+  "title": "Who can and cannot take oxycodone - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "39bf7666fe53280ab804cd4e3c95c37d95a69b7c63c8224d41efc2f9e9802ed8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1574,
+    "content_hash": "0519e8fa1eb00a39cd22725ffc9b1c0390a70841e9012b1f1f13b0af226e7d5a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

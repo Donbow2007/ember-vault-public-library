@@ -1,0 +1,25 @@
+{
+  "id": "268c5889-96fd-4d13-92f4-a832325eeb3a",
+  "slug": "section-0920-pregnancy-breastfeeding-and-fertility-while-taking-gabapentin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking gabapentin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "bbe84726580d78460c1d17e31e21208ecb94a196d8088b75f2c3649b4d1abf00",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 920,
+    "content_hash": "07e6d665c91761fe7897220d444ca1247efbb3b2e9f27b4dc13c445bcb467b6f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

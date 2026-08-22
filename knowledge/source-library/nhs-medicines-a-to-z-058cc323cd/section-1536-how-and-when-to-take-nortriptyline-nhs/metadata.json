@@ -1,0 +1,25 @@
+{
+  "id": "c2a7ff28-d0ce-47df-b934-9a451a7679d4",
+  "slug": "section-1536-how-and-when-to-take-nortriptyline-nhs",
+  "title": "How and when to take nortriptyline - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "deccf9d8b334ca557f4091087bd0483cd93dbe2b0f57a29374925b29f52cef2c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1536,
+    "content_hash": "ba30ad542af78e08fb273481070ffeed61f80c4b3c0f31851d59dc7a38614bc3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

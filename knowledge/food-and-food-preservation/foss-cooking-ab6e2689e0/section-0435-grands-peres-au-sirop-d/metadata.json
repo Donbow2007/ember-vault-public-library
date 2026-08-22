@@ -1,0 +1,25 @@
+{
+  "id": "a1461e6f-067f-4bb3-8151-26668ee4e072",
+  "slug": "section-0435-grands-peres-au-sirop-d",
+  "title": "Grands-pères au sirop d",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "4ad58322a5c095abbe8799bc1f4df4ab881877a047954d7aa4602f316246644c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 435,
+    "content_hash": "ad24fff6edaec9ecc92d67ae8482e3412997ff15fdedbf82db92e943a9884dce",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

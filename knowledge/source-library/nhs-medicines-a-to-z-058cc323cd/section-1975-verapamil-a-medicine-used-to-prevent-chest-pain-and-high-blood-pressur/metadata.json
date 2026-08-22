@@ -1,0 +1,25 @@
+{
+  "id": "ba2e5397-4775-48e0-ae33-f4b7c4fecc5c",
+  "slug": "section-1975-verapamil-a-medicine-used-to-prevent-chest-pain-and-high-blood-pressur",
+  "title": "Verapamil: a medicine used to prevent chest pain and high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "205fa4c9f0f7ecd86a0900b9ad53b850aec0836536204754300ca05f0c6700e3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1975,
+    "content_hash": "d4da00c5b37fc29fe0874d660f4bca2456c0a685b502e3f8181652d3b811da08",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

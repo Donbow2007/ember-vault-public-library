@@ -1,0 +1,25 @@
+{
+  "id": "9f1c4645-dbb8-4bca-ab40-d140fae86fe9",
+  "slug": "section-1110-insulin-for-type-2-diabetes-nhs",
+  "title": "Insulin for type 2 diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "fb0d47119599990dd70a2d693bcb6f2bd493dfdffb023797811a87c38746df32",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1110,
+    "content_hash": "0245c2bb6c47091c156fb6c70da47c966309225cb2c5bf415a9d43bb52ae0112",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

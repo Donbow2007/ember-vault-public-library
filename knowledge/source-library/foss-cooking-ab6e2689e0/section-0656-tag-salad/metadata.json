@@ -1,0 +1,25 @@
+{
+  "id": "e79ff3fc-df48-433c-8d7e-bcaa93b9889c",
+  "slug": "section-0656-tag-salad",
+  "title": "Tag: salad",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "fb328ca5fada42f683423bc9f58a0dc29fc72c69825ef4e364ab7ac393ae34e3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 656,
+    "content_hash": "72d569990e90adbbb1e3b0f707184410d2847782c5bd59652b3e368c0f70c1cd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

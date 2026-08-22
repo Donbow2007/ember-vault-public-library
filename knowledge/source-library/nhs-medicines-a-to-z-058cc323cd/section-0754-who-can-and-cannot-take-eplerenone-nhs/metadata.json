@@ -1,0 +1,25 @@
+{
+  "id": "38039b9e-931e-4a6f-8682-12c78b37af6c",
+  "slug": "section-0754-who-can-and-cannot-take-eplerenone-nhs",
+  "title": "Who can and cannot take eplerenone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "3cc4dfa31170a12639c3e841d7bdc4a821f50e3db07a66e907cb12c7f1c397ce",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 754,
+    "content_hash": "3b8af3fcfbc798971d66645da5974f0a18be78da761e46a8caf00bd3975ac9ed",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

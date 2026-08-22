@@ -1,0 +1,25 @@
+{
+  "id": "6a3178e2-e7e1-45db-be8a-b4d82150187d",
+  "slug": "section-0208-hangover-eggs",
+  "title": "Hangover Eggs",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "cd0f54a33913ddfd9cf72a6276521e8e23d0dfd570c7f60f4d3e776ffc12906f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 208,
+    "content_hash": "42ac7012290dfca4a1b68d3661a68e438f7539d4edb202aa7141d830707d7551",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

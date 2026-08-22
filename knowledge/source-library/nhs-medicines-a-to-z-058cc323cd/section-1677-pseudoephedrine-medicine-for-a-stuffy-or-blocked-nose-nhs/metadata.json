@@ -1,0 +1,25 @@
+{
+  "id": "3f677a71-26bc-492d-95c9-6d86e0f45222",
+  "slug": "section-1677-pseudoephedrine-medicine-for-a-stuffy-or-blocked-nose-nhs",
+  "title": "Pseudoephedrine: medicine for a stuffy or blocked nose - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c3a886f3487a8ab5b996e23c51f6459e53238befd4fc25f17023b64d5f14627e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1677,
+    "content_hash": "e77bab6dc1b3d2fccc8d01db92f37e7e63c60512d328d665dc467df21a8879c9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

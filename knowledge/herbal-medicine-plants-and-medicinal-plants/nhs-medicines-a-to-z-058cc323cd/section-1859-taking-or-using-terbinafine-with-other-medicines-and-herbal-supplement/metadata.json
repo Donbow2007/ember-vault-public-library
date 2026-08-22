@@ -1,0 +1,25 @@
+{
+  "id": "26416b26-c340-4092-9822-9e72a4156338",
+  "slug": "section-1859-taking-or-using-terbinafine-with-other-medicines-and-herbal-supplement",
+  "title": "Taking or using terbinafine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "8ec5d38599706ccc383c9e74e17cbcb6af70420424614d843e174c7febe735ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1859,
+    "content_hash": "e778c8496138d7359c74eb38cb80daab1d0774acaf68a289a405534c0bd7e5c1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

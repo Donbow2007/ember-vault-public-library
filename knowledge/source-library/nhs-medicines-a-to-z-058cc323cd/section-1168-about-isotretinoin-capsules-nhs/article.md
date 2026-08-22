@@ -1,0 +1,8 @@
+# About isotretinoin capsules - NHS
+
+About isotretinoin capsules
+
+Isotretinoin capsules are a treatment for severe acne (spots). This medicine can have serious side effects, including side effects that can affect your mental health and sexual health. Isotretinoin capsules must be prescribed and supervised by a specialist doctor. The doctor will discuss the side effects with you and help you decide whether it's right for you before they prescribe it. Key facts Isotretinoin capsules start to work after a week to 10 days. At the beginning of treatment, your skin may get worse before it starts to improve. You will have a blood test before you start taking isotretinoin, and regular appointments and blood tests during your treatment to check for side effects. Your lips and skin may become very dry and sensitive to sunlight during treatment. Using lip balm, moisturisers and a high protection sunscreen may help. It's very important not to become pregnant while using isotretinoin capsules and for at least 1 month after stopping. This is because isotretinoin can harm an unborn baby. You'll be given a reminder card about this. If you become depressed or anxious or think about harming yourself while taking isotretinoin, stop taking the medicine and tell your doctor straight away. If you have symptoms of psychosis such as hallucinations (seeing or hearing things that are not there) or delusions (believing things that are not true), stop taking the medicine and tell your doctor straight away. Talk to your doctor if you develop problems with your sex life such as erection problems, reduced sex drive, vaginal dryness, loss of feeling in your genitals or difficulty reaching orgasm.
+Page last reviewed: 25 February 2022
+
+Next review due: 25 February 2025

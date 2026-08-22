@@ -1,0 +1,25 @@
+{
+  "id": "ab6b0293-081f-4924-b2fa-8a2bde3fac3d",
+  "slug": "section-0461-spicy-mayo",
+  "title": "Spicy Mayo",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "3dcf802e6810de86e2ebf04b57df03a4601fcbca8af3178acd8de829a3910c22",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 461,
+    "content_hash": "8d7137784be5e1f790f2a0603d1b19bd486d833024c9c075e0a7150b5e4f5232",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

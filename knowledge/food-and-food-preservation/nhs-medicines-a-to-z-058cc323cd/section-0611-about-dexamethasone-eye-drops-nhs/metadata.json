@@ -1,0 +1,25 @@
+{
+  "id": "caa9995e-bad6-4cea-b7ad-9173af25365d",
+  "slug": "section-0611-about-dexamethasone-eye-drops-nhs",
+  "title": "About dexamethasone eye drops - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "9a70aaa071da0170104ac340d040ad2e1788e4d2bcfc4ebe266253ba372f8458",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 611,
+    "content_hash": "5c93d8c85f51dda12f603fbbc6e4a8afecdc9db3a98c108cbdd2d3a5de3edd9b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

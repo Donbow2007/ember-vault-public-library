@@ -1,0 +1,25 @@
+{
+  "id": "91f4eda4-31d5-40f7-988a-48295e712f9a",
+  "slug": "section-1657-pregabalin-medicine-to-treat-epilepsy-and-anxiety-nhs-part-2",
+  "title": "Pregabalin: medicine to treat epilepsy and anxiety - NHS — Part 2",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "741de7ef3fcbde9a27225bbed66b965631758cd8bbf4eb4958b9f83f96d72fbc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1657,
+    "content_hash": "f066d7560ccd72fa5234012b1b99cffd33cd0885cef7e5900c20c2cddfeb669d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

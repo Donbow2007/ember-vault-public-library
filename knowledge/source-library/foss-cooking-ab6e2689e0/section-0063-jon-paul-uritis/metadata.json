@@ -1,0 +1,25 @@
+{
+  "id": "5bd49b28-574e-45ce-b73a-565f575d507a",
+  "slug": "section-0063-jon-paul-uritis",
+  "title": "Jon Paul Uritis",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "85a6f25bca8dede019581c5b8e760d0297bc212f610c2c1bc856bb24372effae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 63,
+    "content_hash": "09d299fc96351923b0b867ac56a0e725d3b40fe0cb505720d95de8e41522de32",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

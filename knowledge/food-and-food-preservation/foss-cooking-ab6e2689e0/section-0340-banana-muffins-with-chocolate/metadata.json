@@ -1,0 +1,25 @@
+{
+  "id": "c706c628-28f9-460c-99d4-3c12ee79c3ae",
+  "slug": "section-0340-banana-muffins-with-chocolate",
+  "title": "Banana Muffins with Chocolate",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "b72afb248120461ae9e26829e119a775affeaf55a41c0d8859ab98c7573be3ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 340,
+    "content_hash": "801d6c3f70300089a6e8dd2fe5c9654c5c0dde356e4e10acf56d09a1cb7daf8c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

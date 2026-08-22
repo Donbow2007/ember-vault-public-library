@@ -1,0 +1,25 @@
+{
+  "id": "c9badd3b-337f-40db-9372-9584a8bbd9cd",
+  "slug": "section-1142-about-short-acting-insulin-nhs",
+  "title": "About short-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "4d23ec4441190e7a612f0f09baf6aaa224f15108e654cd14324d1e62bd93b6f8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1142,
+    "content_hash": "4150c1ad464d762233bf4dd0ca4f483a713d8624b5fa1f1896f42571c900260a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

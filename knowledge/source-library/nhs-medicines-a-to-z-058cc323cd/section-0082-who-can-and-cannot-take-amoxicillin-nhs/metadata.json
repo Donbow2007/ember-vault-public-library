@@ -1,0 +1,25 @@
+{
+  "id": "e257afa7-dc88-4ee6-b9ac-78a1fbdf3e1a",
+  "slug": "section-0082-who-can-and-cannot-take-amoxicillin-nhs",
+  "title": "Who can and cannot take amoxicillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "c7809646b0a5045646a36c42aab417b08b92d7eb66caed66ed0bf7bfb8fc366d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 82,
+    "content_hash": "a8673d090f1f958649c542391d5fad45c575e1713f0c67fa033c7e7b21bac6da",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

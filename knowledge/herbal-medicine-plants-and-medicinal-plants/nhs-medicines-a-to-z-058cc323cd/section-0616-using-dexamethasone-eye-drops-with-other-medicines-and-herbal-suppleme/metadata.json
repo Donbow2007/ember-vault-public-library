@@ -1,0 +1,25 @@
+{
+  "id": "e6f5c287-7a17-48b8-b9fc-78f7c97e02cb",
+  "slug": "section-0616-using-dexamethasone-eye-drops-with-other-medicines-and-herbal-suppleme",
+  "title": "Using dexamethasone eye drops with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "3ac178a5281945ed786f0bd988e44463dd09c76cb4ea85a9c727ed80aae8f0da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 616,
+    "content_hash": "73ad1e071e6f8a72b6e9540941dcd9a5e68cb20c53763c70107f7c1c851d5dc6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

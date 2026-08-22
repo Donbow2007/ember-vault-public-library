@@ -1,0 +1,25 @@
+{
+  "id": "1f38b7f7-f2bc-4261-b572-b0bbb6023565",
+  "slug": "section-0333-wholemeal-pizza",
+  "title": "Wholemeal Pizza",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "8ea5447e0a3b420a056a0ce89cc7eca69a317c459414479da04f7ef80ebefba0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 333,
+    "content_hash": "ec12dc6e4ab4ac670cea731eb0a173066a8ae923dedb84bd5dc5069973f4f4ea",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

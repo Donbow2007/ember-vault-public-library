@@ -1,0 +1,25 @@
+{
+  "id": "70d13784-7d28-4f84-a738-13091b2549e8",
+  "slug": "section-1207-using-latanoprost-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Using latanoprost with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "e32cdced5453dc7e22d6d47b26d3d83db59d7e434f167b6d23a324f545f62088",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1207,
+    "content_hash": "880e6bb46f840df3bcba8916de390235851d06e053108e8be215eb2ed6457408",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

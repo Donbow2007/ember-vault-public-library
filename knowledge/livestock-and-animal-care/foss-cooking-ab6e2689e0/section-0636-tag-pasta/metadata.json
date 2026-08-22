@@ -1,0 +1,25 @@
+{
+  "id": "a498c469-1382-40ee-ad16-a95d41f8a0bc",
+  "slug": "section-0636-tag-pasta",
+  "title": "Tag: pasta",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "3117e9f44d575d8f2f35dea3c7d295ca2d80342866d03aaa4bab69d8b8f5d79b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 636,
+    "content_hash": "09266efa0578279e9f0f1abb25e48c5efc20538ff2e631af85d8cdbe737cbd00",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

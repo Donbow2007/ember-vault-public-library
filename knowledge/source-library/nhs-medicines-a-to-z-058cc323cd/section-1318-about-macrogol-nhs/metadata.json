@@ -1,0 +1,25 @@
+{
+  "id": "5d1bd750-1f51-4e9f-97a7-815b894f10f8",
+  "slug": "section-1318-about-macrogol-nhs",
+  "title": "About macrogol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "b18eea2c3687ab8a518fc1b2b2afe0e9fca314779b3bf3b1c1588634da994eac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1318,
+    "content_hash": "c9272a1d474da411d7b022685db9f5797b7b302027f9f43b45faa422bea85864",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

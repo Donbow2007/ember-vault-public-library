@@ -1,0 +1,31 @@
+# Common questions about aripiprazole - NHS
+
+Common questions about aripiprazole - Brand name: Abilify
+How does aripiprazole work?
+Aripiprazole belongs to a group of medicines called antipsychotics. It does not cure your condition, but it can help the symptoms. Aripiprazole works by affecting chemical messengers in the brain (neurotransmitters) like dopamine. If you have too much dopamine it can make you see things that are not there (hallucinations) or think things that are not true (delusions). Dopamine is also involved in muscle movements, so too much of it can affect your muscles. Aripiprazole also works on another neurotransmitter called serotonin which is believed to control mood. Taking aripiprazole will not change your personality and it's not addictive.
+When will I feel better?
+It can take a few days, or sometimes a few weeks, for aripiprazole to start helping you. You may not feel the full effects of the medicine for 2 to 3 months. Even if you start to feel better, it's important to keep taking it so that your symptoms do not come back.
+Are there any long-term side effects?
+Many people take aripiprazole for a long time. It does not cure your condition, but it helps to keep your symptoms under control. Some side effects are more likely to happen if you take aripiprazole for a long time. Talk to your doctor if you: have uncontrollable movements of your mouth, tongue and limbs – these may be symptoms of a condition called tardive dyskinesia feel thirsty, need to pee a lot, feel tired and lose weight – these may be signs of high blood sugar or diabetes You may have regular checks or tests, including your cholesterol levels, weight and blood glucose levels, to check how aripiprazole may be affecting you.
+How will it make me feel?
+After a few days or weeks of taking aripiprazole you may notice some of your symptoms start to improve. You may: feel calmer and less upset be able to concentrate better and think more clearly be able to get things done and stay focused be more aware of what may and may not be real stop hearing voices remember things more easily feel more comfortable with other people and get along better with them Aripiprazole may make you feel very sleepy but it may also make it hard to get to sleep. See how you feel after you've been taking it for a while and talk to your doctor if side effects bother you.
+What will happen if I stop taking it?
+You will not get addicted to aripiprazole. If you need to stop taking it your doctor will help you reduce your dose so that you come off the medicine gradually. If you stop taking aripiprazole too quickly your symptoms may come back. Talk to your doctor if you have any problems when you reduce your dose or stop taking aripiprazole.
+How does aripiprazole compare with other antipsychotic medicines?
+There are lots of other antipsychotic medicines that work in a similar way to aripiprazole but have different side effects. If you have side effects that bother you then your doctor may be able to recommend another medicine that will suit you better. Clozapine is an antipsychotic medicine that may work when other antipsychotics have not worked for you.
+Will I gain or lose weight?
+Taking aripiprazole may make you lose weight or put on weight. You're less likely to put on weight on aripiprazole than some other antipsychotic medicines. If you feel more hungry than usual, try to eat a healthy, balanced diet without increasing your portion sizes. Do not snack on foods that contain a lot of calories, such as crisps, cakes, biscuits and sweets. If you feel hungry between meals, eat fruit and vegetables and low-calorie foods. If you start to have problems with your weight while taking aripiprazole, talk to your doctor or pharmacist.
+Will it affect my contraception?
+Aripiprazole will not stop any type of contraception from working, including the combined pill , progestogen-only pill and emergency contraception . However, if aripiprazole makes you sick (vomit), your contraceptive pills may not protect you from pregnancy. Find out more: What to do if you're sick or have diarrhoea when taking the combined pill What to do if you're sick or have diarrhoea when taking the progestogen-only pill
+Can I drive or ride a bike?
+Aripiprazole may make you feel very sleepy or affect your eyesight, particularly when you first start taking it. If this happens to you, do not drive a car or ride a bike until you feel better. When you first start taking aripiprazole, it's a good idea to stop driving and cycling for the first few days until you know how this medicine makes you feel. It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive. Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking aripiprazole. GOV.UK has more information on the law on drugs and driving .
+Can I drink alcohol while taking aripiprazole?
+It's best not to drink alcohol with aripiprazole. If you drink alcohol while taking aripiprazole it may make you feel sleepy and unsteady on your feet. Drinking alcohol every day or in large amounts can make your symptoms worse. It also makes it harder for aripiprazole to work properly. When you're used to aripiprazole you may be able to drink very small amounts of alcohol. You'll need to be very careful and see how it affects you. Talk to your doctor if you have any concerns.
+Is there any food or drink I need to avoid?
+Apart from limiting alcohol, you can eat and drink normally while taking aripiprazole.
+Can lifestyle changes help with mental health conditions?
+Making simple lifestyle changes can help the way you feel as well as your symptoms. Try to get plenty of sleep – getting regular exercise and avoiding caffeine can help. Avoid alcohol and drugs – they can make your symptoms worse and make it difficult for your medicine to work. Eat a healthy, balanced diet – eating healthy, nutritious food and avoiding foods that are high in sugar can help your mood and energy. Find out more about: living with bipolar disorder living with schizophrenia
+Page last reviewed: 6 April 2023
+
+Next review due: 6 April 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "54985d64-c63a-49cd-a81e-2511c7b91426",
+  "slug": "section-0571-common-questions-about-colecalciferol-nhs",
+  "title": "Common questions about colecalciferol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "190187c629fa93a88d52e05bc3f6b5f50092aaeb54be689019f46af625dc3b09",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 571,
+    "content_hash": "aa88d39367e388d34224a20484e5f979d2ea74d4858388a5a16f49532d38c70d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

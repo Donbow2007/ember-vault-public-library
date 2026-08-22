@@ -1,0 +1,25 @@
+{
+  "id": "f95a0314-f43c-4566-9eac-36709a200590",
+  "slug": "section-0650-tag-quick",
+  "title": "Tag: quick",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "9f1d5b2f8f9455f0dffe8d20b7935c9c89fc8becc474ca583008c69fa1857c30",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 650,
+    "content_hash": "5cc7b411b0547c2e4c1986ce3a3dc13c5c5058c6b2788c1ea2785929f28d5b6a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3e10d04d-5617-4d7f-9565-650c46432c96",
+  "slug": "section-1461-mometasone-inhalers-steroid-medicine-for-asthma-nhs",
+  "title": "Mometasone inhalers: steroid medicine for asthma - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "c8adba4ac0926d5bc7a2d12160d6fcb5dcd9b86a4bd09e5b52fca68a7e14bd68",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1461,
+    "content_hash": "9b8cfa9212d6b68915c3f114ea8c1c42c6a08046565681df4758021ef1dbd076",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

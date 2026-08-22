@@ -1,0 +1,25 @@
+{
+  "id": "b7c51a7f-5d71-42fd-aa45-73380ca0efa8",
+  "slug": "section-1226-who-can-and-cannot-take-letrozole-nhs",
+  "title": "Who can and cannot take letrozole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "01dd796d1ba98004af6f2679244195227c013a42f5f3d78ae9011165a21bba03",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1226,
+    "content_hash": "2fbb50f32dd3546b7350ce90a000e4d4d60d80d918acbdf3bd85855fca78a057",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a61eea92-092f-42fb-b2e7-b636fd611159",
+  "slug": "section-1405-who-can-and-cannot-take-methylphenidate-for-adults-nhs",
+  "title": "Who can and cannot take methylphenidate for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "ae031071ab144437f1b0cadb7118cfa1256c65bd397b5ccb251527a7b4abc883",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1405,
+    "content_hash": "2dfa60a13cb5468c7d801c00a4bd163cfe98ff32f749a2af416cefcdb7a19a51",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

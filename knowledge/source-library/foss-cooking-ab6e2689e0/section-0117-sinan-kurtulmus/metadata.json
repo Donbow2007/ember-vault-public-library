@@ -1,0 +1,25 @@
+{
+  "id": "8cab4680-acf4-4c7d-a9b9-bc571f000004",
+  "slug": "section-0117-sinan-kurtulmus",
+  "title": "Sinan Kurtulmuş",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "eb9977c8536a45213b3a19b5c1dd7bfbc41d1ee68a7a88647dda789c132364cc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 117,
+    "content_hash": "c25fd2730a874c3b113e058146eae5a971913471e6c4bbe6f14fb72d67fc5fbd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

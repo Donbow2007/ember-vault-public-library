@@ -1,0 +1,25 @@
+{
+  "id": "85a1fc9e-41e1-4e06-b873-8d274d5c7fa7",
+  "slug": "section-1320-how-and-when-to-take-macrogol-nhs",
+  "title": "How and when to take macrogol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "4021ed86a5b5fcbc43902b8d1700bd368f977d27b4df92354f220ba5a13c85a0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1320,
+    "content_hash": "2dffe52f50b3d5353eaa6cf5db3ee4634dbdc5d4bc3e50e6dc9bfe5f60eb892c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

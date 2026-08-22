@@ -1,0 +1,25 @@
+{
+  "id": "94244ff9-d4a5-4f58-b417-1b02ffe03f9d",
+  "slug": "section-1510-about-nicorandil-nhs",
+  "title": "About nicorandil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "69113f0738bcae74bbb04bcac9c2c00b6069c85f072326d35a415f909da3264a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1510,
+    "content_hash": "bdad6bbe658e80faae36728fb851aa9b80f8fabbe01eeda38574d20e46e8d198",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

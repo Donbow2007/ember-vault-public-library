@@ -1,0 +1,25 @@
+{
+  "id": "1303ecc9-dc48-48fa-99aa-5dcd6719d261",
+  "slug": "section-0607-tag-indonesian",
+  "title": "Tag: indonesian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "130b5cce5f8b84b57cb34e2b87421b23b2164826dfe0d16f8395233c97267224",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 607,
+    "content_hash": "3adac2c7dab1701b1047e2b96122b74e4120c4542603a8f1a6680d8eb45f7e12",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

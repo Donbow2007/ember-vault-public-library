@@ -1,0 +1,25 @@
+{
+  "id": "8e6f6b00-c57f-4da7-bad8-d5e28fdb4ae8",
+  "slug": "section-0455-side-effects-of-clobetasol-nhs",
+  "title": "Side effects of clobetasol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "dd2416867a4c0c4cc2a78fb5bb90e495a45746f894f3979c39929ade858e71d5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 455,
+    "content_hash": "e1bee5df31b475dc6e8b0f2df5a42a9c6e9695773b36e733374ef997407e7713",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

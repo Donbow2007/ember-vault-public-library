@@ -1,0 +1,25 @@
+{
+  "id": "37ab0b01-2288-47eb-a4f7-df6dea2f1f83",
+  "slug": "section-0937-side-effects-of-gliclazide-nhs",
+  "title": "Side effects of gliclazide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "845a00e60d3a8c426a38da7aa42fbef72b21fb1d97d52b32244944fe02dc7178",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 937,
+    "content_hash": "76b564f4795e1d7499e00cad70ba28d39f837c72a99d098a7f39364a69aff556",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

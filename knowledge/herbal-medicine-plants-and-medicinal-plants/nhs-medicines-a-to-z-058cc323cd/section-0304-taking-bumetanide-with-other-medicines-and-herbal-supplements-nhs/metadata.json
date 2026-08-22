@@ -1,0 +1,25 @@
+{
+  "id": "c76213d4-6bc8-42dc-8596-572849263ea5",
+  "slug": "section-0304-taking-bumetanide-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking bumetanide with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "bbec25c21fe5f824322a4bfd3fe60f741ec4231c9980e977f70c17fef35b5e8a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 304,
+    "content_hash": "c3ca8d9546eff9d2626345ba4a54e70c8b094d7bdf0e83cc98afeb2b8ca703c4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

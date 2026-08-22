@@ -1,0 +1,25 @@
+{
+  "id": "5b570e1d-9071-41a7-b732-012d9a7bc718",
+  "slug": "section-0512-ukrainian-vareniki",
+  "title": "Ukrainian Vareniki",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "c3746cab79f3aa5cca14fbcc7739f7b0c537925fd769c41279c99ddebdd4cd6b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 512,
+    "content_hash": "0c3f3d4bfecac40848e888cee8300543ce3d8d6eda2120cc7c4523cbc276285c",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

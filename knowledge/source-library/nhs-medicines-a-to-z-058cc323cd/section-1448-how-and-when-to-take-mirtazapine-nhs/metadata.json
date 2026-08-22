@@ -1,0 +1,25 @@
+{
+  "id": "82fc5b42-2723-4db8-9e12-94c2ea0e7e4f",
+  "slug": "section-1448-how-and-when-to-take-mirtazapine-nhs",
+  "title": "How and when to take mirtazapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "ce0918d6d291627c8705d5596ee2105fabc898fd564a32454b7b6a18d5687b3d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1448,
+    "content_hash": "56475d5bef0b6609acc086e02cc1abdfa3a88d9dd30b533ae52cca7d7c547322",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

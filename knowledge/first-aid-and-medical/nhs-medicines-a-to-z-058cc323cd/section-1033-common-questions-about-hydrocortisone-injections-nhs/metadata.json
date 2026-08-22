@@ -1,0 +1,25 @@
+{
+  "id": "6f347db2-abe6-41cb-9dd0-d83efbd5ceb9",
+  "slug": "section-1033-common-questions-about-hydrocortisone-injections-nhs",
+  "title": "Common questions about hydrocortisone injections - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "022cc7bf332845aea86397fa5f369985006aa2a5eb93ea9f9c3de1a85125e39e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1033,
+    "content_hash": "5752fbbda99d70c20eb7bc30bcdce6d2ece1305b61c96e08d1c935eced6cabb8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

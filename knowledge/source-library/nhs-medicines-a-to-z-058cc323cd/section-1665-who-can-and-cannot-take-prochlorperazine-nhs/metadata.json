@@ -1,0 +1,25 @@
+{
+  "id": "b24a4e9b-bec1-42dc-8621-43c86e00e5b5",
+  "slug": "section-1665-who-can-and-cannot-take-prochlorperazine-nhs",
+  "title": "Who can and cannot take prochlorperazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "5c2704248a769152ca6aadd6b09369b0756ed474f74c4cc8ced8621dd5b5623b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1665,
+    "content_hash": "3f6764f1ac071b330442d13b02da1fd26cddddba314811e5b392487fec53d64a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

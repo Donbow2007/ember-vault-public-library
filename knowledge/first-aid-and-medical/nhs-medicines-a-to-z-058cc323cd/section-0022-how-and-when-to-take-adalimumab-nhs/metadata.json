@@ -1,0 +1,25 @@
+{
+  "id": "700fd03b-1d6c-4821-add5-019d7258d6d8",
+  "slug": "section-0022-how-and-when-to-take-adalimumab-nhs",
+  "title": "How and when to take adalimumab - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "b9e466c4299756b286312479b39f7f783c4c2267379f3ccfdaa1b35e9d8a8cfe",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 22,
+    "content_hash": "a48cb6e83314b26146da67abb3d467309b452008a8d0cf69609c7797786be324",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

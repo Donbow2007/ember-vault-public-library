@@ -1,0 +1,25 @@
+{
+  "id": "95a898d2-69dd-4a24-b7e7-e3ccbed4d287",
+  "slug": "section-1445-mirtazapine-nhs",
+  "title": "Mirtazapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "7be90fa591dbb1b11007c196ffc1c4e04e59743469bf027a23eed00f92e5690f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1445,
+    "content_hash": "0ceb3c648055a9616af8727798fd8a85e83acbf49cafb08ef115e3350677cec2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

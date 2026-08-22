@@ -1,0 +1,7 @@
+# Pregnancy, breastfeeding and fertility while using betamethasone for eyes, ears and nose - NHS
+
+Pregnancy, breastfeeding and fertility while using betamethasone for eyes, ears and nose - Brand names: Betnesol, Vistamethasone Betamethasone drops and ointment and pregnancy Betamethasone drops or ointment can be used during pregnancy. Very little is absorbed into your blood and almost none gets to your baby. Even if a small amount does get to your baby, it will not harm them. Betamethasone drops and ointment and breastfeeding Betamethasone drops and ointment can be used while breastfeeding. This is because only tiny amounts of betamethasone are likely to be in your breast milk and it's very unlikely to cause any side effects in your baby. Betamethasone drops and ointment may also contain other ingredients such as antibacterials. It's still OK to use them while breastfeeding. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife or doctor as soon as possible. Betamethasone drops and ointment and fertility There's no evidence to suggest betamethasone drops or ointment reduce fertility in either men or women. Information: Find out more about how treatments for allergic rhinitis can affect you and your baby on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 24 January 2024
+
+Next review due: 24 January 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

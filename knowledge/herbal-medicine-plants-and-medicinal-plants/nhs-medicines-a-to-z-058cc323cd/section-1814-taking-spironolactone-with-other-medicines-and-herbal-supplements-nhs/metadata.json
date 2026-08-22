@@ -1,0 +1,25 @@
+{
+  "id": "43040be2-0fc6-4a65-90da-64b7485a581a",
+  "slug": "section-1814-taking-spironolactone-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking spironolactone with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "31628a5cf305faaa6b6eef48e470269aa16a83fefe98488fbd07f4163e828c5a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1814,
+    "content_hash": "1300a6e3d5d4ad3d93a2f002e166c269b856fa482b981c984f641922bed09ced",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

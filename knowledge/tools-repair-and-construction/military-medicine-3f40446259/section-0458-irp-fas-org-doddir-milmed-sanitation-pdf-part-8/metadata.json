@@ -1,0 +1,25 @@
+{
+  "id": "f871f392-14f7-40b5-bb2d-5dfb7c28ce47",
+  "slug": "section-0458-irp-fas-org-doddir-milmed-sanitation-pdf-part-8",
+  "title": "irp.fas.org/doddir/milmed/sanitation.pdf — Part 8",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "d0d51ba5e42838511ffa3586e7f74d41a3ceb8e019405aca476999715e4b1f0c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 458,
+    "content_hash": "16da54f97e3c7bac86cb22568616737cd7394693adbd36f87727c67f5576ddda",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

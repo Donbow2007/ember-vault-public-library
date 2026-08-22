@@ -1,0 +1,25 @@
+{
+  "id": "71492869-7a1f-443c-abc2-88f7a1b194a1",
+  "slug": "section-1281-pregnancy-breastfeeding-and-fertility-while-taking-loratadine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking loratadine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "5959b8c8202fa830d52aaef0cc46600053c2cfc58384ae4ebd39804b8e4df7f4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1281,
+    "content_hash": "79889abe2b8342a6a11302cf7fcc87e0f0782931a1f8c55c6926bfbc0bdc0b19",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

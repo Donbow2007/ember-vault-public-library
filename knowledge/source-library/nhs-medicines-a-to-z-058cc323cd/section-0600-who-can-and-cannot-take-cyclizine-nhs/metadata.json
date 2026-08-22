@@ -1,0 +1,25 @@
+{
+  "id": "1d536bdb-f872-4fa3-ba59-a094134f08ef",
+  "slug": "section-0600-who-can-and-cannot-take-cyclizine-nhs",
+  "title": "Who can and cannot take cyclizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "55bde2f6ec1dd490bc8af9fa4a7f457ca0eb0458f69f4840eeac3bb7f7af10d1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 600,
+    "content_hash": "5e375e2adc765fd80962b1d7137e93a00cad48ae51ff61fa015b0399c3d97ae8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

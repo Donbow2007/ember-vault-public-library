@@ -1,0 +1,25 @@
+{
+  "id": "b92e8c1c-c1eb-4df9-8708-11112a965a5f",
+  "slug": "section-0853-about-fluoxetine-nhs",
+  "title": "About fluoxetine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "79a91942b8a9f5b1806a8ba6777c40cc1eba97aaf6803daa9d49154591995031",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 853,
+    "content_hash": "e7046efa03aa91358796f167e51eeee1f5213c7d11ae7a0363e60b6edec4066d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

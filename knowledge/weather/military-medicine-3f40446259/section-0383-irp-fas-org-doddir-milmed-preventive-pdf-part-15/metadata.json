@@ -1,0 +1,25 @@
+{
+  "id": "154ba89c-3d2c-4770-916a-a9e6f820d60a",
+  "slug": "section-0383-irp-fas-org-doddir-milmed-preventive-pdf-part-15",
+  "title": "irp.fas.org/doddir/milmed/preventive.pdf — Part 15",
+  "category": "weather",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "1f5ff6db3aa5f64e1e15f40a5e607fc82740eada683027778e5dbbf0ae54a4a9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 383,
+    "content_hash": "2a88b52dc56de180d476c8313766ba0106e8829927e62aff0a99c916d072d614",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

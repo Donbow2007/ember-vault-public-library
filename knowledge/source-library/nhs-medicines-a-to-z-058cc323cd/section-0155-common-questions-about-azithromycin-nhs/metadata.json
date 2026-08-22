@@ -1,0 +1,25 @@
+{
+  "id": "e80af2e1-0c54-4c1b-9623-b43afb367c98",
+  "slug": "section-0155-common-questions-about-azithromycin-nhs",
+  "title": "Common questions about azithromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "7cc644f6b7d3f1ff3f457eac0796f15a10adf9de308955777e43e68b498537fe",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 155,
+    "content_hash": "fea22caadd6dae99d437a7d3eccae925cc0b793b8a816ddeac7ee5d191ca7a8a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5c0957f7-1fd5-40cd-bda6-4db100c6c9c2",
+  "slug": "section-0712-taking-doxazosin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking doxazosin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "fded660ae903ddc0192858af15ea58ee793594495d98cf1aad82845cbfae47e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 712,
+    "content_hash": "c84536e1213ea022346b56db0cdf846e187f59bfe18b94298c64d9d0996db1eb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

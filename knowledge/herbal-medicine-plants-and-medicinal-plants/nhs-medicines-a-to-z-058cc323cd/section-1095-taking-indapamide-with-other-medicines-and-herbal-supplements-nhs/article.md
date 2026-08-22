@@ -1,0 +1,11 @@
+# Taking indapamide with other medicines and herbal supplements - NHS
+
+Taking indapamide with other medicines and herbal supplements
+
+Cautions with other medicines Some medicines can affect the way indapamide works. If you're taking any of these medicines, tell your doctor before starting indapamide: medicines that treat, or might give you, an irregular heartbeat (palpitations) – including amiodarone, digoxin or sotalol other medicines that treat high blood pressure – including ACE inhibitors such as ramipril , angiotensin receptor blockers such as candesartan , or calcium channel blockers such as amlodipine other medicines that can decrease blood pressure, including baclofen , levodopa or clonidine medicines used to treat mental health problems, including lithium , amitriptyline or haloperidol medicines that can cause low levels of potassium in your blood, such as steroids , laxatives or other diuretics painkillers known as non-steroidal anti-inflammatory drugs ( NSAIDs ), including ibuprofen or naproxen calcium tablets or other calcium supplements Taking indapamide with everyday painkillers Some painkillers contain a lot of sodium, which is found in salt. Too much salt can stop indapamide working properly. Medicines that contain a lot of salt include: soluble paracetamol soluble co-codamol Speak to a pharmacist or doctor to see if these medicines are safe for you to take with indapamide. Mixing indapamide with herbal remedies and supplements Tell your doctor if you are taking: potassium supplements – these change the levels of potassium in your blood and can affect the way indapamide works any remedies for heartburn and indigestion – some of these contain a lot of sodium, which is found in salt. Too much salt can stop indapamide working properly There's not enough information to say that other herbal remedies and supplements are safe to take with indapamide. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 4 March 2022
+
+Next review due: 4 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

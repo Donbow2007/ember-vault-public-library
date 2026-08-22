@@ -1,0 +1,25 @@
+{
+  "id": "0530631e-06ed-4335-ab77-993a757675b0",
+  "slug": "section-0414-pregnancy-breastfeeding-and-fertility-while-taking-chlorphenamine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking chlorphenamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "d27942d6f3ad1d1bd6a2d425732ccb2968cb70f36e79201076bd6a2b7604f383",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 414,
+    "content_hash": "609cd13b67d4bedd61a051ed8139434c7ee01dcede72f4b01f4d596c79ce9453",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

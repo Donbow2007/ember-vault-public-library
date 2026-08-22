@@ -1,0 +1,25 @@
+{
+  "id": "b80f3848-08ac-445d-8647-d349836bfda3",
+  "slug": "section-0304-spinach-rice-casserole",
+  "title": "Spinach-Rice Casserole",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "ba02a21cdaba51a994cc92b574ac15afb162d9b65a389d63c904fded482bea57",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 304,
+    "content_hash": "01289a57d6e83ce3abb6f535015fe5175325ac53b1d32fe7bf97912d69564a19",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

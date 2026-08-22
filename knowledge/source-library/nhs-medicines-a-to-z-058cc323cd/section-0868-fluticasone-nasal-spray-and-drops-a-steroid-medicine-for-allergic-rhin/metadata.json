@@ -1,0 +1,25 @@
+{
+  "id": "cef1f4d9-56ce-4696-acb2-57fef10bb493",
+  "slug": "section-0868-fluticasone-nasal-spray-and-drops-a-steroid-medicine-for-allergic-rhin",
+  "title": "Fluticasone nasal spray and drops: a steroid medicine for allergic rhinitis or polyps - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "4bff2baa8b38cbab2574e5fda1024ee67ec12e52b73f9303b63a065bc733f82c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 868,
+    "content_hash": "ce4bc75d6057bfd7ef73dd347b45b625c4729d6311a2c97c4d7a3f11e218a30c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7f6e8f9d-2a5e-4619-b87f-20c8c1ae5fb6",
+  "slug": "section-0780-about-ezetimibe-nhs",
+  "title": "About ezetimibe - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "21ac7899a263767f2faf14fa9a9b6a4ac8fb906004458c3e3ea18eba9545c2a6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 780,
+    "content_hash": "5ecb5bb56786fe4f7ba3236cba7205aad2746f4e3e4827bb63f8fd56032e6561",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

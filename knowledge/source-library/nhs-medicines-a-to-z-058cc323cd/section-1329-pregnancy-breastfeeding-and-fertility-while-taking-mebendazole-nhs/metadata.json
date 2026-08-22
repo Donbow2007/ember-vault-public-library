@@ -1,0 +1,25 @@
+{
+  "id": "659152c1-6ae6-4de3-a9bb-5e0487b78528",
+  "slug": "section-1329-pregnancy-breastfeeding-and-fertility-while-taking-mebendazole-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking mebendazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "2c4f753d9163bc0101f3e576e830dca9ab9b3ebf24d3e3a787bb8e8850ecdcb5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1329,
+    "content_hash": "279eb67b30b011132db646e26a672c8dca3e214f76601b9aee5c604cc208e2bf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

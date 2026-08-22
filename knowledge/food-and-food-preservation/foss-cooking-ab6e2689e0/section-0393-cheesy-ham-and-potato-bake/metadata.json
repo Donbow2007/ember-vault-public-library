@@ -1,0 +1,25 @@
+{
+  "id": "a155beb5-fe69-43ed-bf9e-41c0e52b0996",
+  "slug": "section-0393-cheesy-ham-and-potato-bake",
+  "title": "Cheesy Ham and Potato Bake",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "998f3ae772a0688fc4b25b62558e3291de8ed85a7e7c147207306e6b20fc1414",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 393,
+    "content_hash": "1b1ff0fe7d2647690ddccfe57c923c4562f19a9ba2fb25c8444be30cff7b4507",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

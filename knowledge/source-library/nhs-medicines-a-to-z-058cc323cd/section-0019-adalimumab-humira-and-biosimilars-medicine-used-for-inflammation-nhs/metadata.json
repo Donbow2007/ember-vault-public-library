@@ -1,0 +1,25 @@
+{
+  "id": "2320de76-9184-45bd-ae3b-014f2de86072",
+  "slug": "section-0019-adalimumab-humira-and-biosimilars-medicine-used-for-inflammation-nhs",
+  "title": "Adalimumab (Humira) and biosimilars: medicine used for inflammation - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "5de60404645a1756f8ca4fa663e1a88cded52a528faa71651d26bf67ab419fad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 19,
+    "content_hash": "227197c88a997bdd064c5c7f8c49bd901e09dafdf47fd9303de4dc07b7256599",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

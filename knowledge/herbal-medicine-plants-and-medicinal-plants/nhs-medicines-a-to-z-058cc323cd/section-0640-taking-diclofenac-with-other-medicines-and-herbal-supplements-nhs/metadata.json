@@ -1,0 +1,25 @@
+{
+  "id": "ad0e4698-1361-4627-8454-e5ae991f2db2",
+  "slug": "section-0640-taking-diclofenac-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking diclofenac with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "91d49de2f76a4d8b1808bb313d09b711225939d863f9409f405350dc49ef762a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 640,
+    "content_hash": "aa1cdb62826f1228d4252854eba272aa960980a62dcf9a9de537edacd423fb47",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

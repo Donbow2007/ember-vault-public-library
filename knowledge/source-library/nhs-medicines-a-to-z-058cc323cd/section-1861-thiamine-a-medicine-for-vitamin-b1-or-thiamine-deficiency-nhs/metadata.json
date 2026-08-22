@@ -1,0 +1,25 @@
+{
+  "id": "0739e610-78e4-4987-a6bd-bbf0b95f6fb5",
+  "slug": "section-1861-thiamine-a-medicine-for-vitamin-b1-or-thiamine-deficiency-nhs",
+  "title": "Thiamine: a medicine for vitamin B1 (or thiamine) deficiency - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "69ab6e9ad95093e500d9141cbed8f64575d6c4215f2a7bf52af31bb81dadff1e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1861,
+    "content_hash": "acb5083399bd71cdca4941ed2311327ae6e48c1808b3c48845ff5c1fe742b102",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

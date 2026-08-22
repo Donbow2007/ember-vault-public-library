@@ -1,0 +1,25 @@
+{
+  "id": "9879d6fb-987d-45af-bf5a-62a4d680f0f7",
+  "slug": "section-1315-taking-lymecycline-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking lymecycline with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "6b751678bc838b7efb55852eb0ce24ca633600a3030f58fc6a0b077044da4da0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1315,
+    "content_hash": "491ba5a2fa7e5410329111a181bc2d9d90c58747ec9f51705121d137fa10ece4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

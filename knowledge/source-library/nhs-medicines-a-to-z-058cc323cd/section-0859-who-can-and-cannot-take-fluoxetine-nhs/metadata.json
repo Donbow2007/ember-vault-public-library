@@ -1,0 +1,25 @@
+{
+  "id": "62f42767-50e4-443d-817d-54987d6727de",
+  "slug": "section-0859-who-can-and-cannot-take-fluoxetine-nhs",
+  "title": "Who can and cannot take fluoxetine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "fc2b13edcec65f8f540584c904f9a5aff732e5b2600fe06e8d72cee383e937af",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 859,
+    "content_hash": "151c5bc7ad965756554a9cd14280cc0821c30606d4af1a769d8934625a484b88",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

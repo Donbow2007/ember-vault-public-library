@@ -1,0 +1,25 @@
+{
+  "id": "2536e576-bbf8-4ff0-900a-48db149cee3e",
+  "slug": "section-0198-side-effects-of-bendroflumethiazide-nhs",
+  "title": "Side effects of bendroflumethiazide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "25ae3ff8e105c308f146f1b71a952feec9523fdb0f1a43c8a2a5b17ad1c9b02b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 198,
+    "content_hash": "c9100b57dae5efe195d1a4d3c340cbb90c45825ac98c3abcd12189e0e46bceb6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

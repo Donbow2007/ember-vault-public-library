@@ -1,0 +1,25 @@
+{
+  "id": "d14ac835-2e65-472c-b4cb-593e4ae8c690",
+  "slug": "section-0686-pregnancy-breastfeeding-and-fertility-while-taking-or-using-docusate-n",
+  "title": "Pregnancy, breastfeeding and fertility while taking or using docusate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "4cbb0ec023dde17d09a8d63842d27d1fc24c58070ed6474eac4595cb168c2ecb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 686,
+    "content_hash": "fe156857c2e03f79214893ce0076e051ee9c9aea193af05f776350dd5be050e4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

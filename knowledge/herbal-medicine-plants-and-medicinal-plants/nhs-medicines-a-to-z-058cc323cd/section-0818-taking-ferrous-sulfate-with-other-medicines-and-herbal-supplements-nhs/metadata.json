@@ -1,0 +1,25 @@
+{
+  "id": "d5c7025d-f367-45e7-8714-2f7b94746bb8",
+  "slug": "section-0818-taking-ferrous-sulfate-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking ferrous sulfate with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "992bc1cc12c524523cef0d4a08b8e69a9466d7bd227b48d763ac4e282f7482fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 818,
+    "content_hash": "b079a5ca671a341ef89d04ea9afd25b9512b2d0098ecf4d7eeb0ff2f55ac3ce9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

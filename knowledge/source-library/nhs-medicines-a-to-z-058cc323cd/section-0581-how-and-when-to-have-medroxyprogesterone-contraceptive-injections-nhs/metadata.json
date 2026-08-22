@@ -1,0 +1,25 @@
+{
+  "id": "766e7b4c-2f37-4e57-b9bb-5c348199a265",
+  "slug": "section-0581-how-and-when-to-have-medroxyprogesterone-contraceptive-injections-nhs",
+  "title": "How and when to have medroxyprogesterone contraceptive injections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "c4391eb462858be4f20aab73f7f64c057a692115571b419936bc45cd4b1de31e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 581,
+    "content_hash": "1622eaff6e9f3432b7fdd4b59fc091a3ae8facfe31cae244ce4075331b268a46",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ceaf1bd5-e42f-410d-8f2f-68756c9694fa",
+  "slug": "section-0600-tag-galician",
+  "title": "Tag: galician",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "a2dddaff4ff6f38b6b36f54cda2ac4a9cedb2029a730389546f1098e7e0f659b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 600,
+    "content_hash": "48def4ba93ef3e7adb406bc25e26ad8bd0562e8913f6d50559418a236c42f8f2",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4a686066-0cb6-4ce2-9235-c7126811ddb8",
+  "slug": "section-0015-ben-stox",
+  "title": "Ben Stox",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9ed036dd48296fa4b6cb4486539d768a27b649d9de077b1ec21b9f1671e7af4b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 15,
+    "content_hash": "fbbe71c6e43b9a13f25c0bde43ac6af05ee858d8c616bfd35f8162840c48079a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

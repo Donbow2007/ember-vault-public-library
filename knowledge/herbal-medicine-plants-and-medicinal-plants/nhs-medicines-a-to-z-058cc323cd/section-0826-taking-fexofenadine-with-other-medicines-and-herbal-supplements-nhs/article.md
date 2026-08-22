@@ -1,0 +1,9 @@
+# Taking fexofenadine with other medicines and herbal supplements - NHS
+
+Taking fexofenadine with other medicines and herbal supplements - Brand names: Allevia, Almerg, Histallay, Telfast, Treathay Cautions with other medicines Some medicines can affect how fexofenadine works or can increase the chances of you having side effects. Check with your pharmacist or doctor if you're taking any other medicines, including: leflunomide, to treat arthritis velpatasvir, to treat hepatitis C infection teriflunomide, to treat multiple sclerosis indigestion remedies containing aluminium or magnesium – leave about 2 hours between taking fexofenadine and taking your indigestion remedy apalutamide, to treat prostate cancer any medicine that makes you drowsy, gives you a dry mouth, or makes it difficult for you to pee – taking fexofenadine might make these side effects worse These are not all the medicines that may cause problems if you take them with fexofenadine. For a full list, see the leaflet inside your medicine packet. Taking fexofenadine with painkillers You can take fexofenadine together with painkillers such as paracetamol or ibuprofen . Mixing fexofenadine with herbal remedies or supplements There's not enough information to say that complementary medicines, herbal remedies and supplements are safe to take with fexofenadine. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. However, there might be a problem with some of them, especially ones that cause sleepiness, a dry mouth, or make it difficult to pee. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 22 April 2025
+
+Next review due: 22 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

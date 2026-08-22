@@ -1,0 +1,25 @@
+{
+  "id": "6c4adbda-588b-4131-8df9-bb4976c7bb14",
+  "slug": "section-0450-mushroom-risotto",
+  "title": "Mushroom risotto",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "610ba082b983edf6fb0c455e2c253f69d9093621f5b8b96f3209d4e418738f83",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 450,
+    "content_hash": "22f7a8f3b32a57b312c30e9d36a0bb448d45a77cb4e5452ebed19cf1adcb0a03",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

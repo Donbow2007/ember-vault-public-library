@@ -1,0 +1,25 @@
+{
+  "id": "3a1b307d-a1b6-4d1b-9306-4d96ec9d5b4d",
+  "slug": "section-0238-pregnancy-breastfeeding-and-fertility-while-using-betamethasone-for-sk",
+  "title": "Pregnancy, breastfeeding and fertility while using betamethasone for skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "a840562798ffe3a4dfe8a29c1998fa14ea0cb9596bc26e37d0798f7862497f81",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 238,
+    "content_hash": "5c727b501e9d5ed30b51347c92972492cc193fa7f6c9ee62c1df8e094e7b6a6d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

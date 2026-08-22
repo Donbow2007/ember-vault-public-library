@@ -1,0 +1,25 @@
+{
+  "id": "ccd15414-b79d-4686-904e-ee40617b0ae1",
+  "slug": "section-0194-about-bendroflumethiazide-nhs",
+  "title": "About bendroflumethiazide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "4dd84e65fdbb28fb3655b82799ea60fb03a8794f54e21f772615d9db9aba2b5c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 194,
+    "content_hash": "5d655cb72cb0de7ab491588831b2c12846af6dd4b93e8c1b49d45398d1e6b4ce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

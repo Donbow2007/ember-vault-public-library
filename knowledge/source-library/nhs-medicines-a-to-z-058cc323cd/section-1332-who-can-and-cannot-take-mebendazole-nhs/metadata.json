@@ -1,0 +1,25 @@
+{
+  "id": "831340f2-d9d5-4d28-89e5-90f27b02d11f",
+  "slug": "section-1332-who-can-and-cannot-take-mebendazole-nhs",
+  "title": "Who can and cannot take mebendazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "1de9d5a0bd2c8cedd1b34567853c4579134e0257b34c116e13b2769bbad8c638",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1332,
+    "content_hash": "56261811485c71da5058628df1bd8c0b5f106d9012f4e80d618072d32011ecbf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

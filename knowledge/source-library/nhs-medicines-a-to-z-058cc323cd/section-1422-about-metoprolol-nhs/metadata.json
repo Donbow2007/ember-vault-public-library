@@ -1,0 +1,25 @@
+{
+  "id": "9ade5d6d-14f4-4ad4-97b0-210df0752dc3",
+  "slug": "section-1422-about-metoprolol-nhs",
+  "title": "About metoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "6d10ab2cd28cd7d6dab02eff9dd5398b40951393793cb1287738b00766d937f5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1422,
+    "content_hash": "332dd34c43e1b1ea754758fa7ea997780ce87a069f71e63a5e848ee85b20b880",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2423b276-9f90-40ab-8f83-5ec7b067545d",
+  "slug": "section-0067-julien",
+  "title": "Julien",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "645df86ad88e7a5f73ec4fc9c7c3ef80d317fe8a52b98f7e95c380bd8915ee2c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 67,
+    "content_hash": "dca87d6fcddf9ceb40b0ff47507993556467422e157f2a0ca1666038cd39f02a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

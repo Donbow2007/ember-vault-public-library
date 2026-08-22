@@ -1,0 +1,25 @@
+{
+  "id": "2a594469-15ad-4ae7-8adf-f9dd3cf05fe6",
+  "slug": "section-1917-tranexamic-acid-medicine-for-heavy-periods-and-nosebleeds-nhs",
+  "title": "Tranexamic acid: medicine for heavy periods and nosebleeds - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "2a7f5b34c806307e1e611bf713cde1b967302444829cbc62ee4d8955e37e3c1b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1917,
+    "content_hash": "631335a5e45dbd0681af795a873fc8f05aaaef4090fb12e0052270996493acea",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

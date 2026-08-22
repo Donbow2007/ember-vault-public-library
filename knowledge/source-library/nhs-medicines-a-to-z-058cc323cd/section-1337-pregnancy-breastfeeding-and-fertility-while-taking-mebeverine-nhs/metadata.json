@@ -1,0 +1,25 @@
+{
+  "id": "9fcf0e50-3122-4353-902f-f3cec454ec71",
+  "slug": "section-1337-pregnancy-breastfeeding-and-fertility-while-taking-mebeverine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking mebeverine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "f2c8c2401abb8e8110ec7650b195b32831467c79d6165ee4a3976683b58f40c5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1337,
+    "content_hash": "bad84dc2ce1d08d37a13c9a6a8e708ad594ac149b4b93e833adc2ee9642d4777",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

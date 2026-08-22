@@ -1,0 +1,25 @@
+{
+  "id": "cb473234-1ca1-4609-9340-c2e42ab545b0",
+  "slug": "section-0359-side-effects-of-carbocisteine-nhs",
+  "title": "Side effects of carbocisteine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "06a2c44a87bfaf682df034482c14380e994545d31ca75f5b38a88ecb63db0b36",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 359,
+    "content_hash": "67ddffff320a98d5b1f8e98a8ac8f9c971254f91bc790edfe7fde045c76b5f90",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d347ba36-fbe6-4229-aba1-8084be37ba1d",
+  "slug": "section-1818-statins-side-effects",
+  "title": "Statins - Side effects",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "e6dbe18b10e9c6c6efd6619f727a0a76a1dbe12feab8757c24f8fefb37964298",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1818,
+    "content_hash": "ba11c5afc338763b33d2a5f2b736cb8451b3513fc859c4c226f7f3fc22880c48",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

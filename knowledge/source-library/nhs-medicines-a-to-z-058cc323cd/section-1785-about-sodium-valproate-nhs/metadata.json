@@ -1,0 +1,25 @@
+{
+  "id": "a879d8b2-b22c-437e-9ebf-45f6d4fb6d45",
+  "slug": "section-1785-about-sodium-valproate-nhs",
+  "title": "About sodium valproate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "6e5c30cdcdda38c3949c35f93495f13840a710f8b7fc7bdc52473bb1a0e55439",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1785,
+    "content_hash": "0f25438bad9aa9f45d5b4b4208a9f56014a7d81905493404d914c51919ad0166",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

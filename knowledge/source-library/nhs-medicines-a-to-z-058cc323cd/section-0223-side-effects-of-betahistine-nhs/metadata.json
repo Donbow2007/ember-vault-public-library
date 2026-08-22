@@ -1,0 +1,25 @@
+{
+  "id": "c01cafd3-8b5c-4747-88b3-9032bee41090",
+  "slug": "section-0223-side-effects-of-betahistine-nhs",
+  "title": "Side effects of betahistine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "9b3461a7fefacc7a6938fe7e71c12c87d990862dcba6934c258c897614ed8c84",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 223,
+    "content_hash": "7ed1eca69db16532b0480f6d9c1d0bd2000d50340e98c7db2b6b70ac2a2e79d2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

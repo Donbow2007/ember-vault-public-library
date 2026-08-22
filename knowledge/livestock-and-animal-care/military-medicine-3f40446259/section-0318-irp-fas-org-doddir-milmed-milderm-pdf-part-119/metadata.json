@@ -1,0 +1,25 @@
+{
+  "id": "8585d17e-11e6-4f15-9025-c9b08f5fef71",
+  "slug": "section-0318-irp-fas-org-doddir-milmed-milderm-pdf-part-119",
+  "title": "irp.fas.org/doddir/milmed/milderm.pdf — Part 119",
+  "category": "livestock-and-animal-care",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "5fbe09b24a440f2d4766c851227e54cb5eb1749e0613c4210185ad7114201eb9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 318,
+    "content_hash": "0b6bf36b6812439708e8b6f909731924533a00cb83fe1090ea19171288bc585e",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

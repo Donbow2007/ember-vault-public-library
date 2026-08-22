@@ -1,0 +1,25 @@
+{
+  "id": "c852337d-3240-40f5-850d-67d60c13853e",
+  "slug": "section-0349-rice",
+  "title": "Rice",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "ebe91d066116fa1734a25c9600f893bed54b177183101d897342b29770ff7bde",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 349,
+    "content_hash": "fca775c3394af9ce4089676faf44b1554cab834f15ff0659346f951668698fac",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

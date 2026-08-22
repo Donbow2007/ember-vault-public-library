@@ -1,0 +1,25 @@
+{
+  "id": "ed0bfca1-efe9-46aa-aa90-ab536023954b",
+  "slug": "section-1759-who-can-and-cannot-take-sildenafil-nhs",
+  "title": "Who can and cannot take sildenafil - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "0aad8d2f68cd3541b5c57d26029e125d78d74f6ab436159a2dcbf81b6fcfc672",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1759,
+    "content_hash": "64098fa62fefbbb3f29d1808ebb4641738640eb225aef9c0b4c9591ee3a71cd5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

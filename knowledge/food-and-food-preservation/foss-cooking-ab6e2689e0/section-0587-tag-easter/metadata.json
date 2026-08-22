@@ -1,0 +1,25 @@
+{
+  "id": "5ef50886-05d7-4b60-a410-f2d19409e8c8",
+  "slug": "section-0587-tag-easter",
+  "title": "Tag: easter",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "ed7c03d5e6ddc3f7b2b0f8ad9995218137fc476750e4fd6f8ac553a8825e6c2d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 587,
+    "content_hash": "c1137b8864524c4721af50933a3284b5ef366edba92e33c724b42695a85e2952",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

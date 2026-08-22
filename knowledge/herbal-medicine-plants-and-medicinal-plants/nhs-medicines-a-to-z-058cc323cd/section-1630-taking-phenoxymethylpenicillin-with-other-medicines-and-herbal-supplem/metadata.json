@@ -1,0 +1,25 @@
+{
+  "id": "b17433cb-bdf5-4a28-a627-bab7683d2950",
+  "slug": "section-1630-taking-phenoxymethylpenicillin-with-other-medicines-and-herbal-supplem",
+  "title": "Taking phenoxymethylpenicillin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "ec7ddf2a9d781b6c638afc4cd1bc611b12ab5573894cba3b5ef4aa223b1b2f10",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1630,
+    "content_hash": "d0d2bdbd19978eea1159493282fa0a4e6f8b8ff95943fd3c72fa85e2dcbf8493",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9e64cd7e-6e2a-42b1-8f64-720bd4088382",
+  "slug": "section-0521-who-can-and-cannot-take-co-beneldopa-nhs",
+  "title": "Who can and cannot take co-beneldopa - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "b6cf1a4e80f3aee355c883e0257cc7388add18db71a7baa0dd5893f2d36615ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 521,
+    "content_hash": "431c422698defd62c9347617e65179abf1d267adeea60e4fb0fa3e2b4f2ebc21",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "41c992ae-80b1-4ace-a9b4-fb9985ad8ce8",
+  "slug": "section-1118-storing-and-travelling-with-intermediate-acting-insulin-nhs",
+  "title": "Storing and travelling with intermediate-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "715aca840b4cbf02a91a773cffcb4da9224893225ffa97c9fcd19c8ba3d19e03",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1118,
+    "content_hash": "12ffc44581c131b0ff76ed96799e9d7f4fdce61fb45d764a5a15a3619c372508",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

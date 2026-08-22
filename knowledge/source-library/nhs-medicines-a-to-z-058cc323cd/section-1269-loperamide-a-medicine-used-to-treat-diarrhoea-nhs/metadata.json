@@ -1,0 +1,25 @@
+{
+  "id": "dd7bfe20-2a4a-4e93-ba68-474cecc21171",
+  "slug": "section-1269-loperamide-a-medicine-used-to-treat-diarrhoea-nhs",
+  "title": "Loperamide: a medicine used to treat diarrhoea - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "2effaf0524ec71eaf231016d457e3c36ba2af912d146173a692b9c61865c04ac",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1269,
+    "content_hash": "677fb8ad0efff063449452ee9fcb86ea7acd485b7b622b19d6c24a2cfa059db0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

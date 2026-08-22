@@ -1,0 +1,25 @@
+{
+  "id": "6d8b0efb-d68e-4bb8-b2ab-2f8e40783f39",
+  "slug": "section-0876-fluticasone-skin-creams-a-medicine-to-treat-itching-swollen-and-irrita",
+  "title": "Fluticasone skin creams: a medicine to treat itching, swollen and irritated skin. - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "5ca0a1d44a4c51d908c6e4b0b279f14d7b5aee789571be496db87ff334ec826f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 876,
+    "content_hash": "0ff6f4ad86caac8fe8108092ee446967ac3528ff8e666b2a88bf6d76228cef2d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

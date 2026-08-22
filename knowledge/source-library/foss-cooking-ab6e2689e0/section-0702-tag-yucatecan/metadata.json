@@ -1,0 +1,25 @@
+{
+  "id": "4e2997b5-ce1f-4653-bb6e-9962baf52537",
+  "slug": "section-0702-tag-yucatecan",
+  "title": "Tag: yucatecan",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:53Z",
+  "content_hash": "1624d509341ef4b15abbd3e3879e07cb2dc6e3105d973e0ae78d45217b840a07",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 702,
+    "content_hash": "69256f5fe1bd323db2f7970f5d72052183cecea726790ad327a323df8b13ea4a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

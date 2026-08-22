@@ -1,0 +1,25 @@
+{
+  "id": "09d47627-516c-44a0-84b7-0c12b295737c",
+  "slug": "section-0404-common-questions-about-chlorhexidine-nhs",
+  "title": "Common questions about chlorhexidine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "ba072a9baeb34934c2017a3e189d1ad3579d999dc0746a5b9e556f2efe2dc577",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 404,
+    "content_hash": "63c66e927dae3b94327c1795c87610f773cc79ab986096395682b43eb2d32370",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

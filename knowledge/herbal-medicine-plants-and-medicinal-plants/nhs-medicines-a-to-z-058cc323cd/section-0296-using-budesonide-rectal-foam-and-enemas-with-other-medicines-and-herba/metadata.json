@@ -1,0 +1,25 @@
+{
+  "id": "672cf73e-1ac1-41cf-819c-011b287967c7",
+  "slug": "section-0296-using-budesonide-rectal-foam-and-enemas-with-other-medicines-and-herba",
+  "title": "Using budesonide rectal foam and enemas with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "8fc7baf299ca5041f470ba16892ed07df4723b489048348f3b7b6973ad529b58",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 296,
+    "content_hash": "1e80a7335ac9cc11d5e54689306cbd6089b9d329a842fe0bb46b561eae89d62e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

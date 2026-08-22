@@ -1,0 +1,25 @@
+{
+  "id": "d420bdad-6614-4dc4-af96-8c1b9f511091",
+  "slug": "section-0502-clam-chowder",
+  "title": "Clam Chowder",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "67dd45d1afbdbbf4b2fd8155f76299012ce21c42590d76b4f5b4c967c893faf0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 502,
+    "content_hash": "a3093967069c4edd9f551fb6793014ea6e36eaf91eb3915a3a3816fe333486f7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

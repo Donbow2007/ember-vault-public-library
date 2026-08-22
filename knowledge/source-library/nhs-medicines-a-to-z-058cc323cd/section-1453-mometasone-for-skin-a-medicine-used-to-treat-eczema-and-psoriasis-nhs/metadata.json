@@ -1,0 +1,25 @@
+{
+  "id": "098952d8-5ed6-4921-9a5c-e25cce0204c6",
+  "slug": "section-1453-mometasone-for-skin-a-medicine-used-to-treat-eczema-and-psoriasis-nhs",
+  "title": "Mometasone for skin: a medicine used to treat eczema and psoriasis - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "ec18165365227c55fd8f52e6be0cff4a568ec6948b9b2f06ae7cd76abe5b8d28",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1453,
+    "content_hash": "d4187a61ecafce767f16875342aa90aa7562d6159b0335cb32c020439e834fd6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

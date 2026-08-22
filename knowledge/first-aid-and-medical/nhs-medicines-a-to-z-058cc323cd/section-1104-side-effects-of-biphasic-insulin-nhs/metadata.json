@@ -1,0 +1,25 @@
+{
+  "id": "ecb18cd2-2482-43f2-a60f-04213521e924",
+  "slug": "section-1104-side-effects-of-biphasic-insulin-nhs",
+  "title": "Side effects of biphasic insulin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "eb68dea462fcc70d9c68ab6f2555564bd30a8719e6155ae9b18724c44f156c1f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1104,
+    "content_hash": "95fb54c55a8fa1ed8483aa7705609294e0ba5e02b0824cad6e51b121c25ccea2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

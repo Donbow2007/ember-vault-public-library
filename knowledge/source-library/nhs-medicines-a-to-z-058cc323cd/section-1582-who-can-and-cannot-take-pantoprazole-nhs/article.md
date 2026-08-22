@@ -1,0 +1,7 @@
+# Who can and cannot take pantoprazole - NHS
+
+Who can and cannot take pantoprazole - Brand name: Pantoloc Control Who can take pantoprazole Most adults can take pantoprazole. Children aged 12 years old and over can take pantoprazole if it's prescribed for them. Who may not be able to take pantoprazole Pantoprazole is not suitable for some people. To make sure it's safe for you, tell your doctor if you: have ever had an allergic reaction to pantoprazole or any other medicine have liver problems are pregnant, trying to get pregnant or breastfeeding are due to have an endoscopy have low levels of vitamin B12 If you've bought pantoprazole without a prescription, speak to your doctor before taking it if you: have lost weight without trying to keep being sick (vomiting), or are vomiting blood (this may look like dark coffee grounds) feel weak or your skin looks paler than usual (this may be less noticeable on brown or black skin) have blood in your poo (your poo may look black or like tar) have chest pain or stomach pain have diarrhoea that is severe or does not go away have problems with swallowing If you're going to have an endoscopy, ask your doctor if you should stop taking pantoprazole a few weeks before your procedure. This is because pantoprazole may hide some of the problems that would usually be spotted during an endoscopy.
+Page last reviewed: 31 July 2025
+
+Next review due: 31 July 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

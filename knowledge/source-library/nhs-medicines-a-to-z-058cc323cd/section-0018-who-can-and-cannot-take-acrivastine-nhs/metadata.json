@@ -1,0 +1,25 @@
+{
+  "id": "70ecfb00-6e36-45b5-a30d-63367b52bcdf",
+  "slug": "section-0018-who-can-and-cannot-take-acrivastine-nhs",
+  "title": "Who can and cannot take acrivastine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "a5784ddb81e9233f7e0b951c383403e4678128601c529ab5ef8389fc4917db87",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 18,
+    "content_hash": "ceae120249a5752d650f19f686fb02e77ea7e4fd929571bacd1006edd313ef88",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

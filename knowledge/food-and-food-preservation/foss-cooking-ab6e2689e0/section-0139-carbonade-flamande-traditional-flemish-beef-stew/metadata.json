@@ -1,0 +1,25 @@
+{
+  "id": "47e1a89d-d380-49e5-9e9a-8ff61e5d8765",
+  "slug": "section-0139-carbonade-flamande-traditional-flemish-beef-stew",
+  "title": "Carbonade Flamande (Traditional Flemish beef stew)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "9af7fdba3c89747d039fe03f72de2857c919bcc3d023f241722b085580b06b50",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 139,
+    "content_hash": "67baaaad74294bd04c91f534bcd238b5dbd66a200794cbc0053b6f29b767e538",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

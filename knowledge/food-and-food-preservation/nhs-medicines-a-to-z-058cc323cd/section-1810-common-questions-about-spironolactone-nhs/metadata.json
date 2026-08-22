@@ -1,0 +1,25 @@
+{
+  "id": "f73c21c1-d62c-41a2-ae2a-95b541f16d51",
+  "slug": "section-1810-common-questions-about-spironolactone-nhs",
+  "title": "Common questions about spironolactone - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "cbf1a5fdf131ca4f60974da41e4f9320bcd8ac3030126590d96a225d64085703",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1810,
+    "content_hash": "c23cc959101c659a8119ff5f16c2b59a6c58798265baf3fae07520ff8b487b9c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

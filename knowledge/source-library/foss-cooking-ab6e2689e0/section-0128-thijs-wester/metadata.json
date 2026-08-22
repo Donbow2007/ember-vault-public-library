@@ -1,0 +1,25 @@
+{
+  "id": "7fadbf62-a4d1-40ff-b86c-1d98e88f7783",
+  "slug": "section-0128-thijs-wester",
+  "title": "Thijs Wester",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "a142bb313a0aef14bfda5d1ae8dc70a8c38f055a841c7de31f7ab7d5ae409b42",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 128,
+    "content_hash": "7cd1a4f6e8c9aef14b4163d575ccf6e9f4c77f2166a94dfc9ce111a9a1e58a2e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

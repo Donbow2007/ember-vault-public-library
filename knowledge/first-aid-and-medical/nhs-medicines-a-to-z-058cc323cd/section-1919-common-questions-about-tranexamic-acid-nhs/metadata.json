@@ -1,0 +1,25 @@
+{
+  "id": "684d4a57-589e-4337-ab03-cf5a2dd0753a",
+  "slug": "section-1919-common-questions-about-tranexamic-acid-nhs",
+  "title": "Common questions about tranexamic acid - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "39a967c7c8c46f76dcccb5516f0a8291c09493bfdb06e86b4cec6eabbe6817b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1919,
+    "content_hash": "0de3b62652d56555692725a2dfff45b33a68bf4e8047a79c63279c6e23bd1148",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+# Side effects of topiramate - NHS
+
+Side effects of topiramate
+
+Like all medicines, topiramate can cause side effects, although not everyone gets them. Common side effects These common side effects of topiramate may happen in more than 1 in 100 people. They're usually mild and go away by themselves. There are things you can do to help cope with them:
+Feeling sick (nausea)
+Stick to simple meals and do not eat rich or spicy food. It might help to take your topiramate after a meal or snack.
+Feeling sleepy, dizzy or tired
+Do not drink alcohol, as this will make you feel more tired. If you feel dizzy, stop what you're doing and sit or lie down until you feel better. Do not drive, cycle or use tools or machinery. As your body gets used to topiramate, these side effects should wear off. If they do not wear off after a few weeks or you feel dizzy all the time, speak to your doctor.
+Diarrhoea
+Drink lots of fluids, such as water or squash, to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat diarrhoea without speaking to a pharmacist or doctor. If you're taking the combined pill or progestogen-only pill , and you have severe diarrhoea for more than 24 hours, your contraception may not protect you from pregnancy. Check the pill packet to find out what to do.
+Feeling depressed
+If this continues, speak to your doctor.
+Loss of appetite or weight loss
+Try to eat at your usual meal times even if you do not feel hungry. If this becomes a problem, speak to your doctor or pharmacist. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects Tell your doctor or call 111 now if you: get blurred vision, have difficulty seeing and eye pain – these can be signs of glaucoma (these symptoms usually happen in the first month of starting topiramate) get pain in your back, belly or side, a burning sensation when you pee, or cloudy or smelly pee – these can be signs of kidney stones and a kidney infection feel sleepy, lose your appetite and have an irregular heartbeat – these can be signs of metabolic acidosis think your child is not sweating – some children taking topiramate may not sweat enough in hot weather, causing their body temperature to rise Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to topiramate. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of topiramate. For a full list, see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 4 April 2022
+
+Next review due: 4 April 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

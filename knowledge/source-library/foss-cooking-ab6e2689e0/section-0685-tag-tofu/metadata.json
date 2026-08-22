@@ -1,0 +1,25 @@
+{
+  "id": "143dc107-662a-4dfc-b96a-d6f8b5715ad4",
+  "slug": "section-0685-tag-tofu",
+  "title": "Tag: tofu",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "f6bfd61a86e4f30e179e47648836850144d111c45bc7633b53b6cc5c7fc866d6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 685,
+    "content_hash": "0e76b71fe68604b3ffd423483f23892d8e885cb7abcb9200ac301bed9e5fea4d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

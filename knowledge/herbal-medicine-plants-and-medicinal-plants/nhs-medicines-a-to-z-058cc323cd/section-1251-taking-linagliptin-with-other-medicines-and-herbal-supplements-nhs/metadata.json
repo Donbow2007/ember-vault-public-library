@@ -1,0 +1,25 @@
+{
+  "id": "c5378219-689b-4a09-a8ce-9f2d09522cfd",
+  "slug": "section-1251-taking-linagliptin-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking linagliptin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "fa6cd48097b8d8931aa133d596d7c35915bb0962d75370f3d66a6d1abf2a4b8b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1251,
+    "content_hash": "38ccebaf1b8f225551359258c039f9d961cf323120114bd23dfcbf6033976e2f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

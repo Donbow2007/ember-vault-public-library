@@ -1,0 +1,10 @@
+# Pregnancy, breastfeeding and fertility while taking metformin - NHS
+
+Pregnancy, breastfeeding and fertility while taking metformin
+
+Metformin and pregnancy Metformin is safe to take during pregnancy, either alone or combined with insulin. Metformin and breastfeeding If your doctor or midwife says your baby is healthy, you can take metformin while breastfeeding. Metformin passes into breast milk in tiny amounts and has not been linked with side effects in any breastfed babies. Metformin would not be expected to cause side effects but contact your health visitor, midwife, pharmacist or doctor as soon as possible if your baby: is not feeding as well as usual seems unusually sleepy or drowsy seems unusually restless or irritable looks paler, or is more sweaty, than usual seems hungrier than usual is peeing more is causing you any other concerns Metformin and fertility There's no evidence to suggest that taking metformin reduces fertility in either men or women. Metformin is sometimes prescribed to try to improve ovulation and fertility if you have polycystic ovary syndrome (PCOS) . Having a healthy body weight is important both for fertility and for pregnancy. Your doctor may suggest losing weight in the first instance if you have PCOS. This is also likely to improve ovulation and help both you and your baby during pregnancy. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Find out more about how metformin can affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 24 March 2022
+
+Next review due: 24 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

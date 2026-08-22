@@ -1,0 +1,25 @@
+{
+  "id": "344fcba2-65d0-4211-b6a9-383b6e5aeb1a",
+  "slug": "section-0069-common-questions-about-amlodipine-nhs",
+  "title": "Common questions about amlodipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "68d4a9e290acf68c3f8189d218f62507b9ef32226b42619bdc9dfff01119179c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 69,
+    "content_hash": "056854f3db3f68f66f136a4d5a6530750109328cab06dbce8d781829e19f9784",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9425bef2-410f-4a3e-bce2-728d83bb19c7",
+  "slug": "section-0179-mayonnaise-or-aioli",
+  "title": "Mayonnaise or aioli",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "545fcb2550d7ca8046b83c09a5cfaf73475ef2cbfed982e43ec93ab2dd3cbcc7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 179,
+    "content_hash": "64480b68b90d7dcb23cb0dd8b8d88f30eb71732c24af7ea71e959a17d130f7aa",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

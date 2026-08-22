@@ -1,0 +1,25 @@
+{
+  "id": "4ea56af7-6793-48aa-9554-afbf09ae9bdd",
+  "slug": "section-1377-how-and-when-to-take-metformin-nhs",
+  "title": "How and when to take metformin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "63ec3ae40afe8d4156742cb835245eb68ea58ff129bcb9fa3a716de20b961ac9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1377,
+    "content_hash": "7cf519e62a093764bfcc6570995a0e88781ce008d0a7100f7520a8dbda3eba93",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

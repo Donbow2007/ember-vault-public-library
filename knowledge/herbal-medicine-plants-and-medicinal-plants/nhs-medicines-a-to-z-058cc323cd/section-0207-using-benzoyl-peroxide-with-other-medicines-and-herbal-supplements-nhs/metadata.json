@@ -1,0 +1,25 @@
+{
+  "id": "a8884aab-0273-4553-9721-4d2bf5b14266",
+  "slug": "section-0207-using-benzoyl-peroxide-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Using benzoyl peroxide with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "a666f7ec6ddad112617e85b97a3ae66e41031cfdf7447c239d24407c6179da25",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 207,
+    "content_hash": "184e00fb6361384adce929117fb9f6766cfa697bec97ffd9d01a4bded1a1ade8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

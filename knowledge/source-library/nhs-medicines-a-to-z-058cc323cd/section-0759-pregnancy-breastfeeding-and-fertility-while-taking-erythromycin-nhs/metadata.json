@@ -1,0 +1,25 @@
+{
+  "id": "2376c5b2-730d-4e3a-bcf1-cca6d22e043e",
+  "slug": "section-0759-pregnancy-breastfeeding-and-fertility-while-taking-erythromycin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking erythromycin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "79c8234bedb43925676d11c6089ce6a8538dadedb9530da8d72318c3d2975c8c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 759,
+    "content_hash": "4fb4499e1990c3d2608aca8d01fa856281bb60e5cf95b012a5c0c8707773e67c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "68f8b115-bf3b-49dc-a4f3-74839901db65",
+  "slug": "section-0422-drunken-beans-pintos-borrachos",
+  "title": "Drunken beans (Pintos Borrachos)",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "40a2bd0260f44a31d5860a5d822b50ab58a3dad3a39935e3b82f1f3f7b886941",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 422,
+    "content_hash": "02968b051e28f322516993a1691b2e233449473032e34497c1701948019d53aa",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

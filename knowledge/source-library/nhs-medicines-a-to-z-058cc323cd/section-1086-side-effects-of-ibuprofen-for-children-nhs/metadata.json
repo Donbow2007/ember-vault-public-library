@@ -1,0 +1,25 @@
+{
+  "id": "4aa33554-4adc-47b3-83b0-c42e625761d4",
+  "slug": "section-1086-side-effects-of-ibuprofen-for-children-nhs",
+  "title": "Side effects of ibuprofen for children - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "1dfa5764bce7a32e7b14d7bfe85ca5b1589894a0d3170167e631289b6f146b36",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1086,
+    "content_hash": "480aede4ae669f63b377ddd009f7ca9b677ba5de09652118dc0cf7e662e99420",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

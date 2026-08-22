@@ -1,0 +1,25 @@
+{
+  "id": "92f04a42-7a6d-4fad-883d-89c7dffa68c8",
+  "slug": "section-0849-side-effects-of-fluconazole-nhs",
+  "title": "Side effects of fluconazole - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "108c6f0a3045a981fd5fe76c7b3985417f9edd0d40d675174ff6a465956f4c26",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 849,
+    "content_hash": "67ad1995d325d8f527ea9294d5e78c15e591dcc8ecd23964061024c8c2b38202",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

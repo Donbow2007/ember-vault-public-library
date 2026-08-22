@@ -1,0 +1,25 @@
+{
+  "id": "2265fa6f-6ac7-41ab-abbe-7f42033e7dab",
+  "slug": "section-0530-classic-bechamel-sauce",
+  "title": "Classic béchamel sauce",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "b21726f92acba820cdbfd2a75d70fe87db8799d364288bc45ae8aa63e16bc824",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 530,
+    "content_hash": "1c288431a4b735d5d6c1aa26632a803e8d2a09b7d7155c763c25dd690761b619",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

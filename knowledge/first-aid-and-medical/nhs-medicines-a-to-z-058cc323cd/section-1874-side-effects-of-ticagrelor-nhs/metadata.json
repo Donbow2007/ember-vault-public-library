@@ -1,0 +1,25 @@
+{
+  "id": "d23d723e-d534-4fbc-8599-143248ca9f26",
+  "slug": "section-1874-side-effects-of-ticagrelor-nhs",
+  "title": "Side effects of ticagrelor - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "08d40483c7529ed4b296381c97f856be72de90ea839b706b8bbd60c0f277ba4b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1874,
+    "content_hash": "09010239561d9e62f0e2c5a12208e8ea6b539387d16ce160d1bfafa8997d6303",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "87708909-6ee0-423d-b43d-799c1637ad34",
+  "slug": "section-0696-taking-domperidone-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking domperidone with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "6fecbd0962d2a1f0ab6684d6bc73d09dfa2db10a729c7aa12cf86c2209c26bd8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 696,
+    "content_hash": "204b9e92cd428443c2f08632f59ddbe18e4b75ef250c5d0fd9751afd33f1ed64",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

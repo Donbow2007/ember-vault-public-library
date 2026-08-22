@@ -1,0 +1,25 @@
+{
+  "id": "0df32cfe-54dc-47bd-89c7-6d30c861a18d",
+  "slug": "section-0538-co-codamol-for-children-painkiller-containing-paracetamol-and-codeine",
+  "title": "Co-codamol for children: painkiller containing paracetamol and codeine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "266b8afe9f54bc844d007a20df4693c3f3c213ea05a077513e96dc72ecec998e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 538,
+    "content_hash": "6502b3f11c4ca00916cd017019c6bc702e7650e24e46cc9ad3a1a8a5f7d0d7e7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c19c96dd-280d-4a8f-9891-475d99b40d32",
+  "slug": "section-1668-common-questions-about-promethazine-nhs",
+  "title": "Common questions about promethazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "bd633fd755b3f251a90ed557955764d800e8af4ea670e5e143e3acaff4726cca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1668,
+    "content_hash": "0013742c34ce4290005d7da5ca0a384906eff4ae12b4b297ad9076817419f1cf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

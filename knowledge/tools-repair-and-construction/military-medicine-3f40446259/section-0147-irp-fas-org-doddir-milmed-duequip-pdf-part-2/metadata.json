@@ -1,0 +1,25 @@
+{
+  "id": "155549a3-8fa8-47d7-add5-cd2171748cd8",
+  "slug": "section-0147-irp-fas-org-doddir-milmed-duequip-pdf-part-2",
+  "title": "irp.fas.org/doddir/milmed/duequip.pdf — Part 2",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:42Z",
+  "content_hash": "29d2654732e7159f0ee645bc7d76f7696c91d6a3dcf315db7507e29c68474804",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 147,
+    "content_hash": "2227f16162eff3a34b17e87c41a7170d7b9f1b1ef8097ac34c316168367e3f39",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

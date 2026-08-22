@@ -1,0 +1,14 @@
+# Side effects of zopiclone - NHS
+
+Side effects of zopiclone
+
+Like all medicines, zopiclone can cause side effects, but not everyone gets them. Common side effects These common side effects of zopiclone happen in more than 1 in 100 people. There are things you can do to help cope with them:
+A bitter or metallic taste in your mouth or a dry mouth
+Try taking sips of water and keep some water by your bed at night. Using a mouthwash before bedtime may also help. Ask your pharmacist to recommend one that's good for a dry mouth , as some can make a dry mouth worse.
+Feeling sleepy or tired the next day
+Do not drive, cycle or use tools or machinery if you're feeling this way. Do not drink any alcohol as it will make you feel more tired. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects It happens rarely, but some people have serious side effects when taking zopiclone. Call your doctor or call 111 as soon as possible if you: get a poor memory ( amnesia ) see or hear things that are not real ( hallucinations ) fall over, especially if you're over 65 years of age think things that are not true (delusions) feel low or sad (have depression ) Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to zopiclone. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of zopiclone. For a full list, see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 18 February 2022
+
+Next review due: 18 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "f114f10e-f9fa-4aa2-b746-0c6010f54f4e",
+  "slug": "section-1910-about-tramadol-nhs",
+  "title": "About tramadol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "05f7944ed7e3e4ea470cfcfdbdab7fa0eebec82fc98990a731fb62778b4f02b6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1910,
+    "content_hash": "c3811ebe88b8f1c290a9e45b84cdce13696da5202f5279cfa23b5f56068fdab8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

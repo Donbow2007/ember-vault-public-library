@@ -1,0 +1,25 @@
+{
+  "id": "337c03c8-725b-4c7f-ac52-9cbf1c510746",
+  "slug": "section-1348-taking-medroxyprogesterone-tablets-with-other-medicines-and-herbal-sup",
+  "title": "Taking medroxyprogesterone tablets with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "cbf0c1b98cfcfa2103d649d7d8eb9bb2a55560316a4981410410686f13f7ec91",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1348,
+    "content_hash": "a3136463285ed84ef42e03024f728de123b77fbbd339e9bec89dd65b4363e389",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

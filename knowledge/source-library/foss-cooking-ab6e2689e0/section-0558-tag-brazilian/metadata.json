@@ -1,0 +1,25 @@
+{
+  "id": "bae734e4-77ad-4f1c-9d52-3594a881eaa6",
+  "slug": "section-0558-tag-brazilian",
+  "title": "Tag: brazilian",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e24dff4496ab004db3b42b77581c899afb8c0f591abc29ababdc512b34aa8a55",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 558,
+    "content_hash": "f7ab283feba75a624ddc1755e6039c3c157c4857de342cda6476898a4f40cc96",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

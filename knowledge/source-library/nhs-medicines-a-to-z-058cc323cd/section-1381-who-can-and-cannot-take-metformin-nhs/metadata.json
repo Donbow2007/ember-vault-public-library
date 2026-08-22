@@ -1,0 +1,25 @@
+{
+  "id": "a398b184-ab8a-41a0-8657-d23f1493fb7b",
+  "slug": "section-1381-who-can-and-cannot-take-metformin-nhs",
+  "title": "Who can and cannot take metformin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "1cd8a380655647d88cdb08f216f1c1253cbd22a061480370996ccb84eee938d6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1381,
+    "content_hash": "bbbb056bcd10059afb51f079bf88ee8e66c7c650342e2e0eb04874ad4bf7608c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

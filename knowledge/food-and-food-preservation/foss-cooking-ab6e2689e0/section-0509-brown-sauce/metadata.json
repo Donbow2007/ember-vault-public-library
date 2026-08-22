@@ -1,0 +1,25 @@
+{
+  "id": "2ae24214-106f-4f90-bdb1-4e0130839de5",
+  "slug": "section-0509-brown-sauce",
+  "title": "Brown Sauce",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "4f5d376473a1eef683f91b13e50a55b4db5e547898046b9d1ba78bbb783b1196",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 509,
+    "content_hash": "b7ed13181ed10833f77d90e149dc82002b422e07e0894b9bff0be0fd8c7dce14",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

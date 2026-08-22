@@ -1,0 +1,25 @@
+{
+  "id": "8632d409-ef1b-4674-843b-fce12474aebd",
+  "slug": "section-1795-how-and-when-to-take-solifenacin-nhs",
+  "title": "How and when to take solifenacin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "2e6bba0578390803a2ccce3ece227cd4672f8b3a1e90086872e773d099dd38a6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1795,
+    "content_hash": "97d2ac8067bc6432bdbd6ae3fe3946a735f6a70dd24a7e59dd2c1b509e51e781",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

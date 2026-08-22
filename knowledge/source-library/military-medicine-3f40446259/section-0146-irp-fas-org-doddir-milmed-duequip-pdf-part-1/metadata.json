@@ -1,0 +1,25 @@
+{
+  "id": "d81fab20-9888-4050-a3db-85c809eae8c5",
+  "slug": "section-0146-irp-fas-org-doddir-milmed-duequip-pdf-part-1",
+  "title": "irp.fas.org/doddir/milmed/duequip.pdf — Part 1",
+  "category": "source-library",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:42Z",
+  "content_hash": "42e04dc419901f618c3d89c5c591b9a5883e86e85271746d15ac7de60e7568c2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 146,
+    "content_hash": "e8032997422eefc5ad906c31064e6e1bce577f79e0dc661f8aa019c567f76eb6",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

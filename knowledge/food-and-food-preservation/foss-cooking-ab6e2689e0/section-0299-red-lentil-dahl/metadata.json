@@ -1,0 +1,25 @@
+{
+  "id": "f7e0004e-801d-4f9b-86ff-0699cac93176",
+  "slug": "section-0299-red-lentil-dahl",
+  "title": "Red Lentil Dahl",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "8575b24b82f27e1241ebfe6ad03d5d9ed8b6d993130d007cbcc0c1963cd8dbc1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 299,
+    "content_hash": "9402cdf198f2172a4a5d83625c6aac7ef32b0097e9a37b499f306e109a00d6ad",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

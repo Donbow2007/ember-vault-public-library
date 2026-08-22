@@ -1,0 +1,25 @@
+{
+  "id": "8b5ac7c0-874a-4b2e-9003-f858d8b0894c",
+  "slug": "section-0012-arth-patel",
+  "title": "Arth Patel",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "4f82f7d7e75af6c134c690cea3e8e65271849331e6e914b875f88f998452e7e7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 12,
+    "content_hash": "c44f924bcabeb8f7dd830f7609f950a8e1e070502a24b7be2c3a331ab9fe2df3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

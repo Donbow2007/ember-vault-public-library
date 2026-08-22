@@ -1,0 +1,25 @@
+{
+  "id": "cb9bb5e6-1fd1-46f9-9a81-3ab0a1058d3a",
+  "slug": "section-1986-common-questions-about-warfarin-nhs",
+  "title": "Common questions about warfarin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "da3caf477737e0dd7c4ecfbdece8c718e93ded53614dd0cf1d543405e4f0cef1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1986,
+    "content_hash": "f6ec945d79933b2c0defac2a1c4cb3fe5b0cd0dd4b1bdb4ce9a2b6ac499a01d0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

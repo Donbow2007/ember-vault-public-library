@@ -1,0 +1,25 @@
+{
+  "id": "df4c6b57-faf3-4318-b424-5831ab210d73",
+  "slug": "section-0045-furkan",
+  "title": "furkan",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9e5f2a987b3bbac38cc4f260a08de6850d18c92f85a49e5c9fa9aa51868469e8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 45,
+    "content_hash": "14f3a12e6fd2a5fff302037e3baf5ec177a986cf34af697f11b3a7afe1507772",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "43680402-052b-4a1f-b6d3-c727c0de633c",
+  "slug": "section-0725-common-questions-about-edoxaban-nhs",
+  "title": "Common questions about edoxaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "f8ad4e0b84603bdb07b5d6a424007095668f0604122f926a328d279132260aa6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 725,
+    "content_hash": "3e1502d1834e451dc5102f100f907f49865b5f813354856d876a924f2048015f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

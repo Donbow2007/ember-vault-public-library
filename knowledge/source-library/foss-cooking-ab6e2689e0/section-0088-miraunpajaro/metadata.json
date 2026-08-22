@@ -1,0 +1,25 @@
+{
+  "id": "35d51ac4-0d23-40a1-a443-e7658de939a6",
+  "slug": "section-0088-miraunpajaro",
+  "title": "miraunpajaro",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9ac2d652082b74ca383af8a7491ec65b6ddcbc00566d851f798d043d761fb789",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 88,
+    "content_hash": "4a168a4ad9f30174a4e0eaff5dedb6c7252e1340370415a5de0f8b8be648728d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

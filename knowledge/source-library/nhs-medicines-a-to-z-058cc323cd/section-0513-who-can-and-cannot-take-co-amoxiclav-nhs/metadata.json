@@ -1,0 +1,25 @@
+{
+  "id": "809b77b5-6dde-4661-bab7-816f027ba4fe",
+  "slug": "section-0513-who-can-and-cannot-take-co-amoxiclav-nhs",
+  "title": "Who can and cannot take co-amoxiclav - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "3161764fcb4704399cbbf7358fb0e87efe9011c874f257a771430907bc8fcf4e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 513,
+    "content_hash": "46163ed5c59265bf6003fdf2e65a48ceda564f44d56280f9392c5b3da1ff7c7d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

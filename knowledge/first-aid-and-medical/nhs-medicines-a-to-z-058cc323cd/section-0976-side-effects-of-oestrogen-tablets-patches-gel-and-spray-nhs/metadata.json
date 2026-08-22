@@ -1,0 +1,25 @@
+{
+  "id": "d10e1bf7-c696-45a9-97e0-f4555d3a5616",
+  "slug": "section-0976-side-effects-of-oestrogen-tablets-patches-gel-and-spray-nhs",
+  "title": "Side effects of oestrogen tablets, patches, gel and spray - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "486c395d9f6daa442e7f8b5de7de7be77dbf9e6ebf9a971506db27ab3e016c07",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 976,
+    "content_hash": "a737d16360396c36831a0a2379eed5580e6988ca49226cdbe2a2f08d39e10da4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

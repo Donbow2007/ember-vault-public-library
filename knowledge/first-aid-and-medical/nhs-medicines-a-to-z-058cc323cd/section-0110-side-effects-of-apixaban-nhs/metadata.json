@@ -1,0 +1,25 @@
+{
+  "id": "33d9fbb5-8a26-474a-9696-cebb467fafdd",
+  "slug": "section-0110-side-effects-of-apixaban-nhs",
+  "title": "Side effects of apixaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "5ba40e4324e4b6c70b615ad8b1007364badbf6fa4444c54bdb8f77c2b316ceed",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 110,
+    "content_hash": "3160c841e5852de8abd2c19ec13511eae1648a2415804e2af820fd0f5c00b833",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

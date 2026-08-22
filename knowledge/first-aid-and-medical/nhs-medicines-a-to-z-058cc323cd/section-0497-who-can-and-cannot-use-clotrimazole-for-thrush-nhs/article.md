@@ -1,0 +1,6 @@
+# Who can and cannot use clotrimazole for thrush - NHS
+
+Who can and cannot use clotrimazole for thrush - Brand name: Canesten Who can use clotrimazole for thrush Most adults and children can use clotrimazole for thrush. However, some creams and pessaries are not recommended for children under the age of 16 years or adults aged 60 and above. Thrush affecting the vagina is rare in these age groups so a doctor will check what's causing those symptoms before they recommend any treatment. Who may not be able to use clotrimazole Clotrimazole for thrush is not suitable for some people. To make sure it’s safe for you, tell your pharmacist or doctor if: it’s the first time you've had thrush you've had thrush more than twice in the past 6 months you or your partner have ever had a sexually transmitted infection (STI) you're a man with thrush but your sexual partner does not have it you have an abnormal discharge from your penis you have sores, ulcers or blisters on your penis you have abnormal or irregular bleeding from your vagina, or bloody discharge you have sores, ulcers or blisters on, or around, your vagina Do not use clotrimazole pessaries if: you're allergic to clotrimazole or any of the ingredients in the medicine you're having your period – wait until it's finished
+Page last reviewed: 2 November 2022
+
+Next review due: 2 November 2025

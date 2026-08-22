@@ -1,0 +1,7 @@
+# About dipyridamole - NHS
+
+About dipyridamole - Brand name: Attia Dipyridamole is an antiplatelet medicine. It prevents a type of blood cell (platelets) sticking together and forming a dangerous blood clot. Dipyridamole helps to prevent blood clots if you have an increased risk of having them. Your risk is higher if you've had: a stroke or "mini-stroke" (transient ischaemic attack or TIA) an operation on your heart to replace your heart valve Dipyridamole is only available on prescription. It comes as tablets and slow-release capsules (also called modified release). It's also available as a liquid if you find it difficult to swallow tablets or capsules. Your doctor may prescribe dipyridamole alone or with daily low-dose aspirin . Key facts You'll usually take dipyridamole 2 to 4 times a day, depending on which type you're taking. The most common side effects of dipyridamole include feeling or being sick, feeling dizzy and diarrhoea. Do not drink too much alcohol while taking dipyridamole as this can make you feel dizzy or lightheaded. If dipyridamole makes you feel dizzy, do not drive, cycle or use tools or machinery until you feel better. If you're due to have surgery, let the doctors know that you take dipyridamole. They might ask you to stop taking it before surgery.
+Page last reviewed: 2 July 2024
+
+Next review due: 2 July 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

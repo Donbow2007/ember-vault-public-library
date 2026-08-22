@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking melatonin - NHS
+
+Pregnancy, breastfeeding and fertility while taking melatonin - Brand names: Circadin Adaflex, Ceyesto, Slenyto, Syncrodin Melatonin and pregnancy Melatonin is not usually recommended during pregnancy because little is known about its effect on babies. Speak to your doctor if you become pregnant while taking melatonin. They'll help you decide whether to carry on taking it or to stop. Melatonin and breastfeeding If your doctor or health visitor says your baby is healthy, you can take melatonin while breastfeeding. Breast milk naturally contains melatonin, but when you take manufactured melatonin, it is not known how much of it passes into breast milk. It's thought to be a small amount that is unlikely to cause any side effects in your baby. However, if taken for longer periods of time, it might make your baby sleepy. It's important not to share a bed with your baby while you're taking melatonin. If you notice that your baby seems unusually sleepy, is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Melatonin and fertility There's no evidence to suggest that taking melatonin reduces fertility in either men or women. Speak to a pharmacist or doctor if you're trying to get pregnant. They may want to review your treatment. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 13 February 2023
+
+Next review due: 13 February 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

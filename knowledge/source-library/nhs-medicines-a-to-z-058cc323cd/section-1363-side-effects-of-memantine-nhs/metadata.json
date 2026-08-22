@@ -1,0 +1,25 @@
+{
+  "id": "6d6ca6ac-197b-4752-ad1e-52545ad72029",
+  "slug": "section-1363-side-effects-of-memantine-nhs",
+  "title": "Side effects of memantine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "08f30ac91a8553229c2330e224cef905a7632e06e6ad34ea74c3cd0ef21444e6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1363,
+    "content_hash": "8bd64f22b1d2fc8276c9962918e6ebfa662622c4ecd3478ea81155fd63345cbc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

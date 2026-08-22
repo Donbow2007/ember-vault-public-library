@@ -1,0 +1,25 @@
+{
+  "id": "c3d5f908-1c06-47c7-b22b-37c9f79cfc92",
+  "slug": "section-0783-pregnancy-breastfeeding-and-fertility-while-taking-ezetimibe-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking ezetimibe - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "2370b4b94d02c13f1852c0a5f4c0726e09a5c9da1d30087fc19ba47b8642832c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 783,
+    "content_hash": "8ffed12e7bd50d4360f6180c135b2ae5a997cc65b19e717d64be8c0a4366c16c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

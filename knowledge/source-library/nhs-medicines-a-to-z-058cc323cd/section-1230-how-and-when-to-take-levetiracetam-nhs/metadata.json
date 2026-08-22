@@ -1,0 +1,25 @@
+{
+  "id": "bfd03ced-04de-4f26-b711-47e22d064a65",
+  "slug": "section-1230-how-and-when-to-take-levetiracetam-nhs",
+  "title": "How and when to take levetiracetam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "7e7fb2643728dfce62f0f0cba864f5d812d935b9eecf02598af7963919307f89",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1230,
+    "content_hash": "5b7a354a3117ac78acf0944a21b6c9dcf4b48794f00a4ccf749feb2c6c40c854",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

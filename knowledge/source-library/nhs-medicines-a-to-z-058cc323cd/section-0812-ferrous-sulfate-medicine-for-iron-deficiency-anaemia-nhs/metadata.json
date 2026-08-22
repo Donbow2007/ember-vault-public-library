@@ -1,0 +1,25 @@
+{
+  "id": "504c3171-4fae-40e0-a08f-709b0b2fef48",
+  "slug": "section-0812-ferrous-sulfate-medicine-for-iron-deficiency-anaemia-nhs",
+  "title": "Ferrous sulfate: medicine for iron deficiency anaemia - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "bad6ca3cb693b9063551cf86b99c530703a825750480a7e244becf7894728775",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 812,
+    "content_hash": "85ce55a46e0df9c0620b370f91d848b644e516858f14b6a0dc296317b62d9804",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

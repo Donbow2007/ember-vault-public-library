@@ -1,0 +1,25 @@
+{
+  "id": "7bc7d65c-851e-4256-a60e-3af57305326c",
+  "slug": "section-1534-about-nortriptyline-nhs",
+  "title": "About nortriptyline - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "80faa4db414679ade6660cbc1576a197f3cf7acb622bd65d9b6a809af84fd76e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1534,
+    "content_hash": "411c162f311fd2e1de1e68310ea0bb15eb89d41e1e634f80f7e3eff443c244ed",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

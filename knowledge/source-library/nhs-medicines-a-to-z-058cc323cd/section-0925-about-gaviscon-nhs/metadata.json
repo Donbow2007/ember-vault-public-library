@@ -1,0 +1,25 @@
+{
+  "id": "9252383c-3664-4836-92ce-84e00d35f6b1",
+  "slug": "section-0925-about-gaviscon-nhs",
+  "title": "About Gaviscon - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "48aa28c7d7705140fb6497035aaa583f6915f5610be744a90976e99c49b8e3fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 925,
+    "content_hash": "3424d2419c7bca7e0740b4ff549083b989b42c8d02a6d118b5410271bbd4ad02",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

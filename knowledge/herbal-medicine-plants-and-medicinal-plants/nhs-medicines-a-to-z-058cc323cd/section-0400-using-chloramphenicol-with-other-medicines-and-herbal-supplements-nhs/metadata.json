@@ -1,0 +1,25 @@
+{
+  "id": "dcf8eedd-2afd-412f-a5dc-c7b5cbeed6a2",
+  "slug": "section-0400-using-chloramphenicol-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Using chloramphenicol with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "59d68f87ecd44bde15bebe1dbe413045fa3cfc25120b422d8ed622f096c69398",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 400,
+    "content_hash": "8660187412ccda4365df1cca3239f79640b9c7fae29726187696f7b993c76ad8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

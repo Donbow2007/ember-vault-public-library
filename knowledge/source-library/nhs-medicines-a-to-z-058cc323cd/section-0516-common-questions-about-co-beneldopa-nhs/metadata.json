@@ -1,0 +1,25 @@
+{
+  "id": "d5680b83-34f6-4517-8a0a-6424e891cd3e",
+  "slug": "section-0516-common-questions-about-co-beneldopa-nhs",
+  "title": "Common questions about co-beneldopa - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "02144f09a3ddcfac1da710f8ea5aa5476189af92af15905b7f849335a5c64765",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 516,
+    "content_hash": "ee542f0e8ff0897c16556555eeaa8a1e6a166c7801797386d30b5711f39abb21",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

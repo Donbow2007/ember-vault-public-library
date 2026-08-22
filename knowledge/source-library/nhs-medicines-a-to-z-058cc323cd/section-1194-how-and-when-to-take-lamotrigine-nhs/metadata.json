@@ -1,0 +1,25 @@
+{
+  "id": "3db6b86f-4279-49a3-a719-3968bc7ea09e",
+  "slug": "section-1194-how-and-when-to-take-lamotrigine-nhs",
+  "title": "How and when to take lamotrigine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "ee2c8642bc14a1356423edbbd5845c09c3111f288310ca4385708c0dd5b63309",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1194,
+    "content_hash": "b859d3ed14c172a328b627e9f2260aaa04e36844b18685b051069a4e3d34f33e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

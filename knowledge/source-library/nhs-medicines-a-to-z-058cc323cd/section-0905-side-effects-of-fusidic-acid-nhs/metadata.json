@@ -1,0 +1,25 @@
+{
+  "id": "630170f6-2ae2-4ce1-946b-015a6402981d",
+  "slug": "section-0905-side-effects-of-fusidic-acid-nhs",
+  "title": "Side effects of fusidic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "f35d54c0f2620cc89efd825c408d5b207a2f4fb0b637a6da7b224d07c43e1abd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 905,
+    "content_hash": "eb47207918914be84b05db7a96ca1a34e5627376b96a7338a8e7d482afdd8d58",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

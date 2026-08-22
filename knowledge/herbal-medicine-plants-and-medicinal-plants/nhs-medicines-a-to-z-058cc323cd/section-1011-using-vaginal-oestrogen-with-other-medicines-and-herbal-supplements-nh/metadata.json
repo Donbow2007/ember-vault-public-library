@@ -1,0 +1,25 @@
+{
+  "id": "95f81f91-72e2-435e-81ae-5dcdb36fbefd",
+  "slug": "section-1011-using-vaginal-oestrogen-with-other-medicines-and-herbal-supplements-nh",
+  "title": "Using vaginal oestrogen with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "548efcd9003c12ed016db6aab73fd70b3d458498e99c11f7359a3ee36e42f573",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1011,
+    "content_hash": "76d8658ad7f47adb883a757ee3d9530796c8966d78fefa572658268f4b48f7b2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

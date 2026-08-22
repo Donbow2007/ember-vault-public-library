@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking continuous combined HRT - NHS
+
+Pregnancy, breastfeeding and fertility while taking continuous combined HRT - Brand names: Evorel Conti, Kliovance, Kliofem, Femoston Conti, FemSeven Conti Continuous combined HRT and pregnancy Continuous combined HRT is not known to be harmful in pregnancy, but if you think you might be pregnant, stop taking it and speak to your doctor. Levels of oestrogen and progesterone are naturally high during pregnancy and HRT is not needed. Continuous combined HRT and breastfeeding Most of the information about taking oestrogen and progestogen while breastfeeding comes from research into the combined contraceptive pill. The combined contraceptive pill uses different types of oestrogen. There is no information about taking combined HRT while breastfeeding. If you are breastfeeding, combined HRT is not usually prescribed, unless a specialist recommends it. Continuous combined HRT and fertility Taking continuous combined HRT is unlikely to affect your fertility. Although continuous combined HRT contains progesterone it does not act as contraception. Even if you think that you have gone through the menopause, there's a small chance that you could become pregnant. You are advised to use contraception for at least 1 year from your last period if you are over 50 and for 2 years if you are under 50. Discuss this with your doctor or family planning practitioner. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 18 January 2023
+
+Next review due: 18 January 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

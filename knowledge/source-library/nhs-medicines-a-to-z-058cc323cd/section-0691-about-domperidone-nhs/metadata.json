@@ -1,0 +1,25 @@
+{
+  "id": "07a448d7-3cee-4699-b6e5-029142bb4904",
+  "slug": "section-0691-about-domperidone-nhs",
+  "title": "About domperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "6593ce8e1e8c0a998205d44fb30fb5d3f084696f625485eadbf29c9b426553ca",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 691,
+    "content_hash": "231e511015423c16d0c532557d4694acf1b7ff661205df55c76266fd26c6f0c6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

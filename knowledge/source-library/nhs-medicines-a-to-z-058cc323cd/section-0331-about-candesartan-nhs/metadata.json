@@ -1,0 +1,25 @@
+{
+  "id": "0dcc2b40-a827-440e-ab30-980383f0ef82",
+  "slug": "section-0331-about-candesartan-nhs",
+  "title": "About candesartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "f1907e1c63f632cbe0c832fa50e3b7cf361e6107c7ebdbddf215a8d22ed3c3e7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 331,
+    "content_hash": "6be39d10aa3efce3d76f850a78f09b344b99c34bc4663864def0cc41861bcf5a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

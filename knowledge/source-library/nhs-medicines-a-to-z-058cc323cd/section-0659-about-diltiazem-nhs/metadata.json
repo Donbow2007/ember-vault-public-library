@@ -1,0 +1,25 @@
+{
+  "id": "96f227b4-7009-40ad-a54d-9d2d13785f34",
+  "slug": "section-0659-about-diltiazem-nhs",
+  "title": "About diltiazem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "c187cdd7e4625c287b37e7f40311fe5f9436d5712e0c082f74237c08e0c737e2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 659,
+    "content_hash": "70df49bfe6137741dd48911aeccaf1e635515b6a3b56b62c4c767aa16d397be0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

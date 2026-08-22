@@ -1,0 +1,25 @@
+{
+  "id": "73d79df9-aa21-49f3-a3dc-b2e7cf38a0eb",
+  "slug": "section-1065-hyoscine-hydrobromide-medicine-for-travel-sickness-nhs",
+  "title": "Hyoscine hydrobromide: medicine for travel sickness - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "89251eea5a898d89687a48fb1c5c776b22eb5547df05676ebef78a3649340668",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1065,
+    "content_hash": "b1840bed19298647850aa301c8476d98ebfa2cf331cb63eda90d0e42e2f6adfd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

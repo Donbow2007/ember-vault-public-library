@@ -1,0 +1,25 @@
+{
+  "id": "5efe036b-b496-44ca-9617-a9756973d362",
+  "slug": "section-0007-pregnancy-breastfeeding-and-fertility-while-taking-or-using-aciclovir",
+  "title": "Pregnancy, breastfeeding and fertility while taking or using aciclovir - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "9d38ef6845175f091b9271474e39fd6a80ca2089c60b5788830bffe375dda989",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 7,
+    "content_hash": "c4f096818e1d3d5aae4783360e74cb240ad29c1312b0d6515a0eb09933816b61",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

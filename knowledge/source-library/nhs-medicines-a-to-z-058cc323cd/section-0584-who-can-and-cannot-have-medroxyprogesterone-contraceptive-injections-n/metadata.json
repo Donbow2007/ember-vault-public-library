@@ -1,0 +1,25 @@
+{
+  "id": "97ec4e14-8e68-4961-ab57-a52cc04cd4cf",
+  "slug": "section-0584-who-can-and-cannot-have-medroxyprogesterone-contraceptive-injections-n",
+  "title": "Who can and cannot have medroxyprogesterone contraceptive injections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "456803e1ba0face4072d60ef13cd505e408cc8ad5e1a03ba5f6b536dc11a0a45",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 584,
+    "content_hash": "9e668997c67f9abc593e9a3e53f7f40fe0d5b360973c5914f8533d254a00f9b5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

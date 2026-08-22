@@ -1,0 +1,25 @@
+{
+  "id": "713cff79-14a1-45e3-87cf-49cab4845d65",
+  "slug": "section-0533-stoofvlees",
+  "title": "Stoofvlees",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "58466a2519011412ccc2f15e1a8a3e8cedaeaee455ef1e109877f8ca644910eb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 533,
+    "content_hash": "767e4b22bcbed787bd74d2e740960cb4f7c7830b24ede48a9607de2e2e707bdf",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

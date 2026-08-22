@@ -1,0 +1,25 @@
+{
+  "id": "4764c568-4a34-41f0-8778-535532b99426",
+  "slug": "section-0559-tag-bread",
+  "title": "Tag: bread",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "f3e85206436ce107954260017ad4bb26c9454574e463494d583e5ecfe260af1d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 559,
+    "content_hash": "ccf9641689842656e99b14731c64dc002efb8e403b2a80e193f66d2504a6378a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

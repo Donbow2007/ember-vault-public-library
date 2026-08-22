@@ -1,0 +1,25 @@
+{
+  "id": "51a1ee57-4e8d-4b13-84e4-248ed8accde8",
+  "slug": "section-1822-about-sulfasalazine-nhs",
+  "title": "About sulfasalazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "f58aa69111a06b6c3d8dd9dbac5e9215d0f665b05776bfa0a07be6920e70caad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1822,
+    "content_hash": "63d253076d316ad535223eee299854fb8445e68657834857421fdbd6de4920cf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

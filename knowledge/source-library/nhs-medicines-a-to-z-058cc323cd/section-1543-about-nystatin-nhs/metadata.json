@@ -1,0 +1,25 @@
+{
+  "id": "2970c33b-0631-4fb4-8bb8-7b04bb6ddfc4",
+  "slug": "section-1543-about-nystatin-nhs",
+  "title": "About nystatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "9302b07efd7517cbeb06593d947419a15c9131c966e4907882d878f9e6b83209",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1543,
+    "content_hash": "235a1d748e3e9a9507a5c8133e604e7306dede04fdce3061f652b642fef7fe22",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bebbca54-a4ee-4115-9eed-5b5983bf555c",
+  "slug": "section-0382-pregnancy-breastfeeding-and-fertility-while-taking-cefalexin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking cefalexin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "144b8837c0d456b25a4dbc0c352cc560d3b77d557c682d324448a02688fc53fc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 382,
+    "content_hash": "6f342d19526f496a3d9f221dde856f262fb4e61bb7bc50095291f61d1646b0a8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

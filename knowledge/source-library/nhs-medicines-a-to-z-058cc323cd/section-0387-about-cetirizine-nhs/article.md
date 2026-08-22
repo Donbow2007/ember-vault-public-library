@@ -1,0 +1,7 @@
+# About cetirizine - NHS
+
+About cetirizine - Brand names: Allacan, Benadryl Allergy, Piriteze Allergy, Zirtek Allergy Cetirizine is an antihistamine medicine that helps the symptoms of allergies. It's used to treat: hay fever conjunctivitis (red, itchy eye) eczema hives (urticaria) – an itchy, raised rash that’s usually caused by an allergic reaction reactions to insect bites and stings some food allergies Cetirizine is known as a non-drowsy antihistamine. It's much less likely to make you feel sleepy than some other antihistamines. Cetirizine is available on prescription, and to buy from pharmacies and shops. It comes as tablets, capsules and as a liquid that you swallow. Key facts You'll usually take cetirizine once a day. Children aged under 12 years old take a lower dose twice a day. Cetirizine is classed as a non-drowsy antihistamine, but some people still find it makes them feel quite sleepy. Do not drive or ride a bike if it makes you sleepy. Common side effects include headaches, dry mouth, feeling sick, feeling dizzy and diarrhoea. Some brands of cetirizine come as capsules. These may contain soya oil. Do not take cetirizine capsules if you’re allergic to peanuts or soya. Some Benadryl products do not contain cetirizine, but a different antihistamine such as acrivastine .
+Page last reviewed: 17 February 2025
+
+Next review due: 17 February 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

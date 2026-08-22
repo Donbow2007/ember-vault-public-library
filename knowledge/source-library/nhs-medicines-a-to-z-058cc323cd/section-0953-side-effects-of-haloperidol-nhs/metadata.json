@@ -1,0 +1,25 @@
+{
+  "id": "2ab45728-3b68-47b7-8e5c-9b9dd7caac60",
+  "slug": "section-0953-side-effects-of-haloperidol-nhs",
+  "title": "Side effects of haloperidol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "7e1ec7fbc6acdda5b3c1061952928f9a9c016eae2660230aca82f0be3a6ffe7b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 953,
+    "content_hash": "5d415bf8bc0bee6d94879d952f3d89b20dc3e90f270a498e4ff39e8d58bd08be",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c75c916f-e273-42d2-8bf7-7bb1e8d82de5",
+  "slug": "section-0321-honey-sriracha-chicken-thighs",
+  "title": "Honey Sriracha Chicken Thighs",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "2e4aa6759e6d79995fe81e1b5208bcd78754b764df9be98a9ff7fefe19bc6431",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 321,
+    "content_hash": "cc8995dbed5aa3fd8ff245001d6c77af5193ec1f132392b51934ab8e1a643224",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

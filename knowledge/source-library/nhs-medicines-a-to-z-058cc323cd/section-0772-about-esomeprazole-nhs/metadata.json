@@ -1,0 +1,25 @@
+{
+  "id": "b9b0f5b9-3e81-4b45-8907-0d251d4e24be",
+  "slug": "section-0772-about-esomeprazole-nhs",
+  "title": "About esomeprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "3bce2fedd1dd7ee838c8fce3eb06986c15baee016bfe9365a5d46162d75ba678",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 772,
+    "content_hash": "eb37f2d394d75955e2d765a42b4065a6887b120d449ed9a7303316f5f8e5a3c6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

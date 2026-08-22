@@ -1,0 +1,25 @@
+{
+  "id": "860b9188-dc3f-403f-b36e-cf774f5fc4b1",
+  "slug": "section-0519-cheesy-meatballs-with-tomato-sauce",
+  "title": "Cheesy Meatballs with Tomato Sauce",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "78f34de71a99bb8a80748102ae251625d1382412627588f1d1ede75fd3ecda8c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 519,
+    "content_hash": "56e01f1430b6f411b0eaa2b46a3141fdc4d29ae215f1c3fc6866bdc0e100b3c7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

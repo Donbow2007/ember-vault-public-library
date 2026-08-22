@@ -1,0 +1,25 @@
+{
+  "id": "9ce8b505-03ec-4236-aa92-781f5a798c08",
+  "slug": "section-1360-common-questions-about-memantine-nhs",
+  "title": "Common questions about memantine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "587e426973a3565d67b46df81578ddf86c10f9a09cebe33b1e7b5a6af0a2275d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1360,
+    "content_hash": "ea89c4e1504aef851e2fab27b08965e7ebaf9fb2732a47b58cfd312073e5f81a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c91a556b-7100-471e-bd14-fc11c09a2f39",
+  "slug": "section-0491-about-clotrimazole-for-thrush-nhs",
+  "title": "About clotrimazole for thrush - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "3b8182c14c33131256747e4a42d2f44d5dd3debfbb2a43d8cc2529c4d8697984",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 491,
+    "content_hash": "9b17775c881db118c23b79135d945e236ae9135b09788e3555722c191ae9b05e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

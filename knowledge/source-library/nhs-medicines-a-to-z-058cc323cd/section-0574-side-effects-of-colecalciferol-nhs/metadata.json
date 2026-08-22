@@ -1,0 +1,25 @@
+{
+  "id": "173c1763-c964-4ca2-a541-7ef1552f61d1",
+  "slug": "section-0574-side-effects-of-colecalciferol-nhs",
+  "title": "Side effects of colecalciferol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "cbe841f895d3d882a67d55997c3f82c44a7f903d3970be34918f3ad13c81c8fd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 574,
+    "content_hash": "547ea82e331d6d4191a10aa893ff231322a56464e6a2a3603a6c37c6343e8041",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

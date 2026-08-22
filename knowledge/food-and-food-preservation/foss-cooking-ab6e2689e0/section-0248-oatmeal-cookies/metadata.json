@@ -1,0 +1,25 @@
+{
+  "id": "7916b55f-fa2d-4a56-862c-57a6f6049047",
+  "slug": "section-0248-oatmeal-cookies",
+  "title": "Oatmeal Cookies",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "fd0c69f0fb1c420c6d64105c853cced0c7516c452ce37f2b8c6be8e7b4b3c562",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 248,
+    "content_hash": "b9d44432c132283e2cd69b255bc440b106936747d7f562297ce134915bdd9ae3",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

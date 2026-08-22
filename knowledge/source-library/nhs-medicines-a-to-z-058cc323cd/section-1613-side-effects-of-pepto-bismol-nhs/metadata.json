@@ -1,0 +1,25 @@
+{
+  "id": "ec89cd30-53be-4ef4-8193-ff18be1d1a47",
+  "slug": "section-1613-side-effects-of-pepto-bismol-nhs",
+  "title": "Side effects of Pepto-Bismol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "3b24a51e9bc7970db19f3c4eb278ca530895a27bf42e778a8f71c33ecd297614",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1613,
+    "content_hash": "f59b56edc06beaa93d244c180a7665353a640ae65034b42e3f67c5738aea3c74",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

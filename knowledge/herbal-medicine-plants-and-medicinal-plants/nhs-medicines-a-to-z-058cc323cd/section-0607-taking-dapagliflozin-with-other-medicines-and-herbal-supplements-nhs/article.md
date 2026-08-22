@@ -1,0 +1,9 @@
+# Taking dapagliflozin with other medicines and herbal supplements - NHS
+
+Taking dapagliflozin with other medicines and herbal supplements - Brand name: Forxiga Cautions with other medicines There are some medicines that may increase the effects of dapagliflozin. This can make you more likely to get side effects. Tell your doctor if you're taking any of these medicines before you start taking dapagliflozin: medicines that make you pee more (diuretics), like furosemide – these can increase your risk of dehydration and lower your blood pressure ramipril or amlodipine , medicines for high blood pressure other medicines that can lower your blood pressure – including some antidepressants, nitrates (for chest pain), baclofen (a muscle relaxant), tamsulosin (for an enlarged prostate), or co-careldopa or levodopa (for Parkinson's disease) medicines that cause low blood sugar, such as insulin or gliclazide – your doctor may lower your dose of these other medicines to prevent hypos Taking dapagliflozin with painkillers It's OK to take paracetamol with dapagliflozin, but ask your doctor or pharmacist before taking ibuprofen or aspirin with this medicine. This is because these medicines can sometimes lower your blood sugar levels. Mixing dapagliflozin with herbal remedies and supplements There's very little information about taking herbal remedies and supplements with dapagliflozin. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 24 February 2022
+
+Next review due: 24 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

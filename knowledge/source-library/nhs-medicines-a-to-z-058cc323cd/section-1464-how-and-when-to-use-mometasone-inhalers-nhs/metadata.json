@@ -1,0 +1,25 @@
+{
+  "id": "d623d696-ece7-486b-9099-d7c05ff1ed50",
+  "slug": "section-1464-how-and-when-to-use-mometasone-inhalers-nhs",
+  "title": "How and when to use mometasone inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "91a7aa1d3e5945a9eef2c710bfc1e1a752f3243eb34afd10502d5b8c9a2d7b6c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1464,
+    "content_hash": "6404920f7829116e94461863aca1a74742b8488eed24407f82911612a05d027f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

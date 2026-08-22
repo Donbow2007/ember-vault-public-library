@@ -1,0 +1,25 @@
+{
+  "id": "efbe4838-a0be-457b-81dd-f9513912a330",
+  "slug": "section-1506-side-effects-of-nefopam-nhs",
+  "title": "Side effects of nefopam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "3ea96a0e1d14a0381fcc970a2b1b5480a6ca08d41d695498a626b562c9a406d2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1506,
+    "content_hash": "6b183f4a7396601fa12d825486502a370d7cfdf3a1bcdb8cfea5c56a94aa3ad9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

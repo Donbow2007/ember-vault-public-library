@@ -1,0 +1,25 @@
+{
+  "id": "6a959289-6e34-46de-8ba7-9c85891df0ed",
+  "slug": "section-1843-taking-tadalafil-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking tadalafil with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "d4d4ad10dd5c5d07e19bbc06d118271f6f0fe4e08d9808095b9f38d5578def78",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1843,
+    "content_hash": "6c747481727f037f139f02f412d4a2652a01f779bd4c18c6c94754b62f1093fb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ff59ec6d-ada2-4a7a-84f0-2da5ebcde04c",
+  "slug": "section-0773-common-questions-about-esomeprazole-nhs",
+  "title": "Common questions about esomeprazole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "39191c8b197f5e6d854c71858e7ac2e019c8381976f54dc7b55e44635a6f1471",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 773,
+    "content_hash": "3e899aae66340b0f3f6ad3b8517ba0f685e58be2f98617467f6f85950e813cb5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "db66e464-a54f-4586-b8fd-05cb31aa1da4",
+  "slug": "section-1436-who-can-and-cannot-take-or-use-metronidazole-nhs",
+  "title": "Who can and cannot take or use metronidazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "ec63f65cba3e3e240e464ce0f16e8d5381a78cb478617065c872be4bc017b937",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1436,
+    "content_hash": "cee1de27a6e2c04e0ee1440968501ba31e1e30bed7bb8eced238b2567a3e1fcb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

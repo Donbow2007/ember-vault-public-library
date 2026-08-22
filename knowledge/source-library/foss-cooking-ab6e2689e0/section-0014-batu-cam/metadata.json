@@ -1,0 +1,25 @@
+{
+  "id": "4662f237-d4f4-4b67-9c31-171098c701b0",
+  "slug": "section-0014-batu-cam",
+  "title": "Batu Cam",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "440f56ae56d3726d32a63165fe585b62d2c345c9745f4326de252743eb23710c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 14,
+    "content_hash": "0b7b821a10b16b65a260f4e14dfe27474d71f63d2d4abdb434c94e174fe6b113",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

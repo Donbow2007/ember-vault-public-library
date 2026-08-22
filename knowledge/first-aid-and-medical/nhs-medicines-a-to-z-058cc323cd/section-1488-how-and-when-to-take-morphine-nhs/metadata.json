@@ -1,0 +1,25 @@
+{
+  "id": "9f2fe24f-d4e6-49a4-b493-8f464caa0c90",
+  "slug": "section-1488-how-and-when-to-take-morphine-nhs",
+  "title": "How and when to take morphine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "442444a9327c2725681e5058d7bae2d9bf681f48e1d11e0cabd9e026e8cfd66e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1488,
+    "content_hash": "64a0a27ca800b04a8cb285ccc86bf9417f3bf03e79c00ac8be7a48f644a26ea2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

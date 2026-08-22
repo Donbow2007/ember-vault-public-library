@@ -1,0 +1,25 @@
+{
+  "id": "4d4ef2bb-d12c-4dcb-805e-14a6dd73b447",
+  "slug": "section-0494-tortellini",
+  "title": "Tortellini",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "58b1462d04d56498d82467b0339f1812cdc0630ba8cb24969b09fc889fc2e74b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 494,
+    "content_hash": "d6d65db4c9935f35d7be58beae52d07b6b368cc2d3ffed0a4a9cd0dba18bd69a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

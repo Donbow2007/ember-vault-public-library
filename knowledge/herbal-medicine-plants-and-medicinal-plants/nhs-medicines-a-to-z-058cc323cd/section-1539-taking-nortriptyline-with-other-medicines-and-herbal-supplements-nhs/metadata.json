@@ -1,0 +1,25 @@
+{
+  "id": "1b64d477-c75f-4f85-8dd4-26f1a7c8fa17",
+  "slug": "section-1539-taking-nortriptyline-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking nortriptyline with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "b85ed3a434a009570faa72702eec77a97098b2e82d4ded8694b5b7496ffb4f77",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1539,
+    "content_hash": "328413476e4165d5516ad2a5071353784f08174a3038c902e099ca79c452854a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

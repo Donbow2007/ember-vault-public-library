@@ -1,0 +1,25 @@
+{
+  "id": "3793e3f0-7b81-4ccb-90e1-f1efb66c6fd7",
+  "slug": "section-1515-taking-nicorandil-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking nicorandil with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "45bb5451e7a44b2a545f7bbf50da68c718fc12c51a4af17c556daadef50d4925",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1515,
+    "content_hash": "275ea2990995a1167d410b6078de6d71dcf261b779f71e0d89b7082fd660a090",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

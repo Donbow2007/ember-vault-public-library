@@ -1,0 +1,25 @@
+{
+  "id": "2114a689-3dfe-4270-8e5a-814f6cb0810e",
+  "slug": "section-0052-jacob-smith",
+  "title": "Jacob Smith",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "8567c725771223ca5f9a5b8d0c90db491361b75285dd37282c3984e6f499a205",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 52,
+    "content_hash": "cb4c3bf34cd9e9309f1a01a196d002d3b0c58735e3f8a2f17a325ed0a301f633",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

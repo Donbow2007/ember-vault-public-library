@@ -1,0 +1,25 @@
+{
+  "id": "5e373354-1db9-44e7-b058-f5e6d07049ff",
+  "slug": "section-0421-dianne",
+  "title": "Dianne",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "d5452dda3345f0923c94d01d98495b801d7ad4342ecbc0e5bf55e1a5d211a63e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 421,
+    "content_hash": "efd1513129cc19e43db42a488b73d3eb8c8560bc41902e04de11888b0b1c5433",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

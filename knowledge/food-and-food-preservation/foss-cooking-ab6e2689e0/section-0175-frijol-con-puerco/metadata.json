@@ -1,0 +1,25 @@
+{
+  "id": "3f741a25-10af-47aa-b888-a6326450dfeb",
+  "slug": "section-0175-frijol-con-puerco",
+  "title": "Frijol con puerco",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "5d9a626842a24cae0accf9f578019beac0ec4dcbac2be5c39f28c2da0d7a7170",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 175,
+    "content_hash": "6f52204240e7668b70f1bb7dcd3c90dae63e40c5bf09e90f044f6eca0460bc7f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

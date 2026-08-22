@@ -1,0 +1,25 @@
+{
+  "id": "e8f98b23-9079-4632-aefd-720138e924fc",
+  "slug": "section-1586-how-and-when-to-take-paracetamol-for-adults-nhs",
+  "title": "How and when to take paracetamol for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "d1cc08829267479b52a2fd860fc0edce9dacf1a41bea87ff4e12b75ac0e14c2a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1586,
+    "content_hash": "465a313f83108b697f1c73cc806a1f0c03253a40de33eb37ca6e2cd4e08a1306",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

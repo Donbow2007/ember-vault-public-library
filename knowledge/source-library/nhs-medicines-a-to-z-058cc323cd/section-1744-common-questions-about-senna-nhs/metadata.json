@@ -1,0 +1,25 @@
+{
+  "id": "16e77562-7d2f-4956-b627-886f5e6a8573",
+  "slug": "section-1744-common-questions-about-senna-nhs",
+  "title": "Common questions about senna - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c7a9c1f0b8a2826679eb8a667476ee4e2f1e6e1381e8742225e713c227494b3c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1744,
+    "content_hash": "b1f909e5971d3fdf4e95dc2cd2c6428a827f98f5f38b0800822dcad6a83c2745",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

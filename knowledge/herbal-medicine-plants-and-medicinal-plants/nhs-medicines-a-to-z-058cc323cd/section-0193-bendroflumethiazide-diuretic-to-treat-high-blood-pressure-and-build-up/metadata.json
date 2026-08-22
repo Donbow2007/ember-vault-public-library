@@ -1,0 +1,25 @@
+{
+  "id": "38efd81c-1178-46b9-8717-a168a46fd653",
+  "slug": "section-0193-bendroflumethiazide-diuretic-to-treat-high-blood-pressure-and-build-up",
+  "title": "Bendroflumethiazide: diuretic to treat high blood pressure and build-up of fluid - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "327a38842236449c7c673fb456a656f89ff11ba90327f5da199009603edf077d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 193,
+    "content_hash": "6dc4526fd1aec79e32276da15ecc5dabbdc8dff6879a62afdc0926ede3585ce3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

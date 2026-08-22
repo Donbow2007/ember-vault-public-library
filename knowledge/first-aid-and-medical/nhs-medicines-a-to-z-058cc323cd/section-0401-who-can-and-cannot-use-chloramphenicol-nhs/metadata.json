@@ -1,0 +1,25 @@
+{
+  "id": "ac4dc620-0dba-45b3-ba98-159fc974ebe0",
+  "slug": "section-0401-who-can-and-cannot-use-chloramphenicol-nhs",
+  "title": "Who can and cannot use chloramphenicol - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "277396274ef6f492342362785ea7946231b71b49434c21eb1023d3fe0009b42f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 401,
+    "content_hash": "8e758fe9134d166a6944b2941b552fe6086e92662e831209164890c7884efa1f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

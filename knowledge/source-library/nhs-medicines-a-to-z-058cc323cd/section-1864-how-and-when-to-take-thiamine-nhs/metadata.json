@@ -1,0 +1,25 @@
+{
+  "id": "4c47ceb5-79db-4701-b4eb-4bd92dc4851b",
+  "slug": "section-1864-how-and-when-to-take-thiamine-nhs",
+  "title": "How and when to take thiamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "4ed59fd94d8d48c6d542a9add644e038ec20a1a95755c08359335923f6d0db3c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1864,
+    "content_hash": "ba5b39501263cd82a9ef11f0535c082703d1b8fb6ec927bddd1d4f38ec0a9d49",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efd29a1b-9ef7-4b6b-a993-071bd4936d47",
+  "slug": "section-1626-common-questions-about-phenoxymethylpenicillin-nhs",
+  "title": "Common questions about phenoxymethylpenicillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "1df9067bf964da269889fb305308339af8831e6ef28c6b732d0e5173c80482c8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1626,
+    "content_hash": "17783e1629c355fb98c8ac429218325c119130dbc64955dbeabb8c5c5b72b75b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

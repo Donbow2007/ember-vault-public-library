@@ -1,0 +1,25 @@
+{
+  "id": "6729a643-abbf-460b-98fc-42a995a34136",
+  "slug": "section-0535-baked-mostaccioli",
+  "title": "Baked Mostaccioli",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "f23461e3ad0845093316dbae062b88489266baf41e7769dc6534db1233ee54a7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 535,
+    "content_hash": "f49b892f6f0655831d9102bb591600ef2ff83830e74d615e7cf9d040a26b6412",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4a78c221-8317-4acf-a442-e203f744a8ab",
+  "slug": "section-0427-about-ciprofloxacin-nhs",
+  "title": "About ciprofloxacin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "7e6a4d615497bb7d28c15bed38a5be7d4cb7c9c51e42d03f72b2bee06f7c6d89",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 427,
+    "content_hash": "f4abd7833a6b62b0a3a51b734628d83781aeee7fe1a1f76aa67363aa2737e1eb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d71fa48b-6bc3-4bd6-8748-b4083a34ed60",
+  "slug": "section-0667-tag-southern",
+  "title": "Tag: southern",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "481934734947de3a45102b19535743cb1a2bb4b5624bec541c0c8b8be6da51ba",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 667,
+    "content_hash": "eeee79b1fadb04f3a300374de3cbe4081f1e162aa7d98c09ba207aad8fd98aa7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

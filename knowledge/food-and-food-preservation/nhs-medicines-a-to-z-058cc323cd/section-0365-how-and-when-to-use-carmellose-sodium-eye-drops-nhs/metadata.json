@@ -1,0 +1,25 @@
+{
+  "id": "c4657b93-e226-43b0-a033-d7cf2f305370",
+  "slug": "section-0365-how-and-when-to-use-carmellose-sodium-eye-drops-nhs",
+  "title": "How and when to use carmellose sodium eye drops - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "2b5ada0cf1989ceaa30b79af34efa2e714439ba052c34f01b1f83b2b3f3ee95f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 365,
+    "content_hash": "8281701f83aebdc6e949acc3140b8b389eb2f457f282b6c9d2bdfeb94a2d4bc8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

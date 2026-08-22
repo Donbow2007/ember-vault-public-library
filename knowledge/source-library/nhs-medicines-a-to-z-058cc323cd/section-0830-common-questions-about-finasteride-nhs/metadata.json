@@ -1,0 +1,25 @@
+{
+  "id": "481f8969-f3d2-40e1-b887-44c9f08cadab",
+  "slug": "section-0830-common-questions-about-finasteride-nhs",
+  "title": "Common questions about finasteride - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "5a67b4785054bdc474c950a6727520164f5c1addb676701e9401ca573874963f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 830,
+    "content_hash": "742f620faf9944bb959acafe30d7c28d9f10054c89a94beb99252ff15e69783b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

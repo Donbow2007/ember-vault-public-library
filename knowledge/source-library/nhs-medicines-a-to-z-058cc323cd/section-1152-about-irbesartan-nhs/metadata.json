@@ -1,0 +1,25 @@
+{
+  "id": "21659d81-ec5a-4c69-8cce-0c69092d1e0b",
+  "slug": "section-1152-about-irbesartan-nhs",
+  "title": "About irbesartan - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "3b4753938be4334a67a9e66e111d856a02405f6e06b0aff11a4b71954308ec43",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1152,
+    "content_hash": "1c0dc50b72702bc25786fab22daf50a224ae9d3525a268bc24f9ca61adf5bcf9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

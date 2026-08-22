@@ -1,0 +1,25 @@
+{
+  "id": "353cfe95-e25e-4361-91e6-5d08d55e018b",
+  "slug": "section-1723-side-effects-of-ropinirole-nhs",
+  "title": "Side effects of ropinirole - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "916fe0b6c4ef482bc60e5d3a966b1cc9339d2d0de72172bb3f45b5edfe835f0f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1723,
+    "content_hash": "cb3295121d457663f6e40100740f5d93d11fecc9e796e26dddcfb1dbe41d22ba",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

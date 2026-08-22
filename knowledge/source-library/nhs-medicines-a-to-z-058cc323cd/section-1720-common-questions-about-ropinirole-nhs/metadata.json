@@ -1,0 +1,25 @@
+{
+  "id": "7a741d0a-fb8e-491f-85d5-a1e9bda2ca83",
+  "slug": "section-1720-common-questions-about-ropinirole-nhs",
+  "title": "Common questions about ropinirole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c21d18228914215c9f09a1ea803be4cf5dbf87ea9e01ea58e4f0f137211df9ec",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1720,
+    "content_hash": "af57daa312b63f62fd3dc7d2a281bd7304d571dfb08f21cd5507e556d1560738",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c83acf74-9b27-4587-bb95-0e3709c4db9c",
+  "slug": "section-2006-taking-zopiclone-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking zopiclone with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "ed11d55617eb49cf15b8fa9c2ae50a04f0d379c3e17aab6ed5454e3ea8a14c6b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2006,
+    "content_hash": "3d939477d0ef92f915195608b1d7dec25b441440fd536697bf3ad38625a1756a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+# Side effects of Gaviscon - NHS
+
+Side effects of Gaviscon
+
+Gaviscon is a very safe medicine. Most people who take it do not have any side effects. If you do get a side effect, it's likely to be mild and will go away when you stop taking Gaviscon. It’s rare, but the ingredients in some types of Gaviscon may be more likely to make you feel sick or cause vomiting, constipation or diarrhoea. Talk to your doctor or pharmacist if you notice any side effects that bother you or do not go away. Serious allergic reaction In rare cases, Gaviscon may cause a serious allergic reaction ( anaphylaxis ). Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of Gaviscon. For a full list, see the leaflet inside your medicine packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 23 April 2025
+
+Next review due: 23 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

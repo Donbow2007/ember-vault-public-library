@@ -1,0 +1,25 @@
+{
+  "id": "a74fbb22-abb2-4f00-8695-428cfee0041d",
+  "slug": "section-0683-tag-syrup",
+  "title": "Tag: syrup",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "a0d2bdc1ba3b0e68f86c12b1feb226b89ef0a61a7f9b0364e0b8b58fea8f26da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 683,
+    "content_hash": "19258497a69bd8d9351f285a6180d1f443887a621df3841e0937994951019d6f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

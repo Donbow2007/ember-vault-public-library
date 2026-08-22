@@ -1,0 +1,25 @@
+{
+  "id": "5253fa05-01de-4c72-9b40-fe9ee6286dfc",
+  "slug": "section-0623-tag-mediterranean",
+  "title": "Tag: mediterranean",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e3f3940309b6bd51cb509aec27f8febd8f3e4cd35b9a97c0ef4afb778cd37e06",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 623,
+    "content_hash": "01f5e89113a57347726521b3f497a3fccebaec3431a9e20083cd5b8d82e5491b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

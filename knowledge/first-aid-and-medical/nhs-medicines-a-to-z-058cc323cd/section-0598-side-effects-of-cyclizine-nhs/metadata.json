@@ -1,0 +1,25 @@
+{
+  "id": "48c5d8ab-36d1-42c9-a227-d454a1465909",
+  "slug": "section-0598-side-effects-of-cyclizine-nhs",
+  "title": "Side effects of cyclizine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "36a23b633640cbef8733b56c4e7cf053994c8b4f629f34b6d4ca05f6d0e0a747",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 598,
+    "content_hash": "2bbd5e67862e7af593289476a61bfd64fd2869296ec45e4621899fe13b1963d7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

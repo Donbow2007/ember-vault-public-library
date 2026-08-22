@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking tibolone - NHS
+
+Pregnancy, breastfeeding and fertility while taking tibolone - Brand name: Livial Tibolone and pregnancy Tibolone should not be taken during pregnancy. If you're pregnant, then your levels of oestrogen and progesterone will be high and you will not need to take tibolone. Although it is not thought that tibolone will harm your baby, there is very little information available on the safety of this medicine in pregnancy. If you get pregnant while taking tibolone, stop taking the medicine and speak to your doctor or midwife. Tibolone and breastfeeding Tibolone should not be taken while breastfeeding. There is no information about whether taking tibolone while breastfeeding can affect your baby or how much milk you produce. Until we know more, it's best not to take it. If you do need a medicine, talk to your doctor. They may be able to recommend other medicines to manage your symptoms that are more suitable to take while breastfeeding. Tibolone and fertility Tibolone does not act as contraception. Even if you think that you have gone through the menopause, there's a small chance that you could still get pregnant. If you're under 50 years old, you're advised to use contraception for at least 2 years after your last period. If you're over 50 years old, you're advised to use contraception for at least 1 year. Discuss this with your doctor or family planning practitioner. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding
+Page last reviewed: 5 January 2023
+
+Next review due: 5 January 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

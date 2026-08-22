@@ -1,0 +1,25 @@
+{
+  "id": "1cc0fe4b-996a-41f1-8fce-a180f01ef98d",
+  "slug": "section-0487-side-effects-of-clopidogrel-nhs",
+  "title": "Side effects of clopidogrel - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "cfbe2b0b0c2dbe2734029016cad5859991202901ad98484cb961e489c0dae030",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 487,
+    "content_hash": "df970a77138564be26704efba0c47d461798c72e703e3ba41b069b83d504eea9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

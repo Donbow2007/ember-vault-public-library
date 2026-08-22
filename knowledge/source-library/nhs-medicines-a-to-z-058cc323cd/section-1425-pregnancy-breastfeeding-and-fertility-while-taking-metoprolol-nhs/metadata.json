@@ -1,0 +1,25 @@
+{
+  "id": "ef2a0abe-06c9-45f7-9404-57861d32d8e0",
+  "slug": "section-1425-pregnancy-breastfeeding-and-fertility-while-taking-metoprolol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking metoprolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "c1884c9bbcaa53d9d14dae53f4d3bb3a8daf8928aa7e47b2622a03071789465b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1425,
+    "content_hash": "b101765c2b4d6228cd12a4bd4c16a236405045d269416a5ec0d3f692f2868741",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

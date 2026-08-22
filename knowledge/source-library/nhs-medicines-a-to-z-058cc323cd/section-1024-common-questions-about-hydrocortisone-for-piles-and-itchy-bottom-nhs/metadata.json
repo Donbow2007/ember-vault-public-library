@@ -1,0 +1,25 @@
+{
+  "id": "d58b8de9-b4d4-49ea-9c0d-ce4bbe710b45",
+  "slug": "section-1024-common-questions-about-hydrocortisone-for-piles-and-itchy-bottom-nhs",
+  "title": "Common questions about hydrocortisone for piles and itchy bottom - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "90ba9207eb8badfe3d0b7d26fc3045d1ab663bcadc6b5d521a51ede40d5b000c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1024,
+    "content_hash": "d6f3038558e2892df3c6661eba621bf96808b7c80b79db2775636e3191ebbbaf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

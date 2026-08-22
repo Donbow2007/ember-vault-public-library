@@ -1,0 +1,25 @@
+{
+  "id": "5cd5b546-321b-492c-9c37-089c51295ee7",
+  "slug": "section-1407-about-methylphenidate-for-children-nhs",
+  "title": "About methylphenidate for children - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "dc039e9e7e7d5baf9a4932c2892ef333699e33e89eae8fd53d1851e9bac87acd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1407,
+    "content_hash": "d59e1ab669768c85a53df8e6ac82b3972f579ded6e2aa66513527d51fbe6cc71",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

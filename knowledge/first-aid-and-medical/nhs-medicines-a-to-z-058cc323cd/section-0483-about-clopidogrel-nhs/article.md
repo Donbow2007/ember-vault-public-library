@@ -1,0 +1,7 @@
+# About clopidogrel - NHS
+
+About clopidogrel - Brand names: Grepid, Plavix Clopidogrel is an antiplatelet medicine. It prevents platelets (a type of blood cell) from sticking together and forming a dangerous blood clot. Taking clopidogrel helps prevent blood clots if you have an increased risk of having them. Your risk is higher if you have or have had: a heart attack unstable angina a stroke or "mini-stroke" ( transient ischaemic attack or TIA) peripheral arterial disease atrial fibrillation an operation on your heart or blood vessels, such as a coronary stent insertion Clopidogrel is only available on prescription. It comes as tablets. Key facts You'll usually take clopidogrel once a day. Your doctor may prescribe clopidogrel with or instead of low-dose aspirin . The main side effect of clopidogrel is bleeding more easily than normal. You may have signs such as nosebleeds, heavier periods, bleeding gums or bruising. You can drink alcohol with clopidogrel. But do not drink too much while taking this medicine. It can irritate your stomach. Do not drink grapefruit juice while taking clopidogrel, as it stops the medicine from working as well. You may need to stop taking clopidogrel for a short time before having surgery or dental treatment, but check with your doctor or dentist first.
+Page last reviewed: 12 March 2025
+
+Next review due: 12 March 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

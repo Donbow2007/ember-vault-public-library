@@ -1,0 +1,25 @@
+{
+  "id": "c70791f3-7ac4-48b2-a29b-af6accd1fe3a",
+  "slug": "section-0722-who-can-and-cannot-take-duloxetine-nhs",
+  "title": "Who can and cannot take duloxetine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "cfdb1269a8fb03f06562c6f25cf91daf834acca951eb668d3d190b7b6bf9d21b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 722,
+    "content_hash": "e72f548f476c42ff143b11bd4950e0df6a2e397083bda705493821c02874ce7f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

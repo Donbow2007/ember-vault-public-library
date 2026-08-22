@@ -1,0 +1,25 @@
+{
+  "id": "fb94a434-3f09-47bd-9c0f-635f2d80ab61",
+  "slug": "section-0201-demi-glace",
+  "title": "Demi-glace",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "21ad68fd16c7d87adcb612a2d84c1a98c60aa58dbb6f892413688326b0e9b511",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 201,
+    "content_hash": "644213e4901ac34c5c241e43afc4b6162b1a1f0891047d06f7a9ca7ea7759bf5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

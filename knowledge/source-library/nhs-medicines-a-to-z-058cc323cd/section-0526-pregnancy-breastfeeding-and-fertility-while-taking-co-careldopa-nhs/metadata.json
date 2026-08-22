@@ -1,0 +1,25 @@
+{
+  "id": "f88c3c32-6a08-498a-9135-d11d5ab95b70",
+  "slug": "section-0526-pregnancy-breastfeeding-and-fertility-while-taking-co-careldopa-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking co-careldopa - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "be7474f602ac8280b509d237a2bfa33338841a2d42ad7c2b788bcdfef1d5fac2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 526,
+    "content_hash": "c883a21112fedd3ddf557a6c1ac5d0b57169b81bb997bd6095776f58e606601f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

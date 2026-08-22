@@ -1,0 +1,25 @@
+{
+  "id": "2827c275-9946-476e-aed4-5a70ee20adba",
+  "slug": "section-0714-doxycycline-antibiotic-for-bacterial-infections-nhs",
+  "title": "Doxycycline: antibiotic for bacterial infections - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "397f0403dd7e4086498e3e634715bcf9cad2bbd385b80aacccbba1680831253b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 714,
+    "content_hash": "499662c93ad16cac5c15d8be916469fde73ff10163954e0c3e06dbe274b680b9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

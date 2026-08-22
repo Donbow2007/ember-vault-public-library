@@ -1,0 +1,25 @@
+{
+  "id": "6201790c-b069-4842-b173-8f5b33698591",
+  "slug": "section-1514-side-effects-of-nicorandil-nhs",
+  "title": "Side effects of nicorandil - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "e93c1273922e82f4a7bbac94c48623ae28d1ab9a42f3345715083740dedb205c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1514,
+    "content_hash": "9004eff568495c819f3f71b3fb66b35121a09bb766ce4ec377a92fc370db0287",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

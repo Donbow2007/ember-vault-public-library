@@ -1,0 +1,25 @@
+{
+  "id": "188a97db-bc1c-4c5e-a418-1452bbf72bf8",
+  "slug": "section-0900-fusidic-acid-antibiotic-to-treat-bacterial-skin-and-eye-infections-nhs",
+  "title": "Fusidic acid: antibiotic to treat bacterial skin and eye infections - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "1966762857c2508b2616d5aedf6403ad70d6e436fe158aa1deacb6c8999193fb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 900,
+    "content_hash": "4a5cbbb7eedf05532b281a44eeb1337cfef2632ce4e078be017441f48ead7008",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

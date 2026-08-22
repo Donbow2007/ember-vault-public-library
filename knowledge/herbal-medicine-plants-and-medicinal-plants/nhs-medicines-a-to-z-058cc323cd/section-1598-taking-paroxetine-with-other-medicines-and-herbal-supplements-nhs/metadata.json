@@ -1,0 +1,25 @@
+{
+  "id": "f08768f4-5ba8-4a5a-aec0-6af2f79e443e",
+  "slug": "section-1598-taking-paroxetine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking paroxetine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "d5fa9241ba96e6a06e9a78f791dff69509273e3068f70e99a870fd71f56da413",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1598,
+    "content_hash": "22b8deaf1f93ff8c217ad65c503526a1aa0e1cd3aa999b8f54710a5915b55c2f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

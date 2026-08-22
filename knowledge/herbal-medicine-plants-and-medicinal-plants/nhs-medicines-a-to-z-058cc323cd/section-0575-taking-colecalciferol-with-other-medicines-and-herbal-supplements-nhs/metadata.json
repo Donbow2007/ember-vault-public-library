@@ -1,0 +1,25 @@
+{
+  "id": "cac96b6f-6fe1-4a93-b5dc-da30585a9a91",
+  "slug": "section-0575-taking-colecalciferol-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking colecalciferol with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "03256ad0273d222182d5b8f40d6c20295a96be3f47947e211b6c2536b46935ed",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 575,
+    "content_hash": "20c5e071ad960f1ab8f4331892d89e390f3ce5aeb679bebf3f64f61056e3af47",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

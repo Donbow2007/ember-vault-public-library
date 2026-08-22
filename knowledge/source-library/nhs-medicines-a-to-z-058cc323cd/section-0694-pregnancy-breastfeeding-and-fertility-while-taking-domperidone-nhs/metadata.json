@@ -1,0 +1,25 @@
+{
+  "id": "442589b2-fab7-4767-8017-30a7eccdc965",
+  "slug": "section-0694-pregnancy-breastfeeding-and-fertility-while-taking-domperidone-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking domperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "b55e804fa94dd736670e799761fe80e862e4a3c580d07326c033e4a5725faaeb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 694,
+    "content_hash": "cccee5537d3f5bceb3734167f6460fec7dc9da5f0ebb44f7daa323e902e3a064",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

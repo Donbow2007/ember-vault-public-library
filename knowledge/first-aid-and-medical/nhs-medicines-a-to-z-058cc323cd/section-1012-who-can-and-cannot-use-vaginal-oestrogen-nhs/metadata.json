@@ -1,0 +1,25 @@
+{
+  "id": "218aa140-39e7-4263-bcb9-b678f4bfbfce",
+  "slug": "section-1012-who-can-and-cannot-use-vaginal-oestrogen-nhs",
+  "title": "Who can and cannot use vaginal oestrogen - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "c5a24a06024dbd637b0cc455751364c785f33a3fcf49720f2b6b2acc25ca6594",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1012,
+    "content_hash": "6b37dcb9402786a7675bd97999b27aa19977e55fb72cd84718dbd7a0eaf7bbb7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

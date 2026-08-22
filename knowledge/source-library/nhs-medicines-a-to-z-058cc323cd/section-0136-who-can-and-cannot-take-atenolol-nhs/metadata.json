@@ -1,0 +1,25 @@
+{
+  "id": "5fd0e63c-e57f-42b5-a96e-cfe7f33df78b",
+  "slug": "section-0136-who-can-and-cannot-take-atenolol-nhs",
+  "title": "Who can and cannot take atenolol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "57bcae361e988162f397140c44afd7802f2ba039b32c663b0cf018b9ccc485f1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 136,
+    "content_hash": "8c60d600696c5f42eb7d9b8fc140c37025bb64f9f920ab5db959156497ca920d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

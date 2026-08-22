@@ -1,0 +1,25 @@
+{
+  "id": "58ccf5b1-552a-48dd-958e-a69538b0c635",
+  "slug": "section-0196-how-and-when-to-take-bendroflumethiazide-nhs",
+  "title": "How and when to take bendroflumethiazide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "3a97d9f6b516055cff3055135d1262c4c06f14cf76dfd2af2b13f78633653395",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 196,
+    "content_hash": "10056444a711fd5d09cd6b1a10ef9fd0c20387fb5e78a39f6f86486806435ff9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

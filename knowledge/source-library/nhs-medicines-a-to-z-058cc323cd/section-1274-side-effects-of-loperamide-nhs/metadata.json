@@ -1,0 +1,25 @@
+{
+  "id": "3def7bdb-c5b2-4bd3-894e-f6a0bc71a7b1",
+  "slug": "section-1274-side-effects-of-loperamide-nhs",
+  "title": "Side effects of loperamide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "bab80e6284bb8b1e64b481f81ca12fc3fc0720fcb2e87779fa582472237a7be0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1274,
+    "content_hash": "26cdecf9aa8e269eb7f7b74614d1d568176ef01a267294d48b4fd70f90a05e77",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

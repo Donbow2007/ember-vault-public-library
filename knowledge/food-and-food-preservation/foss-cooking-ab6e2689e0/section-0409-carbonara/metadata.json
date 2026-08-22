@@ -1,0 +1,25 @@
+{
+  "id": "7338da7b-5ba1-4eb7-bd13-cc07fb016c1f",
+  "slug": "section-0409-carbonara",
+  "title": "Carbonara",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "88a4fe10c9923f7a55b4528f01dea3757ce2d1af2baf21dae4910cdb6ae8d2d7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 409,
+    "content_hash": "e6f189712b71e9e3b752117f5eb75c40f46934acbc81cdd61c77ce748ad4778b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

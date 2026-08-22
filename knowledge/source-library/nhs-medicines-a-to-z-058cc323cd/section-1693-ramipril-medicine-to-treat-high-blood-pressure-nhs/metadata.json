@@ -1,0 +1,25 @@
+{
+  "id": "1f7a2e85-11f3-40f5-925b-2772dfcb3dfa",
+  "slug": "section-1693-ramipril-medicine-to-treat-high-blood-pressure-nhs",
+  "title": "Ramipril: medicine to treat high blood pressure - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c57dd172d2d756587e3efeb257f70b1ab3eb528881853ff970bfc450266c4c4e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1693,
+    "content_hash": "06a75f9f6fca3acd4903aece8853c753ed8f63e529cdd3b783d6811577471b0f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

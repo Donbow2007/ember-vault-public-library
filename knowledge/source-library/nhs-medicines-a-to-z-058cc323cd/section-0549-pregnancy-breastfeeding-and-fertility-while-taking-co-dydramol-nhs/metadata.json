@@ -1,0 +1,25 @@
+{
+  "id": "d20964ce-9855-4858-99b7-f66b789aea14",
+  "slug": "section-0549-pregnancy-breastfeeding-and-fertility-while-taking-co-dydramol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking co-dydramol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "0abfba040d81bd036320d1112fcb6ef3c9d62763c907d701a3edfa070a8d9319",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 549,
+    "content_hash": "29ddbe59a7c53f2700add966101c17da0b0d6a323e3e31466748b36b80201dd1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

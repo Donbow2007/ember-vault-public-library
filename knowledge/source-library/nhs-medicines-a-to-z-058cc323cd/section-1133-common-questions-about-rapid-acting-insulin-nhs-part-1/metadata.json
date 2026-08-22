@@ -1,0 +1,25 @@
+{
+  "id": "146b7c4c-d561-41f4-917a-6423c4570462",
+  "slug": "section-1133-common-questions-about-rapid-acting-insulin-nhs-part-1",
+  "title": "Common questions about rapid-acting insulin - NHS — Part 1",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "4df3415b33c07423e4f09140bd5128148d98cec0e76c5bafaa77a19f6420ec1c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1133,
+    "content_hash": "48af8e73227f8202495562bef9ae4e9f341eaf562821850e523c5692f42d74b1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

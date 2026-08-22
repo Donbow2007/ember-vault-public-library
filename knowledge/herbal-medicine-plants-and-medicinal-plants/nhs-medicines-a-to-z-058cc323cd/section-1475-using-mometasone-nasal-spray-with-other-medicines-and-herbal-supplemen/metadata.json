@@ -1,0 +1,25 @@
+{
+  "id": "d1b401ef-97d4-46ac-b1d4-ca2a9f928523",
+  "slug": "section-1475-using-mometasone-nasal-spray-with-other-medicines-and-herbal-supplemen",
+  "title": "Using mometasone nasal spray with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "9e575e813e228d5918ed794f27d26c878d4e00c7fc35c9d677acef9c209324f7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1475,
+    "content_hash": "fffa0051f232bc1f61a4081f09ae65343ecad8689374d498c956aa38b78b5988",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e974b548-e4bf-42e2-b864-9c66be5b2fda",
+  "slug": "section-1471-common-questions-about-mometasone-nasal-spray-nhs",
+  "title": "Common questions about mometasone nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "b1b1d6ef94b35e9f75733e4199e656425515f73e6e8d409b7042293bc0301c55",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1471,
+    "content_hash": "c0fb62237f34f024517fbead8f5819ee335654caf4a6b6a824dcc64795086c3a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

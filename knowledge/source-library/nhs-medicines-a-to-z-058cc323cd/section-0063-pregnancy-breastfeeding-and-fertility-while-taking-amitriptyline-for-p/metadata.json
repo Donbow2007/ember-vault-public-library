@@ -1,0 +1,25 @@
+{
+  "id": "e5a9d8d2-b6d9-4d57-babd-adfa4e6df392",
+  "slug": "section-0063-pregnancy-breastfeeding-and-fertility-while-taking-amitriptyline-for-p",
+  "title": "Pregnancy, breastfeeding and fertility while taking amitriptyline for pain and migraine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "b17e18198b9def5d4d5a1e4c6dc25353e0281806782283665451629af96611bc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 63,
+    "content_hash": "a105cd6a012e88e74c56a083d7d017fd787f558639fefa53a1a94eb6dfda6a66",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

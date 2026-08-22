@@ -1,0 +1,25 @@
+{
+  "id": "e691cdc2-5203-4484-b6f4-e39b9842c7c4",
+  "slug": "section-1808-spironolactone-diuretic-to-treat-oedema-swelling-nhs",
+  "title": "Spironolactone: diuretic to treat oedema (swelling) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "249fbd99de0d3eb21d14465cabfd31d102f9a1ebef39a62e0ac1a3d7d28f5e5d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1808,
+    "content_hash": "be2ec825bdbf349d027f5dea36713701a78b2355595da483a51b7554555afc8c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8177bc81-7239-48b2-b0e3-1cd1f7df1e47",
+  "slug": "section-0595-common-questions-about-cyclizine-nhs",
+  "title": "Common questions about cyclizine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "d3685efb96d094364a4d3cea436863577aad1e612d404d4fb44e41050503fcd7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 595,
+    "content_hash": "35e7e53aa72144707811cb7f5c3308b53228fdaffe7a268fcd7817865095e9b3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

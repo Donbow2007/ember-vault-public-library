@@ -1,0 +1,25 @@
+{
+  "id": "8b5c9467-286a-4812-b77c-4119f9c30078",
+  "slug": "section-0241-who-can-and-cannot-use-betamethasone-for-skin-nhs",
+  "title": "Who can and cannot use betamethasone for skin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "1065529228cf356d9caf9965be518370d9ab9b7a4faa7cb2c0f5afb99ace239a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 241,
+    "content_hash": "ddbd9cc4b314c18e6ff4f68909e80f59fe9e82e3c6f0fe01f287346881fa07a3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fc3ed512-80a1-436c-ab94-163d1ee6d218",
+  "slug": "section-1355-side-effects-of-melatonin-nhs",
+  "title": "Side effects of melatonin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "5f40bce6ad7491c6678554d4f71a7195e087d7c1635588168cb0d27efa58c102",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1355,
+    "content_hash": "ce5a7f5cbd1dd510ac66e9de6d60b70a391dee2f6a8d0c4430920b9d8aec4629",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

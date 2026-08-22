@@ -1,0 +1,25 @@
+{
+  "id": "73b2c801-d7d7-41fa-992c-50af682ea7cc",
+  "slug": "section-0171-common-questions-about-beclometasone-inhalers-nhs",
+  "title": "Common questions about beclometasone inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "6a965bf63405d27d88dac530b9e79ce0a88ea04007d9ab3d10ea0cacd75f997b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 171,
+    "content_hash": "607c0b8bc08bbb5342f73254f0ca3011da71ffcf0ac2baa29c82589bd0fcf840",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

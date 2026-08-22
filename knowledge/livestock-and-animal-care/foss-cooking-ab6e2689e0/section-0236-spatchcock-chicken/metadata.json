@@ -1,0 +1,25 @@
+{
+  "id": "b0676e6e-7057-4f3b-a90c-f22c969fe44c",
+  "slug": "section-0236-spatchcock-chicken",
+  "title": "Spatchcock Chicken",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "a74265d250a93a74909e86278b543a8821103d247612e0cafd585e5eb2785a88",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 236,
+    "content_hash": "a588e0d1b08ecedb41558a976dd1cd8a0aaf4179bf7e2a924b4d0cfd53c97b3a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

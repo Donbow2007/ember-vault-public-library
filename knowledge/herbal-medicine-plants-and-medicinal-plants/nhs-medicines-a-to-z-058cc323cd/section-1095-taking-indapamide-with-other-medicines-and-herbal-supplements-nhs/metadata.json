@@ -1,0 +1,25 @@
+{
+  "id": "01942b19-a7ec-48fa-be98-355c7f67d1ca",
+  "slug": "section-1095-taking-indapamide-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking indapamide with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "3ed799d1f6d9bdb0b8845fe68e5ea921f00ff68b51331d2d68409e3cea723a6f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1095,
+    "content_hash": "4848676ab3f7d179f0149ed7984f7671ea7b295fe60bfc76413ec068ca98c940",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

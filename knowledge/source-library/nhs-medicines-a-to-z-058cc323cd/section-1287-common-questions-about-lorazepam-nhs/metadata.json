@@ -1,0 +1,25 @@
+{
+  "id": "395c1c27-069b-4c47-9f1b-5a9b1e2b2f18",
+  "slug": "section-1287-common-questions-about-lorazepam-nhs",
+  "title": "Common questions about lorazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "e86057bf3d0fb2eb9c7e0ff0e55a0e0345490e539dc7b655915c7c2d63752db9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1287,
+    "content_hash": "219df9677edeb3107154bcf3cde35ccf4e1b6e257ebbcffb4660b9663a0c452a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

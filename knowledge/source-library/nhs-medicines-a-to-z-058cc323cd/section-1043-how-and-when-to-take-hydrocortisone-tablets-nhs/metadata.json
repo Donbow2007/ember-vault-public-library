@@ -1,0 +1,25 @@
+{
+  "id": "fbc5edda-ce38-459e-9697-098e31b2e67a",
+  "slug": "section-1043-how-and-when-to-take-hydrocortisone-tablets-nhs",
+  "title": "How and when to take hydrocortisone tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "ebf3d9791505c98303f146e54cac2cb10eff96583930815a434c8f390d06d8e1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1043,
+    "content_hash": "298b58a6af216f5516f70ac1740d41620918cde18c43de3925253f16a695b605",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

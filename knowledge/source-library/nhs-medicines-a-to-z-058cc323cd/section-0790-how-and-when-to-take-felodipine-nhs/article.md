@@ -1,0 +1,14 @@
+# How and when to take felodipine - NHS
+
+How and when to take felodipine
+
+Take felodipine as your doctor has told you, and follow the instructions that come with the medicine. If you're not sure, ask your doctor or pharmacist. Felodipine comes as slow release tablets. This means that the tablets release felodipine into your body gradually throughout the day. Dosage The usual starting dose of felodipine for high blood pressure and angina is 5mg once a day. Older people usually start on a lower dose of 2.5mg once a day. If the starting dose is not working well enough, your doctor may increase it to 10mg a day. If you have side effects or your blood pressure goes too low, your doctor may lower your dose to 2.5mg a day. How to take it You'll usually take felodipine once a day in the morning. It's best to take it on an empty stomach or after a light meal or snack that is not too fatty or starchy. Swallow the tablets whole with a drink of water. Do not break, crush or chew them. Talk to your pharmacist or doctor if you have problems swallowing them. Do not eat or drink grapefruit or grapefruit juice while you're taking this medicine. Grapefruit juice can make side effects worse. How long to take it for Usually, treatment with felodipine is long term, even for the rest of your life. If you forget to take it If you forget a dose of felodipine, just take your next dose at the usual time the next day. Do not take 2 doses to make up for a forgotten one. If you often forget doses, it may help to set an alarm to remind you. You could also ask your pharmacist for advice on other ways to help you remember to take your medicine. If you take too much An overdose of felodipine can make you feel sick (nausea), dizzy and sleepy. The amount of felodipine that can lead to an overdose varies from person to person. Urgent advice: Contact 111 for advice now if:
+you take more than your prescribed dose of felodipine Go to 111.nhs.uk or call 111 . Information: If you need to go to A&E , do not drive. Ask someone to drive you or call 999 and ask for an ambulance. Bring the felodipine packet or leaflet inside it, any remaining medicine, and any other medicines you take. Stopping felodipine Talk to your doctor if you want to stop taking felodipine. Stopping felodipine may cause your blood pressure to rise, and this may increase your risk of heart attack and stroke. If you are taking it for angina , stopping it will make it more likely you will have more angina attacks. If you're bothered by side effects, your doctor may be able to prescribe you a different medicine.
+
+Important
+
+Take felodipine even if you feel well, as you will still be getting the benefits of the medicine.
+Page last reviewed: 4 February 2022
+
+Next review due: 4 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

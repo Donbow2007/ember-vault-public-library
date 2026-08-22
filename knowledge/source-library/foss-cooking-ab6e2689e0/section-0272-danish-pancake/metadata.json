@@ -1,0 +1,25 @@
+{
+  "id": "ce20cc25-51aa-45ca-88ec-46809da28f82",
+  "slug": "section-0272-danish-pancake",
+  "title": "Danish Pancake",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "53cdf2c0e42be87bbfbcb1c21006b07e25736bdfa2bcf738f3791802f6eb2563",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 272,
+    "content_hash": "81702efdf5c9c90bc06b16b93465110be216f714236f0a1521bdfaa0da9ef2bf",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "edb07ff1-dd2f-4d5d-8955-458266650100",
+  "slug": "section-0003-aciclovir-medicine-for-cold-sores-chickenpox-and-shingles-nhs",
+  "title": "Aciclovir: medicine for cold sores, chickenpox and shingles - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "cf2e1b43fd38e5909069ddefb8423a484f064c153515f9a3d35baa9a2bab7061",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 3,
+    "content_hash": "9546708516f9be1bd5a4931f03df2c541525ff8aabc4a32113686448ad8447f3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

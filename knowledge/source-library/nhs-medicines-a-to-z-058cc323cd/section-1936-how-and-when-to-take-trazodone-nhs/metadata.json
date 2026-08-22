@@ -1,0 +1,25 @@
+{
+  "id": "6ca3debb-15d5-4095-94da-96c921488ee5",
+  "slug": "section-1936-how-and-when-to-take-trazodone-nhs",
+  "title": "How and when to take trazodone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "a868b971fd96a99458d417ed3538678559934f074cf3a8e0d2106d0d456587ee",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1936,
+    "content_hash": "91990447015511b38b182ef34fddbacb43517fa81a327ecabd285e8787109f67",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

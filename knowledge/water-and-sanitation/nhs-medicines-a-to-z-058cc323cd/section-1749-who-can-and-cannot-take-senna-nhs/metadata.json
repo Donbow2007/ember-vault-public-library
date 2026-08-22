@@ -1,0 +1,25 @@
+{
+  "id": "66b3fb9f-1867-43b7-87d8-6bf57811aa79",
+  "slug": "section-1749-who-can-and-cannot-take-senna-nhs",
+  "title": "Who can and cannot take senna - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "a290ba73579c321562a81d335afcc49232f86bc70db2c177fe1e74d5e5ff83ff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1749,
+    "content_hash": "a4c989652e3a825f466148655b5c22c3bba121a3f6d138f20cb8e3423d540a29",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

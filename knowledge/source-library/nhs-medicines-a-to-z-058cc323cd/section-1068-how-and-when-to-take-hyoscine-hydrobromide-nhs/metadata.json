@@ -1,0 +1,25 @@
+{
+  "id": "a585b8c4-8800-4e8b-ac6b-e615d649d2a8",
+  "slug": "section-1068-how-and-when-to-take-hyoscine-hydrobromide-nhs",
+  "title": "How and when to take hyoscine hydrobromide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "2bbda537fd8ce9dda1867d99338ae315b73c64027e90558ee4edfca89c416217",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1068,
+    "content_hash": "f40a6e7616799a5d57810f04f58a413c608c4e7cb3db720e2dc7b5e926e5bb0c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

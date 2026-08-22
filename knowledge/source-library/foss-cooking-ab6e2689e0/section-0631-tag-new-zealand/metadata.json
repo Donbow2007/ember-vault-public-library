@@ -1,0 +1,25 @@
+{
+  "id": "3eaeac36-994e-4206-a4e4-04531c527548",
+  "slug": "section-0631-tag-new-zealand",
+  "title": "Tag: new zealand",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "763ec641a9e68747510798ce53a87d6d7598ec560e0fb7f1dec4175c6ac6a726",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 631,
+    "content_hash": "f69df2a29f0cffe633ae8987a226c0159a1a4974da97dbd50a4c8db1266a6716",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

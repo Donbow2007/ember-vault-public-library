@@ -1,0 +1,25 @@
+{
+  "id": "5fb9d435-5c2e-46d5-a153-69915b0eb53e",
+  "slug": "section-1827-taking-sulfasalazine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking sulfasalazine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "a4b8a5ca90821f41bf6634b3c9c31cc23ee1736814a0220d77a468c1026c1966",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1827,
+    "content_hash": "9a0110982b1a6d76f94e2c16a40e01265f092b7b9cbb3fbbcda578550f178659",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

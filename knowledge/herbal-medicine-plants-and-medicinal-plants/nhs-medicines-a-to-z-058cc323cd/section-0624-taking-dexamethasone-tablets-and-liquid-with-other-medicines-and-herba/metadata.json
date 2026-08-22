@@ -1,0 +1,25 @@
+{
+  "id": "5d6a0154-309c-4e93-a5dd-20e8f54f5660",
+  "slug": "section-0624-taking-dexamethasone-tablets-and-liquid-with-other-medicines-and-herba",
+  "title": "Taking dexamethasone tablets and liquid with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "894d90d3f6f352ced29a825a6d2bbecb1d6a44ac73f2552569af05d6c8f28771",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 624,
+    "content_hash": "6d68bb68519780c019ec07f6173a677b345ce8be03c4b6c6aca7c3241fa0f7d0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

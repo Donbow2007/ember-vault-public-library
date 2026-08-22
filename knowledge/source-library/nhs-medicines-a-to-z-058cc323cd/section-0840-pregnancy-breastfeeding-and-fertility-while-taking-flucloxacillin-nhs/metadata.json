@@ -1,0 +1,25 @@
+{
+  "id": "d11101c4-c44c-4658-a002-232d7044efdb",
+  "slug": "section-0840-pregnancy-breastfeeding-and-fertility-while-taking-flucloxacillin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking flucloxacillin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "2aff64622a8b768a03dca939073081736a9a166682020751bf446b38c6666c2c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 840,
+    "content_hash": "f21c2e8edc55bb242500c6b6291150ec47915c05ebed8e9e6e6e51a4d59ebf50",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

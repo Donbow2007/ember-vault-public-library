@@ -1,0 +1,25 @@
+{
+  "id": "8b055131-357d-46d7-bbcf-ff2d82bff935",
+  "slug": "section-0006-how-and-when-to-take-or-use-aciclovir-nhs",
+  "title": "How and when to take or use aciclovir - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "d038963910257b4a5df9a0c85335af9baa90ba111189d02c70785cad48573d4c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 6,
+    "content_hash": "09bfe1754bb6de61877a6fef5432847558f7816302f3fe4a309c55e8f66c8036",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# How and when to take metoprolol - NHS
+
+How and when to take metoprolol
+
+Dosage and strength Metoprolol tablets come in strengths of 50mg and 100mg. How much you take depends on why you need it: high blood pressure – 50mg to 100mg, taken twice a day chest pain – 50mg to 100mg, taken 2 to 3 times a day an irregular heartbeat – 50mg, taken 2 to 3 times a day preventing migraine – 50mg to 100mg, taken twice a day too much thyroid hormone (thyrotoxicosis) – 50mg, taken 4 times a day How to take it You can take metoprolol with or without food. Swallow the tablets whole with a drink of water. Some tablets have a score line to help you break them in half and make it easier to swallow. Check the information leaflet for your brand to see if you can do this. Your doctor may advise you to take your first dose before bedtime because it could make you feel dizzy. If you do not feel dizzy after the first dose, take metoprolol in the morning. If you have metoprolol more than once a day, try to space the doses evenly throughout the day. How long to take it for Treatment with metoprolol is usually long term, possibly even for the rest of your life. Stopping metoprolol suddenly can make your condition worse, so talk to your doctor first. If you're bothered by any side effects, your doctor may be able to prescribe a different medicine for your heart problems. If you stop taking metoprolol, it will take 1 to 2 days for it to be completely out of your body.
+
+Important
+
+Take metoprolol even if you feel well, as you will still be getting the benefits of the medicine. If you forget to take it If you miss a dose, take your metoprolol as soon as you remember, unless it's nearly time for your next dose. If this happens, just leave out the missed dose and take your next dose at the usual time. Never take 2 doses at the same time. Never take an extra dose to make up for a forgotten one. If you often forget doses, it may help to set an alarm to remind you. You could also ask your pharmacist for advice on other ways to help you remember to take your medicine. If you take too much The amount of metoprolol that can lead to an overdose varies from person to person. Taking too much metoprolol can slow down your heart rate and make it difficult to breathe. It can also cause dizziness and trembling. Urgent advice: Contact 111 for advice now if:
+you take more than your prescribed dose of metoprolol Get help from 111 online or call 111 Information: If you need to go to A&E , do not drive. Ask someone to drive you or call 999 and ask for an ambulance. Bring the metoprolol packet or leaflet inside it, any remaining medicine, and any other medicines you take.
+Page last reviewed: 9 March 2022
+
+Next review due: 9 March 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

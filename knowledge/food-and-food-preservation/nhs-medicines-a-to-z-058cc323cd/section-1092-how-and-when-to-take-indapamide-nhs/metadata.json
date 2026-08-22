@@ -1,0 +1,25 @@
+{
+  "id": "e3e1df8c-baed-4c37-8621-8e167d3b3dd0",
+  "slug": "section-1092-how-and-when-to-take-indapamide-nhs",
+  "title": "How and when to take indapamide - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "605dcdfc8ba2f937dd588f8297dc518aaf958cbcd7fde0d99a1bcc85cc7a8591",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1092,
+    "content_hash": "5cf5e0d3a4a85adf0757b1cd03fa05288c5cac8e04864f038bfca83d2da08e60",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

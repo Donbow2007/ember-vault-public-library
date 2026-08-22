@@ -1,0 +1,25 @@
+{
+  "id": "c6713578-9e74-4e4b-b5a9-67081f2dc05c",
+  "slug": "section-0117-pregnancy-breastfeeding-and-fertility-while-taking-aripiprazole-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking aripiprazole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "8446a2f931f0d1c15616bdc3e437e3019320ff4202bd5c8ad61720b5efcb8a56",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 117,
+    "content_hash": "33f0cf62e43cdfc2139ddfc631c2f87deac9e3f8c30a44c2d6cace3ae5aa7ced",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

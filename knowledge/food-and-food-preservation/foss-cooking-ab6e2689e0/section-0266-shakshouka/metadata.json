@@ -1,0 +1,25 @@
+{
+  "id": "f1310192-b239-4439-90c8-cb4870e1f289",
+  "slug": "section-0266-shakshouka",
+  "title": "Shakshouka",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "01a9eb8a91e95c105b8f3b34612a0eff4672e9c410b607c06c44f7a8af1ba45a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 266,
+    "content_hash": "b770fbed15dc46d1b6f5349485d1f6642ba40be8ebd12e08e65141f0b2a00e17",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

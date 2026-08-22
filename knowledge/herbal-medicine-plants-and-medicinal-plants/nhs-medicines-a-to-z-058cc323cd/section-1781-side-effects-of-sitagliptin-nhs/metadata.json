@@ -1,0 +1,25 @@
+{
+  "id": "6b526a23-dbb9-425c-9241-4a5103bb1583",
+  "slug": "section-1781-side-effects-of-sitagliptin-nhs",
+  "title": "Side effects of sitagliptin - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "91951926b1e7f68d226a738a6149f7727ad3642a774169b37f120f8927ccfe0c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1781,
+    "content_hash": "53313be51283168154e195cf61bcd8e54e453c1fb90804d2f3289fec85ba0cd4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

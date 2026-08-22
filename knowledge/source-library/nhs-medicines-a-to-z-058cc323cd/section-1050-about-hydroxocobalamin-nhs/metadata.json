@@ -1,0 +1,25 @@
+{
+  "id": "6679330d-ea37-4f71-aa44-dcbc7b41deb5",
+  "slug": "section-1050-about-hydroxocobalamin-nhs",
+  "title": "About hydroxocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "4245e01d4eec401500ad463b058109d6e7a524d106c0c1bccfb04dd1aa90b5e7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1050,
+    "content_hash": "cdb8611805e17f614a647f316101f6cc53340a1a74deb09089432a5709dd6d87",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

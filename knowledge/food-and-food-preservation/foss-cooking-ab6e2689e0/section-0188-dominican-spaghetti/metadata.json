@@ -1,0 +1,25 @@
+{
+  "id": "dbf4fc22-061f-48eb-bdcd-a80966a50f4d",
+  "slug": "section-0188-dominican-spaghetti",
+  "title": "Dominican Spaghetti",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "1be15b6f492b0817c624a31a5ac8ba347dc1fc45268a1bbc867fc1f729c98ba1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 188,
+    "content_hash": "6210b59b4cbbd24e8db5493cc44be0e8c1c9dcf6bf6a99a511b02187742a3624",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

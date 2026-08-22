@@ -1,0 +1,25 @@
+{
+  "id": "31ca0ddb-d3ce-480a-8f8d-da94b990f2bc",
+  "slug": "section-1938-side-effects-of-trazodone-nhs",
+  "title": "Side effects of trazodone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "32dd05dccdfd3677c6038b1761ca1100cd3540bffa808b99f93dcbe60bf26e6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1938,
+    "content_hash": "e626b8129e7d8a284200149f5aec488baeb553ebc119a636a56d6e3282ce79b7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

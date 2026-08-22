@@ -1,0 +1,25 @@
+{
+  "id": "82207a70-4457-4a47-9e23-e7b691ebccfa",
+  "slug": "section-0065-irp-fas-org-doddir-milmed-corpsman-pt2-pdf-part-31",
+  "title": "irp.fas.org/doddir/milmed/corpsman-pt2.pdf — Part 31",
+  "category": "water-and-sanitation",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "72eed4169c81741fca282d60ab9ec594f5b0f73653b96b21a8a30c3da5a0eac2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 65,
+    "content_hash": "bf1e0bd8ba492724c7330b56f014305cd969d7d39beec2ab62f0849ca7254310",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

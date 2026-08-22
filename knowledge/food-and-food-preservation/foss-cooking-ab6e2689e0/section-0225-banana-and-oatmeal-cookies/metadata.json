@@ -1,0 +1,25 @@
+{
+  "id": "3f05cb04-444e-4191-8010-6dd774119a5b",
+  "slug": "section-0225-banana-and-oatmeal-cookies",
+  "title": "Banana and oatmeal cookies",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "6538386148c21c5b35a8401925ec9ea6a6bab21750201045220f98b3843f9c7c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 225,
+    "content_hash": "35be10a49baa5c86364bf3297940b9dbc3a6ed35ffc5856ffcc60348c9df5ddd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

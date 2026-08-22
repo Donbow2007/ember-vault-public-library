@@ -1,0 +1,25 @@
+{
+  "id": "617e79a8-44d0-40ce-af54-6a17efe0c6ab",
+  "slug": "section-1339-taking-mebeverine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking mebeverine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "4c38ab9fb9988ffac53cee01655eec3bb8fff44d42cf13c4aaf19a5fe275dde1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1339,
+    "content_hash": "dba7f35cadf6d2662cd34edcba9a72f2883dc93bf7a6ffc287794fda24ee2d4c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

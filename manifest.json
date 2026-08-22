@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T22:37:50Z",
+  "generated_at": "2026-08-22T02:13:01Z",
   "categories": [
     {
       "id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
@@ -8,17 +8,31 @@
       "name": "Emergency Preparedness",
       "packages": [
         {
-          "id": "24959681-3caf-49c5-aa07-ce4531446a6e",
-          "name": "Tools Repair And Construction",
-          "slug": "tools-repair-and-construction",
-          "description": null,
+          "id": "d3760f56-71f6-4c9e-9043-cf1835e8aa8b",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
           "category_id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
           "category": "emergency-preparedness",
-          "version": 2,
-          "content_hash": "c7ef5dd128cb2f5fa2d1067fc04a4ceb8304ba313fb7601fde9f7bc697b156f6",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/emergency-preparedness/tools-repair-and-construction.zip",
-          "download_size": 48782,
+          "version": 1,
+          "content_hash": "0b645f9a8b48a03c228275e0186a96b2a44cad7aa94a5607f8ab7d4b35af70ef",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/emergency-preparedness/military-medicine-3f40446259.zip",
+          "download_size": 120286,
+          "dependencies": []
+        },
+        {
+          "id": "bcf0870a-f76d-4b8e-b996-2292bdeb53af",
+          "name": "FOSS Cooking",
+          "slug": "foss-cooking-ab6e2689e0",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · foss.cooking_en_all_2026-02.zim",
+          "category_id": "ac460c13-c8e6-443f-a1ed-d70a1f6caec1",
+          "category": "emergency-preparedness",
+          "version": 1,
+          "content_hash": "7d0434f3773ee0f5ca479d3727611df7370e6e2f7956fd575e2a2e62a6bdf16a",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/emergency-preparedness/foss-cooking-ab6e2689e0.zip",
+          "download_size": 1385,
           "dependencies": []
         }
       ]
@@ -27,13 +41,71 @@
       "id": "4d7ef7fb-c4fe-4fc9-9fb0-00bd80eb7906",
       "slug": "first-aid-and-medical",
       "name": "First Aid and Medical",
-      "packages": []
+      "packages": [
+        {
+          "id": "7cae373e-2168-4750-9064-b7bf6acdd494",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "4d7ef7fb-c4fe-4fc9-9fb0-00bd80eb7906",
+          "category": "first-aid-and-medical",
+          "version": 1,
+          "content_hash": "720d3cdcda7460560f3f95d3411d23e3f0ec5add9aff423585508b539e9b1ca6",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/first-aid-and-medical/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 624722,
+          "dependencies": []
+        },
+        {
+          "id": "f18fe360-0a56-44e1-b580-05610a102d9c",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "4d7ef7fb-c4fe-4fc9-9fb0-00bd80eb7906",
+          "category": "first-aid-and-medical",
+          "version": 1,
+          "content_hash": "c04b11f993104777e32a7b52596248b7cd29029e6cad516b448242ac8828ed6a",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/first-aid-and-medical/military-medicine-3f40446259.zip",
+          "download_size": 2644904,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "55c4865f-1ec8-4af0-91bd-28f81619aa03",
       "slug": "herbal-medicine-plants-and-medicinal-plants",
       "name": "Herbal Medicine, Plants, and Medicinal Plants",
-      "packages": []
+      "packages": [
+        {
+          "id": "1f036cea-1248-4c6a-8882-45a8691bea04",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "55c4865f-1ec8-4af0-91bd-28f81619aa03",
+          "category": "herbal-medicine-plants-and-medicinal-plants",
+          "version": 1,
+          "content_hash": "b3ea94f7bf01ffdcca39124028b3b31762a3daa1cc64faca4b04632454bb6a8c",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/herbal-medicine-plants-and-medicinal-plants/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 516537,
+          "dependencies": []
+        },
+        {
+          "id": "a146d6a0-cd63-4ee4-a3eb-61d98791afb3",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "55c4865f-1ec8-4af0-91bd-28f81619aa03",
+          "category": "herbal-medicine-plants-and-medicinal-plants",
+          "version": 1,
+          "content_hash": "cfdd811dc6f312ffba4e74bf4aa764deed9d89646037dfa3c3a2869f21ffc3b4",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/herbal-medicine-plants-and-medicinal-plants/military-medicine-3f40446259.zip",
+          "download_size": 9351,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
@@ -41,45 +113,45 @@
       "name": "Water and Sanitation",
       "packages": [
         {
-          "id": "f8ef763d-685b-4c18-b800-d9f2d791cbb2",
-          "name": "Tools Repair And Construction",
-          "slug": "tools-repair-and-construction",
-          "description": null,
+          "id": "204b4031-bc33-4da1-81f8-b5351efc14c9",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
           "category_id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
           "category": "water-and-sanitation",
           "version": 1,
-          "content_hash": "f0d765b1cde17312f5e2136b531512456596586e9f9d60bcfbf43fab98bea368",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/water-and-sanitation/tools-repair-and-construction.zip",
-          "download_size": 5254,
+          "content_hash": "68ebb70429a4b665c54e630c1a79d5082c4d0b27568175f64c1f3a1fb1491d4e",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/water-and-sanitation/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 336808,
           "dependencies": []
         },
         {
-          "id": "2e9012d1-13a0-40ea-8e5c-66a6418e3a28",
-          "name": "Wilderness Survival",
-          "slug": "wilderness-survival",
-          "description": null,
+          "id": "4a17c1b5-ad74-41a8-bce9-6b58ab9de82c",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
           "category_id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
           "category": "water-and-sanitation",
           "version": 1,
-          "content_hash": "86ec783102ae1de2bb77c1d8bd5131be984feef6dba0a7e09d8298ea36f5d60f",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/water-and-sanitation/wilderness-survival.zip",
-          "download_size": 3845,
+          "content_hash": "73da536feebff394e83f3ca09110a819c061951e3567f30db5a7881fb7be139d",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/water-and-sanitation/military-medicine-3f40446259.zip",
+          "download_size": 130765,
           "dependencies": []
         },
         {
-          "id": "9b114827-398c-4a12-b7bf-e44af1ef2dc5",
-          "name": "Still Construction",
-          "slug": "still-construction",
-          "description": null,
+          "id": "d8ae72c3-be36-4ca3-99d8-43b08e7e160f",
+          "name": "FOSS Cooking",
+          "slug": "foss-cooking-ab6e2689e0",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · foss.cooking_en_all_2026-02.zim",
           "category_id": "ec42b1db-3e34-4e24-86ee-1b12dc14f586",
           "category": "water-and-sanitation",
           "version": 1,
-          "content_hash": "17ad1f462e162acaa8827d814055794f4237fffb2830462773416642c7ee774c",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/water-and-sanitation/still-construction.zip",
-          "download_size": 1559,
+          "content_hash": "ff9f1296b84f661aa1851e5f26cbd8592fbfff2f6e9aa69f4736242986dfe50a",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/water-and-sanitation/foss-cooking-ab6e2689e0.zip",
+          "download_size": 10239,
           "dependencies": []
         }
       ]
@@ -88,7 +160,50 @@
       "id": "06571c52-76f3-4ce7-b9f2-188766181fcc",
       "slug": "food-and-food-preservation",
       "name": "Food and Food Preservation",
-      "packages": []
+      "packages": [
+        {
+          "id": "07655e42-2884-4315-88fd-0c88b00a26c6",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "06571c52-76f3-4ce7-b9f2-188766181fcc",
+          "category": "food-and-food-preservation",
+          "version": 1,
+          "content_hash": "83fc1e1f38f605f36ecc8805ce65f9fb87d1e60eb162c716a3e586b9e2759021",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/food-and-food-preservation/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 71424,
+          "dependencies": []
+        },
+        {
+          "id": "b983f3f8-2601-4343-8693-e1fc40493528",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "06571c52-76f3-4ce7-b9f2-188766181fcc",
+          "category": "food-and-food-preservation",
+          "version": 1,
+          "content_hash": "de77bb0dd5411dd8d56e03a37f18064ce6041b9a60c2d274e0606a3b4f624bd3",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/food-and-food-preservation/military-medicine-3f40446259.zip",
+          "download_size": 126751,
+          "dependencies": []
+        },
+        {
+          "id": "a5e26bc8-4c64-42ed-bddd-11be13b38477",
+          "name": "FOSS Cooking",
+          "slug": "foss-cooking-ab6e2689e0",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · foss.cooking_en_all_2026-02.zim",
+          "category_id": "06571c52-76f3-4ce7-b9f2-188766181fcc",
+          "category": "food-and-food-preservation",
+          "version": 1,
+          "content_hash": "e37951e6ff1c1c55f4a508dc9ed36f9f0807189bbbd71421630dc3e59fd7e666",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/food-and-food-preservation/foss-cooking-ab6e2689e0.zip",
+          "download_size": 441226,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "30a15ae9-2209-4fae-aa39-ae2eec68e13d",
@@ -96,17 +211,31 @@
       "name": "Weather",
       "packages": [
         {
-          "id": "8917ffb7-6f0c-4d02-aa44-3bbcc4c86a37",
-          "name": "Wilderness Survival",
-          "slug": "wilderness-survival",
-          "description": null,
+          "id": "116922b6-ca54-448b-88a6-e70f3dc8bd50",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
           "category_id": "30a15ae9-2209-4fae-aa39-ae2eec68e13d",
           "category": "weather",
-          "version": 2,
-          "content_hash": "8e286359242c4e2642fec4271037cf3881ed93c76a7c0f44514654cb13514764",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/weather/wilderness-survival.zip",
-          "download_size": 18910,
+          "version": 1,
+          "content_hash": "df289d98ef7148c96d56c0b66d7cc775b34020dda612b322cf69744af9c68683",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/weather/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 41193,
+          "dependencies": []
+        },
+        {
+          "id": "d60fe039-41d1-456e-8543-dd3285a2dfde",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "30a15ae9-2209-4fae-aa39-ae2eec68e13d",
+          "category": "weather",
+          "version": 1,
+          "content_hash": "0369cba4be1eb18f5aee92214b797e817a74ef491f084b32377c7da5cd35a3e8",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/weather/military-medicine-3f40446259.zip",
+          "download_size": 101213,
           "dependencies": []
         }
       ]
@@ -115,25 +244,141 @@
       "id": "84f1363e-6423-491c-9118-f4fd37548341",
       "slug": "livestock-and-animal-care",
       "name": "Livestock and Animal Care",
-      "packages": []
+      "packages": [
+        {
+          "id": "f62fa5b7-bd91-46fd-bbf7-4536f453813e",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "84f1363e-6423-491c-9118-f4fd37548341",
+          "category": "livestock-and-animal-care",
+          "version": 1,
+          "content_hash": "395d5a287fd3c6b3f597f28c0673a6a849fbec7743f0d2f45b6ddeff5e98a58b",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/livestock-and-animal-care/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 2781,
+          "dependencies": []
+        },
+        {
+          "id": "3a2c4870-d0e8-4615-8a41-d31efafb05f3",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "84f1363e-6423-491c-9118-f4fd37548341",
+          "category": "livestock-and-animal-care",
+          "version": 1,
+          "content_hash": "03dd0f345f7e5c2740aca3603efeece9164da67a7b0fd6c25c1be4fd5bf0c0a0",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/livestock-and-animal-care/military-medicine-3f40446259.zip",
+          "download_size": 111937,
+          "dependencies": []
+        },
+        {
+          "id": "87b62321-c878-40cd-892c-1d9784ff989d",
+          "name": "FOSS Cooking",
+          "slug": "foss-cooking-ab6e2689e0",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · foss.cooking_en_all_2026-02.zim",
+          "category_id": "84f1363e-6423-491c-9118-f4fd37548341",
+          "category": "livestock-and-animal-care",
+          "version": 1,
+          "content_hash": "9e41d8984f0bf7e8fb1f15825898e1b018057eb0c25bf60fb93e3f900d66f7c0",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/livestock-and-animal-care/foss-cooking-ab6e2689e0.zip",
+          "download_size": 97145,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "865beb6a-b7b3-48b9-a243-53671e490533",
       "slug": "navigation",
       "name": "Navigation",
-      "packages": []
+      "packages": [
+        {
+          "id": "866e030a-b3d7-4576-983a-741da45b2812",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "865beb6a-b7b3-48b9-a243-53671e490533",
+          "category": "navigation",
+          "version": 1,
+          "content_hash": "09d6dceda516e629348b7814e8c50a9f84413f8dd8ece59eda1eee624a228117",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/navigation/military-medicine-3f40446259.zip",
+          "download_size": 11266,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "ee41b0ef-d99b-437e-b4b1-69b292cc2180",
       "slug": "communication",
       "name": "Communication",
-      "packages": []
+      "packages": [
+        {
+          "id": "03c91a57-5312-4325-9d5c-0b8743fbacc4",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "ee41b0ef-d99b-437e-b4b1-69b292cc2180",
+          "category": "communication",
+          "version": 1,
+          "content_hash": "fa1ac875f14a8804e3c942a00940a49112818e1990360534a149b108e4369445",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/communication/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 124914,
+          "dependencies": []
+        },
+        {
+          "id": "b3a449d9-5af6-4768-bb9f-dd82d94f2bed",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "ee41b0ef-d99b-437e-b4b1-69b292cc2180",
+          "category": "communication",
+          "version": 1,
+          "content_hash": "38556e4d762cad4b331ef55fd8e7e97735da18c083234896e09d9872c082da3f",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/communication/military-medicine-3f40446259.zip",
+          "download_size": 95416,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "b0ef3220-3835-4e58-bbc1-1c5b59e78124",
       "slug": "gardening-and-agriculture",
       "name": "Gardening and Agriculture",
-      "packages": []
+      "packages": [
+        {
+          "id": "baa1366a-06d2-45c3-b49e-0adbab98a264",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "b0ef3220-3835-4e58-bbc1-1c5b59e78124",
+          "category": "gardening-and-agriculture",
+          "version": 1,
+          "content_hash": "ec1299de360e7693beacca2e8b598582722d019015d1211ce25fb3a86c5f9fa0",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/gardening-and-agriculture/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 3733,
+          "dependencies": []
+        },
+        {
+          "id": "b82cfa2a-0dc1-4f29-a0fc-2a306f6eda91",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "b0ef3220-3835-4e58-bbc1-1c5b59e78124",
+          "category": "gardening-and-agriculture",
+          "version": 1,
+          "content_hash": "767879c01cba72b8e366c9075a250acff2b77cace8802c7078c76bf9a184f512",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/gardening-and-agriculture/military-medicine-3f40446259.zip",
+          "download_size": 31057,
+          "dependencies": []
+        }
+      ]
     },
     {
       "id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
@@ -141,31 +386,31 @@
       "name": "Wilderness Survival",
       "packages": [
         {
-          "id": "bad4fc26-d96a-4805-8ad7-c3feb203be0f",
-          "name": "Tools Repair And Construction",
-          "slug": "tools-repair-and-construction",
-          "description": null,
+          "id": "c0bd83ae-ed7a-4dad-9c84-9d4c2d56af2c",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
           "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
           "category": "wilderness-survival",
-          "version": 2,
-          "content_hash": "f27b1a1456670c8029c87f800e05c01d7f421d77052a73fb266cd0711f2e1274",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/wilderness-survival/tools-repair-and-construction.zip",
-          "download_size": 31018,
+          "version": 1,
+          "content_hash": "23189bcc7767fa6d728c43560c0876b2c1be785c5a77faf18d26797320150a06",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/wilderness-survival/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 2115,
           "dependencies": []
         },
         {
-          "id": "879642fd-f381-40a7-8acc-c7f55e8e5f21",
-          "name": "First Aid And Health",
-          "slug": "first-aid-and-health",
-          "description": null,
+          "id": "9c588a09-ddfb-45a1-a33a-980dfdf990cf",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
           "category_id": "55cda4b8-08cf-4f34-a028-49b063c33b39",
           "category": "wilderness-survival",
-          "version": 2,
-          "content_hash": "a23cf29e339acdc4aa8c6a9d26de521fd410f2f4949cae621983aa380434f0d8",
-          "updated_at": "2026-08-21T22:37:50Z",
-          "download_url": "packs/wilderness-survival/first-aid-and-health.zip",
-          "download_size": 16057,
+          "version": 1,
+          "content_hash": "301ccabc0e4eccbcda6efc4846725da3de73e2b89b8159d2b09463a103eeafef",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/wilderness-survival/military-medicine-3f40446259.zip",
+          "download_size": 75273,
           "dependencies": []
         }
       ]
@@ -174,7 +419,85 @@
       "id": "154eac3e-f7dc-489f-9d73-2722d9b7ee56",
       "slug": "tools-repair-and-construction",
       "name": "Tools, Repair, and Construction",
-      "packages": []
+      "packages": [
+        {
+          "id": "87e778f3-2a90-4057-9982-5325ae241637",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "154eac3e-f7dc-489f-9d73-2722d9b7ee56",
+          "category": "tools-repair-and-construction",
+          "version": 1,
+          "content_hash": "22eabd766aa5ff242d623208bfe86ce1e6173adb8621e1050b0fd7f75b6f8f87",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/tools-repair-and-construction/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 1982,
+          "dependencies": []
+        },
+        {
+          "id": "aa7f1c95-58a3-4753-a665-6962494023c3",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "154eac3e-f7dc-489f-9d73-2722d9b7ee56",
+          "category": "tools-repair-and-construction",
+          "version": 1,
+          "content_hash": "2fe7ad5555c8e99f95fcec1e46179a180235414751d49186291b32bd9c4ade07",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/tools-repair-and-construction/military-medicine-3f40446259.zip",
+          "download_size": 223432,
+          "dependencies": []
+        }
+      ]
+    },
+    {
+      "id": "116de392-0ca7-4384-9f47-b555298a248f",
+      "slug": "source-library",
+      "name": "Source Library",
+      "packages": [
+        {
+          "id": "6b224933-c374-416a-b285-aaa910cd7875",
+          "name": "NHS Medicines A to Z",
+          "slug": "nhs-medicines-a-to-z-058cc323cd",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · nhs.uk_en_medicines_2025-12.zim",
+          "category_id": "116de392-0ca7-4384-9f47-b555298a248f",
+          "category": "source-library",
+          "version": 1,
+          "content_hash": "b54c8cd889167d4f7b082674d97748c13148a63f8596fea14331e21756732c56",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/source-library/nhs-medicines-a-to-z-058cc323cd.zip",
+          "download_size": 2689572,
+          "dependencies": []
+        },
+        {
+          "id": "8900bf28-05ef-4727-9e0b-60ad977236b2",
+          "name": "Military Medicine",
+          "slug": "military-medicine-3f40446259",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · fas-military-medicine_en_2025-06.zim",
+          "category_id": "116de392-0ca7-4384-9f47-b555298a248f",
+          "category": "source-library",
+          "version": 1,
+          "content_hash": "0e306fcdb82023e0b9203eb895504a4d72cd371c1b67d15972c54972dcc85f46",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/source-library/military-medicine-3f40446259.zip",
+          "download_size": 1005378,
+          "dependencies": []
+        },
+        {
+          "id": "a6db7f20-d603-46c9-a97f-49ad91327308",
+          "name": "FOSS Cooking",
+          "slug": "foss-cooking-ab6e2689e0",
+          "description": "Original site contributors · Kiwix · Project NOMAD preset · openZIM · License review required · foss.cooking_en_all_2026-02.zim",
+          "category_id": "116de392-0ca7-4384-9f47-b555298a248f",
+          "category": "source-library",
+          "version": 1,
+          "content_hash": "9ca7b1ff26314645ad7433e6fceef31353684402f091ea5f5175fc46e1017a30",
+          "updated_at": "2026-08-22T02:13:01Z",
+          "download_url": "packs/source-library/foss-cooking-ab6e2689e0.zip",
+          "download_size": 308889,
+          "dependencies": []
+        }
+      ]
     }
   ]
 }

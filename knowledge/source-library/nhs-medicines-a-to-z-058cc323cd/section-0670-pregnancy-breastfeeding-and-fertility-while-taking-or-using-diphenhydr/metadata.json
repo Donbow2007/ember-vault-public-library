@@ -1,0 +1,25 @@
+{
+  "id": "109c269a-8756-459c-bc6d-6f5546647071",
+  "slug": "section-0670-pregnancy-breastfeeding-and-fertility-while-taking-or-using-diphenhydr",
+  "title": "Pregnancy, breastfeeding and fertility while taking or using diphenhydramine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "2427e28ab486d23d95a83219d301034c62eeeccdaf5ca0a0513d04f9140545b5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 670,
+    "content_hash": "98247abde5e6aeccafae9444fee55cc3b96354ce622a440f3ed2a393078f35a0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

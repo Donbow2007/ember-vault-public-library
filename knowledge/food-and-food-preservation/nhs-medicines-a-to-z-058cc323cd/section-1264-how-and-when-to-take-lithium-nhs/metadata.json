@@ -1,0 +1,25 @@
+{
+  "id": "54a1c6b7-3b38-4554-80c5-6b217ea1e914",
+  "slug": "section-1264-how-and-when-to-take-lithium-nhs",
+  "title": "How and when to take lithium - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "d2d2164b7b7468f8d2a242a5a66d78777f794c494d2123dd70c61d8582158823",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1264,
+    "content_hash": "45e88479d2d209f0aca5654a08c137d93b0bc62cfbcc512aaaa79b7549bda41f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

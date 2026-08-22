@@ -1,0 +1,25 @@
+{
+  "id": "8919e33b-17b7-4c10-860f-76b216045b9c",
+  "slug": "section-0613-how-and-when-to-use-dexamethasone-eye-drops-nhs",
+  "title": "How and when to use dexamethasone eye drops - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "f637c64f43d0adeff17bd6503d90d0093ce127ec37bf7ebde5a0852c310faebf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 613,
+    "content_hash": "c81a2ac0540f4cd13e8e9adf58fb2e247d77cc14d33d8b6b9ea0b7b54e965378",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

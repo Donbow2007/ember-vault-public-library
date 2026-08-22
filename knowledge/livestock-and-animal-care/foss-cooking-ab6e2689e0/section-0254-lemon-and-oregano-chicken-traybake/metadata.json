@@ -1,0 +1,25 @@
+{
+  "id": "8292fe1a-8a24-458f-baf8-b718fd19e656",
+  "slug": "section-0254-lemon-and-oregano-chicken-traybake",
+  "title": "Lemon and oregano chicken traybake",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "2922835eadc0f194d312fb61e4034bd6018bd599cf1a92a6ac49191e48770644",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 254,
+    "content_hash": "5ffde2ea86a535e9209ceacd7ab583ce9675f51090133a4ea2ca405a8aeb708f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

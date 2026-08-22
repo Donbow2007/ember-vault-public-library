@@ -1,0 +1,25 @@
+{
+  "id": "1d672035-2170-4051-93ad-1814f88b18fc",
+  "slug": "section-1145-how-and-when-to-take-short-acting-insulin-nhs",
+  "title": "How and when to take short-acting insulin - NHS",
+  "category": "weather",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "02681f8c190ac77aceae53568434fe1e75d2ad0b302c4eaf2f947eb643194760",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1145,
+    "content_hash": "cbdf24814bd01c3a297a13f94577b934b56ad8763e022ad88335566b4edd52d2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

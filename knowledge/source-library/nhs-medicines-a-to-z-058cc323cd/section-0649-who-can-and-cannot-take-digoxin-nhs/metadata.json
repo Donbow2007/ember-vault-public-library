@@ -1,0 +1,25 @@
+{
+  "id": "7273f53c-33fa-4624-a4ed-e022e673fd41",
+  "slug": "section-0649-who-can-and-cannot-take-digoxin-nhs",
+  "title": "Who can and cannot take digoxin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "2783d26e5a85937ae1dc4133756bc31ff1a5900566dc780b16f354811f5b4b83",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 649,
+    "content_hash": "511845420c1f425884fc2e7ac6044cdacdc7028ddfe313c01a7a76b33636df68",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "407c056f-0904-4f39-aedd-248d5832f6b6",
+  "slug": "section-1419-taking-metoclopramide-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking metoclopramide with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "af7d737a3c8e406b5010ac56d064d85dd56e9b6d814627f7887751a3595dfcff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1419,
+    "content_hash": "e7b709f1da6f18238b5a6feb32398a08a0f416618a1ebb9e9c595d3c5b4fbbda",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

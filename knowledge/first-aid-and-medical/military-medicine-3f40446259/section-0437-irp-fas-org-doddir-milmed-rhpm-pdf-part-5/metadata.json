@@ -1,0 +1,25 @@
+{
+  "id": "bacc9691-ada5-4ed5-9239-ff809ecce3c9",
+  "slug": "section-0437-irp-fas-org-doddir-milmed-rhpm-pdf-part-5",
+  "title": "irp.fas.org/doddir/milmed/rhpm.pdf — Part 5",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "cd4bc53552c6780ad932e2c402038f44ac5af58174c05c3f5b07a4befb0c84b6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 437,
+    "content_hash": "b0ba51054cd0784da96915c451117d4945bc4f9d4bd9a57f22503c5001722305",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

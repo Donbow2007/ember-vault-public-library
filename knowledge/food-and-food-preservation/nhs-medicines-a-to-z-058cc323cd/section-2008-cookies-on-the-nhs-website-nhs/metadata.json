@@ -1,0 +1,25 @@
+{
+  "id": "2506e8c5-236a-43a0-b409-892aaa4121c8",
+  "slug": "section-2008-cookies-on-the-nhs-website-nhs",
+  "title": "Cookies on the NHS website - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:41Z",
+  "content_hash": "e90dc958f9570bcb77d89087d770963530d17ad702430d1628194680861d3281",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2008,
+    "content_hash": "ac0eeb28e85508fd03ea08d98bceae6a77c55028af78c3cec733c3d46a77c990",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

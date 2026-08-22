@@ -1,0 +1,25 @@
+{
+  "id": "553e0d25-98c6-47e0-87de-f9f8e8cdcb11",
+  "slug": "section-0875-who-can-and-cannot-use-fluticasone-nasal-spray-and-drops-nhs",
+  "title": "Who can and cannot use fluticasone nasal spray and drops - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "3d99e1d74f8d341205328572a04decc5d6a405ce1d569408040fdbeca4f70463",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 875,
+    "content_hash": "8443e337a2786c42f5b7c7f3571606cad324dc9b7daa70df5d4f3c3c5b75a761",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

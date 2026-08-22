@@ -1,0 +1,25 @@
+{
+  "id": "af4db9c8-dee4-4b5c-82ca-0de9f4025c56",
+  "slug": "section-1139-taking-rapid-acting-insulin-with-other-medicines-and-herbal-supplement",
+  "title": "Taking rapid-acting insulin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "3cf1d1072f4a4a76b8834568b5d7865c5498fcd60ac09814a2819b730e2a4620",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1139,
+    "content_hash": "09e96cf4214f6b58a40a5778967a3f2917a55b1f8bc6a954973eeb5bf9e5f8ce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

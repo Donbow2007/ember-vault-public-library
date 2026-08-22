@@ -1,0 +1,25 @@
+{
+  "id": "dd9cb385-5700-4084-8ce2-80f9ef4cdc17",
+  "slug": "section-0107-common-questions-about-apixaban-nhs",
+  "title": "Common questions about apixaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "b083f9fcddf7225d6e288e3a8ac41e5164de074a944d594fe45be3c9528dcc26",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 107,
+    "content_hash": "f89a42949d73d16ebf31e2f54eb974453c641f93d73ac4686be5e19a695b2b0f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

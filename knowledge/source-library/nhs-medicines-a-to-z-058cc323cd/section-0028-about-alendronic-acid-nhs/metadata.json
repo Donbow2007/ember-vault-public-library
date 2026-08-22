@@ -1,0 +1,25 @@
+{
+  "id": "f652ef26-1757-4bc7-9746-bd90ab32dab8",
+  "slug": "section-0028-about-alendronic-acid-nhs",
+  "title": "About alendronic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "82a213277abfc81f899484de2276be6e37b36d59bfd88c39f0fd7d673b01109a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 28,
+    "content_hash": "91789974e999f979cca3a744fd7f372e399ba668007761633db0b9c57bc6afce",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

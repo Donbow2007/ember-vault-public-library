@@ -1,0 +1,25 @@
+{
+  "id": "213af0df-2982-4c63-8d76-6ade8be6f5eb",
+  "slug": "section-0819-who-can-and-cannot-take-ferrous-sulfate-nhs",
+  "title": "Who can and cannot take ferrous sulfate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "a9c71ead6a243baa5c10fc417c5ee11e52f433b1ab0cb9356eeb4e70e6b0cb9c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 819,
+    "content_hash": "d2b549aa631e55a4b29ce48f005ed0a3aef519a9b1691a9e34f8f3e8cb7fccc9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

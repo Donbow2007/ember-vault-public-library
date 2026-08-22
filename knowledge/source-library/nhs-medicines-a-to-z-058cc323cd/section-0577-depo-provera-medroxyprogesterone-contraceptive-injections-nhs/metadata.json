@@ -1,0 +1,25 @@
+{
+  "id": "58a28770-b7d8-4bac-8205-1f0aa2c01114",
+  "slug": "section-0577-depo-provera-medroxyprogesterone-contraceptive-injections-nhs",
+  "title": "Depo-Provera (medroxyprogesterone contraceptive injections) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "ba076247586a0f8388ee2b3bb79d22564d3aae820509ee12ed4618339ca52ae4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 577,
+    "content_hash": "68de335da4b51d47c953d4af236e0df808b967ad4cba09868e46d0c62836ab8a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

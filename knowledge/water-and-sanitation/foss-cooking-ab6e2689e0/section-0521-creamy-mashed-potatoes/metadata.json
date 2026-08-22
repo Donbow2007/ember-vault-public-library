@@ -1,0 +1,25 @@
+{
+  "id": "a280cee9-a659-43ee-9f8b-a23fdae8ea08",
+  "slug": "section-0521-creamy-mashed-potatoes",
+  "title": "Creamy Mashed Potatoes",
+  "category": "water-and-sanitation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "3ba4dab0409df3d8270084dc464237a4a70aea74029868692f7717334363aca3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 521,
+    "content_hash": "b1de5ccaa4e4fa7c755a5cd266714965a71ed2a72ce53eb37fdfbe56f5b86949",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

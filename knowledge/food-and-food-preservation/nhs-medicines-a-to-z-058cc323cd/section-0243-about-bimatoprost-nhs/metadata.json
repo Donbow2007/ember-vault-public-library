@@ -1,0 +1,25 @@
+{
+  "id": "e4d06951-fa19-4576-b9cf-38fd09e2a4ee",
+  "slug": "section-0243-about-bimatoprost-nhs",
+  "title": "About bimatoprost - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "96cf0ad31a8433187d4543e387cc71ace07058bcc268c7baf9d885eb4ce30616",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 243,
+    "content_hash": "ae5c47872478cbb73c1cb5ad1ac0961df87fdaae74d9b4f4a4ef75e4952139a0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

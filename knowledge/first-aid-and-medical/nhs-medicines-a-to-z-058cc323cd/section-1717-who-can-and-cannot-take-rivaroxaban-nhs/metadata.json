@@ -1,0 +1,25 @@
+{
+  "id": "61218934-3a89-4a8a-8618-c0d50063e9ea",
+  "slug": "section-1717-who-can-and-cannot-take-rivaroxaban-nhs",
+  "title": "Who can and cannot take rivaroxaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "9c0e32504da4c438066d446d337dce9bd5843e9432781c6273e878221a7ba903",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1717,
+    "content_hash": "f375d7c62908b4dc63982fb60386701360c0c1add020977784bb5ad330930820",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

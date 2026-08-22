@@ -1,0 +1,25 @@
+{
+  "id": "508ca311-2d39-4f86-a933-e94ac01fa2ec",
+  "slug": "section-1416-how-and-when-to-take-metoclopramide-nhs",
+  "title": "How and when to take metoclopramide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "07e908febb8164d64f9fa84684153738304a026af6bbc03484859d836ee45a08",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1416,
+    "content_hash": "7949a2c79579a5a83237006f6206f77f9d3e9e9182f73b215d1d5281e84bbbca",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

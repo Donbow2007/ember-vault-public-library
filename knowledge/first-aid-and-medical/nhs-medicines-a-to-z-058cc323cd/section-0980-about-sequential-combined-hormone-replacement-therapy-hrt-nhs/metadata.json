@@ -1,0 +1,25 @@
+{
+  "id": "41f141fa-4a06-46dc-9a63-3fd7c15cf734",
+  "slug": "section-0980-about-sequential-combined-hormone-replacement-therapy-hrt-nhs",
+  "title": "About sequential combined hormone replacement therapy (HRT) - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "da3ffda2480cf96d124a5813e18d48668b05d4f8c14921b865e8109c82434bc7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 980,
+    "content_hash": "fe933adb4f3cc40f3a0bda3c82ee67f9a77b1fe787e215c6e4b1e621ad26fcb3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

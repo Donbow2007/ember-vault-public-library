@@ -1,0 +1,25 @@
+{
+  "id": "87e05cfc-c77b-4700-bb8d-54932e8a28f7",
+  "slug": "section-0369-who-can-and-cannot-use-carmellose-sodium-eye-drops-nhs",
+  "title": "Who can and cannot use carmellose sodium eye drops - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "63f79c135d403b34bc60cf8cbef72f3ccf13bbf7440c2c9fb9f762f6a3a44f75",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 369,
+    "content_hash": "36f3579ae081c727a00e42543787d728b925cfcc5371366972740847c3e36dd5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

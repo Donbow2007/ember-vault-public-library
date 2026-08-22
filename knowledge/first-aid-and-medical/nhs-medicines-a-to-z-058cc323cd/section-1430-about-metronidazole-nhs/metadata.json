@@ -1,0 +1,25 @@
+{
+  "id": "64c30fcd-fd67-4d4a-9cac-e606a5882c0b",
+  "slug": "section-1430-about-metronidazole-nhs",
+  "title": "About metronidazole - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "ff79c2c28611ed01621996eb3cf03bb6f6eed24bef4a9125e27c40b4c385c601",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1430,
+    "content_hash": "9d5593c4de76b5134cb82fa4452f92ca3d064651a4676299324d2ada08e3fe2b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

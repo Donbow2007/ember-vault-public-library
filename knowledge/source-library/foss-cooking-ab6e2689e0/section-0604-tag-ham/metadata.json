@@ -1,0 +1,25 @@
+{
+  "id": "5c6f527f-b47c-496b-8fde-1db8cda120ba",
+  "slug": "section-0604-tag-ham",
+  "title": "Tag: ham",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "e70be89820187e5b5cca4047bbd3eb308abc515f5c133b7bb6530acfe0b73367",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 604,
+    "content_hash": "eafe1448c04144b8515c56a0c577d89150c12d007cf07760d59d89adc5188291",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

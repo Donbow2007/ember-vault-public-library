@@ -1,0 +1,25 @@
+{
+  "id": "8a2e70c7-78af-469b-9632-f0c19b4fa1cc",
+  "slug": "section-0256-pulpo-a-la-gallega",
+  "title": "Pulpo a la gallega",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "8611cb851a169a40f3398b807709af75981f2b57555f3c57f1a46f0d5c7b4c41",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 256,
+    "content_hash": "1c636f043854d4510735ddecf4e64994a60538df00d0ffa3b01200bc128368b5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

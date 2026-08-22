@@ -1,0 +1,25 @@
+{
+  "id": "8ef069f6-d3e7-4694-be02-f06c77a9d94d",
+  "slug": "section-0575-tag-curry",
+  "title": "Tag: curry",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "6d183ccf497b17a41eff5d0c5efe60b4b8210691fb87a38b4c2332fc1c33dfff",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 575,
+    "content_hash": "9c300080c68deb754b70b3844a61b62b10d842d2b8f0a56396248eeaa3c36ef5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

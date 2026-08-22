@@ -1,0 +1,25 @@
+{
+  "id": "1f07f256-885d-4a19-aa0e-4005ed787fde",
+  "slug": "section-0661-how-and-when-to-take-diltiazem-nhs",
+  "title": "How and when to take diltiazem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "297c846a8551aa420e71f5ef847dc2b4c88a943eeda1e2060b59f21735a66638",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 661,
+    "content_hash": "1aa4973914881f295ffbee010f96c7033dbc9a3cc55beec03f133768c4a855c2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

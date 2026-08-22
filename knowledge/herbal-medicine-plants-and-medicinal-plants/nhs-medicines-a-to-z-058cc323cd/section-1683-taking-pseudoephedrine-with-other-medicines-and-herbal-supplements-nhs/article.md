@@ -1,0 +1,8 @@
+# Taking pseudoephedrine with other medicines and herbal supplements - NHS
+
+Taking pseudoephedrine with other medicines and herbal supplements - Brand names: Sudafed, Galpseud Linctus, Boots Decongestant, Care Decongestant Cautions with other medicines Pseudoephedrine can be affected by other medicines and can also affect the way other medicines work. This can sometimes increase the chances of you having side effects. Check with a pharmacist or doctor if you're taking: antidepressants known as monoamine oxidase inhibitors (MAOIs) digoxin , a medicine for heart failure tricyclic antidepressants, such as amitriptyline ergot alkaloids, such as ergotamine (for migraine) medicines for high blood pressure, such as beta blockers or methyldopa Taking pseudoephedrine with painkillers Some cough and cold remedies contain pseudoephedrine mixed with painkillers. If you are taking a cough or cold remedy, check the label before taking any painkillers as it may already contain aspirin, paracetamol, ibuprofen or codeine. Taking both may cause you to have too much. Ask a pharmacist if you're not sure. Mixing pseudoephedrine with herbal remedies and supplements There's not enough information to say whether complementary medicines, herbal remedies and supplements are safe to take with pseudoephedrine. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 2 November 2022
+
+Next review due: 2 November 2025

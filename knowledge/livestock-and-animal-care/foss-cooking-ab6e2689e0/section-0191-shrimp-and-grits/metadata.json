@@ -1,0 +1,25 @@
+{
+  "id": "ab9bf394-acc5-4a8d-a280-51bd97b2abb7",
+  "slug": "section-0191-shrimp-and-grits",
+  "title": "Shrimp and Grits",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "cb3270ccf477af6f65c231c898ffad221702ca90ba1abf570530f36fe8e1ec94",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 191,
+    "content_hash": "1fa0e70b842bd64e27db8cb3d5ce5b4931825bb30d1b5e5ff322b97bb7a05bc8",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# Who can and cannot take digoxin - NHS
+
+Who can and cannot take digoxin - Brand name: Lanoxin Who can take digoxin Most adults can take digoxin. It's sometimes prescribed for children if a heart specialist recommends it. Who may not be able to take digoxin Digoxin is not suitable for some people. To make sure it's safe for you, check with your doctor before you start to take digoxin if you have: ever had an allergic reaction to digoxin or any other medicine serious heart problems such as cardiomyopathy , Wolff-Parkinson-White syndrome , heart block , pericarditis, myocarditis, or you have recently had a heart attack kidney problems an overactive thyroid (hyperthyroidism) or an underactive thyroid (hypothyroidism) – changes in how the thyroid works can affect how digoxin works stomach or bowel problems, such as Crohn's disease , or if you have had surgery on your bowel or stomach – these can affect how much digoxin gets into your body and may change the dose of digoxin you need lung disease or severe asthma a rare hereditary problem of galactose intolerance, including the Lapp lactase deficiency or glucose-galactose malabsorption beriberi disease (also known as thiamine deficiency) a low blood potassium or magnesium level, or a high blood calcium level
+Page last reviewed: 22 March 2023
+
+Next review due: 22 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

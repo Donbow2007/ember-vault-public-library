@@ -1,0 +1,25 @@
+{
+  "id": "d7de0510-7fb8-497d-9cda-ac55d8f0472f",
+  "slug": "section-0954-taking-haloperidol-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking haloperidol with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "ad62eecb38f2276889d9e1df9c24713f7c854f94a33ebd9804a917db3ef2ae95",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 954,
+    "content_hash": "849560aba86897b9c743fbbd8878f95cca63b95f73c29a60c76b30859f07c877",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

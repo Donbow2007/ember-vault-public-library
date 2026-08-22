@@ -1,0 +1,25 @@
+{
+  "id": "481d3b2f-02f6-42a5-a743-dbcee53df87f",
+  "slug": "section-0292-irish-potato-casserole",
+  "title": "Irish Potato Casserole",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "6197ab6d94cccfe0159fa3cf0eea3bcc63a5d5ef76f06dfbd6549500ef9eeb4a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 292,
+    "content_hash": "d1d927e178fe8892c6ff2fb5308bb4b28429bfb1f7d6c07b46c3662e00541c0b",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

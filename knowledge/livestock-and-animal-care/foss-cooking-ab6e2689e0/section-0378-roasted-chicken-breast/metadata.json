@@ -1,0 +1,25 @@
+{
+  "id": "006c2f98-12b2-4737-a4a6-dd235991b1b1",
+  "slug": "section-0378-roasted-chicken-breast",
+  "title": "Roasted chicken breast",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "34fe7e7413461fdb5ba2c46de27069e0b5b878d4c6fcd27ea14739c8c6d15569",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 378,
+    "content_hash": "3e791c9c8e66cca870bbe4314a88a1df08a2e8066172f7c4396b60537a52a604",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

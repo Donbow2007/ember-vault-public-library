@@ -1,0 +1,25 @@
+{
+  "id": "43b3377b-7b84-42ca-9a42-4fed9f1ba94b",
+  "slug": "section-1689-pregnancy-breastfeeding-and-fertility-while-taking-quetiapine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking quetiapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "08e3e0f87c8b82f66e93d6a52f4bce2863187a3040661358c29045d65bb0110e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1689,
+    "content_hash": "586a319d85985bf47e991e564e4586b2a76d7c4bc422b2419505775052e1293a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

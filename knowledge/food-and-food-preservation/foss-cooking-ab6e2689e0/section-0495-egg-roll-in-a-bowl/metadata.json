@@ -1,0 +1,25 @@
+{
+  "id": "b21df07c-2cb0-4bf7-9f51-5ecdaee94888",
+  "slug": "section-0495-egg-roll-in-a-bowl",
+  "title": "Egg Roll in a Bowl",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "a30ba006daa3527b57e980d48953ec9295c99a5c2c368124bcb91819a31a59a4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 495,
+    "content_hash": "af37977bcb55069785d2ff50b94f488f33ff70ef3243eca6139460e0904aa788",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

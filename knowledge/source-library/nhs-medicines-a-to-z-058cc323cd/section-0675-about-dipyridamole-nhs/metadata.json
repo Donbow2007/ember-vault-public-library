@@ -1,0 +1,25 @@
+{
+  "id": "40f619ba-16a5-4143-9ab0-b3842a68e7b9",
+  "slug": "section-0675-about-dipyridamole-nhs",
+  "title": "About dipyridamole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "c7456dd0f31d236e86a4e79610ecf23a93e67900b2a32aff7b4330a19c4457b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 675,
+    "content_hash": "90c5c6fc2f367a2c0c2d9eaefa805598d5d2e815443917279ab0814328225305",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

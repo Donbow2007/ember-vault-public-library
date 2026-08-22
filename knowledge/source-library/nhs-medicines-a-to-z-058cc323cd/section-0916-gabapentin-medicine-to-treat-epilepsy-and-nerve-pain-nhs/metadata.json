@@ -1,0 +1,25 @@
+{
+  "id": "d0d6856e-f8e0-4837-a931-48e444841d97",
+  "slug": "section-0916-gabapentin-medicine-to-treat-epilepsy-and-nerve-pain-nhs",
+  "title": "Gabapentin: medicine to treat epilepsy and nerve pain - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "e8fb41740a8b926c3ba0be8b6ead9f8ee516f95a1fbcf8b01a50332f0a1da6fb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 916,
+    "content_hash": "fce039d350dcc4f1378e6b5747fbede0470306c7a77c7ffa0454f2304879ba3f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

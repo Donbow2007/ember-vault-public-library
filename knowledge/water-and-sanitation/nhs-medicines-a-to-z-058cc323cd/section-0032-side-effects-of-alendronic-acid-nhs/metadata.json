@@ -1,0 +1,25 @@
+{
+  "id": "da70453e-5702-42e1-ab7d-ecc818cee87a",
+  "slug": "section-0032-side-effects-of-alendronic-acid-nhs",
+  "title": "Side effects of alendronic acid - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "df2ef7ec82669e96a2a5e74ab01d31ac012e8e62ae5e63a9449dbc215c455864",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 32,
+    "content_hash": "fd5b6825817bfb44a3c98abf8eb2601894a3e6889c7abed34c4f69d83b000ad4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

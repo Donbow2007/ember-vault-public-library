@@ -1,0 +1,25 @@
+{
+  "id": "144791ae-9eb3-451e-bcd4-2d8e7073d84c",
+  "slug": "section-0588-how-and-when-to-take-cyanocobalamin-nhs",
+  "title": "How and when to take cyanocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "81a670ea315211e97d5db9a564d1c1d461e6818d54a6570320b89351a7f2179e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 588,
+    "content_hash": "9201fb775069c823eca2702e82540b4ddec5ae928f419adc1931657b2962ca9e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

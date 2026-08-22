@@ -1,0 +1,25 @@
+{
+  "id": "0dbf2f01-ae5b-4bb3-8a01-e90926afd096",
+  "slug": "section-1893-tolterodine-a-medicine-to-treat-symptoms-of-an-overactive-bladder-nhs",
+  "title": "Tolterodine – a medicine to treat symptoms of an overactive bladder - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "3b31041907be5a9b6ce20f0e4120059cc7ed18d89e273ae359f0940efa32e6a6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1893,
+    "content_hash": "fedc70fc148e3c9ea1af5150797227f950a49936bb9f60796370fc4a30df39b2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

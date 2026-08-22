@@ -1,0 +1,25 @@
+{
+  "id": "3edc7bec-1cd5-4981-bb9f-182eb2970c3e",
+  "slug": "section-0662-pregnancy-breastfeeding-and-fertility-while-taking-diltiazem-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking diltiazem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "e17638c6d941691cb12c16b509454656cbf0f62981564d68f5e7dd29ec4f0597",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 662,
+    "content_hash": "27bb3efae9c8b151ec0260a8c3246569e94d30e559968a7602f26e44aa117fb0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

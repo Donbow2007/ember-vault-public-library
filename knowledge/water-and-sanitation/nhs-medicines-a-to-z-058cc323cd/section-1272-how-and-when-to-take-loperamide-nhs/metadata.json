@@ -1,0 +1,25 @@
+{
+  "id": "67a002d2-67f6-4316-91d6-bfe7be411899",
+  "slug": "section-1272-how-and-when-to-take-loperamide-nhs",
+  "title": "How and when to take loperamide - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "458bb6e54e68320051a4468fd82fce2d85f05a5ca698647e50c6bc822dcd645d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1272,
+    "content_hash": "a15c9af9bdd7c782c7f1d9d150cdd40d5148a2fa86cd48678e7f05ae4afb9e9b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "99e693e0-2b43-4fc7-85dc-e1052e0f8aaa",
+  "slug": "section-0272-using-brinzolamide-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Using brinzolamide with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "94239b88c3dd0fee05be1c9302f36c16eeae88148154be7242ff6ced3bd90697",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 272,
+    "content_hash": "a12e1a6e6b9d58bca6fc95cd177b60867abe432c4e08721e8c6815f1ba9e8599",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

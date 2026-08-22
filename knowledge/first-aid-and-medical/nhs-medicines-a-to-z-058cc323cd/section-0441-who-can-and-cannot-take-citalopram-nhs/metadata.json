@@ -1,0 +1,25 @@
+{
+  "id": "ee93d049-0d8f-46c1-a9d7-c8422c100a00",
+  "slug": "section-0441-who-can-and-cannot-take-citalopram-nhs",
+  "title": "Who can and cannot take citalopram - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "43ea7e43a14fc292f77a852f4dcca663d546817267498046731579fab72b7a69",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 441,
+    "content_hash": "f80a5cf297e7e74111697dc87c7de4594814e25913416d7a676baecb308fb27e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

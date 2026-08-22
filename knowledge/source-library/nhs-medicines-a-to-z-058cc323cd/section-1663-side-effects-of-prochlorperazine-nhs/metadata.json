@@ -1,0 +1,25 @@
+{
+  "id": "68fc6ed0-be18-4462-a7b9-0e01cd9801ce",
+  "slug": "section-1663-side-effects-of-prochlorperazine-nhs",
+  "title": "Side effects of prochlorperazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "b2c06c3489a5c05e50fc078f7a66e56057ed3310a9e5465742ff057235840054",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1663,
+    "content_hash": "890a1b5c42bd9590245a0c360a80dd9f405bb7d8c835402913afc02f0bbc2077",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

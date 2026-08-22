@@ -1,0 +1,25 @@
+{
+  "id": "518e54f3-6557-4ee4-80c8-9cc1f439360e",
+  "slug": "section-0119-taking-aripiprazole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking aripiprazole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "b2c4baab502e8c8ddc50a0bbfbf4618ca8535cdd1a57dc40e14d5d6c3cc776fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 119,
+    "content_hash": "8c01a3b25421b878cbcd589bc5732c32c4d1d0478910c3a9690d3a96b896fcf1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

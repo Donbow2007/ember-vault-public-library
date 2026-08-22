@@ -1,0 +1,25 @@
+{
+  "id": "acaa23c1-e5a7-4653-8bfa-2ed46f497a78",
+  "slug": "section-0536-taking-co-codamol-for-adults-with-other-medicines-and-herbal-supplemen",
+  "title": "Taking co-codamol for adults with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "ae9230ae12118925cbbccdabad2e86de8449ef04cbc9862561a702638b9754fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 536,
+    "content_hash": "3b75d719572dbd340af45f7ed4229db000412a3c8d7b113fdab7847e8416d5d3",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

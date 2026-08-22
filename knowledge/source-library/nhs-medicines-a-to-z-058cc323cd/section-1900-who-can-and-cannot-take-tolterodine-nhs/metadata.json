@@ -1,0 +1,25 @@
+{
+  "id": "f8478c71-02d5-48d7-8d5e-7817cf21b407",
+  "slug": "section-1900-who-can-and-cannot-take-tolterodine-nhs",
+  "title": "Who can and cannot take tolterodine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "0a0a8b6c5316e22a4b8bac071ff8024246f4626bf7fa38d480caa72a01daf363",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1900,
+    "content_hash": "ecac09a21d263c16e9435bb6a551633a928baa86e617d19ee51072f58f5e760f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2c1ae738-bbde-4f2d-9f4f-95a21d3a4319",
+  "slug": "section-0182-pizza-sauce",
+  "title": "Pizza sauce",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "a563f270a5a9636743ef3319fcc6e23a51ae83dc46ad9637901dadab81f5b3bc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 182,
+    "content_hash": "f7d1eb970e79864e43ffa82f54581c5d500ccd2ff586bb7c9b3f02f2f3c4ebb7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

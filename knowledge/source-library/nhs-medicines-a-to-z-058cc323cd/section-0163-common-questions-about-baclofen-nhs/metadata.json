@@ -1,0 +1,25 @@
+{
+  "id": "b9f9b869-f861-464f-baba-9b89e8772a3d",
+  "slug": "section-0163-common-questions-about-baclofen-nhs",
+  "title": "Common questions about baclofen - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "bb6d84ea1ba09fb274cbc6c0ab500586eec07ee0f814fc2f8c4cbd76f8e87456",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 163,
+    "content_hash": "e68698939876a451562bf6fe71e7c97d501274c7076757cc1efa5547ba139fa8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

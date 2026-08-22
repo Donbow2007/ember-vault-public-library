@@ -1,0 +1,25 @@
+{
+  "id": "0d85b73f-25ed-47f4-bbb6-4226a1fd910d",
+  "slug": "section-0583-side-effects-of-medroxyprogesterone-contraceptive-injections-nhs",
+  "title": "Side effects of medroxyprogesterone contraceptive injections - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "47b2a94b465daa5a88404c438a5ba593446a45f8f4e7de35d141f427e67e0336",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 583,
+    "content_hash": "77e483fc1b44366b5a5ea8ec713df7fd1a74d4b11d17bba70654ca6dea3e1736",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

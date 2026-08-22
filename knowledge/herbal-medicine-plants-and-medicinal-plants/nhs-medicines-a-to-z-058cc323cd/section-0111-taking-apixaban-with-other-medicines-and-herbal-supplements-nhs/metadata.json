@@ -1,0 +1,25 @@
+{
+  "id": "d39f6858-4cd7-4649-9bf3-355a548d3229",
+  "slug": "section-0111-taking-apixaban-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking apixaban with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "152e7cd7fd8b60be9cd8f56b8ffb86e98c31eeadb7df39836a51a8ef44cf2026",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 111,
+    "content_hash": "80a9af33ea41a93161b5e5fac4f429cf7e1398a492bc9a79388e7795c99db112",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

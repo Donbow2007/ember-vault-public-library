@@ -1,0 +1,25 @@
+{
+  "id": "bb68e67b-87d2-4841-9aaa-c8e110c2d687",
+  "slug": "section-1730-pregnancy-breastfeeding-and-fertility-while-taking-rosuvastatin-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking rosuvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "c7e13c744e3c823ec0562b67979caa9fb03b58f4103d4198ff69232c9e73a378",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1730,
+    "content_hash": "72f6c7ae8cf3efdae883cd487953a899a7a7d27840777ba46cb78fe270d3221a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

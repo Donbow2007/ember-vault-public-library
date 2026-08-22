@@ -1,0 +1,25 @@
+{
+  "id": "10b81fd7-6f69-4b3c-8fae-b2d181d801f0",
+  "slug": "section-0431-russian-1000-islands-sauce",
+  "title": "Russian 1000 Islands Sauce",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "7987f6d8a7def50da49ea9247bb8fd13ca479fa056f937ea2c027918d8faa3f9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 431,
+    "content_hash": "57df18e5ae5a64324d44aa70e7d94e0e4d6d06ec235af368251a427541009545",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

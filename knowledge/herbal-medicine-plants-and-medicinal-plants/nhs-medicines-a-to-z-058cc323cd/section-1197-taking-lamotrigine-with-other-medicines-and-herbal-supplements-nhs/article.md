@@ -1,0 +1,11 @@
+# Taking lamotrigine with other medicines and herbal supplements - NHS
+
+Taking lamotrigine with other medicines and herbal supplements
+
+Cautions with other medicines Some medicines and lamotrigine can affect each other and increase the chances of side effects. Your doctor may need to change your dose of lamotrigine. Check with your pharmacist or doctor if you're taking: other medicines used to treat epilepsy, such as carbamazepine , felbamate, gabapentin , levetiracetam , oxcarbazepine, phenobarbital, phenytoin, pregabalin , primidone, topiramate , sodium valproate , valproic acid or zonisamide aripiprazole , lithium , olanzapine or risperidone (used for mental health problems) bupropion , a stop smoking medicine rifampicin, an antibiotic usually given to treat tuberculosis (TB) medicines used to treat HIV hormonal contraceptives or hormone replacement therapy (HRT) Lamotrigine and contraception Lamotrigine might stop the combined pill working. Look out for bleeding or spotting between your periods (breakthrough bleeding), which might be a sign the pill is not working. Talk to your doctor if this happens. They may recommend that you use a particular type of hormonal contraceptive, or another method of contraception, such as condoms, a cap or coil. You can take the progestogen-only contraceptive pill , but lamotrigine might increase the amount of progesterone in your blood and cause you to have more side effects. Mixing lamotrigine with herbal remedies and supplements There might be a problem taking some herbal remedies and supplements alongside lamotrigine, especially ones that can cause rashes, sleepiness or shaking and tremors. Ask your pharmacist for advice. There's not enough information to say that other complementary medicines and herbal remedies are safe to take with lamotrigine. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 20 May 2022
+
+Next review due: 20 May 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

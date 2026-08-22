@@ -1,0 +1,25 @@
+{
+  "id": "4bdd9d26-d733-4c85-a0e7-23b33ecdddd3",
+  "slug": "section-0198-honey-garlic-chicken-with-broccoli-and-brown-rice",
+  "title": "Honey Garlic Chicken with Broccoli and Brown Rice",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "35a5d857459d8ea18656a493fb4586734c6e5de8cce1cbe631fe4621bdf80752",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 198,
+    "content_hash": "43a14a6352787540b94cc41bc1712afb5e13d39ca5d09b99321287e54aba339a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

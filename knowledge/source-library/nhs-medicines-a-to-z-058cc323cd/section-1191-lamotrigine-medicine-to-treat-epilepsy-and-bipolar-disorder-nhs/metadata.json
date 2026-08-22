@@ -1,0 +1,25 @@
+{
+  "id": "0f87e5e0-37f5-4a3b-b515-569143bb3bc1",
+  "slug": "section-1191-lamotrigine-medicine-to-treat-epilepsy-and-bipolar-disorder-nhs",
+  "title": "Lamotrigine: medicine to treat epilepsy and bipolar disorder - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "4d4573571a3049bdc7daf3da5d8484d63ddc092a2f1abcd50c96def55a752cc1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1191,
+    "content_hash": "9d39421b3afd02daa0e0c8b509a2bd7685a375db5c1e621578bf0ce02a35534c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

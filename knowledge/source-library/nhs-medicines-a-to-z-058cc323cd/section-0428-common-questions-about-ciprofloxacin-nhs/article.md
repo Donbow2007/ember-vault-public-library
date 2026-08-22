@@ -1,0 +1,22 @@
+# Common questions about ciprofloxacin - NHS
+
+Common questions about ciprofloxacin - Brand names: Ciproxin, Ciloxan, Cetraxal
+How does ciprofloxacin work?
+Ciprofloxacin is one of a group of medicines called fluoroquinolone (or quinolone) antibiotics . Fluoroquinolone antibiotics work by killing the bacteria causing an infection.
+When will I feel better?
+For most infections, you should feel better within a few days, but this depends on the type of infection. Tell your doctor if you do not start feeling better after taking or using ciprofloxacin for 2 to 3 days, or if you feel worse at any time. Some infections will take longer to clear, such as bone infections like osteomyelitis . In this case, you should start to feel better after a week or maybe longer.
+Are there any long-term side effects?
+Ciprofloxacin is generally used for a short time to clear an infection. Many people take ciprofloxacin and have no side effects. However, some people have serious side effects. These can happen during treatment or even months after stopping. In a few people, these can be long-lasting or never go away. Because the side effects can be so serious, ciprofloxacin is not prescribed for more than 3 months at a time. It's very important that you keep taking ciprofloxacin until your course is finished. Talk to your doctor or pharmacist if you are worried about this
+How does ciprofloxacin compare to other antibiotics?
+Ciprofloxacin is a fluoroquinolone (or quinolone) antibiotic . Different antibiotics kill different types of bacteria. Your doctor will choose an antibiotic depending on which types of bacteria they think are causing your infection. Some antibiotics are more specific (narrow-spectrum) and some kill a wider range of bacteria (broad-spectrum). Ciprofloxacin is a broad-spectrum antibiotic that was once used to treat a wide range of infections, especially respiratory and urinary tract infections. Ciprofloxacin is not used as often as some other antibiotics because of the risk of serious side effects. Other quinolone antibiotics include levofloxacin, moxifloxacin and ofloxacin. All quinolones can be used to treat some chest, eye and genital infections. Levofloxacin and ofloxacin are usually taken 1 or 2 times a day. Moxifloxacin is only taken once a day. Levofloxacin also comes as a liquid that you breathe in for certain infections in your lungs.
+Will it affect my contraception?
+Ciprofloxacin does not affect any type of contraception, including the combined pill and emergency contraception . But if ciprofloxacin makes you sick (vomit) or have severe diarrhoea for more than 24 hours, your contraceptive pills may not protect you from pregnancy. Check the pill packet to find out what to do. Find out more: What to do if you're sick or have diarrhoea when taking the combined pill What to do if you're sick or have diarrhoea when taking the progestogen-only pill
+Can I drive or ride a bike?
+Ciprofloxacin may make you feel tired or less alert. Make sure you know how you react to ciprofloxacin before driving or riding a bike. If you get stinging or burning in your eyes straight after applying ciprofloxacin eye drops, do not drive or ride a bike. Wait until your eyes are comfortable again and your vision is clear. Ear infections can make you lose your balance. If you're affected, it's best not to drive or ride a bike until you feel back to normal. It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive. Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking ciprofloxacin. GOV.UK has more information on the law on drugs and driving .
+Can I drink alcohol while taking ciprofloxacin?
+Yes, you can drink alcohol with ciprofloxacin.
+Is there any food or drink I need to avoid?
+Do not take the liquid or tablets with dairy products (such as milk, cheese and yoghurt) or drinks with added calcium (such as some dairy-free milks). They stop ciprofloxacin entering the body from the stomach. Leave a gap of at least 2 hours between taking ciprofloxacin and having this type of food and drink. It's then OK to have some dairy or calcium as part of a balanced meal. You do not need to avoid any food or drinks if you're using the eye drops or ear drops.
+Page last reviewed: 13 December 2022
+
+Next review due: 13 December 2025

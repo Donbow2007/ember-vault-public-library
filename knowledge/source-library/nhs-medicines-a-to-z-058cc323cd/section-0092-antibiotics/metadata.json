@@ -1,0 +1,25 @@
+{
+  "id": "2f2f23de-5490-41da-8472-611ffcb4932d",
+  "slug": "section-0092-antibiotics",
+  "title": "Antibiotics",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "177cb84e9c9954faddf8b7eedb72f655de9fe7827e50d806f4c25971885064a7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 92,
+    "content_hash": "b811d7c6d174475c37e273eb0005a8fb144bee1ddd10428cadcae033c368eb2a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Pregnancy, breastfeeding and fertility while using beclometasone skin cream - NHS
+
+Pregnancy, breastfeeding and fertility while using beclometasone skin cream
+
+Beclometasone skin cream and pregnancy Beclometasone cream is safe to use during pregnancy. Because it's applied to your skin, very little medicine gets into your blood and almost none gets to your baby. Even if a small amount does get to your baby, it will not harm them. Beclometasone skin cream and breastfeeding You can use beclometasone cream or ointment while you're breastfeeding. It's not known how much passes into breast milk, but it's likely to be a tiny amount, and your baby will not absorb much beclometasone into their body. It's unlikely to cause any side effects in your baby. Take care that your baby does not touch any areas of your body where you've used beclometasone. If you're using it on your breasts, wash off any cream or ointment from your breasts or nipples, then wash your hands before feeding your baby. It's usually better to use cream rather than ointment when breastfeeding, as it's easier to wash off. If you notice that your baby is not feeding as well as usual, or if you have any other concerns about your baby, talk to your health visitor, midwife, pharmacist or doctor as soon as possible. Beclometasone skin cream and fertility There's no evidence that using beclometasone skin cream affects fertility in either men or women. Information: Find out more about how using corticosteroid cream or ointment, like beclometasone, might affect you and your baby during pregnancy on the Best Use of Medicines in Pregnancy (BUMPs) website .
+Page last reviewed: 8 January 2024
+
+Next review due: 8 January 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

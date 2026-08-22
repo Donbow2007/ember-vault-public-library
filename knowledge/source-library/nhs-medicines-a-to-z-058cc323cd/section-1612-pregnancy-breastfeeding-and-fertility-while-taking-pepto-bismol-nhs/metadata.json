@@ -1,0 +1,25 @@
+{
+  "id": "02fcedce-81b7-48f0-9d5f-152636768d12",
+  "slug": "section-1612-pregnancy-breastfeeding-and-fertility-while-taking-pepto-bismol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking Pepto-Bismol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "dfc0c967d9105901c575ac02cf7076df6da66a37323cc090e4dc21c2cbf42b5f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1612,
+    "content_hash": "fd27bcb88ceb50450623a64c3519aabdd62071c378777168ee2ec60226e30fe5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

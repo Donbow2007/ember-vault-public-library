@@ -1,0 +1,25 @@
+{
+  "id": "7fda56f9-0eed-4e2f-8b89-3e50b7c4eb61",
+  "slug": "section-1254-about-lisinopril-nhs",
+  "title": "About lisinopril - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "661c69e1f281cd0f68699108953d81bccd348bb3ac096e79fbda7d2909d39e65",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1254,
+    "content_hash": "12e2247d77dcb2e377f6add54044fac7ae7c8034056732c68e3c183356713bfa",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

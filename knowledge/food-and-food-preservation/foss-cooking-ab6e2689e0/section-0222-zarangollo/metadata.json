@@ -1,0 +1,25 @@
+{
+  "id": "656fd1b3-09ae-45c6-9350-02fe2c1fe1a5",
+  "slug": "section-0222-zarangollo",
+  "title": "Zarangollo",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "0f573c6fca7cdab6e27e8b5597d7c3b39bf6ad352c7bf914d5dadd14589109c6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 222,
+    "content_hash": "bd11739ff3d67971c8fd9bcd88d56ee9b28f1ef822120e40eb0665cb6c18b618",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

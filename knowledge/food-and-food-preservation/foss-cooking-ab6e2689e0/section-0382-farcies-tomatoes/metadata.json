@@ -1,0 +1,25 @@
+{
+  "id": "23621c8e-66ff-47af-b379-2e5e65ff9a23",
+  "slug": "section-0382-farcies-tomatoes",
+  "title": "Farcies tomatoes",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "7376f3b8f5e4c6d2c3d1e8b4c196596160743b0d76f88b4b0fe078ffce59b347",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 382,
+    "content_hash": "cb86ba2171645eb40baf5b74a6e726138f3fec8c3da90a61d9b7a065c0887c9a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

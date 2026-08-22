@@ -1,0 +1,30 @@
+# Side effects of ticagrelor - NHS
+
+Side effects of ticagrelor - Brand name: Brilique Like all medicines, ticagrelor can cause side effects, although not everyone gets them. Common side effects of ticagrelor These common side effects of ticagrelor happen in more than 1 in 100 people. There are things you can do to help cope with them:
+Bleeding more easily than normal
+Ticagrelor can cause bleeding problems such as nosebleeds , heavier periods, bruising more easily or bleeding that takes longer to stop. Be careful when doing activities that might cause an injury or a cut.  Always wear a helmet when cycling. Wear protective gloves when you use sharp objects like scissors, knives, and gardening tools. Use an electric razor instead of wet shaving. Speak to a dentist for advice on how to clean your teeth. See a doctor if you're worried about any bleeding.
+Unexpected shortness of breath while resting
+You might sometimes feel short of breath in the first few weeks of taking ticagrelor. This side effect is usually mild. Your breathing will usually return to normal within a few weeks of starting the medicine. Try breathing in slowly through your nose and out through your mouth. Sitting on a chair and leaning your chest slightly forward may also help. Tell your doctor if your symptoms do not improve or they get worse. Shortness of breath can also be a sign of an ongoing or worsening heart problem.
+Pain and swelling in your joints
+These can be signs of gout . This is because ticagrelor can lead to high levels of uric acid in your blood. If you get sudden severe pain in a joint or hot, swollen skin over a joint, talk to your doctor. You may need a blood test to check what might be causing it.
+Headaches
+Make sure you rest and drink plenty of fluids. Do not drink too much alcohol. Ask your pharmacist to recommend a painkiller. If your headaches are severe or do not go away, talk to your doctor.
+Feeling dizzy
+If ticagrelor makes you feel dizzy when you stand up, try getting up very slowly or stay sitting down until you feel better. If you begin to feel dizzy, lie down so that you do not faint, then sit until you feel better. Do not drive, cycle or use any tools or machinery if you feel dizzy, have muscle cramps or muscle pain.
+Feeling sick (nausea)
+Try taking your tablets with, or shortly after, food. It may also help if you avoid eating rich or spicy food. If it doesn't go away, tell your doctor.
+Indigestion
+If you have indigestion that does not go away, it could be a sign that you have a stomach ulcer . Talk to your doctor, as they may prescribe something to protect your stomach or switch you to a different medicine.
+Diarrhoea
+Drink lots of fluids, such as water or squash, to avoid dehydration . Speak to a pharmacist if you have signs of dehydration, such as peeing less than usual or having dark, strong-smelling pee. Do not take any other medicines to treat diarrhoea without speaking to a pharmacist or doctor. If you take the combined contraceptive pill or progestogen-only pill and you have severe diarrhoea for more than 24 hours, your contraception may not protect you from pregnancy. Check the pill packet for advice.
+Constipation
+Get more fibre into your diet , such as fresh fruit, vegetables and cereals, and drink plenty of water.  Try to exercise more regularly, for example by going for a daily walk or run. If this does not help, talk to your pharmacist or doctor.
+Mild rash
+It may help to take an antihistamine, which you can buy from a pharmacy. Check with the pharmacist to see what type is suitable for you while you are on this medicine. Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away. Serious side effects Serious side effects are uncommon and happen in less than 1 in 1,00 people. Call a doctor or call 111 straight away if: there's blood in your pee there's blood in your poo, or you have black poo that looks like tar Immediate action required: Go to A&E now if:
+you're coughing up blood you're vomiting blood, or there's something that looks like coffee grounds in your vomit you have a nosebleed that you cannot stop and that last longer than 10 to 15 minutes Immediate action required: Call 999 now if:
+you have sudden weakness on one side of your body, trouble speaking or thinking, loss of balance, blurred eyesight, sudden dizziness or a sudden severe headache – these can be signs of a bleed on the brain. Serious allergic reaction In rare cases, ticagrelor can cause a serious allergic reaction ( anaphylaxis ). Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of ticagrelor. For a full list, see the leaflet inside your medicines packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 1 April 2025
+
+Next review due: 1 April 2028
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

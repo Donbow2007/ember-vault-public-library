@@ -1,0 +1,25 @@
+{
+  "id": "ad8ad09f-d04d-4f74-8478-ed42b4adf5d5",
+  "slug": "section-0580-tag-dominican",
+  "title": "Tag: dominican",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "5c30cc669f7f1ec80242a7f4fda813a7ad4fffa37c8b06f0212c899b5d6fb1cf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 580,
+    "content_hash": "beb41e948b10adf8bed5fd05e6f2b71681a140132f8307b642c597993d832164",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "910d7c06-bc16-4dd2-9e41-e2766e3da2ec",
+  "slug": "section-0652-common-questions-about-dihydrocodeine-nhs",
+  "title": "Common questions about dihydrocodeine - NHS",
+  "category": "communication",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "c6247a216ca11a17ee648850b480f0465eec0672674daf589c3ef77a5caf28ae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 652,
+    "content_hash": "381bb056affd8ace649856efcb652433f62e52234a98e32fc0410705cb02f7e2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e8b5e30f-3f51-489f-8cde-572f726d1229",
+  "slug": "section-1364-taking-memantine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking memantine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "212d8ce888e1992f039a4b0706b067c03d984822c1985fa4d6dc742774ec5ba7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1364,
+    "content_hash": "ae9c387ff751f70807242770a9e3b5a67e618a3b0bdc47cb208d5daddc279adc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

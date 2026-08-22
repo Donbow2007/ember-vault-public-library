@@ -1,0 +1,25 @@
+{
+  "id": "f60c64ac-0ded-4d31-92b3-456de2b0abc4",
+  "slug": "section-0002-medicines-a-to-z-nhs",
+  "title": "Medicines A to Z - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "a7d9d0d2cc9291201fd9c16e63203844c6f1c409cf0361e000f1fe9a101a6e12",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 2,
+    "content_hash": "f2bcf107605db014b9f144ae2317c154023a75eca3a9f99d5a6fec25f7562b37",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

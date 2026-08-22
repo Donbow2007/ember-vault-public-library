@@ -1,0 +1,25 @@
+{
+  "id": "1174d133-a9a2-44ad-b207-2dea3de183d6",
+  "slug": "section-1338-side-effects-of-mebeverine-nhs",
+  "title": "Side effects of mebeverine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "f4c9ee24afd00f5dd97a3f7fd185cedc14b62b5f50382d93421a48bb2daab03e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1338,
+    "content_hash": "392f075543085835767ef25ac03b5cc316940ef8b4d2996f7de08c954e9bf63e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

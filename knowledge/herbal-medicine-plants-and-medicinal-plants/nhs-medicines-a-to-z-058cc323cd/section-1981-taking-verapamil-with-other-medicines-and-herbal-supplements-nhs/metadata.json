@@ -1,0 +1,25 @@
+{
+  "id": "78308fc8-eb71-4d9d-bd41-c74e9a40a4ee",
+  "slug": "section-1981-taking-verapamil-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking verapamil with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "4f3fa7f65c68d5459aa871a7fa75c41a95c2f71115200e49c9b54bf3c7909089",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1981,
+    "content_hash": "f0088a10b8276a3a56d09eaa4fd3f6b81ca60a95ef5ed56f082e94fe0702556c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

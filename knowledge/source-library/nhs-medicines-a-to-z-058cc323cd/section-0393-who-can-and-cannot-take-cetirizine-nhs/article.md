@@ -1,0 +1,7 @@
+# Who can and cannot take cetirizine - NHS
+
+Who can and cannot take cetirizine - Brand names: Allacan, Benadryl Allergy, Piriteze Allergy, Zirtek Allergy Who can take cetirizine Most adults can take cetirizine. Most children can take certain types of cetirizine, depending on their age. Children aged 1 year can take cetirizine liquid if it's prescribed by their doctor. Children aged 2 to 5 years can take cetirizine liquid bought from pharmacies or prescribed by their doctor. Children aged 6 to 11 years and over can take cetirizine tablets and liquid that you buy from pharmacies and shops. Children aged 12 years and over can take cetirizine capsules, tablets and liquid that you buy from pharmacies and shops. Who may not be able to take cetirizine Cetirizine is not suitable for some people. To make sure it's safe for you, tell your doctor or pharmacist if you: have ever had an allergic reaction to cetirizine or any other medicine have an allergy to food additives have an allergy to peanuts or soya – some brands of cetirizine capsules (but not tablets) contain soya have kidney failure have epilepsy or another health problem that means you're at risk of having seizures or fits have a condition that means you have difficulty peeing are due to have an allergy test – taking cetirizine may affect the results, so you might need to stop taking it a few days before the test
+Page last reviewed: 18 February 2025
+
+Next review due: 18 February 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

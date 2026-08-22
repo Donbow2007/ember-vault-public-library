@@ -1,0 +1,25 @@
+{
+  "id": "4eda93b6-e130-41fe-bdc2-50f7b5bb6342",
+  "slug": "section-0942-common-questions-about-glyceryl-trinitrate-gtn-nhs",
+  "title": "Common questions about glyceryl trinitrate (GTN) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "d8bd5d065c63f8badf642121a4e83688b4bde5dff2e82ce90776074095962730",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 942,
+    "content_hash": "7904182c395d897fd0c7dd2691d4002c3627fa4b6d6e666cfe4cd462faa45e29",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

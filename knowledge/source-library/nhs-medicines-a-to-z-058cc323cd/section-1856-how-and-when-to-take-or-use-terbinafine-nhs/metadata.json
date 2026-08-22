@@ -1,0 +1,25 @@
+{
+  "id": "69a6bd03-3b52-436a-a9fd-2fc5e492d573",
+  "slug": "section-1856-how-and-when-to-take-or-use-terbinafine-nhs",
+  "title": "How and when to take or use terbinafine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "e7fe5280e5bdef897e0030495533a3a5819200c2d4d39fc22f82b368cfe9d9f5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1856,
+    "content_hash": "8123bff9b6e841b7a4575e758537922955374d603d7bce0200434b34e01e0b9e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

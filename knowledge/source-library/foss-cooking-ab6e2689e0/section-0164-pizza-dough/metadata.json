@@ -1,0 +1,25 @@
+{
+  "id": "8b8ee4eb-da5b-497a-b44d-c24583660561",
+  "slug": "section-0164-pizza-dough",
+  "title": "Pizza Dough",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "77a19b5160ef9a4d58ffae4287db97e84f56cdc008871fbfb0e373fa87ce8f7d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 164,
+    "content_hash": "41cb194ece4d4a794dc4a7e0055cd5ba488aa73b7673ddd6b3a60b174a1def27",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0c8f009c-e411-425c-99a4-c2e999b0dcef",
+  "slug": "section-1716-taking-rivaroxaban-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking rivaroxaban with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "4828a90ce614bd8c10f18e45d16e11c7f29c8a8246f206cda04befe82a8b2f74",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1716,
+    "content_hash": "eb69f3aed7330c2be78d85ba7bc7ce2ee16ec701f3369e9796c686134403b691",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

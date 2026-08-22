@@ -1,0 +1,25 @@
+{
+  "id": "fc50a311-4383-4cfe-a843-d27261ce2bc4",
+  "slug": "section-0426-korv-stroganoff",
+  "title": "Korv Stroganoff",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "f4e596fbe879e983bf3eb95ee0fb070068dc944a294004a482e94999e9767078",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 426,
+    "content_hash": "f6a1349a8b0b8837071bd13611a6d06200f6b17c1ecbc84e08e089d361abfe1d",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9b86d3c2-8512-46a1-8b41-765d8f0e5187",
+  "slug": "section-1303-common-questions-about-low-dose-aspirin-nhs",
+  "title": "Common questions about low-dose aspirin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "08179e39157928ef84f6f63658d182a9293d655860fce9770fb93f64106da801",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1303,
+    "content_hash": "bda07749d1be0f4021ccac3ce1ba15fac55dfe44decd73a37265d48d0d05004b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

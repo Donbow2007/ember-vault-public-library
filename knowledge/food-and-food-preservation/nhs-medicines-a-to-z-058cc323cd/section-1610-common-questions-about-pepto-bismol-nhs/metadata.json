@@ -1,0 +1,25 @@
+{
+  "id": "4f06e230-9f3d-4c3b-adab-0fb19a16cee3",
+  "slug": "section-1610-common-questions-about-pepto-bismol-nhs",
+  "title": "Common questions about Pepto-Bismol - NHS",
+  "category": "food-and-food-preservation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "018c0d221f7d59beac977f25710f1dd8a92f0e7bb899a89029e5385335cd3013",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1610,
+    "content_hash": "91411370b2b5deca05fcbb5f76e94771ce5334d8f7af9047c3e8dbf84ff75ceb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

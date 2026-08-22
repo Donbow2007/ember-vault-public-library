@@ -1,0 +1,25 @@
+{
+  "id": "3ba527ff-4a3c-44e3-b809-d9eab8780fec",
+  "slug": "section-0045-common-questions-about-alogliptin-nhs",
+  "title": "Common questions about alogliptin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "80333e77377e2af4a26b2163cef63971a4535a4bef7a81945c7d368aa2a0dcc5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 45,
+    "content_hash": "6a3e4725f994920bd4f34db5e1d59de8b71a84738383fcc6d5811f791fa23374",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aa3e381e-5bb3-4c5e-a9dc-ab6a02dbcee4",
+  "slug": "section-0484-common-questions-about-clopidogrel-nhs",
+  "title": "Common questions about clopidogrel - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "d1e729b8e3bb67ce6dfddd441a8fbec6847422c8303343220af4766669792eb7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 484,
+    "content_hash": "8162d26425b053ad784c7816418fc5ecd20184bcfba9026d0698aa2f1ccbb077",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9f1bc904-d51a-43a1-b857-a946d194357d",
+  "slug": "section-1706-pregnancy-breastfeeding-and-fertility-while-taking-risperidone-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking risperidone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "fbd451edfb99f579760ede2a5d90c4b38de48153255d80bd084e58202d751548",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1706,
+    "content_hash": "f0944932b3f3506f16921e5541bc1f01545e71dc0b2b6f55e32994450e5390cf",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

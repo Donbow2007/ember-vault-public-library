@@ -1,0 +1,25 @@
+{
+  "id": "9ce0972f-373e-4a5f-9028-f9a3bdb91ac4",
+  "slug": "section-1899-taking-tolterodine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking tolterodine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "f6578596d4002a06a926724fe815c7d956aa645744e3933b6e5c85e1ace0d07a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1899,
+    "content_hash": "fda6ff173aa8d7953cdc234b7faad183425d38f1d41d3c0a34f9ff0f2ef88691",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

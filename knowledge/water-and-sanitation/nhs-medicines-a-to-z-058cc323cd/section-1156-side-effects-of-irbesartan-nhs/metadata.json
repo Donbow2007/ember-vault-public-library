@@ -1,0 +1,25 @@
+{
+  "id": "a36a7ba2-427f-4898-8577-f7f07b73c6ef",
+  "slug": "section-1156-side-effects-of-irbesartan-nhs",
+  "title": "Side effects of irbesartan - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "578d295f35b41f69c057029771c9d09e22bd70d23e237bf0d4ef154a22a69b10",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1156,
+    "content_hash": "2f30e696b08455a213220933dc02ad2795be302eae6067b4002c40c9da38008e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

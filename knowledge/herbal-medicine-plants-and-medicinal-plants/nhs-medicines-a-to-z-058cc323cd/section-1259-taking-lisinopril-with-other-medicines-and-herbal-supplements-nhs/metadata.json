@@ -1,0 +1,25 @@
+{
+  "id": "c62a9205-9442-4786-84a7-3ba1c60f1799",
+  "slug": "section-1259-taking-lisinopril-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking lisinopril with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "7bdb26572fe64e0247fdf7ed4ed0b65c184ab1d6b007b8b5fa39e9e820ab85d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1259,
+    "content_hash": "81d609c561e8550af1590597ed535a39010b0f8f914ce79b4262f2e87466a0f4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

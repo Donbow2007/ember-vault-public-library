@@ -1,0 +1,25 @@
+{
+  "id": "1e71aebd-08a9-4568-833c-26e4757e8a6d",
+  "slug": "section-0044-about-alogliptin-nhs",
+  "title": "About alogliptin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "4d06bf206a5b0cc1566381380c5f8c6dea9c6e6ee9801c727bc28c66657f1195",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 44,
+    "content_hash": "c06e64cbfcaac0b9af5d81673997397445ff2bf9954824d0c6539f430ce9f094",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

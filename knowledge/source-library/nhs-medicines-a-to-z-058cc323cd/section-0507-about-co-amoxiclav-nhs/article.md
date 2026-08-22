@@ -1,0 +1,6 @@
+# About co-amoxiclav - NHS
+
+About co-amoxiclav - Brand name: Augmentin Co-amoxiclav is an antibiotic used for bacterial infections. It contains amoxicillin (an antibiotic from the penicillin group of medicines) mixed with clavulanic acid. The clavulanic acid stops bacteria from breaking down amoxicillin, allowing the antibiotic to work better. It's used in adults and children to treat: middle ear and sinus infections throat or lung respiratory tract infections urinary tract infections skin and soft tissue infections dental infections joint and bone infections (osteomyelitis) Co-amoxiclav is only available on prescription. It comes as tablets or as a liquid that you swallow. It's also given by injection, but this is usually only done in hospital. Key facts For most infections, you'll start to feel better within a few days. Usually, you take co-amoxiclav 3 times a day. The most common side effects of co-amoxiclav are diarrhoea, thrush and feeling or being sick. Co-amoxiclav liquid can stain teeth. This is not permanent and brushing your teeth will remove any stains. It's best to avoid alcohol if the medicine makes you feel sick. Drinking large amounts could also make you more likely to get side effects of co-amoxiclav affecting your liver.
+Page last reviewed: 21 September 2022
+
+Next review due: 21 September 2025

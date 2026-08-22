@@ -1,0 +1,25 @@
+{
+  "id": "17bf7072-e3e7-485b-b0c8-c8751d3c866d",
+  "slug": "section-1484-who-can-and-cannot-take-montelukast-nhs",
+  "title": "Who can and cannot take montelukast - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "848e8aa535840e3ac342f5d9238fe78c3aaddf5ee901bb69567bebcec5e82c38",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1484,
+    "content_hash": "3128bd829469cd5f66e67d7f1e147adc39446895f3efc059d04c5134ec6286a2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

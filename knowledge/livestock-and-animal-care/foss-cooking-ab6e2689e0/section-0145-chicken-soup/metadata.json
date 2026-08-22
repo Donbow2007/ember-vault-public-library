@@ -1,0 +1,25 @@
+{
+  "id": "37fe1cf3-c30a-4d94-b192-62c0d937cdd1",
+  "slug": "section-0145-chicken-soup",
+  "title": "Chicken Soup",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "5dd82d647f08a041b32a59f9577c9cf63ee517ccba7f63d6f1be5314487e3b89",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 145,
+    "content_hash": "10b25169d5a868e449b3dde5e615548dd629062dd96a9869ce21f9ea41b9f0e6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b61d9b3a-b12d-43be-91a9-7e6213bb0958",
+  "slug": "section-0286-pregnancy-breastfeeding-and-fertility-while-using-budesonide-nasal-spr",
+  "title": "Pregnancy, breastfeeding and fertility while using budesonide nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "f4b108ed7802a7ea96541bfb617afb4b613f6896ea79b20ef535cf67edee34fb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 286,
+    "content_hash": "a3aaaf0772bec81a2991b4080a4872de0bd09cd9e53e97c85691d0ee0ab513d9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

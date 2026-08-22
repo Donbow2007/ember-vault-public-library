@@ -1,0 +1,25 @@
+{
+  "id": "60c90556-2105-4839-b15c-56ddfadfad5e",
+  "slug": "section-1225-taking-letrozole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking letrozole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "ab7d4cdd6b7d1c36826d2bcf3bab7529932a5b22708a418e70dd263ad4c7168b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1225,
+    "content_hash": "2f90583ff44409f9f4e2a9a86b823a78c6e9d3d1c2750e413afd7c93831bd25b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

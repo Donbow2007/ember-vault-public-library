@@ -1,0 +1,25 @@
+{
+  "id": "362bba0f-f4d7-4eab-9f03-ef005cf9baf6",
+  "slug": "section-0827-who-can-and-cannot-take-fexofenadine-nhs",
+  "title": "Who can and cannot take fexofenadine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "a3ec3e74fbfe64c2c5a71a4b6ef0f888aabca9e42cee2f97a5ab9ca881561420",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 827,
+    "content_hash": "e65efc75cc4a0c595896785ca82747f15b5545974ef9345c301e088afd0c0068",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

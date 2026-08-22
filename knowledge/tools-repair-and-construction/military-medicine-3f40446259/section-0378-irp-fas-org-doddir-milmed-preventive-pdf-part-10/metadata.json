@@ -1,0 +1,25 @@
+{
+  "id": "66ac6b7c-ea2b-491c-893e-7623b2494928",
+  "slug": "section-0378-irp-fas-org-doddir-milmed-preventive-pdf-part-10",
+  "title": "irp.fas.org/doddir/milmed/preventive.pdf — Part 10",
+  "category": "tools-repair-and-construction",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "3453a15b064fc9f14272069ef2b4254bee92f51bd1f7402cb519c783ca5fc071",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 378,
+    "content_hash": "513df951bdb229e5ce35fdb0a8a01979b47892b83c01afa8d2df7d99cf0db87a",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

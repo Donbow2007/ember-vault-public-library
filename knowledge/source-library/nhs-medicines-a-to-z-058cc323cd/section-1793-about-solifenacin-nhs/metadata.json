@@ -1,0 +1,25 @@
+{
+  "id": "61eea98f-5f6c-4ab8-9263-855028bcca77",
+  "slug": "section-1793-about-solifenacin-nhs",
+  "title": "About solifenacin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "9ae459551c670abd09a27d0aab3b2f86e945427a901e7394ae7ba106ea98be45",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1793,
+    "content_hash": "782f04e98bf5a88b1bebaee788f441e39766dd68a332d6ebf002b7057e8f8edb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

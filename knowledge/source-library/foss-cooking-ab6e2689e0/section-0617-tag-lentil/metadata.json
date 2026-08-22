@@ -1,0 +1,25 @@
+{
+  "id": "7feec019-2597-4bb8-b998-f8fe72e25976",
+  "slug": "section-0617-tag-lentil",
+  "title": "Tag: lentil",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "138e6c008ac6ef1487fdfdf6e216140e84f63fc30c9f39928aa9f59e57fc2c22",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 617,
+    "content_hash": "490abd3665f19ef2b21c6e60a8f5fdb91c9600fdb0ed399b4557a7fbd539133a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

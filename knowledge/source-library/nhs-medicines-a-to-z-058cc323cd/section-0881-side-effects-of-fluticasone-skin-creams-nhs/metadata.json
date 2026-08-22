@@ -1,0 +1,25 @@
+{
+  "id": "c3b3d809-3301-4d39-a058-8a2af316d4b9",
+  "slug": "section-0881-side-effects-of-fluticasone-skin-creams-nhs",
+  "title": "Side effects of fluticasone skin creams - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "8db13cb49bdb3b0c8b06d369700189b0691dc612de9d9a54c65066b51b3eea4e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 881,
+    "content_hash": "5e118420cc89dc87ada6258398ee56309e1813284df02d146b87926a43c2e11a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

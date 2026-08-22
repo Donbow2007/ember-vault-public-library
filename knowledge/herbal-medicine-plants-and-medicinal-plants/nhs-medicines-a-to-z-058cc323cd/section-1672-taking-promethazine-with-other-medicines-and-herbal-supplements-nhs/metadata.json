@@ -1,0 +1,25 @@
+{
+  "id": "e665027a-7878-4e2d-ab04-a6aa670285d4",
+  "slug": "section-1672-taking-promethazine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking promethazine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "30d41f8698dab22372123f28d6f54b513ca22a0a9137267341ff33b1fd6a0951",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1672,
+    "content_hash": "6e50f33f034e30641b30c3f38cf3df59511304bd0d8c6d83feb587172269d640",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "244cd6e5-2b2a-44c2-b6a6-e56684a6ebb1",
+  "slug": "section-1056-who-can-and-cannot-have-hydroxocobalamin-nhs",
+  "title": "Who can and cannot have hydroxocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "aabb616d70a06642755c356a48b8ee8a869e770f799c6b7a0db9e38a5af925a9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1056,
+    "content_hash": "1a217db8243441d17b16db0d83021affb9685e52eadfe31abb5b882785707bb6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

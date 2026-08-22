@@ -1,0 +1,25 @@
+{
+  "id": "ec47e457-253a-4891-a610-99bd5a7de7f8",
+  "slug": "section-1115-how-and-when-to-take-intermediate-acting-insulin-nhs",
+  "title": "How and when to take intermediate-acting insulin - NHS",
+  "category": "weather",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "ecc0bdd16313fcc83d0258e2c3ebc853f7ac86beca05eb4ac21ab8d7b7ae2dcf",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1115,
+    "content_hash": "f529169d74757bc1c344da23e386d660e71511117051489b821b24b5b0da4211",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "da75fd3a-7295-455b-acac-8beb91a84a0a",
+  "slug": "section-0536-fennel-white-bean-and-kale-soup",
+  "title": "Fennel White Bean and Kale Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "e2d195421de2c344a47c8b45a86661efceed5b04ad6e4a264b9b50bcfb9b9923",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 536,
+    "content_hash": "92099baa5026bfa8a8b6f550d3501c7b10b4e348a6b85a183f3d294b27aa20ad",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4eca563f-179b-4f65-8514-fbecaf12d754",
+  "slug": "section-0657-who-can-and-cannot-take-dihydrocodeine-nhs",
+  "title": "Who can and cannot take dihydrocodeine - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "9d2a71ab679d4cc2c773e98b0b269454a504b4cca26766dec1cbb6870d94c4d2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 657,
+    "content_hash": "80f61f1e324bad6776e173c5226ea98f0f57dfe215227245e11854a296854813",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

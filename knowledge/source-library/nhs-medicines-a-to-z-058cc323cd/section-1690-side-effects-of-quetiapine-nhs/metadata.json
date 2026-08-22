@@ -1,0 +1,25 @@
+{
+  "id": "2cc886db-f647-43ef-87e6-556ebf042e0c",
+  "slug": "section-1690-side-effects-of-quetiapine-nhs",
+  "title": "Side effects of quetiapine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "fe12bc2ebaf5100b467ee0a14d9f5973638760b69b6296500ff7c5c12f408765",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1690,
+    "content_hash": "fe5c7ef7c1dd98b1823affc88b56924a4600e1e26334950e8dcf6f8b23a0d938",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

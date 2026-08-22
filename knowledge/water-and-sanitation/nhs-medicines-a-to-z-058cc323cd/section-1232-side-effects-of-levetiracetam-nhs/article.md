@@ -1,0 +1,20 @@
+# Side effects of levetiracetam - NHS
+
+Side effects of levetiracetam
+
+Like all medicines, levetiracetam can cause side effects, although not everyone gets them. Common side effects These common side effects of levetiracetam may happen in more than 1 in 10 people. There are things you can do to help cope with them:
+A blocked nose or itchy throat
+If it's bothering you, ask your pharmacist for something to help your symptoms. If they do not wear off, tell your doctor.
+Feeling drowsy, sleepy or dizzy
+Do not drive, ride a bike, or operate machinery until you feel more alert. As your body gets used to levetiracetam, these side effects should wear off. If they do not wear off within 1 or 2 weeks, your doctor may reduce your dose or increase it more slowly. If that does not work, you may need to switch to a different medicine.
+Headaches
+Make sure you rest and drink plenty of fluids. Do not drink too much alcohol. If headaches are a problem, ask your pharmacist to recommend a painkiller. Talk to your doctor if your headaches last longer than a week or are severe.
+Aggression, or feeling irritable or agitated
+Talk to your doctor if you have any of these side effects.
+Feeling sick or being sick (nausea or vomiting)
+Stick to simple meals and do not eat rich or spicy food. It might help to take your levetiracetam after a meal or snack. If you're being sick, take small, frequent sips of water to avoid dehydration . Signs of dehydration include peeing less than usual or having dark, strong-smelling pee. Do not take any medicines to treat vomiting without speaking to a pharmacist or doctor. Speak to a doctor if your symptoms get worse or last longer than a week. If you take the combined pill or progestogen-only pill you're being sick, your contraception may not protect you from pregnancy. Check the pill packet to find out what to do. Serious side effects Tell a doctor or call 111 straight away if you have a serious side effect, including: fits or seizures getting worse passing very little pee, feeling tired or confused, or having swollen legs, ankles or feet – these could be signs of kidney problems signs of serious mental changes, or someone around you notices signs of confusion, sleepiness, loss of memory, forgetfulness, abnormal behaviour or uncontrolled movements Very few people taking levetiracetam have serious side effects. Immediate action required: Call 999 or go to A&E now if:
+you have thoughts of harming or killing yourself Information: Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance. Bring all the medicines you take with you. Serious allergic reaction In rare cases, it's possible to have a serious allergic reaction ( anaphylaxis ) to levetiracetam. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of levetiracetam. For a full list, see the leaflet inside your medicine packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 10 May 2022
+
+Next review due: 10 May 2025

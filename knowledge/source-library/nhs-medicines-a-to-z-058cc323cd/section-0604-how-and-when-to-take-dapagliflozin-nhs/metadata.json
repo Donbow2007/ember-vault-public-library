@@ -1,0 +1,25 @@
+{
+  "id": "612282e9-178c-46f3-a95e-bef2c41a0b7b",
+  "slug": "section-0604-how-and-when-to-take-dapagliflozin-nhs",
+  "title": "How and when to take dapagliflozin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "68a29fc739bb1f89dc0272c76bd350130d3ef56f74b91ac27584b89ecabc2142",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 604,
+    "content_hash": "a30de13e3e12cc80175ab68629f320710227113eaef30856305689046cc56d9c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a181fecf-65ce-4055-b543-5fbc70dfc26e",
+  "slug": "section-1040-hydrocortisone-tablets-a-steroid-used-for-treating-adrenal-gland-probl",
+  "title": "Hydrocortisone tablets: a steroid used for treating adrenal gland problems - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "01cd3581969dc00f405b22fdd2827c343c7a66e940526a70de7930628cab3c8b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1040,
+    "content_hash": "ce2f978128e1020d5ed3423eebe86de02a81a769e7ccfd956e8ca7de976df5d6",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

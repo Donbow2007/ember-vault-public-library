@@ -1,0 +1,25 @@
+{
+  "id": "b7b45f98-6762-4f40-a3b8-19cca17edf06",
+  "slug": "section-0519-side-effects-of-co-beneldopa-nhs",
+  "title": "Side effects of co-beneldopa - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "2d2bed5b9a337684bf647b0897b773ba8a87b4f50da1eb639331cf0b3db11e9a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 519,
+    "content_hash": "af04d7045d7a9569632e48dbbb7e15de27e4d7313dcfab8e71637e8632eb2424",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

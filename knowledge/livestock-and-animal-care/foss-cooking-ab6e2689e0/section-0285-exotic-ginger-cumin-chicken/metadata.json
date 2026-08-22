@@ -1,0 +1,25 @@
+{
+  "id": "76cf52a8-04ab-4119-a6df-c43e1b6b61ee",
+  "slug": "section-0285-exotic-ginger-cumin-chicken",
+  "title": "Exotic Ginger Cumin Chicken",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "45454714b7bf316919074c0e4bfa8cac5564f9034fc5bae86c696423cc899197",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 285,
+    "content_hash": "7aa15babe24fcf1f83b8365eaefe76f61d223a0a0b2d76c3f0f0e0d852ca2d54",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e07af99e-8e35-42c4-8824-df26b69652ea",
+  "slug": "section-0734-how-and-when-to-take-empagliflozin-nhs",
+  "title": "How and when to take empagliflozin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "9544e8026777beb8c8957576bd582e229f399becc4b1d92f376596e85fe02209",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 734,
+    "content_hash": "1dd107e5b3fc0031fb0916fbd7a5c5f738c7e1669a8a3accd86d7ccc37d5d778",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

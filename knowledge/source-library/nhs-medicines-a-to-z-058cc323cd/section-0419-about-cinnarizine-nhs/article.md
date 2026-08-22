@@ -1,0 +1,6 @@
+# About cinnarizine - NHS
+
+About cinnarizine - Brand name: Stugeron Cinnarizine is an antihistamine that stops you feeling or being sick ( nausea or vomiting ). It works by blocking the effects of histamine in your brain to reduce the symptoms of travel sickness ( motion sickness ). It also helps to improve blood flow in the inner ear. This reduces the dizziness and sickness you can get from vertigo , tinnitus and Ménière's disease . Cinnarizine is known as a drowsy (sedating) antihistamine, so it's more likely to make you feel sleepy than other antihistamines. It also comes mixed with dimenhydrinate (another antihistamine) to treat vertigo. Cinnarizine comes as tablets. It is available on prescription, or to buy in pharmacies. Key facts Avoid drinking alcohol while taking cinnarizine. Alcohol increases the chance of side effects. To prevent travel sickness, take cinnarizine 2 hours before your journey. You can take another dose 8 hours later if you need to. Common side effects include feeling sleepy, putting on weight or indigestion. Cinnarizine works gradually. It can take up to 4 hours to reach its full effect. Take cinnarizine after a meal to stop it upsetting your stomach.
+Page last reviewed: 5 October 2022
+
+Next review due: 5 October 2025

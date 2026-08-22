@@ -1,0 +1,25 @@
+{
+  "id": "f345de20-4f07-416a-9804-e03a404ab6d8",
+  "slug": "section-0831-fertility-and-pregnancy-while-taking-finasteride-nhs",
+  "title": "Fertility and pregnancy while taking finasteride - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "9ff6dfa660f4a10d44db00c663ba54b1d717b4fb53777ee185866bae5cb1c99f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 831,
+    "content_hash": "d151f44dd4a0b4c2ebcd496d63607c8ead1fbd3910de651cf2a4626a164993b0",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ab97e381-3f2d-49d8-881d-294c80ca0921",
+  "slug": "section-1417-pregnancy-breastfeeding-and-fertility-while-taking-metoclopramide-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking metoclopramide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "1549bf24a5c78fc5a70a2c7370930c961e31240d5352a35dab14878e27b81a3a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1417,
+    "content_hash": "fd328e7c9d6261ba74c7848b29465669cb962120cc4cb9d8b40a60e6961a7f85",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

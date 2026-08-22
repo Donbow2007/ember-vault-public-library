@@ -1,0 +1,25 @@
+{
+  "id": "7c0957c9-9fed-4cb6-a909-86ddca2be748",
+  "slug": "section-0135-yaroslav-de-la-pena-smirnov",
+  "title": "Yaroslav de la Peña Smirnov",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "b88c9c17af2458b5327c0989fa282086e5d3589b62aff8336657ab3383d192c3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 135,
+    "content_hash": "16263238627426f2482b32fbb269aed3ae5b3005b7b7fe5ab59ecdc8a64362af",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

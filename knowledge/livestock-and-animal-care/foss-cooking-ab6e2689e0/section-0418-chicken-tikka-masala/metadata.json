@@ -1,0 +1,25 @@
+{
+  "id": "3d3354a3-0a56-4a74-ab34-633cc542ed1d",
+  "slug": "section-0418-chicken-tikka-masala",
+  "title": "Chicken Tikka Masala",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "621c6b7b80620b7d71ad0e77efdc387a87f71115525183d5c9f7e70762c6f480",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 418,
+    "content_hash": "603039f521e7acdc4e9f4e7661f4f313061a59d34b34c0b201751e6ddc030f7e",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

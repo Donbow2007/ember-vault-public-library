@@ -1,0 +1,25 @@
+{
+  "id": "310b1b0d-6a7d-4dc6-9baa-d33034be5c31",
+  "slug": "section-1401-how-and-when-to-take-methylphenidate-for-adults-nhs",
+  "title": "How and when to take methylphenidate for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "b140baa3e48697b1f4ab5a7ac992d934262b5660968a0f509925a0ad0450705c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1401,
+    "content_hash": "974335e8f7124baeab42f422195e37f6292ba815376f63e8411c67907feb9195",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

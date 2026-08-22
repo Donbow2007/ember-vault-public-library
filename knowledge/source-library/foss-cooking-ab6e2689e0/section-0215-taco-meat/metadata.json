@@ -1,0 +1,25 @@
+{
+  "id": "a83b6e5e-818a-423e-8f07-cc8645e24611",
+  "slug": "section-0215-taco-meat",
+  "title": "Taco Meat",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "75266ec001917399435c51b269f40e531e538f336d82d80c8eba9cc23be9abbe",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 215,
+    "content_hash": "84f796e8c85408c21a8e30bddd1ab20c53e5dd2df57abfb9a05bf41e0d3149b6",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

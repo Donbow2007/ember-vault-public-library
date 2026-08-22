@@ -1,0 +1,25 @@
+{
+  "id": "1eb8712b-9c07-4a4f-85f2-8b48d83e1cf6",
+  "slug": "section-0478-croque-monsieur-bites",
+  "title": "Croque-monsieur bites",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "fdeb0bf323fad0e567db3603a21b20734172a226e9f6b8d77ca2d0d7a0ed1129",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 478,
+    "content_hash": "f8149cffb4d0a2a0b29ee3633b6cdbb6081d5c2963e4eb014fd8560bb009dec0",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

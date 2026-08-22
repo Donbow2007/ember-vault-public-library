@@ -1,0 +1,25 @@
+{
+  "id": "f3c2e52d-8d33-4f7f-947f-ed0d2ba50e73",
+  "slug": "section-0721-taking-duloxetine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking duloxetine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "962e6fdb8265f61d52fa1e41972edacc31b4e9ec35932f8b0d5d4bb3a796989f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 721,
+    "content_hash": "a499397d0d8d61252b5ece13278a87161d1b5b76d6c4f6ab325b7f721d72e3e4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

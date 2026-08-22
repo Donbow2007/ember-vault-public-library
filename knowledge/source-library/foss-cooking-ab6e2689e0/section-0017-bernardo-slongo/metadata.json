@@ -1,0 +1,25 @@
+{
+  "id": "d165daca-2b0c-4534-b646-3c67f06270cd",
+  "slug": "section-0017-bernardo-slongo",
+  "title": "Bernardo Slongo",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "895efdc79c277491f9eb70e16405cf2c3564f91bec5762d757da369b1411e4d7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 17,
+    "content_hash": "dd8c575b5a2918374ae6dd1b67aa88d8a5466f3b8cf04d6cd21c39da564cc0fb",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

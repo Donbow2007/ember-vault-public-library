@@ -1,0 +1,25 @@
+{
+  "id": "ebbea8e6-95f7-4564-bd08-1b03ff55b5f2",
+  "slug": "section-1528-how-and-when-to-take-nitrofurantoin-nhs",
+  "title": "How and when to take nitrofurantoin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "9d9e65336a06d220d941d9f9ef29e193530b3c91bdfe6e2f9f1475e5b69524c2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1528,
+    "content_hash": "2da8ee6b64fd3d28921041fbdbfdd9e6966d44dc9f3992d8952199ade57e223e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

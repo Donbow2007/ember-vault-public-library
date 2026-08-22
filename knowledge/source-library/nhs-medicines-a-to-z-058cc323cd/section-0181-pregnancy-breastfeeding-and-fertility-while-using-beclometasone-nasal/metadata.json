@@ -1,0 +1,25 @@
+{
+  "id": "b9234c80-3f74-46b7-9296-237395722a01",
+  "slug": "section-0181-pregnancy-breastfeeding-and-fertility-while-using-beclometasone-nasal",
+  "title": "Pregnancy, breastfeeding and fertility while using beclometasone nasal spray - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "89bb3cdd40e34105c3ff40bef0fd160d28c12c03d46b50a0a8a030df122e2916",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 181,
+    "content_hash": "1a7af4d0f623c10db1132d4a219c56ca3e146f4d73e547ea279cb0e5baa550c9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

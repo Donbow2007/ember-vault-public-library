@@ -1,0 +1,25 @@
+{
+  "id": "ccdbfdad-f921-4af0-a119-aef499ecd13f",
+  "slug": "section-0723-edoxaban-a-medicine-to-help-prevent-blood-clots-nhs",
+  "title": "Edoxaban: a medicine to help prevent blood clots - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "f9f44740c55cb9c60f0f15715578c297ccf336929cd90cfbba5fa948bfc70451",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 723,
+    "content_hash": "8f4263617031986b67f530fbc391fb38025ef381f4dfb4199b7ecc025214a9e2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4abd28aa-fa51-4357-8986-3783d2fdbd26",
+  "slug": "section-0315-ricotta-lasagna-filling",
+  "title": "Ricotta lasagna filling",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "78d571bcdd4c0192c96bda67e515c15c36974f109df4ab6edbad12bede573908",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 315,
+    "content_hash": "a50d426597ed73920dc6b2b4ce12346c9116e21187427cc955143db2413b203a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

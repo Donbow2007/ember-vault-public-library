@@ -1,0 +1,25 @@
+{
+  "id": "f30f7b66-9184-40b3-a90d-2a25266998ce",
+  "slug": "section-0531-about-co-codamol-for-adults-nhs",
+  "title": "About co-codamol for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "74fb1d6e5096484fded4ac03e0ea1f6792e0a18ce31f43593e50f26b18b1cd19",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 531,
+    "content_hash": "9abe90f64758c54b32dd616dfb88ffbec70cad8db4f391ed847ac435826a00c7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

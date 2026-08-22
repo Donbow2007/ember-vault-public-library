@@ -1,0 +1,25 @@
+{
+  "id": "14c7f894-e9b8-41b8-a944-86717f9c7abd",
+  "slug": "section-0002-aaron-taylor",
+  "title": "Aaron Taylor",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "a237b60cec3a5ea43ef6c0354692fbda497cc7fcaba7fe2ed6c55160d983e870",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 2,
+    "content_hash": "cfb0a873ae22153f5673860a9bab91323edb4826c9d525ca6218316404aaec9f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

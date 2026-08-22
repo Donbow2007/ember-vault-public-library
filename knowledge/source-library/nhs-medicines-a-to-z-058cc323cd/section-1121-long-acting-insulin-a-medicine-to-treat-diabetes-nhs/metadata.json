@@ -1,0 +1,25 @@
+{
+  "id": "93311dab-34c2-41dd-bd10-d94abbf56b0f",
+  "slug": "section-1121-long-acting-insulin-a-medicine-to-treat-diabetes-nhs",
+  "title": "Long-acting insulin: a medicine to treat diabetes - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "5069c6415d4343e676e32390e493d44e54652d6fd21e20c15d487d5dc8c5102d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1121,
+    "content_hash": "1da3db91333b8d4a4e2ba2d31285fec3d1babc596cb0cde8245da8321d94825a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

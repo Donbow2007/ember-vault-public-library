@@ -1,0 +1,25 @@
+{
+  "id": "8cdb8b03-12e0-407f-b9dd-949acef10da3",
+  "slug": "section-0649-tag-quebec",
+  "title": "Tag: quebec",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "919769ead08430cc94d6722ffb767f2fb9405d5e37daf242f0b353cce8f8f27d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 649,
+    "content_hash": "1e8aef1056749c6ab628097260a635b523077da8919566fc158afa7407ab5960",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

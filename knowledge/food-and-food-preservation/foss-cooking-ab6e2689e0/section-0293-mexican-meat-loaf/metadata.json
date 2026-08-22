@@ -1,0 +1,25 @@
+{
+  "id": "1f3fd576-b90e-4062-83de-40f043d59f27",
+  "slug": "section-0293-mexican-meat-loaf",
+  "title": "Mexican Meat Loaf",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "0503e9f6632f5fa4d0f3bd6eb97e7e3722bdde8b481ad9be6e580c1a010c74a1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 293,
+    "content_hash": "6ae96909e96ac3acc9554a57faaca94ebe144fe8c7d378df0880c43140729863",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

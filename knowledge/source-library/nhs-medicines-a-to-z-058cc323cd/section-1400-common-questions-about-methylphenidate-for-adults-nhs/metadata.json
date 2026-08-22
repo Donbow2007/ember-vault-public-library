@@ -1,0 +1,25 @@
+{
+  "id": "0635790d-5d9c-4926-9ab7-db4d181af98e",
+  "slug": "section-1400-common-questions-about-methylphenidate-for-adults-nhs",
+  "title": "Common questions about methylphenidate for adults - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "01f91d1309901135a698b73a394676474fd6b687d86cea86be7560780efdaa9e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1400,
+    "content_hash": "4d070792580d8494ff842deaaf871c91e8fa0f81ef8a815b0b4882255a2ba080",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

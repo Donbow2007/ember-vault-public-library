@@ -1,0 +1,25 @@
+{
+  "id": "845c86d7-790b-4cf3-afd1-02375eb965a1",
+  "slug": "section-0674-dipyridamole-a-medicine-used-to-help-prevent-blood-clots-nhs",
+  "title": "Dipyridamole: a medicine used to help prevent blood clots - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "33d2d35cbfea9f3eea4292a1360d80112374a93561fb9d3fa8d2d6246fd1e013",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 674,
+    "content_hash": "debcbecaba5d957a81386b60225df747e58ccf361c8e5acc7a599024140f06e5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "71291940-2749-4139-a7f3-26da1a65f383",
+  "slug": "section-1411-taking-methylphenidate-for-children-with-other-medicines-and-herbal-su",
+  "title": "Taking methylphenidate for children with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "4b2931aa0556a546fdff7e07383de98606b0deda1f17e15febe01b704381f0ab",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1411,
+    "content_hash": "77fd7c188fc6018418d1077142d72025a903c12640e2fe792e614b2ed2e27c6e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

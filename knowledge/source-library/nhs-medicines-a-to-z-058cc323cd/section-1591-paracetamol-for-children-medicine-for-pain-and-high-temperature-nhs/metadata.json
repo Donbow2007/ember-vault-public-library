@@ -1,0 +1,25 @@
+{
+  "id": "cb04748a-f01d-4492-9c3e-88302dcfe5ee",
+  "slug": "section-1591-paracetamol-for-children-medicine-for-pain-and-high-temperature-nhs",
+  "title": "Paracetamol for children: medicine for pain and high temperature - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "74cac37862067bd9b20c185f5b6adc97f39d7a05da323f83c29eb82bdc54f1b6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1591,
+    "content_hash": "a08864ed756a0ae511cb9ee03a2738fe27f8410dc200f66eff12a360a6d02ade",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

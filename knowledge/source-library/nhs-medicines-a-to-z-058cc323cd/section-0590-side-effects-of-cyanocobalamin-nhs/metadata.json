@@ -1,0 +1,25 @@
+{
+  "id": "903eca7d-09ff-4c75-8d43-b7a0b36eac8c",
+  "slug": "section-0590-side-effects-of-cyanocobalamin-nhs",
+  "title": "Side effects of cyanocobalamin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "35af73ce7400044dbe6381b1a3f0e70cd7be0ec15574ac0f0f0faed607461e36",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 590,
+    "content_hash": "e77d9576412fa3300b706c9a4f7e007764302beefd4400ce7ed8f1fa08322df1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

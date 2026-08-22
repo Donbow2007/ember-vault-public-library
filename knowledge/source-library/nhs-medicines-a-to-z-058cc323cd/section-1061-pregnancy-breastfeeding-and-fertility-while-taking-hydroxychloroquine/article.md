@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking hydroxychloroquine - NHS
+
+Pregnancy, breastfeeding and fertility while taking hydroxychloroquine - Brand name: Quinoric Hydroxychloroquine and pregnancy You can safely take hydroxychloroquine during pregnancy. If they're not well treated, inflammatory conditions like arthritis and lupus can affect your baby, causing premature birth and growth problems. It's recommended that you keep taking hydroxychloroquine during pregnancy to keep you and your baby well. Hydroxychloroquine and breastfeeding If your doctor or health visitor says your baby is healthy, it's OK to take hydroxychloroquine while you're breastfeeding. Hydroxychloroquine passes into breast milk in very small amounts. It has not been known to cause any side effects in breastfed babies. If your baby is not feeding as well as usual, seems irritable, is not sleeping, or has an upset stomach, or if you have any other concerns about your baby, talk to your doctor, pharmacist, health visitor or midwife. Hydroxychloroquine and fertility There's no evidence to suggest that taking hydroxychloroquine reduces fertility in either men or women. Speak to a pharmacist or your doctor if you're trying to get pregnant. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding For more information about how hydroxychloroquine can affect you and your baby during pregnancy, visit the Best Use of Medicines in Pregnancy (BUMPS) website .
+Page last reviewed: 8 June 2022
+
+Next review due: 8 June 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

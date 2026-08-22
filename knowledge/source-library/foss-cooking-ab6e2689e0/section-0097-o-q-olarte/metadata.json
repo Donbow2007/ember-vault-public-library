@@ -1,0 +1,25 @@
+{
+  "id": "483aed18-5a5a-4b2d-aa54-4e78bb2c4b33",
+  "slug": "section-0097-o-q-olarte",
+  "title": "O.Q. Olarte",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "4cccf015a698c21f8d73b944e981ecb56b80111a6207fa290a300cd99bafb9d8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 97,
+    "content_hash": "c8f04b266e17e9c413a9c480cb6234eb6f4cbef685e7e606b42719551d42ce51",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

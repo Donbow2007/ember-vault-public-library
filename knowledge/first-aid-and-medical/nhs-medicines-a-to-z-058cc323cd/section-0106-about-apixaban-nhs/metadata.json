@@ -1,0 +1,25 @@
+{
+  "id": "16cc80f2-849b-4070-b78b-8d402952419f",
+  "slug": "section-0106-about-apixaban-nhs",
+  "title": "About apixaban - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "f8981ae153ea0a7fdbcd300d9d87f3632e6342e118ea61aeee85500fe4ce2b4d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 106,
+    "content_hash": "29bc974ba2f88ab47884b129ce1d4f73336e78b2c8f3af910b0ee11c151ae9d1",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

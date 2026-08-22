@@ -1,0 +1,16 @@
+# Side effects of beclometasone nasal spray - NHS
+
+Side effects of beclometasone nasal spray - Brand names: Beconase, Nasobec, Pollenase Like all medicines, beclometasone nasal spray can cause side effects in some people, but many people have no side effects or only minor ones. With the nasal spray very little beclometasone is absorbed into the rest of the body when you use it, so it's not likely to give you side effects. Common side effects These common side effects of beclometasone nasal spray can happen in more than 1 in 100 people. There are things you can do to help cope with them:
+Sneezing
+This will usually settle down as you get used to the medicine.
+Dry or sore throat, or hoarse voice
+Try rinsing your mouth out with water after you use your nasal spray to help prevent this.
+An unpleasant taste or smell
+Rinse your mouth with water or have a drink of water.
+A dry or sore nose, or nosebleeds
+Stop using your nasal spray for a few days, then start again. Speak to your doctor or a pharmacist if this advice does not help and the side effects still bother you or do not go away. Serious side effects Very few people have serious side effects when using beclometasone nasal spray. You're more likely to have a serious side effect if you use beclometasone for more than a few months or take a high dose. Tell a doctor or call 111 now if you get: problems with your breathing, damage to your nose or sores inside your nose changes in your eyesight, such as blurred vision or a cloudy lens in the eye – these can be signs of increased pressure in your eyes ( glaucoma ) or a cataract Serious allergic reaction In rare cases, beclometasone nasal spray may cause a serious allergic reaction ( anaphylaxis ). Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Other side effects These are not all the side effects of beclometasone nasal spray. For a full list see the leaflet inside your medicine's packet. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 16 March 2023
+
+Next review due: 16 March 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

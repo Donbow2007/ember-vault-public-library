@@ -1,0 +1,25 @@
+{
+  "id": "6bc5d3c6-6da4-4ae3-9245-2e077bccb049",
+  "slug": "section-0186-about-beclometasone-skin-cream-nhs",
+  "title": "About beclometasone skin cream - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "a75b0e3d1c6883aa1d85fdf354dfb7eadd1343508ebe7f408e29a98a0f0d9a92",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 186,
+    "content_hash": "25c5b225e50640966727127fb1c65e31fc827ca16b32f6ec95ce16ca549cc061",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

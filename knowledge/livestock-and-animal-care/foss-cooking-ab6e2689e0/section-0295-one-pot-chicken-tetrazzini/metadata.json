@@ -1,0 +1,25 @@
+{
+  "id": "2510fe41-fdeb-460d-b283-36c6c922ada7",
+  "slug": "section-0295-one-pot-chicken-tetrazzini",
+  "title": "One-Pot Chicken Tetrazzini",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "0248b092e82905c9a98c97bfd45d2d0fa96d16b0cb88917b2ab9d052c161d72d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 295,
+    "content_hash": "3971b8c75d18edb7adcf26f98ae10199b71e9e93485db400276a2a73f4344abf",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

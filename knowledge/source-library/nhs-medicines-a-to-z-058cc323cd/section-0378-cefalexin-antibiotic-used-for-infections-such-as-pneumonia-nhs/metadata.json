@@ -1,0 +1,25 @@
+{
+  "id": "b90260b6-2c18-43ca-b0d6-a838a3a44726",
+  "slug": "section-0378-cefalexin-antibiotic-used-for-infections-such-as-pneumonia-nhs",
+  "title": "Cefalexin: antibiotic used for infections such as pneumonia - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "64eb5f53fb52d46a69fb026a98a813f207ee3c7ee78fab8a7b11dca4e80eecfd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 378,
+    "content_hash": "e4373cb608db6e68716e787c36291741ead8d5bcda141a8a051b670581357880",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

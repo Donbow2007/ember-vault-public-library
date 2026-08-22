@@ -1,0 +1,25 @@
+{
+  "id": "b7178f4a-2c73-4542-959d-ff629c29adb9",
+  "slug": "section-1828-who-can-and-cannot-take-sulfasalazine-nhs",
+  "title": "Who can and cannot take sulfasalazine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "53be1a591495c3e24b91eb264f89e07d7212aa4ef564d1d7ce465777b833a682",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1828,
+    "content_hash": "4791ab564abde5097971dc3814d3b232b48d13642d7c1c435feecb0de1c78f23",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "eb5769ab-a38d-457f-8bf0-3558c4195ebf",
+  "slug": "section-0138-irp-fas-org-doddir-milmed-dosimetry-pdf-part-2",
+  "title": "irp.fas.org/doddir/milmed/dosimetry.pdf — Part 2",
+  "category": "source-library",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:42Z",
+  "content_hash": "98622d8b4c1dd1a09eb67fc721f60d06356338c5ffcd04f5ce409fa00125ee0d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 138,
+    "content_hash": "d60586f780a1e61c929771c0376e20f45343d4094e9b1b86b2a07022e1e4135d",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

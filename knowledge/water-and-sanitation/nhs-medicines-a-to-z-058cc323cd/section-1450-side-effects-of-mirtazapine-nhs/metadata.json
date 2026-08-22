@@ -1,0 +1,25 @@
+{
+  "id": "1f70e6ac-8876-46da-acff-e5ed64202ee9",
+  "slug": "section-1450-side-effects-of-mirtazapine-nhs",
+  "title": "Side effects of mirtazapine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "2f01456c69e15d22f29f9c915ceced80b1ed043cbe1bef10722b27a2dd8056cb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1450,
+    "content_hash": "223d02e0dfe309d046c25dbb4ea8a919f73bac5e5d7cf10eb4751b802f0902bc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

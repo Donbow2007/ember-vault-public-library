@@ -1,0 +1,25 @@
+{
+  "id": "dc826e87-359a-409e-b070-8e3a5c6350a8",
+  "slug": "section-0307-turkish-red-lentil-soup",
+  "title": "Turkish Red Lentil Soup",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "33a5d234c2b52825e19d53591112ccfafa24ee45cb4c815d2ce61a3e639e5b42",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 307,
+    "content_hash": "db9f18dce6c5a9caba06220d817321259c1075c19c15ddf5ad480154a5b45fdf",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

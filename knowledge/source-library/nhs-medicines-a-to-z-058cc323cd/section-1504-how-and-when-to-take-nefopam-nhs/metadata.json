@@ -1,0 +1,25 @@
+{
+  "id": "9c71c1ae-8a0a-41e4-9762-50716debab93",
+  "slug": "section-1504-how-and-when-to-take-nefopam-nhs",
+  "title": "How and when to take nefopam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "2ef42f80ec392e55b6c4b497cf66e10b46b368c6e68157e2fdcb60e10897b5b8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1504,
+    "content_hash": "7800a558e2b6cca04c3bd4c3dde3a4a1839de6f3eb87b0f0ea75008d008fe5e2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

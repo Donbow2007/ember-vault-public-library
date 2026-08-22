@@ -1,0 +1,25 @@
+{
+  "id": "25861c63-746e-4a5c-9d8a-3c006758f1c2",
+  "slug": "section-1391-about-methotrexate-nhs",
+  "title": "About methotrexate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:35Z",
+  "content_hash": "43c01c4b8027c0dff4797991e7bbb92d6da466d1dc1856961848038673002bf8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1391,
+    "content_hash": "15a8edc99da7d5cb8f3533b63d69cd45c593c1f3064334d8d51bce07d299fd77",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

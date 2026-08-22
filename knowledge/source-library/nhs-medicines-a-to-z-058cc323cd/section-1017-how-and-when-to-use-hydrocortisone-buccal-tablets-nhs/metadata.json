@@ -1,0 +1,25 @@
+{
+  "id": "dff52a3d-ff07-4ecd-872e-7087aa1f3327",
+  "slug": "section-1017-how-and-when-to-use-hydrocortisone-buccal-tablets-nhs",
+  "title": "How and when to use hydrocortisone buccal tablets - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "22980ba972df8060361d846594936ae0bccc9c6c7ae5b20217a13eb70fdf9795",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1017,
+    "content_hash": "cbdbb25701d77970786f3f89b7dbfc6e19fd15998417dfe10e48512193344d97",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "26e8014d-d37f-452b-9f54-80240260d529",
+  "slug": "section-1968-about-venlafaxine-nhs",
+  "title": "About venlafaxine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "7cb0bb73298795054ee3db78e13413db55d5ede5fece60f74c38df022ca4eddd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1968,
+    "content_hash": "87acd3e90dd1ee368a2e231da176696e0ae57adb6c5abfb9e1a179a22c025757",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "31db34e6-de5e-47bb-bf83-160d734b39bd",
+  "slug": "section-0977-taking-or-using-oestrogen-tablets-patches-gel-and-spray-with-other-med",
+  "title": "Taking or using oestrogen tablets, patches, gel and spray with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "e0670e61fc0a7de0a1bb90e254c83555140bf7e2a919bb9305711938fba61e7d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 977,
+    "content_hash": "92e924895a4c956b639d812ae731467fc329b6aeb54ebf6cce0196b5027f715f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

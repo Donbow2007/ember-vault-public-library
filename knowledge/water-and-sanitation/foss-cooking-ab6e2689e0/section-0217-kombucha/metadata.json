@@ -1,0 +1,25 @@
+{
+  "id": "de314d71-22b2-43e5-9b5d-709a0e6fc03c",
+  "slug": "section-0217-kombucha",
+  "title": "Kombucha",
+  "category": "water-and-sanitation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "608579455731ce53c5fd303b7aa407faf5edd73d600be15e361aa25e444d7555",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 217,
+    "content_hash": "4d1863cbaa8a2974860e643aa9334f2155de9eda850dab25ecc1185d7a590db0",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

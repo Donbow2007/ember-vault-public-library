@@ -1,0 +1,25 @@
+{
+  "id": "cb3cc331-24e2-4429-b1ab-d29cef81a48d",
+  "slug": "section-1770-common-questions-about-simvastatin-nhs",
+  "title": "Common questions about simvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "aa9e4144460783d3ce45d9eadd0a05afc2bb32ec9a640149755898c4beb4edf1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1770,
+    "content_hash": "86fc306ddec8fb070c56a4adca6c70005f3a4c6b56c9df3d4b1e8a046b166b88",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

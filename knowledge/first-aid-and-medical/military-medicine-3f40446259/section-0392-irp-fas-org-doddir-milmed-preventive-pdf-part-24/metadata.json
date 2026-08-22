@@ -1,0 +1,25 @@
+{
+  "id": "c406fdc7-6ce7-497f-a5ff-6c9586435e8b",
+  "slug": "section-0392-irp-fas-org-doddir-milmed-preventive-pdf-part-24",
+  "title": "irp.fas.org/doddir/milmed/preventive.pdf — Part 24",
+  "category": "first-aid-and-medical",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:44Z",
+  "content_hash": "1a1c103008c04c646ee63316613d61b0ee6562f9807c9a22546d78748cfaa93c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 392,
+    "content_hash": "1d4044e7016f3085ed779fb3fa1766b2774a44130b97b80a05d30defc20d09f5",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

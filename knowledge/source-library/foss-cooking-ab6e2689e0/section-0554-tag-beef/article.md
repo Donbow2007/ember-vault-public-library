@@ -1,0 +1,3 @@
+# Tag: beef
+
+Carbonade Flamande (Traditional Flemish beef stew) Beef Wellington Hamburger Patties Chipolata Sausage in Balsamic Vinegar Teriyaki Beef Wok Medieval Beef Soup Schnitzel Chili Con Carne Chimichanga Francesinha Bitoque - Portuguese Steak with Beer Sauce Beef Tips in Gravy on Sour Cream Mashed Potatoes Spaghetti and Meatballs Steak Tartare Beef Jerky Taco Meat Zurich-Style Meat Saute Traditional beef or lamb stew Hellfire Steak Beef and Broccoli Fajitas Hakka-Style Meatballs Mexican Meat Loaf Panang-Style Beef Curry Basic Meatballs Pho Soup Scouse Pâté Chinois (Quebec Style Shepherd’s Pie) Beef Stroganoff Beef Kidney Hamburger Patties Meatloaf Tomato Flavored Hamburger and Macaroni Beef Goulash Cheesy Meatballs with Tomato Sauce Pasta Navy Style Stoofvlees

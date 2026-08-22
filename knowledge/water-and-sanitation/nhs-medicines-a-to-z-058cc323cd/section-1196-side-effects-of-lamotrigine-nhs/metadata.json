@@ -1,0 +1,25 @@
+{
+  "id": "52ec677b-d154-4410-a0e4-efe022cfb6e5",
+  "slug": "section-1196-side-effects-of-lamotrigine-nhs",
+  "title": "Side effects of lamotrigine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "40caa08b503c9e66a28e0565e10de63a0655af9e0b150bdaee5b09a4ae6bc89d",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1196,
+    "content_hash": "abb9b64e20ca63af1412302c77eeca9b90528231d80b610f1e011c277a9e443c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

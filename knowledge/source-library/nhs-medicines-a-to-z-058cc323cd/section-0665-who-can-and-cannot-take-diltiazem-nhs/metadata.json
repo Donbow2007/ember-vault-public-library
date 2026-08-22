@@ -1,0 +1,25 @@
+{
+  "id": "27465135-3d59-4324-9e78-73b653226a71",
+  "slug": "section-0665-who-can-and-cannot-take-diltiazem-nhs",
+  "title": "Who can and cannot take diltiazem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "fbdfd0084cf84ece51529ec21060879bc354c93bf698db2665daa0158e434ca4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 665,
+    "content_hash": "caed98834dea001e7cc146e0664aa4d7e30ddbc5bbe616c579e43fb1323daebc",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "25f3d5df-f9c6-4f91-87b3-25c342551f74",
+  "slug": "section-0910-common-questions-about-fybogel-nhs",
+  "title": "Common questions about Fybogel - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "3ba08b138c105fa28167f53004fef5a0ccd079e059d439b07c7f59db9ac626ad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 910,
+    "content_hash": "76d1e8ea05c0e3760e9006dfc9ae5e3983206d82db0ad916675c63da78c8fe9c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

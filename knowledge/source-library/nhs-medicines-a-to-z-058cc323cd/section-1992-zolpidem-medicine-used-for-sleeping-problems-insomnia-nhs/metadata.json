@@ -1,0 +1,25 @@
+{
+  "id": "bb009168-2983-4fa9-a517-3e0b98aabcce",
+  "slug": "section-1992-zolpidem-medicine-used-for-sleeping-problems-insomnia-nhs",
+  "title": "Zolpidem: medicine used for sleeping problems (insomnia) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "373ca1872465c76b2e751d0b225b3703da4287716dd90a1216c2b963240b5af5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1992,
+    "content_hash": "2ef1ac068a193b0d80ee56f1d4fe9fec189a2573571016a0a88793fa70b4ba67",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# About allopurinol - NHS
+
+About allopurinol - Brand names: Zyloric, Uricto Allopurinol is a medicine used to lower levels of uric acid in your blood. If you produce too much uric acid or your kidneys do not filter enough out, it can build up and cause tiny, sharp crystals. These crystals can form around your joints, which cause the swollen and painful symptoms of gout . Crystals can also collect inside the kidneys and damage them. It may also be prescribed if you're having some types of cancer treatment. Some treatments can cause a build-up of uric acid. Allopurinol comes as tablets and is only available on prescription. Key facts It may take several months before you feel the full benefit of allopurinol. During the first few months of treatment, as allopurinol starts to work, you may get more gout attacks. However, your doctor will prescribe an NSAID such as ibuprofen, or colchicine to help with this. Drinking too much alcohol can increase the level of uric acid in your blood. This could make your gout worse. When you take allopurinol regularly, it can lower the number of gout attacks and help prevent damage to the joints. Usually, you'll start allopurinol after an acute attack of gout has completely settled.
+Page last reviewed: 23 January 2023
+
+Next review due: 23 January 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

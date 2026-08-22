@@ -1,0 +1,25 @@
+{
+  "id": "8f130a3a-0d16-4cde-b5d4-e01195d15049",
+  "slug": "section-1456-how-and-when-to-use-mometasone-for-skin-nhs",
+  "title": "How and when to use mometasone for skin - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:36Z",
+  "content_hash": "98db8d6bdf2526a84629c74e68af4653f7cc9aae789f1475d7fe1e3135b110e0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1456,
+    "content_hash": "fc395ab8b1456acadd717908463ad29370f06c2993ae22dc6e0b1666e652b2da",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

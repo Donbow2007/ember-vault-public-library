@@ -1,0 +1,25 @@
+{
+  "id": "145c4169-cc1d-43d4-8b61-e4c71b6887f8",
+  "slug": "section-0675-tag-steak",
+  "title": "Tag: steak",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "8732d45d70641882c532088ddfd0f04b8a22f0e019d53c3417d58eed002531d1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 675,
+    "content_hash": "2129e3a33c15856e94889b792a0d7b1c5154120021c057da0373883b76579d73",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

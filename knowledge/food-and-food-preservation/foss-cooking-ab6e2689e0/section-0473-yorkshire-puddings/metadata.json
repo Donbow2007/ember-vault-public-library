@@ -1,0 +1,25 @@
+{
+  "id": "faa3851c-9106-41bb-914e-a7cd042b95b8",
+  "slug": "section-0473-yorkshire-puddings",
+  "title": "Yorkshire Puddings",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "408c90c3af79eac1724c8e9c8a9107feaf901c43dba946b68b4a371537c5cc55",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 473,
+    "content_hash": "0210314d3b4907d55020157f64f2f520360741f97899d6b9821cd253777b2ec4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

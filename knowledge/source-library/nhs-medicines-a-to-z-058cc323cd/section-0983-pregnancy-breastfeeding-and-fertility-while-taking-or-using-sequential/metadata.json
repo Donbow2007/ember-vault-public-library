@@ -1,0 +1,25 @@
+{
+  "id": "e5cb3be8-b282-476b-b716-e18385aeecd5",
+  "slug": "section-0983-pregnancy-breastfeeding-and-fertility-while-taking-or-using-sequential",
+  "title": "Pregnancy, breastfeeding and fertility while taking or using sequential combined hormone replacement therapy (HRT) - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "172de75518dfef60bacc6487eeafcace30225bc26321c7f187e79f8103bc94a1",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 983,
+    "content_hash": "0e880d9a22c299d302ee516b4f802cfd06e1e361546022d868064c3f620e7edd",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

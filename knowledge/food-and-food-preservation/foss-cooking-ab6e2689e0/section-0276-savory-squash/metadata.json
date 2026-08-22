@@ -1,0 +1,25 @@
+{
+  "id": "17515731-dac2-4545-ad00-90e3a181d1f1",
+  "slug": "section-0276-savory-squash",
+  "title": "Savory Squash",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "e4260ebb8902a43d7fbc457fae9acb24272161e0059a3f234c203f6f5b72ce7e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 276,
+    "content_hash": "c53d530a02e6b9693c598bc9560a39737b68cfc42baf497f9cc34f58507282d4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

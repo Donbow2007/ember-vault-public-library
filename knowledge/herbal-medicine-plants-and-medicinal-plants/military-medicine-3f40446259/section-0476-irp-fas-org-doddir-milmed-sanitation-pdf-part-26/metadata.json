@@ -1,0 +1,25 @@
+{
+  "id": "b73ed703-c912-4e24-a4ae-eccd8b4de8a3",
+  "slug": "section-0476-irp-fas-org-doddir-milmed-sanitation-pdf-part-26",
+  "title": "irp.fas.org/doddir/milmed/sanitation.pdf — Part 26",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "a55e8050c12e804f682192faae0b3c9afa7ab3507d8e7a528f18a94b12c0f48b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 476,
+    "content_hash": "dcd5953536c5af4478a3c88066e5e8b730f85003a88c6baba0679f57ce700296",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "10b8a689-e469-4aa5-8745-8bc8af78efca",
+  "slug": "section-0393-who-can-and-cannot-take-cetirizine-nhs",
+  "title": "Who can and cannot take cetirizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "b85d89fee5758ced9ad3db5f7489ce1d13b37973fb5199c1982377fbebbc34fb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 393,
+    "content_hash": "f849ecbca788b8874a2db2cbb0df748d6a5a52de609836650db1c89566bf746b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

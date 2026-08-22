@@ -1,0 +1,8 @@
+# Side effects of simeticone - NHS
+
+Side effects of simeticone - Brand names: Wind-eze, WindSetlers, Infacol, Dentinox Colic Drops Common side effects Simeticone is a very safe medicine and is generally not known to cause any side effects. Serious allergic reaction In rare cases it's possible to have a serious allergic reaction ( anaphylaxis ) to simeticone. Immediate action required: Call 999 now if:
+your lips, mouth, throat or tongue suddenly become swollen you're breathing very fast or struggling to breathe (you may become very wheezy or feel like you're choking or gasping for air) your throat feels tight or you're struggling to swallow your skin, tongue or lips turn blue, grey or pale (if you have black or brown skin, this may be easier to see on the palms of your hands or soles of your feet) you suddenly become very confused, drowsy or dizzy someone faints and cannot be woken up a child is limp, floppy or not responding like they normally do (their head may fall to the side, backwards or forwards, or they may find it difficult to lift their head or focus on your face) You or the person who's unwell may also have a rash that's swollen, raised, itchy, blistered or peeling. These can be signs of a serious allergic reaction and may need immediate treatment in hospital. Information: Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do. Information: Reporting side effects You can report any suspected side effect using the Yellow Card safety scheme. Visit the Yellow Card website for more information about reporting side effects .
+Page last reviewed: 13 October 2022
+
+Next review due: 13 October 2025
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

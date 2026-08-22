@@ -1,0 +1,25 @@
+{
+  "id": "edb20f6b-f885-41ff-9b6d-c67d8e245144",
+  "slug": "section-0467-about-clonazepam-nhs",
+  "title": "About clonazepam - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "bdbf9c659c2c8bbacec2708a5c1df493a2391d99735b439667a73bda8b20e282",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 467,
+    "content_hash": "07226da180ddcc681e617d9ab01264d90935bc9eb1ce5c3152e48f40cfaea531",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

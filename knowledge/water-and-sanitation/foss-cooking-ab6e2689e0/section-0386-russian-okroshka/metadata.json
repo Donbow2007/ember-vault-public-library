@@ -1,0 +1,25 @@
+{
+  "id": "c7b0f641-76b4-4a08-b763-cbbde3f20f91",
+  "slug": "section-0386-russian-okroshka",
+  "title": "Russian Okroshka",
+  "category": "water-and-sanitation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "4dc3ba7370765127c6ecb9ec2933ec7b1f7a4bf4a4fd31203b9ce3eaedc35c24",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 386,
+    "content_hash": "769be1b53d73eb31d1e7b083f4128d3231ac1dac6e44f07508dcc7e8d82b54e5",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

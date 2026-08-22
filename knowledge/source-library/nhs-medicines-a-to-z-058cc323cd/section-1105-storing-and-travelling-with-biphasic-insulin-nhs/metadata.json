@@ -1,0 +1,25 @@
+{
+  "id": "807cd5f1-db3b-45e2-91d2-7beeeb5db87d",
+  "slug": "section-1105-storing-and-travelling-with-biphasic-insulin-nhs",
+  "title": "Storing and travelling with biphasic insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "6f8765c8f2b69b93203ae202d718f4c5225fc925bf2f0097ad0cfad72ec8f6ae",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1105,
+    "content_hash": "ea870339f2daade182b16d8f99daa0e063873bba9c271ba5768e46f1e3f4502f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d65a55d2-4ddc-4816-9349-f035e583f3e3",
+  "slug": "section-0041-enthdegree",
+  "title": "enthdegree",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "99c493ab30aea9acaaf9dd4c1c11f061a581f28b9d1a82aabcc70757cef09f1f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 41,
+    "content_hash": "eb35fcca2c400e302e7ff5a69117ba95be6fb96db631f71c695ba9620bb1319a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

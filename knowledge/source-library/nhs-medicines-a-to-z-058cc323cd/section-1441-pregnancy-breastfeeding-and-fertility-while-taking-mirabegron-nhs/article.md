@@ -1,0 +1,8 @@
+# Pregnancy, breastfeeding and fertility while taking mirabegron - NHS
+
+Pregnancy, breastfeeding and fertility while taking mirabegron - Brand name: Betmiga Mirabegron and pregnancy Mirabegron is not usually recommended in pregnancy. There's not enough information available to say whether it's safe or not to take this medicine during pregnancy. If having an overactive bladder greatly affects your day to day life, talk to your doctor. They may suggest alternative treatments. Mirabegron and breastfeeding If your doctor or health visitor says your baby is healthy, you can take mirabegron while breastfeeding, although other medicines that we know more about might be better. It's not known how much mirabegron gets into breast milk, although it's likely to be a small amount. Talk to your health visitor, midwife, doctor or pharmacist or call 111 as soon as possible if you have any concerns, including if your baby: is being sick or has diarrhoea has constipation has signs of a urinary tract infection , such as being irritable, a high temperature and pee that smells different from usual Mirabegron and fertility There's no evidence to suggest that taking mirabegron will reduce fertility in either men or women. However, tell your doctor if you're pregnant or trying to get pregnant. This medicine is not usually recommended in pregnancy. Non-urgent advice: Tell your doctor if you're:
+trying to get pregnant pregnant breastfeeding Information: Find out more about treating urinary incontinence in pregnancy on the Best Use of Medicines in Pregnancy (BUMPS) website
+Page last reviewed: 21 July 2023
+
+Next review due: 21 July 2026
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

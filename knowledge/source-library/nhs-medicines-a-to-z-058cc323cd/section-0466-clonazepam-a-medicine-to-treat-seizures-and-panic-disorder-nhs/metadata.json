@@ -1,0 +1,25 @@
+{
+  "id": "007015b7-47a8-4aa2-bae7-4a0365a41b3a",
+  "slug": "section-0466-clonazepam-a-medicine-to-treat-seizures-and-panic-disorder-nhs",
+  "title": "Clonazepam: a medicine to treat seizures and panic disorder - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "75175cee39e72c58b53cab7eb92f3fe50ef2ee0215d1d508f5a4400d225c4529",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 466,
+    "content_hash": "af43e1e0c891dd2ea9024e50b870f85b3d91d6ae483cc66ff577de648c72d02a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

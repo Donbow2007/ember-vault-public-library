@@ -1,0 +1,25 @@
+{
+  "id": "ca5cd762-5422-4228-92f1-0f30d010c292",
+  "slug": "section-0602-about-dapagliflozin-nhs",
+  "title": "About dapagliflozin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "65fe83c4146a78d36899e5f65176eb32da15b5039aa98a97ef532fb461922f00",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 602,
+    "content_hash": "3b233abfeed52b80857d6056d2b9b138ace427b16973a149c9082e7607577f2d",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

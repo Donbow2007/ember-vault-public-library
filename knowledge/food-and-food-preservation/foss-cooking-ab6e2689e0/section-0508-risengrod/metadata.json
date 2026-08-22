@@ -1,0 +1,25 @@
+{
+  "id": "1c87771c-5d88-4bea-b524-78f0964a7ff2",
+  "slug": "section-0508-risengrod",
+  "title": "Risengrød",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "9ec3d8979f8752918c055ba49c880619586b333a95047878c1ae2abce01ea9ea",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 508,
+    "content_hash": "4faeff6a400cd0f5d73b352750ea7ad5dd60f6e8aab7ec9a24e2b01f82eb6aa4",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54e26bef-bea3-4072-ad5f-5cbcbcae76fe",
+  "slug": "section-0008-alpo",
+  "title": "alpo",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:48Z",
+  "content_hash": "9fdae2cf87c0cb2d8ef78f12d86e0e738c151dac6d285890057c5ec443d425dc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 8,
+    "content_hash": "f04076075de02c835dd521d3831f946eef87085f423de50e27bf107ddbd54c37",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

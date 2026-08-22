@@ -1,0 +1,25 @@
+{
+  "id": "b7bcae15-e358-4b8a-a69f-82a2c9485ca8",
+  "slug": "section-1797-side-effects-of-solifenacin-nhs",
+  "title": "Side effects of solifenacin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "8e275c38f2a6424eb6ab8a0fd43e29ab6a655850d8f492f7e3857bbf199d433f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1797,
+    "content_hash": "a00269827cb9caf117e2a9e6724915910adb5083af91cf6ee62a93a245c3e1cb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

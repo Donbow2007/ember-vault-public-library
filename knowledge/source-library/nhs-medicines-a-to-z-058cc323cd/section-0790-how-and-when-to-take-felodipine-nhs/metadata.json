@@ -1,0 +1,25 @@
+{
+  "id": "6e16d36e-7091-4098-a26e-31536d9cbb86",
+  "slug": "section-0790-how-and-when-to-take-felodipine-nhs",
+  "title": "How and when to take felodipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "a9c1e9307a694071fe41ceb39ca3243da451b0735818158fc5d85259bbe9ad70",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 790,
+    "content_hash": "199333eed9ea61f9bd5204eac096ccd114c5508bd78cc088b8c9e9dc81d62bc5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

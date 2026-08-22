@@ -1,0 +1,25 @@
+{
+  "id": "a5c3c6fd-b5e0-4706-9eb9-e180bfe68da5",
+  "slug": "section-0412-common-questions-about-chlorphenamine-nhs",
+  "title": "Common questions about chlorphenamine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "cc832826431c89854fbceec99fec3308d59644617c8cf695a0e2349b4869cb04",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 412,
+    "content_hash": "e69a63eb6a522f9de14a7f43974b81671d587bdf7a28049e4f20f5f3a39e20b2",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

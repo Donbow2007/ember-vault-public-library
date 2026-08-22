@@ -1,0 +1,25 @@
+{
+  "id": "77607fa3-296a-4006-826d-2a80ed0fb9b8",
+  "slug": "section-0437-how-and-when-to-take-citalopram-nhs",
+  "title": "How and when to take citalopram - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "ff2da4bde71b35b6a9037da435730a0a5b9becb76c00855223f08dfd44f50376",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 437,
+    "content_hash": "205e03a74af2d9421c10df2442a52dae543aafa93d452f3bb5b1af1e398c2e30",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

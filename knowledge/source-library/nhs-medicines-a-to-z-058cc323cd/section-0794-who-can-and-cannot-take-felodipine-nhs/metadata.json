@@ -1,0 +1,25 @@
+{
+  "id": "f0e8f6eb-8542-478d-8366-59beec593cfb",
+  "slug": "section-0794-who-can-and-cannot-take-felodipine-nhs",
+  "title": "Who can and cannot take felodipine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "120acf2882bfa1490d281add2245419cdc2f91b48dc3369a43351a23922ad9af",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 794,
+    "content_hash": "5c7298348d61f49caf7899d21c121d479a82a31e396b0b826172fee050b27225",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

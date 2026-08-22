@@ -1,0 +1,25 @@
+{
+  "id": "c081fadc-795f-4198-b6a2-5c843034a866",
+  "slug": "section-0902-common-questions-about-fusidic-acid-nhs",
+  "title": "Common questions about fusidic acid - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "fd41043de99a79d8a93a22c339257bc55ac9b7918e825793d3d4533bd2df9330",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 902,
+    "content_hash": "bdd7d10dec213db96ec0254e1440c2d5513c59377c8600831d742e6fe1756a04",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

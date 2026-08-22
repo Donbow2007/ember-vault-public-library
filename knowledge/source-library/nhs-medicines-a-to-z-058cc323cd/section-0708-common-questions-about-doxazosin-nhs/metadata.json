@@ -1,0 +1,25 @@
+{
+  "id": "59813483-0c0b-4b42-b868-5db7fe8c73eb",
+  "slug": "section-0708-common-questions-about-doxazosin-nhs",
+  "title": "Common questions about doxazosin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "b9f9b0ffe00520b6a09b5a92afe59c279b085d829635e0185440b100ba861616",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 708,
+    "content_hash": "9654194e846b19c00a61751051de043c237656cb1e88f797dd51f637778f4055",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

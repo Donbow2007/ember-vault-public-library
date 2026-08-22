@@ -1,0 +1,25 @@
+{
+  "id": "89e9fada-19dc-4fd0-9a57-f7d71c2a5e11",
+  "slug": "section-0134-side-effects-of-atenolol-nhs",
+  "title": "Side effects of atenolol - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:24Z",
+  "content_hash": "55c8a5707ef6616e58c54fec88a0e3b9774ee26b9850535205b822825325b23a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 134,
+    "content_hash": "8e69dedbefe66d7c0259589f69658645e3857240e2b4008475bf657c76cc8588",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

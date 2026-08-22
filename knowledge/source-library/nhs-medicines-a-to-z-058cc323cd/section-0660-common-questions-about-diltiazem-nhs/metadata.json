@@ -1,0 +1,25 @@
+{
+  "id": "78fc166b-a1c5-4078-9d60-f5cb51711e47",
+  "slug": "section-0660-common-questions-about-diltiazem-nhs",
+  "title": "Common questions about diltiazem - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:28Z",
+  "content_hash": "00668fad1adfd45e373eb784ff63d26a8668101a4f9f9b5549340e03a9aeed40",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 660,
+    "content_hash": "c8347e2b0a277e6655c9470bce2f7f26bcf3369b380a91013104b20e16f73081",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c87af045-8e76-4a8b-a606-4f0d208dbb09",
+  "slug": "section-1719-about-ropinirole-nhs",
+  "title": "About ropinirole - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "b6c85f191fabb07971b01249f157ea2ac0cc793b212629511e08c5a5e63a3814",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1719,
+    "content_hash": "504541c75c67138acd0527571f523bb1ab18d79a01e3ad0fd5f406404ee40e76",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

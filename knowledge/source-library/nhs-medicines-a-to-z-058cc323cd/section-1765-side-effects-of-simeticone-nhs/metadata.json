@@ -1,0 +1,25 @@
+{
+  "id": "7a6581e5-0d1e-42f4-b0e1-164521776099",
+  "slug": "section-1765-side-effects-of-simeticone-nhs",
+  "title": "Side effects of simeticone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "992ec0d42e82c4bf26e1f5f52af3d32606c93be5ad73c0f15198b276e29e1666",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1765,
+    "content_hash": "2b31e2572875edff11c0b9841ab96e01110c505607709b1d3bef65721b505de4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

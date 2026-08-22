@@ -1,0 +1,25 @@
+{
+  "id": "9caaa1fc-22b8-43e9-8fb8-46f55ce703be",
+  "slug": "section-0472-sausage-rolls",
+  "title": "Sausage Rolls",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "0368f330db736e4816d99f2b5705436ec45f4ee04a5ffc8d9158e7fc7ea3a6f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 472,
+    "content_hash": "e3be753c76c843cb68a114491edf4d79cacd5674648f0cacb7ceed92350b083a",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

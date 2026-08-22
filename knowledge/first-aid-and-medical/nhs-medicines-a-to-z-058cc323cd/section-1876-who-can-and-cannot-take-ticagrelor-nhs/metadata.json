@@ -1,0 +1,25 @@
+{
+  "id": "c8ba10b0-732c-41c8-bf2c-742183a7fedd",
+  "slug": "section-1876-who-can-and-cannot-take-ticagrelor-nhs",
+  "title": "Who can and cannot take ticagrelor - NHS",
+  "category": "first-aid-and-medical",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "ca6559da612eb1e5c6a5d006cdab06ccefa50c23642adf4d874f14268b1120e0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1876,
+    "content_hash": "ba86b0e0757de89a6f5b5fe76d3fa3e5cee6908c1396d6990aae95e5b396436b",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

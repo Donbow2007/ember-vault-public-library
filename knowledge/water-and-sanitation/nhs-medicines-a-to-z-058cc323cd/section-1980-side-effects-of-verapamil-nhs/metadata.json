@@ -1,0 +1,25 @@
+{
+  "id": "3bbb00e9-812a-4065-98ca-13e1bd311e68",
+  "slug": "section-1980-side-effects-of-verapamil-nhs",
+  "title": "Side effects of verapamil - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "c4981982b3f22aae6e1e4dfbe1033fee14cb658c2102853921ed7308ee008f84",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1980,
+    "content_hash": "3af7f08b1d11a72ee7b908ccb9def83f7abca966d40f1764b430bd27de53110c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

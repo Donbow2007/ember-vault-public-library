@@ -1,0 +1,25 @@
+{
+  "id": "132bff1d-62d4-4421-880e-8761cd72a7c3",
+  "slug": "section-0190-shrimp-and-sausage-gumbo",
+  "title": "Shrimp and Sausage Gumbo",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "a6a6559b5fdb4502608804c0956b2880f12b8e1e3cfe8f6315bc0157e17cb48f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 190,
+    "content_hash": "56a35b09363246703920de9bb2d391523ede2f53e51a90c08550e2ccf9b25a5f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

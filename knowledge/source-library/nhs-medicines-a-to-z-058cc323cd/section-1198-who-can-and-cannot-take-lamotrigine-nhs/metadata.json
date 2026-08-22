@@ -1,0 +1,25 @@
+{
+  "id": "05b76c0b-22b2-4982-afec-3e86866edbff",
+  "slug": "section-1198-who-can-and-cannot-take-lamotrigine-nhs",
+  "title": "Who can and cannot take lamotrigine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "bee2f374b77c2e63be32080c1ce58570d93c4663a9c0458351ca2160c82e2866",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1198,
+    "content_hash": "0518d3b7417b461f651de6539c8e2db631a787eef7425a3d4dd64f4f5ccaa955",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

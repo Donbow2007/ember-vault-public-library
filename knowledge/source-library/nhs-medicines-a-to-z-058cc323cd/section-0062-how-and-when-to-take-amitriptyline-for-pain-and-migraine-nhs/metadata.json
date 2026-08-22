@@ -1,0 +1,25 @@
+{
+  "id": "f16ce5a4-c1cc-4421-a4e6-a128576bd563",
+  "slug": "section-0062-how-and-when-to-take-amitriptyline-for-pain-and-migraine-nhs",
+  "title": "How and when to take amitriptyline for pain and migraine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "d5de7d1dda60b4c00d6fcc0a0b51f40268e0ce46eaeb6fca4dcd72d0a9fcf2e7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 62,
+    "content_hash": "a7c843b9e995f2a8b19875b219a19864522b57907c219b3c7b0b222fc85b92b5",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

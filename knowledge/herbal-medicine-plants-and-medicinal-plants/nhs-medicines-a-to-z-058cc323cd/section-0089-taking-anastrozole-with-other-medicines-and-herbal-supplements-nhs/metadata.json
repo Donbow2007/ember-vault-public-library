@@ -1,0 +1,25 @@
+{
+  "id": "8d0d1115-ada7-45af-94ea-59ee1ce5c5a4",
+  "slug": "section-0089-taking-anastrozole-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking anastrozole with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:23Z",
+  "content_hash": "62c1391921d978f64d7fc1fd9e28be1fe6e9d0e03e5c7b86b8031a0e3ba4c48e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 89,
+    "content_hash": "533f85a05930382378e4d4ef649db5dc3f05a99d4c32ff3af77a650cb8de7506",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

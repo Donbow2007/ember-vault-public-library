@@ -1,0 +1,25 @@
+{
+  "id": "87a2ff11-759f-4e8d-af12-320be11f91ee",
+  "slug": "section-1129-taking-long-acting-insulin-with-other-medicines-and-herbal-supplements",
+  "title": "Taking long-acting insulin with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "6eb2f74da49a164a02c983732ad9ee1a754d2697474f71592268e2f1a068d9b8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1129,
+    "content_hash": "1b27f421ca026517031b379a9c2d8cc948742eafe226dcc21eba7ad1efd2b469",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

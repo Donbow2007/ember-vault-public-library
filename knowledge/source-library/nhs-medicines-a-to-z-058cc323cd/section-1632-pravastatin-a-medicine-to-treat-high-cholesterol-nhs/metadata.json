@@ -1,0 +1,25 @@
+{
+  "id": "5b1ed1c3-74fa-43b3-a19d-add97bcb45c4",
+  "slug": "section-1632-pravastatin-a-medicine-to-treat-high-cholesterol-nhs",
+  "title": "Pravastatin: a medicine to treat high cholesterol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:37Z",
+  "content_hash": "e4f0d9a7df3887afad78ebdd8f1d64b4b2e086472412974206cc3c2cfa8a696a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1632,
+    "content_hash": "0410f9d5b6a06d72566d8d72596692c45c0e6ca617de0f872bb0903aedf60862",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

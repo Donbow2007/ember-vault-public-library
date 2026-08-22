@@ -1,0 +1,25 @@
+{
+  "id": "fb40a5cc-35fb-4c6d-aecc-1ef01debcddd",
+  "slug": "section-0454-french-toast",
+  "title": "French Toast",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "cf8bd1be61a59a67c5497d43391f6a59811238b2d0469c71bf226d60c092a4a3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 454,
+    "content_hash": "1d5d19602b423694c866987782c6a77ce7f7edcb876455dc7786f1185d540e2f",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2701e7e9-0944-401a-ac22-1c6b842a2f92",
+  "slug": "section-1866-side-effects-of-thiamine-nhs",
+  "title": "Side effects of thiamine - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "4fe3efcfb545e34e3d85bedcf46d107570f7a9efa96285f31652f300119b6341",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1866,
+    "content_hash": "4bc59513bf52db7a829e12927388f8ba4779d2e3da490171df1991338b840912",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "07e211ce-6549-4995-b3e0-8783c3f53271",
+  "slug": "section-1314-side-effects-of-lymecycline-nhs",
+  "title": "Side effects of lymecycline - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:34Z",
+  "content_hash": "52ba2ab0e71871eb9fcc5b7f0971ff5de41a631a1e19252815904838274d321c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1314,
+    "content_hash": "3c93639e927fe2102a2a141de2431ea64df447542e3b44ffac49ab7057108f1a",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0366e5fe-a304-4e2e-9404-1d6e400690ea",
+  "slug": "section-0928-pregnancy-breastfeeding-and-fertility-while-taking-gaviscon-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking Gaviscon - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:30Z",
+  "content_hash": "ab9c746cae789200ddc76cdc5d95a6f8866f63c0ed1e902c9dc7793b4cd32718",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 928,
+    "content_hash": "b57be5bd8d5099964144a054252aef5a3338ea6d98610c94b2ef1d1b0ad1e651",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

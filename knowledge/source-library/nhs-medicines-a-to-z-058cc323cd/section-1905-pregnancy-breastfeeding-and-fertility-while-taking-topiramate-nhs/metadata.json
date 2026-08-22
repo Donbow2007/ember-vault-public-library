@@ -1,0 +1,25 @@
+{
+  "id": "c2309b4e-38c2-431d-b3f2-625a408d0c1e",
+  "slug": "section-1905-pregnancy-breastfeeding-and-fertility-while-taking-topiramate-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking topiramate - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:40Z",
+  "content_hash": "93b7a3bb98cd2570373784b7c35b38ae1de4b7af7819fd922997fb3ed5ad5f37",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1905,
+    "content_hash": "9061903cc2a18323b4a40eb769d7810d2698d9b31c467a89614abb9720a22918",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

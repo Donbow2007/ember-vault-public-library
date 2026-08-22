@@ -1,0 +1,25 @@
+{
+  "id": "20800762-8795-4974-b35e-fba58484abbd",
+  "slug": "section-0776-side-effects-of-esomeprazole-nhs",
+  "title": "Side effects of esomeprazole - NHS",
+  "category": "water-and-sanitation",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "815e9c0c64e636f0770ebb150723f7c55be3fc4ef3c6fdbb0fb954125c578e8c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 776,
+    "content_hash": "d3a74a5685186938838425d38b2eb74499432271b81b98f5764f5a1fdac8f6f7",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

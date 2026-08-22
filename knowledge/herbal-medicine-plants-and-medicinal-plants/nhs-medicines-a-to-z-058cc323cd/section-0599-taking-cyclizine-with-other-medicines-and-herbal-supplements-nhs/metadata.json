@@ -1,0 +1,25 @@
+{
+  "id": "c8b87f4b-d3ab-4fc1-89aa-894cada848e9",
+  "slug": "section-0599-taking-cyclizine-with-other-medicines-and-herbal-supplements-nhs",
+  "title": "Taking cyclizine with other medicines and herbal supplements - NHS",
+  "category": "herbal-medicine-plants-and-medicinal-plants",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:27Z",
+  "content_hash": "04085ceed8101417df6ee365af7fe0eaa200950fec71784002fba5f91701593b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 599,
+    "content_hash": "c7f4079a36f1d3e522994d16adab731595197d9d189779617a887a7607af6a7e",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "adc86e25-06ba-4516-a589-2a4a28197ca3",
+  "slug": "section-0462-simple-tuna-salad",
+  "title": "Simple Tuna Salad",
+  "category": "source-library",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:51Z",
+  "content_hash": "c1f52ac70b3a2d954e1b91ef78e5f9aa5c1b34a631968c9d2ac5b29fa2a796b9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 462,
+    "content_hash": "46b68a04340517b1d43bc4314f967eb4e2283a53cd13909dbbf94c2622f42877",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

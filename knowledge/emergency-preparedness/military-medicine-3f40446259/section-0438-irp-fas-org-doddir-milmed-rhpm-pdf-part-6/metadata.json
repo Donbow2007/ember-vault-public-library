@@ -1,0 +1,25 @@
+{
+  "id": "5eb4030c-92fc-4331-8fb3-46e85d62569b",
+  "slug": "section-0438-irp-fas-org-doddir-milmed-rhpm-pdf-part-6",
+  "title": "irp.fas.org/doddir/milmed/rhpm.pdf — Part 6",
+  "category": "emergency-preparedness",
+  "subcategory": "military-medicine-3f40446259",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:45Z",
+  "content_hash": "75317336113ed38a35983dad578879d75898bf219f37bd9b1b5060a4e69cca4f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Military Medicine",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "fas-military-medicine_en_2025-06.zim",
+    "section": 438,
+    "content_hash": "136314ca96535bfc2fb59e9204ef265931528a70765cf46a959f7f7eaaa02418",
+    "kiwix": {
+      "catalog_id": "nomad:fas-military-medicine_en",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/fas-military-medicine_en_2025-06.zim",
+      "license": "License review required"
+    }
+  }
+}

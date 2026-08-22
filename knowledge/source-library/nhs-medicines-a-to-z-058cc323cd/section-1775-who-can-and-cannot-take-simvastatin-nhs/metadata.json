@@ -1,0 +1,25 @@
+{
+  "id": "10829a15-5765-4da7-b891-3af0bd6a732e",
+  "slug": "section-1775-who-can-and-cannot-take-simvastatin-nhs",
+  "title": "Who can and cannot take simvastatin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:39Z",
+  "content_hash": "f2bb22b9f6d00327a39770db548462418c1e7c2d0a2f7a16ccde7bb00641535a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1775,
+    "content_hash": "690b62d34d4a27d331bb4880e1cf32e967a3b34e028fa08c86e305debac43ad8",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

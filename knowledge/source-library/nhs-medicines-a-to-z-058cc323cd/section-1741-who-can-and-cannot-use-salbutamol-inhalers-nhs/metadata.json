@@ -1,0 +1,25 @@
+{
+  "id": "0e9e333b-cd4c-4b7a-b5ff-90a7d06e8072",
+  "slug": "section-1741-who-can-and-cannot-use-salbutamol-inhalers-nhs",
+  "title": "Who can and cannot use salbutamol inhalers - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "9cbf0c39c6654dc39646915559bc7ed26b57228c3ca2e565b7d587753740bb7e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1741,
+    "content_hash": "277ba9040cd7fa685957faa8bffa893e2477dafa3ab218e22d73ba8e8b14568c",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

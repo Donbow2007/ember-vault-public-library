@@ -1,0 +1,25 @@
+{
+  "id": "ea456a4b-af7c-4637-9b67-f9881f3dc3e2",
+  "slug": "section-1064-who-can-and-cannot-take-hydroxychloroquine-nhs",
+  "title": "Who can and cannot take hydroxychloroquine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:32Z",
+  "content_hash": "2999b976215da89d3a7a20d1da2c56ada47b38ba69ada4b272f70ced593596f7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1064,
+    "content_hash": "b756bb87430d76a86a6bf7830ac9686c4bd4e4fc0dc16171830a8155bdd3b24f",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

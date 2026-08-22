@@ -1,0 +1,25 @@
+{
+  "id": "4910460e-d4fb-429b-8c4a-eb7f1b5d4bdb",
+  "slug": "section-0751-pregnancy-breastfeeding-and-fertility-while-taking-eplerenone-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking eplerenone - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:29Z",
+  "content_hash": "4127647eb8eb378f04cbb03e35ba00f0da02e1b848fdd34df7c59e35596797b4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 751,
+    "content_hash": "bb7e06bc72f9f9c62b31e468260372f1cc2325aa7ebd980024a6b24c07b65185",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

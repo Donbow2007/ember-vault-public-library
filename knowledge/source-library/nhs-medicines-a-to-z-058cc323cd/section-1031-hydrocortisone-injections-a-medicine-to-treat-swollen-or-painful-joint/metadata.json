@@ -1,0 +1,25 @@
+{
+  "id": "68a0f783-863d-43d6-b67a-a3656b780703",
+  "slug": "section-1031-hydrocortisone-injections-a-medicine-to-treat-swollen-or-painful-joint",
+  "title": "Hydrocortisone injections: a medicine to treat swollen or painful joints. - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:31Z",
+  "content_hash": "9cfd0daa48fed4c97d94d6b07769983cb8e48c00625af16843dcc73f0be47168",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1031,
+    "content_hash": "35b23df19f4f0393b47beac27d9fb7fc921b1e789133cb6820fc1dbd6f0864e9",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

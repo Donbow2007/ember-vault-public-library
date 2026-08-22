@@ -1,0 +1,3 @@
+# Pumpkin Loaves
+
+⏲️ Prep time: 20 min 🍳 Cook time: 1 hr 15 min 🍽️ Servings: 2 loaves Ingredients 2 cups flour 1/2 teaspoon salt 1/2 teaspoon baking powder 1 teaspoon baking soda 1 teaspoon ground cloves 1 teaspoon ground cinnamon 1 teaspoon ground nutmeg 1/2 teaspoon grated ginger 2 cups sugar 3/4 cup butter 2 eggs 1 can (1 lb) pumpkin Directions Grease 2 loaf pans or cover with parchment paper, then preheat oven to 325°F Sift flour with all other dry ingredients (optional) Beat sugar and butter Add eggs to sugar/butter mixture, one at a time Beat in pureed pumpkin Whisk in flour and other dry ingrients Add batter to loaf pans and bake for ~ 1 hour 15 minutes

@@ -1,0 +1,25 @@
+{
+  "id": "1695aefc-03b7-430d-aea5-15ecc0256f89",
+  "slug": "section-0390-pregnancy-breastfeeding-and-fertility-while-taking-cetirizine-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking cetirizine - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:26Z",
+  "content_hash": "d7ed9da910e4a7d288c2ccb046cda08a82971d2208f1ed248babacfd7e4d1600",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 390,
+    "content_hash": "40f5519ed583d5aac14f5346d0550d169a7efcabfc7e82b05fe8645658c0d564",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

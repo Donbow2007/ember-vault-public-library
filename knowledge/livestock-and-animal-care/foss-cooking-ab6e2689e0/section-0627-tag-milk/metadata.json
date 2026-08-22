@@ -1,0 +1,25 @@
+{
+  "id": "19194b7d-95d9-47ba-95e8-d237cdea5afa",
+  "slug": "section-0627-tag-milk",
+  "title": "Tag: milk",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "d55ce3749bde7a894950af9f651d14a3a21b29e99dd5cf36de534cb5627ba048",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 627,
+    "content_hash": "f651fda95420035ea793c3ad4e825457768fa04e8dcc67ff6bb888add5769cd7",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

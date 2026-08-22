@@ -1,0 +1,25 @@
+{
+  "id": "a7358341-1825-4b7a-b6f4-30d9681a1980",
+  "slug": "section-0353-stuffed-round-squash",
+  "title": "Stuffed Round Squash",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:50Z",
+  "content_hash": "de370382a089ff76c444100e311f1b227ed81bba55c651ab63f8d44b0a290eb2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 353,
+    "content_hash": "d70afad9d46900da6b144e6fd6d660294e10ee06efe69b0c4a841f629d561957",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

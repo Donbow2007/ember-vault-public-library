@@ -1,0 +1,25 @@
+{
+  "id": "2e6bc22f-0500-4898-a68d-2acc1be30e85",
+  "slug": "section-0606-tag-indian",
+  "title": "Tag: indian",
+  "category": "livestock-and-animal-care",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:52Z",
+  "content_hash": "0dbb20f06042eef53904b1135b375bacf8e9f55af14084a6f5289db6276abba3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 606,
+    "content_hash": "be683f7a7622ecfa09831e76948d0219edbc1af12fbb4e3602d88dfa2f01d850",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

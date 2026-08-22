@@ -1,0 +1,25 @@
+{
+  "id": "cc375868-db95-478e-8249-ea35c280667d",
+  "slug": "section-1753-common-questions-about-sildenafil-nhs",
+  "title": "Common questions about sildenafil - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:38Z",
+  "content_hash": "0e8f091b16f5a025b6386536aee84d6e92f28b1dee1e7695b8936a5a754dc002",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1753,
+    "content_hash": "09d0e9b41e9ec555bfb0a585ca7e37a1a5944b20bc51cfec732fbca23e4d7171",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

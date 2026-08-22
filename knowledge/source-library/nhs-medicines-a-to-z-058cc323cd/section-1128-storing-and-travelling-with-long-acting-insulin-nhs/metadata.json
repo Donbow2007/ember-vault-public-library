@@ -1,0 +1,25 @@
+{
+  "id": "e0ed0728-f7a0-448e-89e7-906bf6809d90",
+  "slug": "section-1128-storing-and-travelling-with-long-acting-insulin-nhs",
+  "title": "Storing and travelling with long-acting insulin - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:33Z",
+  "content_hash": "fabfde7dd8a9537e8c7c871cc5d4c279e6393838f1e6b92612904dcfd8cf5881",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 1128,
+    "content_hash": "ec80363b21a0d8920ebd9240f444b5876768620598ec7e4012bcce05694653f4",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

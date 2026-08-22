@@ -1,0 +1,25 @@
+{
+  "id": "a7935855-372b-4cdc-bfe5-a7501b7cc825",
+  "slug": "section-0326-pregnancy-breastfeeding-and-fertility-while-using-calcipotriol-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while using calcipotriol - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "06186da464a39c9cd946dd75d142eb231e2fa999f0cf3a62efaa1b00ee6b248a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 326,
+    "content_hash": "4de0434ec47d7eff11893dff2ba076fd1cbe7b31e6aa4cbb4e3375a1de545cdb",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}

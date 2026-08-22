@@ -1,0 +1,25 @@
+{
+  "id": "084f8309-9fda-49f8-b5fd-a999a7f4e9f4",
+  "slug": "section-0247-beef-wellington",
+  "title": "Beef Wellington",
+  "category": "food-and-food-preservation",
+  "subcategory": "foss-cooking-ab6e2689e0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:49Z",
+  "content_hash": "8fa87bb8616479044e60f0d830a6ea17c8a0e23a51feb0b867ce59ed75fa74aa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "FOSS Cooking",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "foss.cooking_en_all_2026-02.zim",
+    "section": 247,
+    "content_hash": "7ef5fcc16dd13a513f0639ac60c22def3df4011d60d84e4b77cffe8afe8526bd",
+    "kiwix": {
+      "catalog_id": "nomad:foss.cooking_en_all",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/foss.cooking_en_all_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

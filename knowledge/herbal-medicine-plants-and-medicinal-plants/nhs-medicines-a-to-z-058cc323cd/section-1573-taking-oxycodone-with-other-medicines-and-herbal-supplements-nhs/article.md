@@ -1,0 +1,8 @@
+# Taking oxycodone with other medicines and herbal supplements - NHS
+
+Taking oxycodone with other medicines and herbal supplements - Brand names: Oxycontin, Oxypro, Longtec, Shortec Cautions with other medicines Some medicines and oxycodone can affect each other and increase the chance of getting side effects. Tell your doctor before taking oxycodone if you are taking any medicines: to help you sleep for depression or a mental health condition – some types cannot be taken with oxycodone for high blood pressure (hypertension) to help stop you feeling or being sick (vomiting), such as domperidone , metoclopramide or aprepitant to treat symptoms of an allergy such as antihistamines to reduce tension or anxiety for an infection to control seizures or fits due to epilepsy Taking oxycodone with other painkillers It's safe to take oxycodone with paracetamol , ibuprofen or aspirin (do not give aspirin to children under 16 years of age). Do not take oxycodone with painkillers that contain codeine . You'll be more likely to get side effects. These include: co-codamol (codeine and paracetamol) Nurofen Plus (codeine and ibuprofen) Solpadeine (codeine, paracetamol, ibuprofen and caffeine) Mixing oxycodone with herbal remedies and supplements There's not enough information to say whether complementary medicines, herbal remedies and supplements are safe to take with oxycodone. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines. Important:
+Medicine safety
+Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.
+Page last reviewed: 17 November 2022
+
+Next review due: 17 November 2025

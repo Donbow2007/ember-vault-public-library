@@ -1,0 +1,7 @@
+# Who can and cannot take or use diclofenac - NHS
+
+Who can and cannot take or use diclofenac - Brand names: Voltarol, Dicloflex, Diclomax, Econac, Motifene Who can take or use diclofenac Most adults can take diclofenac. Children may be prescribed diclofenac to treat joint problems. The type given depends on their age. Children can: take diclofenac tablets, capsules and use suppositories from 12 months, for arthritis use diclofenac gel if they're 14 years old or over use diclofenac plasters and patches if they're 16 years old or over Who may not be able to take or use diclofenac Diclofenac is not suitable for some people. To make sure it's safe for you, tell your doctor or pharmacist before starting to take it if you: have ever had an allergic reaction to diclofenac or any other medicine have an allergy to aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen have asthma have ever had side effects from taking NSAIDs, such as wheezing, a runny nose, swelling of the skin ( angioedema ) or a rash have ever had stomach ulcers , bleeding in the stomach or intestines, or a hole in your stomach have high blood pressure (hypertension) have heart failure , severe liver disease or kidney disease have Crohn's disease or ulcerative colitis have lupus have a blood clotting disorder are pregnant, planning to get pregnant, or breastfeeding
+Page last reviewed: 5 August 2024
+
+Next review due: 5 August 2027
+Help us improve our website Can you answer a 5 minute survey about your visit today? Take our survey

@@ -1,0 +1,25 @@
+{
+  "id": "2f707e79-8348-4958-8822-02400aba0009",
+  "slug": "section-0302-pregnancy-breastfeeding-and-fertility-while-taking-bumetanide-nhs",
+  "title": "Pregnancy, breastfeeding and fertility while taking bumetanide - NHS",
+  "category": "source-library",
+  "subcategory": "nhs-medicines-a-to-z-058cc323cd",
+  "version": 1,
+  "updated_at": "2026-08-22T02:12:25Z",
+  "content_hash": "d19a3db1573867e9df39a9e30a8249d3b71a877e1ebd86e1d76cb13b92e84389",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "NHS Medicines A to Z",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "nhs.uk_en_medicines_2025-12.zim",
+    "section": 302,
+    "content_hash": "41ea1968aa444b4573866d33e85b2eb680aa78d2038342f219a9f94513352960",
+    "kiwix": {
+      "catalog_id": "nomad:nhs.uk_en_medicines",
+      "upstream_url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2025-12.zim",
+      "license": "License review required"
+    }
+  }
+}
