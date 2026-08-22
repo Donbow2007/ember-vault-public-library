@@ -1,0 +1,25 @@
+{
+  "id": "148d671e-80fb-472a-9202-df21d804c9a4",
+  "slug": "section-0047-ultimate-725-piece-96-hour-grid-down-emergency-trauma-kit",
+  "title": "Ultimate 725 Piece 96 Hour Grid Down Emergency Trauma Kit",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "a5b9015c2057042ab905d120c4cbaf04dbdd61dd1502f3bec1b924e887be3d50",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 47,
+    "content_hash": "3b1da2c993cc995ddf45755d4e125aa079000c32ae883745e1395ad9902413b8",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7e62cd23-63e5-4b24-8749-21f43c9cb968",
+  "slug": "section-0020-bug-out-roll-used-in-the-field-w-survival-instinct",
+  "title": "Bug Out Roll Used in The Field w/ Survival Instinct",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "5dfd8301669fb954c89c42e6ce9921bca14e8c1cdf21b464036ea06f4a67bf5e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 20,
+    "content_hash": "6ec7ad4bfed51147f43857cdad791da9fade515b78b066a82a55a762241ad7e4",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

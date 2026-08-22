@@ -1,0 +1,25 @@
+{
+  "id": "d5368e44-fe37-4e3c-9f0b-bef198210802",
+  "slug": "section-0042-storing-fuel-for-preppers",
+  "title": "Storing Fuel for Preppers",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "2f47e3bea143d0af0c01b1ce96ecfedf90df321ef0239af0c95207a1ae872ddd",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 42,
+    "content_hash": "d11b3764d08ad4d2ddca362756c7fc47e4d57c546b582bfd1975bc53943950eb",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

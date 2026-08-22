@@ -1,0 +1,25 @@
+{
+  "id": "bf52d749-85b0-41dc-aac3-e62d269afcf3",
+  "slug": "section-0019-files-knots-3-pdf-part-11",
+  "title": "files/Knots (3).pdf — Part 11",
+  "category": "tools-repair-and-construction",
+  "subcategory": "a-library-of-knots-bd31bfcc53",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:18Z",
+  "content_hash": "04165542291bf2fc9235e8772ab81e4082c9a9f4d32264d883f2525672c14d28",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "A Library of Knots",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-knots_en_2024-08.zim",
+    "section": 19,
+    "content_hash": "26eb791615b79b033f16a248475a3dbeac2790ce0b556711e2fcd2bd5a609dd8",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-knots_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-knots_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cbb89012-116f-492b-8ec5-af9ce4dfbd51",
+  "slug": "section-0048-the-most-important-winter-survival-item-every-prepper-should-have",
+  "title": "The Most Important Winter Survival Item Every Prepper Should Have",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "ba2c307c5943f686f5d572e03bf74db26fd558a08a3baf2e8d093b975c85f957",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 48,
+    "content_hash": "4f24dd812b74ea13820f225609833354a3aef05c10725c1f13dee6920d04ce88",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

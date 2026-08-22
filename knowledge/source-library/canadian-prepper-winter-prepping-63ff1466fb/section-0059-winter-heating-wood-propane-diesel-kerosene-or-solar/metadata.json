@@ -1,0 +1,25 @@
+{
+  "id": "f79421f7-44b7-438f-a730-b29832c7b495",
+  "slug": "section-0059-winter-heating-wood-propane-diesel-kerosene-or-solar",
+  "title": "Winter Heating: Wood, Propane, Diesel, Kerosene, or Solar?",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "55ea3384db7176e266c285964719ee7cac576115706b1147c9613848c5f0594e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 59,
+    "content_hash": "1fbc1843abf19b09183d5d0c61cd3bea8ebfaba0d7598c3c9f424081da4bebfb",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

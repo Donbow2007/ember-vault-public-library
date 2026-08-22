@@ -1,0 +1,25 @@
+{
+  "id": "7a30e759-13b6-4402-bf49-72c70d12e4fc",
+  "slug": "section-0018-33-winter-preps-and-survival-gear",
+  "title": "33 Winter Preps and Survival Gear",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "0dc57327ea42a5e727a47a20d76df0b88530447fc951211041fb26b6c38ed027",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 18,
+    "content_hash": "01ff9b5e3c4c393859cd9256b6c8b8b2d4315a2a01b4cc80a715c9cd75ef983f",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

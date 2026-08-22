@@ -1,0 +1,25 @@
+{
+  "id": "e89b22a6-2144-42c5-8e31-d0881ad0e81b",
+  "slug": "section-0026-extreme-cold-weather-survival-tips",
+  "title": "Extreme Cold Weather Survival Tips",
+  "category": "weather",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "3b391c22629a053a4dedd568f1eb6849f2f5094394cc20f3c15004ffd0fbc5a2",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 26,
+    "content_hash": "9e4c5f7dddb5f2c0b5f7bcadd206a8a946ed40f4fa008561a166e5a46909d5dc",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

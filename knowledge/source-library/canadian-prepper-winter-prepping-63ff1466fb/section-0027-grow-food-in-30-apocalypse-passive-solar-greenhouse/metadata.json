@@ -1,0 +1,25 @@
+{
+  "id": "e7a00ad3-8758-425a-ba01-bcc282a4e3e7",
+  "slug": "section-0027-grow-food-in-30-apocalypse-passive-solar-greenhouse",
+  "title": "Grow Food in -30°| Apocalypse Passive Solar Greenhouse",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "297a8f9f404c4423b9c52b7c4a116c193d015e9b2e60437d4ddc66bbe9a321dc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 27,
+    "content_hash": "fa87cb8c8228a1b4ce1598132ae33240a144c97a7851bea93387806f1048eb9f",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

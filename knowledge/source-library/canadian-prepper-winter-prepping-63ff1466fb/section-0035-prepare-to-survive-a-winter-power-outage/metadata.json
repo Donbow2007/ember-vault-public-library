@@ -1,0 +1,25 @@
+{
+  "id": "11749c07-8bc5-44ee-b404-d4fc6cf205c5",
+  "slug": "section-0035-prepare-to-survive-a-winter-power-outage",
+  "title": "Prepare to Survive a Winter Power Outage",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "a5433252689b8530e9b5da238d54b6e58d769dab7471efa6b14b0d1e893a3327",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 35,
+    "content_hash": "ded720f5b382e412e3e2cdbafd4b8ad63771b5b98607bc847f44e50a89bb7342",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

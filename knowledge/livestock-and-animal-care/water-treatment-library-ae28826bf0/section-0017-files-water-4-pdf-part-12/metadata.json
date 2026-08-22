@@ -1,0 +1,25 @@
+{
+  "id": "ff40fa15-3ff0-4d1c-9e74-0d618c70d19a",
+  "slug": "section-0017-files-water-4-pdf-part-12",
+  "title": "files/Water (4).pdf — Part 12",
+  "category": "livestock-and-animal-care",
+  "subcategory": "water-treatment-library-ae28826bf0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:16Z",
+  "content_hash": "25cbb5a30a8880d4515a16e619ced2ae8a4f71e78e65953e5a37e5377f52de0f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Water Treatment Library",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-water_en_2024-08.zim",
+    "section": 17,
+    "content_hash": "8a1957006e19237853c6e5464616785bc05109625f51a3414c944bc7789324e8",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-water_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-water_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

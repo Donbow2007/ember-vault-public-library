@@ -1,0 +1,25 @@
+{
+  "id": "34007961-d35d-4d31-87fd-4d89ffd6e97c",
+  "slug": "section-0021-bug-out-vehicle-prepared-and-ready",
+  "title": "Bug Out Vehicle - Prepared And Ready!",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "4b5051967722b4d8b5b655110fbb5218370be0bdf4c7ad4bdde586979128a675",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 21,
+    "content_hash": "de3abb5f8a830a8e63e039c35c2e01ab8e7e158b83f82892cdf4363ea7ff9e95",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

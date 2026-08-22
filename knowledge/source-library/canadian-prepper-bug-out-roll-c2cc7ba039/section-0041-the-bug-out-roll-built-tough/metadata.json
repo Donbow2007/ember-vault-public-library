@@ -1,0 +1,25 @@
+{
+  "id": "7e666622-5bba-4d30-ba30-515f18731db9",
+  "slug": "section-0041-the-bug-out-roll-built-tough",
+  "title": "The Bug Out Roll: Built TOUGH!",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "b1c562c3d5a1ea6dbd9d1d72810eb528df21158b4f67b46c105d4bc8c7d56f96",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 41,
+    "content_hash": "e30391d62fca89b6a64932af7214a30ef338fb89b979c8c2d2adb98d1cfda398",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c1423b84-08ae-402d-97d4-eb1130fd226b",
+  "slug": "section-0042-modal_empty_body-handlebars",
+  "title": "modal_empty_body.handlebars",
+  "category": "source-library",
+  "subcategory": "a-library-of-knots-bd31bfcc53",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:18Z",
+  "content_hash": "f8b103636e54d7d1e61aa979d0a292fb2e34591f67de5ff7c95c3203ad590cf9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "A Library of Knots",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-knots_en_2024-08.zim",
+    "section": 42,
+    "content_hash": "90478637330c7919e34774d473944ce784ef5b409db4ecb8507d16d05ae9fd03",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-knots_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-knots_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4db819a9-aa4d-4f39-a8ef-f7b4e6678c74",
+  "slug": "section-0131-files-food-preparation-6-pdf-part-14",
+  "title": "files/Food Preparation (6).pdf — Part 14",
+  "category": "food-and-food-preservation",
+  "subcategory": "food-for-preppers-d7d713b2f3",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:18Z",
+  "content_hash": "7c6aff644747e3e7a04efecd6733d94d16a86f684f607338d85009338f75671a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Food for Preppers",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-food-preparation_en_2025-04.zim",
+    "section": 131,
+    "content_hash": "d49a539148260b03d41f0d3156a9597fc621ad14f348b6cc5839a5686865c513",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-food-preparation_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-food-preparation_en_2025-04.zim",
+      "license": "License review required"
+    }
+  }
+}

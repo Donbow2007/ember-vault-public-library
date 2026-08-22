@@ -1,0 +1,25 @@
+{
+  "id": "dd590214-3c69-4b7b-a5a2-cbdf3f887833",
+  "slug": "section-0022-bugout-roll-gear-color-concepts-first-aid-red",
+  "title": "Bugout Roll Gear/ Color Concepts: First Aid Red",
+  "category": "first-aid-and-medical",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "6112450d75d74c103dde70fd73eb6c516d4d4588260883b15914d55236e1bc78",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 22,
+    "content_hash": "430f6508b910f927cfd2a0ef9cb7e607290a50530e829ef2c9fbc36c176e2cc1",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

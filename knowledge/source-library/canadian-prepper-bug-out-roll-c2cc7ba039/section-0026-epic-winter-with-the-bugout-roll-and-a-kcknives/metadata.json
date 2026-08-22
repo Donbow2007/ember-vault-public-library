@@ -1,0 +1,25 @@
+{
+  "id": "4bac6120-a81b-4173-872f-28aeb9f1dbce",
+  "slug": "section-0026-epic-winter-with-the-bugout-roll-and-a-kcknives",
+  "title": "Epic winter with the Bugout roll and a KCKNIVES",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "4fe6d5378977451ddc03f766016678a1e5fa1b284630dcdde2b3fdfb25412665",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 26,
+    "content_hash": "9479cc2b9e59266cb02118b09d9348444a96394a9e953a72b47ebf6010dc3b72",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f4560109-2c7d-434f-9083-036c7dda6fbe",
+  "slug": "section-0037-rollable-survival-kit-bug-out-bag-bug-out-roll",
+  "title": "Rollable Survival Kit/ Bug Out Bag - Bug out Roll",
+  "category": "emergency-preparedness",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "4eb2f0529daba81608428d5c9b2e8e32fe21287ec9322bec3ab5990f38f43544",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 37,
+    "content_hash": "1bf8688fa00a1e6ca82beb057467f3ac5a06bd22a2c4216dcf5460dcdf30927e",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

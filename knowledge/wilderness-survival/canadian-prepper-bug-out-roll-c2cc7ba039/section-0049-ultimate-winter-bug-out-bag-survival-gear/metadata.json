@@ -1,0 +1,25 @@
+{
+  "id": "0bcc3b2f-14d3-4191-b1ee-7328c076fd19",
+  "slug": "section-0049-ultimate-winter-bug-out-bag-survival-gear",
+  "title": "ULTIMATE Winter Bug out Bag/ Survival Gear",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "a0d6840c10b27f6d92390d0bbc07e764bfa9db91c9fb42a022edfab336bccfa6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 49,
+    "content_hash": "bc68b9d118f8df1af6935f047a0c4ee49f9fb23db69fb30336e4ceddcdcd5c37",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

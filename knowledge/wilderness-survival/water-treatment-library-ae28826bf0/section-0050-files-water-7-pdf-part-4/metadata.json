@@ -1,0 +1,25 @@
+{
+  "id": "b18b2783-004b-417d-a701-238a5d6c4d51",
+  "slug": "section-0050-files-water-7-pdf-part-4",
+  "title": "files/Water (7).pdf — Part 4",
+  "category": "wilderness-survival",
+  "subcategory": "water-treatment-library-ae28826bf0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:17Z",
+  "content_hash": "b09929361364df35553439e9d4189b332ebe4b6522406fd017354013b34b1dd9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Water Treatment Library",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-water_en_2024-08.zim",
+    "section": 50,
+    "content_hash": "90641289204dafd7316e1c17311832565d6b84ed3548f8b8e778ecead9a192e6",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-water_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-water_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

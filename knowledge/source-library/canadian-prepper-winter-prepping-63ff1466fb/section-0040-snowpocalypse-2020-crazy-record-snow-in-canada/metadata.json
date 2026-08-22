@@ -1,0 +1,25 @@
+{
+  "id": "ca696ad6-70af-4fa3-af9f-52679fa9f994",
+  "slug": "section-0040-snowpocalypse-2020-crazy-record-snow-in-canada",
+  "title": "Snowpocalypse 2020 CRAZY Record Snow in Canada!",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "c2f5559a7bf917289389828d835434904a7b93825ed089bd9d8f13b6ef1b0f7b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 40,
+    "content_hash": "8e646769551254e4aae9640dff4dac8637cbe800cd7c1c6b7222b1e41eecab81",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

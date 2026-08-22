@@ -1,0 +1,25 @@
+{
+  "id": "a8ed710a-84ba-4d6a-bcc5-2eafe497054f",
+  "slug": "section-0061-winter-prepping",
+  "title": "Winter Prepping",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "3dcc59af9260b5c4d03173bdca6dc3b894df468895411e3cada4254875270221",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 61,
+    "content_hash": "77cf58c8bd537f1b10c5a49725de04e638d0353dfd5b51b7f69733d5a0b1b9d2",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

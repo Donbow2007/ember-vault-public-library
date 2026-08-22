@@ -1,0 +1,25 @@
+{
+  "id": "828af1ec-6529-45ce-b7bb-0db50cd90a81",
+  "slug": "section-0023-building-a-bulletproof-pykrete-survival-shelter-in-woods-w-stove",
+  "title": "Building a Bulletproof Pykrete Survival Shelter in Woods w/ Stove",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "cc432a388a4faab327fcbf49d27142e4d324e20a990b5f5219021738b29797b8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 23,
+    "content_hash": "3a1ee025d92e6e472d6f7bf24c0d5ddb30dca14ab33a51072ed8fd49d42e6f16",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "098fd744-5fd1-48ac-b149-6d407e11da75",
+  "slug": "section-0029-new-bug-out-roll-lite-cheaper-and-simpler",
+  "title": "NEW! Bug Out Roll LITE | Cheaper and Simpler",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "57f52966334f2f5de916e573b2bb2aabad8006c337a6524538fbb1d3ab6a8b94",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 29,
+    "content_hash": "e9bca3b3892ef490823aca271ad8a19d5d816fa16b86fc8cda3adb9dbc36036b",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

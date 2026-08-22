@@ -1,0 +1,25 @@
+{
+  "id": "8b9c64ab-d510-4404-b801-9294235d57f1",
+  "slug": "section-0031-files-knots-5-pdf-part-6",
+  "title": "files/Knots (5).pdf — Part 6",
+  "category": "livestock-and-animal-care",
+  "subcategory": "a-library-of-knots-bd31bfcc53",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:18Z",
+  "content_hash": "591c819d794294ddfbb07278b1025b504c865478bf59b3e50abfa5623d15c7da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "A Library of Knots",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-knots_en_2024-08.zim",
+    "section": 31,
+    "content_hash": "f127728cf58e694f42410f7998400ad77951cf54076c43de61df6d80e8ad6109",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-knots_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-knots_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

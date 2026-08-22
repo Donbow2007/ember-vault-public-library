@@ -1,0 +1,25 @@
+{
+  "id": "d782c28b-737e-491a-a353-f36348135f76",
+  "slug": "section-0010-assets-ogvjs-patents-vpx-txt",
+  "title": "assets/ogvjs/PATENTS-vpx.txt",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "41ccd2db9a7c961b4a2e378d7828a265a2af737c418c2d80b18664a5b5587c7e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 10,
+    "content_hash": "a4f7fabf7710d73826fdb236d2df41a60b765dbc3a286f0793458b8ce1d9ea56",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "60c2f366-d38c-4e78-8dd8-d4ba7df47096",
+  "slug": "section-0044-the-1-killer-in-shtf-winter-and-thermogenesis",
+  "title": "The #1 Killer in SHTF: Winter and Thermogenesis",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "ba852f1f9b628c2d6175cd8a75a4532df55df8c5c2f8a224c0f7f43dd3a37bdc",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 44,
+    "content_hash": "38a4715c72c8e538f06cad57071f8ef57741ae1ea80669855e2c347a634e7bc0",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

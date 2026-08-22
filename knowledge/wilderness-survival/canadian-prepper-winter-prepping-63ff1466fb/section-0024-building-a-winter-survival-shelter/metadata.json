@@ -1,0 +1,25 @@
+{
+  "id": "570fef42-0015-48bb-b938-eec70d9a5471",
+  "slug": "section-0024-building-a-winter-survival-shelter",
+  "title": "Building a Winter Survival Shelter",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "1157b63ab1232297ace96bf7b8e49ed3ff5f1e37cd201b5925112e1853d0bed9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 24,
+    "content_hash": "2018778376146a1ca308e2e2e8a22a2a03acc9e84603cc6c0554915127f45c26",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

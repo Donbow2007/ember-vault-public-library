@@ -1,0 +1,25 @@
+{
+  "id": "eb06143a-2e32-4e9a-9723-21a08ae0d43c",
+  "slug": "section-0053-this-survival-tool-is-built-to-last-forever",
+  "title": "This Survival Tool Is Built to Last Forever",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "019665ca98554d78ba40a099149437605d468da592f58887b4a28a572b9b4700",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 53,
+    "content_hash": "ad33a48179759a904a1ad4b150a0eab1ce9f0ee6267e4693bd2724a431f23be5",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

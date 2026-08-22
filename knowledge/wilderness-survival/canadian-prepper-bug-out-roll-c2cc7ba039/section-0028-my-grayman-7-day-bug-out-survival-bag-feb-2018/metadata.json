@@ -1,0 +1,25 @@
+{
+  "id": "74abbb6d-ed23-4e9e-b152-76dc59630fed",
+  "slug": "section-0028-my-grayman-7-day-bug-out-survival-bag-feb-2018",
+  "title": "My Grayman 7 Day Bug Out Survival Bag - Feb 2018",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "4814a8c53c55fae4ce67d7d011316ed2d0c9db7d36c4e31e47aa95d4e06d0c12",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 28,
+    "content_hash": "80e1df56fd3643a3fc97eceda55beab2cf980cc042aff3c5dc4878f5db20dbaf",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

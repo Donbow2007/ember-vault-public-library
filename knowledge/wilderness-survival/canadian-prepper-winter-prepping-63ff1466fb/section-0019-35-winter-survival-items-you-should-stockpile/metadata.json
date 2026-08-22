@@ -1,0 +1,25 @@
+{
+  "id": "6679de60-c291-4f20-bbe8-4fccb22b9367",
+  "slug": "section-0019-35-winter-survival-items-you-should-stockpile",
+  "title": "35 Winter Survival Items You Should Stockpile",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "08be53bbe3e8871b26850fd177b653b53d18d6360e7cb7b837aaa610debbff64",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 19,
+    "content_hash": "01764611ab2dea12439aff18ad9a6200a8e4545d908d646e258b432260555bf9",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

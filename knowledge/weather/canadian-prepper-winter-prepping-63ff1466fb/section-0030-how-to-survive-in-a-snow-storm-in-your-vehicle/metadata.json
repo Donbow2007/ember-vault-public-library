@@ -1,0 +1,25 @@
+{
+  "id": "468b58d8-e245-4ef3-90c8-601448d701a5",
+  "slug": "section-0030-how-to-survive-in-a-snow-storm-in-your-vehicle",
+  "title": "How to Survive in a Snow Storm in Your Vehicle",
+  "category": "weather",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "2ca56af47e872336db6607c33434ebfbeb9859303e4d605b917bf1cc5045c47b",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 30,
+    "content_hash": "4d7560930c574a01884ee6718520fa998148b7241e9511730001b87f548b02f5",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

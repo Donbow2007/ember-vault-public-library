@@ -1,0 +1,25 @@
+{
+  "id": "2a5cafcb-6e32-4f5b-b160-4fcf90709d1d",
+  "slug": "section-0014-3-day-winter-camp-out-w-woodstove-hot-tent",
+  "title": "3 Day Winter Camp Out w/ Woodstove Hot Tent",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "56d8b531b6a7c19b1085c595744deb8d7a08b84a6c8c74724b59b2bdf2197b7a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 14,
+    "content_hash": "f22d1cd483f211f3368101f0e11bc845a6f07833d02bb5ead05ca2bc64fb2831",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

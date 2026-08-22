@@ -1,0 +1,25 @@
+{
+  "id": "2d3e8672-08d2-43b8-ac00-40f6b7a6dad1",
+  "slug": "section-0038-survival-and-camping-gear-bugout-bag-loadout-vanquest-markhor-45",
+  "title": "Survival and Camping Gear (Bugout Bag) Loadout: Vanquest Markhor 45",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "655026558646057788e18dc28a18459201e13c59a35b839547e6e58a54e70296",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 38,
+    "content_hash": "dc12f15a3d6bc0b345f317601d566235f24d834b1d3bc22178e3ec28b493e4ba",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

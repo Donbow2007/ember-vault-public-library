@@ -1,0 +1,25 @@
+{
+  "id": "80f51cd7-31b9-4521-8638-9cca8186864f",
+  "slug": "section-0051-this-is-how-snow-can-save-your-life",
+  "title": "This is How Snow Can Save Your Life!",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "03a963992b78a70e61252c4890f798b1b4438a7e4ab3d1f14cec02895a0ec1fa",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 51,
+    "content_hash": "1a4edc1ab9b4fd41bdfe8de4b7e72b22132c3a0cf3ed86f61d904c31352a38c7",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

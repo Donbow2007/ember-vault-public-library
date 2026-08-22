@@ -1,0 +1,25 @@
+{
+  "id": "308d36af-9229-4c7f-9f22-45ec6d4aef65",
+  "slug": "section-0028-grow-food-in-40-in-a-passive-solar-greenhouse",
+  "title": "Grow Food in -40° in a Passive Solar Greenhouse",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "68a05533b6ffef74643fd6493522270a2225dc69a4b127632c6c2e523b3fbaeb",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 28,
+    "content_hash": "179e1a8c44cf0b8740a21712689f15738ea45a199220a480f7165c66dd393ee2",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

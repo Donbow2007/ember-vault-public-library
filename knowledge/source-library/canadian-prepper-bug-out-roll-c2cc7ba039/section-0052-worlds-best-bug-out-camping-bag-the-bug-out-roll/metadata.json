@@ -1,0 +1,25 @@
+{
+  "id": "e1d50030-7a19-4ca9-bc95-f9d64f2288d3",
+  "slug": "section-0052-worlds-best-bug-out-camping-bag-the-bug-out-roll",
+  "title": "Worlds Best Bug Out Camping Bag: The Bug out Roll",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "081a7e594827b4ded635c22877170aff6c207e02a4ffc22b55ef0fc8edc2ebb3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 52,
+    "content_hash": "cd0a6f83f0d60675737a112b811aae51434a11ac7395927e570eed8b6ef1649d",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

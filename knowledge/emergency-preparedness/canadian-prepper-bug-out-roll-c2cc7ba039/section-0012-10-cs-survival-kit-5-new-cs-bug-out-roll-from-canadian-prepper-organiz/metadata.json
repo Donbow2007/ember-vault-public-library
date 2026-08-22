@@ -1,0 +1,25 @@
+{
+  "id": "9d8abd16-31ee-41e5-9a23-04c84210a7db",
+  "slug": "section-0012-10-cs-survival-kit-5-new-cs-bug-out-roll-from-canadian-prepper-organiz",
+  "title": "10 Cs Survival Kit + 5 NEW Cs & Bug Out Roll from Canadian Prepper: Organize Your Survival Gear",
+  "category": "emergency-preparedness",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "d21434474abbd090016896949985b6ed491bbffa85bc398e59df3d9dfec8cfd9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 12,
+    "content_hash": "18a7b610a1d15f73ed6a2596e8b2ae49dc1ea7b41040d05c7d6b607d49313598",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

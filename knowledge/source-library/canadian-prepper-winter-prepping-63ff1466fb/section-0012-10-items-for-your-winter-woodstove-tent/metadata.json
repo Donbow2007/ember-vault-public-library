@@ -1,0 +1,25 @@
+{
+  "id": "35bc4428-cd3a-4711-a7d9-f07805dd1561",
+  "slug": "section-0012-10-items-for-your-winter-woodstove-tent",
+  "title": "10 Items for Your Winter Woodstove Tent",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "fb0283e00cf8ba8442ab3f8ea7bfa6a40b1266e07a3d2c32eadb5d6d30890fd8",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 12,
+    "content_hash": "a699d97890a3eec4e199784da5df5f92c4209b541b6b376e2ae82f28caa654bc",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

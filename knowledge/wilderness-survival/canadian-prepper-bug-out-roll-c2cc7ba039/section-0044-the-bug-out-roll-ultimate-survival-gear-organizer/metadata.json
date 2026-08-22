@@ -1,0 +1,25 @@
+{
+  "id": "9a148154-e09e-40fc-aaf4-08f09dac1d6a",
+  "slug": "section-0044-the-bug-out-roll-ultimate-survival-gear-organizer",
+  "title": "The Bug Out Roll: Ultimate Survival Gear Organizer",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "d6617f1369731420d688c05e470724a8bbd1aff0b7c5c76fc698feebebb9fe85",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 44,
+    "content_hash": "c484b41076d6328f9bbd159f8803c926b7155745451c573af52f88269d8d1c89",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

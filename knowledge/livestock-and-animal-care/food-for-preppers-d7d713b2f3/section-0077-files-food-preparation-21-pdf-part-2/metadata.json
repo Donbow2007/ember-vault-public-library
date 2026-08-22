@@ -1,0 +1,25 @@
+{
+  "id": "d2bdb130-9bb4-46bd-83df-4f7fc9a19a2e",
+  "slug": "section-0077-files-food-preparation-21-pdf-part-2",
+  "title": "files/Food Preparation (21).pdf — Part 2",
+  "category": "livestock-and-animal-care",
+  "subcategory": "food-for-preppers-d7d713b2f3",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:17Z",
+  "content_hash": "90cbf7bd34eb86d43c3a129bb557b944a67ca2c64ea5dc2fc88df97049e2d968",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Food for Preppers",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-food-preparation_en_2025-04.zim",
+    "section": 77,
+    "content_hash": "0e920c8037258c4758c181e5e9d04d5c9daa085cbdb8ee0da1f9311cc82178ad",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-food-preparation_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-food-preparation_en_2025-04.zim",
+      "license": "License review required"
+    }
+  }
+}

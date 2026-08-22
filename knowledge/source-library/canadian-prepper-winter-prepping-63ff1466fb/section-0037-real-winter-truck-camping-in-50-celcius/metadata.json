@@ -1,0 +1,25 @@
+{
+  "id": "d4f13a74-bebc-44a8-b892-a7012250b2ef",
+  "slug": "section-0037-real-winter-truck-camping-in-50-celcius",
+  "title": "REAL Winter Truck Camping in -50 Celcius",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "44f2d28c5af815f54549532d57181de7cac28d1b28d9f63e9fb1642739f02d11",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 37,
+    "content_hash": "f7ea2c460466489d44ad5124d0bf329b929652b966402fcc88f912d33f2b354a",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

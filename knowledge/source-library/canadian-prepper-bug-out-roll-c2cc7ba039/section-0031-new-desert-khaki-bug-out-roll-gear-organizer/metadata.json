@@ -1,0 +1,25 @@
+{
+  "id": "75948aad-c21f-4659-810a-594c06bc7f0f",
+  "slug": "section-0031-new-desert-khaki-bug-out-roll-gear-organizer",
+  "title": "NEW! Desert Khaki Bug Out Roll Gear Organizer",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "7fad558bb89d61e47bf79c37e72b7d7c8ea0bf33cff47bce51c26a30ab610ed5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 31,
+    "content_hash": "e95370c22e8c213b2be4215477e2b7f1d5abde730da37d81d50d689d6b06eac7",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

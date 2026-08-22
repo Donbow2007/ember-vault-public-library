@@ -1,0 +1,25 @@
+{
+  "id": "0b57ea9a-6a86-4a7a-931e-a65e2c3b8464",
+  "slug": "section-0003-assets-ogvjs-copying-dav1d-txt",
+  "title": "assets/ogvjs/COPYING-dav1d.txt",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "0f4685efa74480b14b8df44a1ac6d0bd46f2d4c900f4fe7f3310814706d29df7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 3,
+    "content_hash": "50df4e97d164dd4f38a728a08d3657f2d283ebccda1d1c9df1db8fd4be5732fb",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "726f7fd1-8bb9-4c80-8861-64df5a472999",
+  "slug": "section-0038-rz-mask-practical-shtf-gear",
+  "title": "RZ Mask: Practical SHTF Gear",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "56805a54e9c26d357096b617bfe24416b167258b6dd0ffe33772ef57f9f14760",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 38,
+    "content_hash": "90abd02d4517f0fc355a183ab37e1722dfe051c8813511cfd93a7fd14999b9c0",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

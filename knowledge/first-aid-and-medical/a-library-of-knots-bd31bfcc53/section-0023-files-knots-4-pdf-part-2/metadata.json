@@ -1,0 +1,25 @@
+{
+  "id": "32b68239-67ff-4412-82d0-120390a702b2",
+  "slug": "section-0023-files-knots-4-pdf-part-2",
+  "title": "files/Knots (4).pdf — Part 2",
+  "category": "first-aid-and-medical",
+  "subcategory": "a-library-of-knots-bd31bfcc53",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:18Z",
+  "content_hash": "5de776a1345ed07115c7867e755377670f0940167bf34aad6d64819626f18ac9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "A Library of Knots",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-knots_en_2024-08.zim",
+    "section": 23,
+    "content_hash": "b49452eb1ebdbaad48ca6a2706017443155db6b758b82df108fc50fb75de07f0",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-knots_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-knots_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

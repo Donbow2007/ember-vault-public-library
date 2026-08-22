@@ -1,0 +1,25 @@
+{
+  "id": "cc367f17-05c3-429f-8ce7-2ff127c5dc24",
+  "slug": "section-0045-the-1-winter-survival-clothing-item",
+  "title": "The #1 Winter Survival Clothing Item",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "30699af4ecf6d4b772eb43b9234fa0a2d9a55a0caa1ee77159c040cc02e89b6e",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 45,
+    "content_hash": "a92fc103faf4fb489fc510de6343d913149691ebf056db1030561a612e5280a0",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

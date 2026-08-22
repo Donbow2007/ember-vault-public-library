@@ -1,0 +1,25 @@
+{
+  "id": "bc9ba377-5847-469a-b01c-844239d6a7c7",
+  "slug": "section-0042-files-water-6-pdf-part-2",
+  "title": "files/Water (6).pdf — Part 2",
+  "category": "first-aid-and-medical",
+  "subcategory": "water-treatment-library-ae28826bf0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:17Z",
+  "content_hash": "f4fc631462092fdd2830e221389d76062418fb0075262448b7704827a7dc6a94",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Water Treatment Library",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-water_en_2024-08.zim",
+    "section": 42,
+    "content_hash": "415b9c8b8c87d4d51a6d235367c4e6d9ed186cf6bd33c7427236e59fdf592c58",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-water_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-water_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

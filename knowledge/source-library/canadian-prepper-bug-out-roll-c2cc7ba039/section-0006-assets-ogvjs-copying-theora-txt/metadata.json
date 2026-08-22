@@ -1,0 +1,25 @@
+{
+  "id": "587789f9-2345-4428-8c2b-b7a8cac97ad3",
+  "slug": "section-0006-assets-ogvjs-copying-theora-txt",
+  "title": "assets/ogvjs/COPYING-theora.txt",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "1e9fa44933370fea2fb2d67eac3344df3c4f12aeb7f311047f27c12909a2796f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 6,
+    "content_hash": "9acf81469d8a0f451f9bbc448907cf5a615535966bd151440c6c3bdc4110da5e",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

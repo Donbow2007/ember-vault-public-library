@@ -1,0 +1,25 @@
+{
+  "id": "151208d0-9a4b-44e1-981c-dfe16b92da4f",
+  "slug": "section-0023-building-a-first-aid-kit-for-survival-and-prepping",
+  "title": "Building a First Aid Kit for Survival and Prepping",
+  "category": "first-aid-and-medical",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "2e39076c26f25561e141e5d2c0ad099167ad769d45dcfe671b201c00f594874a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 23,
+    "content_hash": "5af4418784938be88f6681d16a57b8e2a6e06d5d179cfb57f8f8954180050d42",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0d5d1980-4774-4352-aae3-239cb75fb189",
+  "slug": "section-0062-winter-vs-summer-bugging-out-canadian-prepper",
+  "title": "Winter Vs Summer: Bugging Out | Canadian Prepper",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "1140b2f48556233bb50723d094efc18c64473e670206034ec11117490d8ebab3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 62,
+    "content_hash": "25829aca4635f52eec528abe16481d6d27f7889d7125766ada7965ed38bace81",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b0c594ab-1901-4230-b4fe-3a77875224ed",
+  "slug": "section-0020-files-knots-3-pdf-part-12",
+  "title": "files/Knots (3).pdf — Part 12",
+  "category": "source-library",
+  "subcategory": "a-library-of-knots-bd31bfcc53",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:18Z",
+  "content_hash": "d22ad90048cbd3fda29da0f372a637a2a708ed74f71c41631fea1109d1e918c4",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "A Library of Knots",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-knots_en_2024-08.zim",
+    "section": 20,
+    "content_hash": "62a7470e712b1fad131e6eaf642fd8207c0f8e979725905dfaae8e9801cf5d9e",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-knots_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-knots_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

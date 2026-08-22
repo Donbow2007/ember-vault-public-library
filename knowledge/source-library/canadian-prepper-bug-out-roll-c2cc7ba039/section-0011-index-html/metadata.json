@@ -1,0 +1,25 @@
+{
+  "id": "ea12ca48-8d87-478d-90a0-347060229669",
+  "slug": "section-0011-index-html",
+  "title": "index.html",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "ca3bdc6d06f13ddaa51149289f6810b38a62d599753c55b23d04e9cf5758553f",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 11,
+    "content_hash": "0b0fd496ab2dbe7c6b20c911683b1194e02b7f87e2c00d3e44cf4c2a09293054",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

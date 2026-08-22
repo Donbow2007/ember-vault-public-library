@@ -1,0 +1,25 @@
+{
+  "id": "6d6e40e5-6a0b-4abd-895d-1d3bfb43ccbc",
+  "slug": "section-0022-6-easy-campfires-everyone-should-know-for-survival-and-recreation",
+  "title": "6 Easy Campfires Everyone Should Know for Survival and Recreation",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "5e597645f53e6b597106ff4b99c50043addd7840b8341ccfea94e58461138634",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 22,
+    "content_hash": "77e73c0a0451677566453e03fa0c360d65cd096f2f51bb707aa1dc92f850cd67",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

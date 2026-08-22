@@ -1,0 +1,25 @@
+{
+  "id": "704277af-ebb7-4c5c-8d61-7f4f0b60a146",
+  "slug": "section-0009-files-water-4-pdf-part-4",
+  "title": "files/Water (4).pdf — Part 4",
+  "category": "gardening-and-agriculture",
+  "subcategory": "water-treatment-library-ae28826bf0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:16Z",
+  "content_hash": "3366feaf5d3fbaf93537cfd817ef3b922d611510c3bb749719897a77ae68278c",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Water Treatment Library",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-water_en_2024-08.zim",
+    "section": 9,
+    "content_hash": "dbb4e5cd5769fe70bd8e99450577eb958da12731b64f9b4058f6537bbff0cb69",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-water_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-water_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

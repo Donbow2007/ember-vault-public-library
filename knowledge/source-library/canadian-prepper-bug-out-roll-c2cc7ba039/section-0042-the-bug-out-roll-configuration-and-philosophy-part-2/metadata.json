@@ -1,0 +1,25 @@
+{
+  "id": "2ad40dc4-4abf-4937-b2f6-b087b5e9cb01",
+  "slug": "section-0042-the-bug-out-roll-configuration-and-philosophy-part-2",
+  "title": "the bug out roll-configuration and philosophy part 2",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "0e9940b9a5be37634c06bdb64e4bb559e8712fa41c0f9d798a90589ef60c13c9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 42,
+    "content_hash": "4f5ea525da1a4ea88d100574b97bf8fc9a5946d9a36d98d49d6d9eb614d0fc89",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6525399b-4bad-4a57-a8f2-0e5f8f901e62",
+  "slug": "section-0041-solar-powered-4-season-tent-powerfilm-panel-tipi-tent",
+  "title": "Solar Powered 4 Season Tent: Powerfilm Panel & Tipi Tent",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "2ef05d7e49917be4f353accfaca6aeda63b37b181978de139d804421c9c95fad",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 41,
+    "content_hash": "e0866bd1d5369b494261b01c9c8ec9f6c5330afb65876eda4d1e617ea498c970",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

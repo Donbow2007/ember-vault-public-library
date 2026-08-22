@@ -1,0 +1,25 @@
+{
+  "id": "52ff79e2-a860-48c2-88e4-8a0f2c22c6cd",
+  "slug": "section-0050-this-amazing-rare-winter-survival-item-lasts-forever",
+  "title": "This AMAZING RARE Winter Survival Item Lasts FOREVER!",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "b91b43a6e3418a9deead8af978ba610a20329185c752fd9e47f008441fae9936",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 50,
+    "content_hash": "c53794811cd2f637b3b88563b1bba4ef4ba5d29f6b946158904d121790a9e8f5",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

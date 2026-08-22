@@ -1,0 +1,25 @@
+{
+  "id": "e8a84910-1360-4220-8e41-c1bcb5082c59",
+  "slug": "section-0030-files-water-5-pdf-part-3",
+  "title": "files/Water (5).pdf — Part 3",
+  "category": "water-and-sanitation",
+  "subcategory": "water-treatment-library-ae28826bf0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:16Z",
+  "content_hash": "c41f7e6bc2269b2b0ffd5abb4308780ec41c2ddc0e049c45846ec345e68732f6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Water Treatment Library",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-water_en_2024-08.zim",
+    "section": 30,
+    "content_hash": "798b7c957020a0651c43263b150999439bfde3ade9cda640a5713f4bb78c3a1c",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-water_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-water_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

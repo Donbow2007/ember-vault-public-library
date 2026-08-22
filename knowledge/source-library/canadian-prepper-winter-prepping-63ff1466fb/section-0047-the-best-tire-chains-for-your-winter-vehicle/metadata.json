@@ -1,0 +1,25 @@
+{
+  "id": "c42272a8-9c1a-40f1-8f08-2bdd5366a4e3",
+  "slug": "section-0047-the-best-tire-chains-for-your-winter-vehicle",
+  "title": "The Best Tire Chains for Your Winter Vehicle",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "922f691e8fe1b1b662d17b8e95710d46256b1e0da053447f794df4178abe2285",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 47,
+    "content_hash": "3b12d73fd138ce730287389c55be58d9040874549ce6d8fa73601e3af7f00007",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

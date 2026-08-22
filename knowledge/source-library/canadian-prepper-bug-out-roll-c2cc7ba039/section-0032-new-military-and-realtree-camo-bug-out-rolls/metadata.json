@@ -1,0 +1,25 @@
+{
+  "id": "642ebb88-0b31-49d7-9a6e-f5b9b33a4dc0",
+  "slug": "section-0032-new-military-and-realtree-camo-bug-out-rolls",
+  "title": "NEW! Military and Realtree Camo Bug Out Rolls",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "2b0148e256fb112a0896caed1b84e96db5d38658c623679332e816349467b7df",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 32,
+    "content_hash": "d5658fd4ccaba9a246ee1a3da626f87826af7ce317a39332141a171d9ad29ed0",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

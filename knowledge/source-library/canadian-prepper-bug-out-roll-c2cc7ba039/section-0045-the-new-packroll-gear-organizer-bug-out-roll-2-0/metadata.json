@@ -1,0 +1,25 @@
+{
+  "id": "0d494bb3-5626-495d-9b9e-3bf0a71b66f3",
+  "slug": "section-0045-the-new-packroll-gear-organizer-bug-out-roll-2-0",
+  "title": "The NEW PackRoll Gear Organizer: Bug out Roll 2.0",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "0ee230913342c524af08fcbb373d12b42a73981862e8868d250cd8056dd1e616",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 45,
+    "content_hash": "d4a6f77cc1069f26c2897028c34b1a8b17bad8d82ad07e174d2b07e126f9406c",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

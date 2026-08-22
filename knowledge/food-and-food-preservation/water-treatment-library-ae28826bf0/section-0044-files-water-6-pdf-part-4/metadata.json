@@ -1,0 +1,25 @@
+{
+  "id": "d10742a0-bdd6-4f41-8844-23e3e7b28451",
+  "slug": "section-0044-files-water-6-pdf-part-4",
+  "title": "files/Water (6).pdf — Part 4",
+  "category": "food-and-food-preservation",
+  "subcategory": "water-treatment-library-ae28826bf0",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:17Z",
+  "content_hash": "c73bbdc288b6e49dc027d7bce09e33b8b0853fd2301aef74964689045c8933e6",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Water Treatment Library",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "zimgit-water_en_2024-08.zim",
+    "section": 44,
+    "content_hash": "c55e85a176e2c0054ef11803753cdef829d55a345b0627a7fa7acd8d0970503a",
+    "kiwix": {
+      "catalog_id": "nomad:zimgit-water_en",
+      "upstream_url": "https://download.kiwix.org/zim/other/zimgit-water_en_2024-08.zim",
+      "license": "License review required"
+    }
+  }
+}

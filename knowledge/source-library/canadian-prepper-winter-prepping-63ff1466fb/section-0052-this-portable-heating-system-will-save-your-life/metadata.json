@@ -1,0 +1,25 @@
+{
+  "id": "e4580f68-6ce5-4a8e-a6ce-eeeccdd87f49",
+  "slug": "section-0052-this-portable-heating-system-will-save-your-life",
+  "title": "This Portable Heating System Will Save Your Life",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "dfe333953e447b5d8eea35920bb180d89407b305284678e9b0945e163c4476d9",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 52,
+    "content_hash": "298fb12ba3b2be8ee735932139ad72c8e95abb92e048a010b4aca4cb8a5c2d01",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

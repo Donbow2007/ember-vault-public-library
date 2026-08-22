@@ -1,0 +1,25 @@
+{
+  "id": "6e030baa-1feb-4e28-9b48-ad0df679a851",
+  "slug": "section-0020-3-day-winter-camp-out-w-woodstove-hot-tent",
+  "title": "3 Day Winter Camp Out w/ Woodstove Hot Tent",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "56d8b531b6a7c19b1085c595744deb8d7a08b84a6c8c74724b59b2bdf2197b7a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 20,
+    "content_hash": "f22d1cd483f211f3368101f0e11bc845a6f07833d02bb5ead05ca2bc64fb2831",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

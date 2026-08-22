@@ -1,0 +1,25 @@
+{
+  "id": "0cc615e3-053d-4d7a-a0f4-dff3db919ea3",
+  "slug": "section-0057-winter-bug-out-tent-set-up-ultralight-tipi-tent-seek-outside",
+  "title": "Winter Bug Out Tent Set-up: Ultralight Tipi Tent/ Seek Outside",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "1d9948aabdc6040e318d4f79a39b4b4de69247a7635ecb1ed076822fb852333a",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 57,
+    "content_hash": "1dcdb7e615a9adc326f3cc0981375564a4692118c03186f4a83dc0635fe79c05",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

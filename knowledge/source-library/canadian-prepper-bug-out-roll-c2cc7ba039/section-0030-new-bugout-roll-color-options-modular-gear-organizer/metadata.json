@@ -1,0 +1,25 @@
+{
+  "id": "b66dfc9c-1ba8-4130-898b-c42f1cd52695",
+  "slug": "section-0030-new-bugout-roll-color-options-modular-gear-organizer",
+  "title": "NEW! Bugout Roll Color Options! Modular Gear Organizer",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "043dcdc950506c2a70d298cdd2bc45be856f7b68f5b6bd5f19471d87d9c6a0c5",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 30,
+    "content_hash": "01239ef2c2adf41f23f4ad2c1aa4beea9b5d12d4aeb8245cb95edc820fe6d14b",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2a7bd989-471d-4d88-b752-dbd40ea9e3c5",
+  "slug": "section-0013-17-prepping-items-to-vacuum-seal-for-shtf",
+  "title": "17 Prepping Items to Vacuum Seal for SHTF",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "e62714707d39015092bfa3d691233e8435de62800ea0b9be23c485853f442739",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 13,
+    "content_hash": "85681eec15e3b3fecd28841950bcb6cf3034a65b8b99a49ed051309934b19442",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

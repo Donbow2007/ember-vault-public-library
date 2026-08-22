@@ -1,0 +1,25 @@
+{
+  "id": "64172825-9d61-4e04-b39d-3ca75499d800",
+  "slug": "section-0032-kahtoola-microspikes-survival-footwear-canadian-prepper",
+  "title": "Kahtoola Microspikes: Survival Footwear | Canadian Prepper",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "0d19f6da6c543cd738b01f6126e2f76ed504e4ef37c2e76bcee73dc1ae4673b0",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 32,
+    "content_hash": "43b3e7232a095bd9e9a04f4603752fe068681b3156c7fe839aa7e86dfd25de67",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

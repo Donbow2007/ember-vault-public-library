@@ -1,0 +1,25 @@
+{
+  "id": "73ad58b0-5ba5-4d7d-b006-91bd608cec5f",
+  "slug": "section-0046-the-best-tent-for-the-apocalypse-period",
+  "title": "The Best Tent for the Apocalypse. Period.",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "c96d498c1dcffb61daec35683f28039e6b2f1b8243be47e60d76259a11d27d39",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 46,
+    "content_hash": "9005804ce888ba0e3c3d672bd5c71c8970142773ca894b3be17c34017ede048a",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

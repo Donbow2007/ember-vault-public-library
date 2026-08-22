@@ -1,0 +1,25 @@
+{
+  "id": "bc846e3e-91db-475b-a21d-bdf970efca71",
+  "slug": "section-0019-bug-out-roll-survival-gear-part-2",
+  "title": "Bug Out Roll Survival Gear: Part 2",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "dd5df3613c544377d28d4ae1603e5b8676ff59beea9c149bd3d245d10f614cef",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 19,
+    "content_hash": "bb96731900047040b6f4917286a15c7877a8e3c08b64ff924e86b24d32c42653",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

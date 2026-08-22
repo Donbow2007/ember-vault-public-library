@@ -1,0 +1,25 @@
+{
+  "id": "be54cece-7025-4a9f-829c-b6248bd58afb",
+  "slug": "section-0040-the-best-survival-gear-of-2018-bug-out-roll-evolved",
+  "title": "The Best Survival Gear of 2018: Bug Out Roll Evolved",
+  "category": "wilderness-survival",
+  "subcategory": "canadian-prepper-bug-out-roll-c2cc7ba039",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "6c38621103cb0a24b1c8e20068a7d900bac54192d6f2fb12ec995a90f2c06823",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Bug Out Roll",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_bugoutroll_en_2025-08.zim",
+    "section": 40,
+    "content_hash": "15eac6d9795d5dd15526c19af534bfdd8c74eca21d1c894db135c8de9004991c",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_bugoutroll_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_bugoutroll_en_2025-08.zim",
+      "license": "License review required"
+    }
+  }
+}

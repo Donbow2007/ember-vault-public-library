@@ -1,0 +1,25 @@
+{
+  "id": "85efe262-d857-4e24-9a9a-eb6720bcbd50",
+  "slug": "section-0021-3-levels-of-cold-weather-clothing-cool-cold-and-extreme",
+  "title": "3 Levels of Cold Weather Clothing: Cool, Cold and Extreme!",
+  "category": "weather",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "15434525634c8332583e7bb8758df6cbae292caaa5821ac9d1cd604b5cc7cf53",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 21,
+    "content_hash": "3fe970bb6980fc689a7e52ae919a35adb9de8770643c34117636dc898f09e8fa",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a34b71fc-621a-4d99-89ff-62505cf2845d",
+  "slug": "section-0060-winter-power-outage-this-will-keep-you-alive",
+  "title": "Winter Power Outage? This Will Keep You Alive.",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "56c185a4f24ef70e407b09497abb6bce7e27a1d4b3053f798ac95cd919e987da",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 60,
+    "content_hash": "c589134f87c1ce47d8b4665168bc8926debbb25d2bfa8cbc607247d76b3e819f",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aa1e6839-8f2a-4293-8ce5-f33bc4657536",
+  "slug": "section-0058-winter-camping-in-a-military-style-tent",
+  "title": "Winter Camping in a Military Style Tent",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "3cfb76e026137867ede327c02de9be300318e846c179dd5354dc887779eff1b3",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 58,
+    "content_hash": "0da52f955848b167b8ed13c285b4bf2d63565a92325343b254fdf5a358bd800e",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}

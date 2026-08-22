@@ -1,0 +1,25 @@
+{
+  "id": "59265021-f28e-4e27-8613-d56ad3f79a20",
+  "slug": "section-0063-worlds-largest-portable-tent-its-massive-nortent-mjodall-16",
+  "title": "Worlds Largest PORTABLE Tent! ITS MASSIVE! Nortent Mjodall 16",
+  "category": "source-library",
+  "subcategory": "canadian-prepper-winter-prepping-63ff1466fb",
+  "version": 1,
+  "updated_at": "2026-08-22T02:26:19Z",
+  "content_hash": "c34ca0e4f5450b5338eca3a05bfd440e7f77d607833776d2de49ce416e023aa7",
+  "images": [],
+  "status": "published",
+  "source": {
+    "title": "Canadian Prepper: Winter Prepping",
+    "author": "Original site contributors",
+    "publication_info": "Kiwix · Project NOMAD preset · openZIM · License review required",
+    "original_filename": "canadian_prepper_winterprepping_en_2026-02.zim",
+    "section": 63,
+    "content_hash": "bcf0c2438d968968992e4b3affa2736c5c84b908d8f93512bd464ebd25e2523d",
+    "kiwix": {
+      "catalog_id": "nomad:canadian_prepper_winterprepping_en",
+      "upstream_url": "https://download.kiwix.org/zim/videos/canadian_prepper_winterprepping_en_2026-02.zim",
+      "license": "License review required"
+    }
+  }
+}
